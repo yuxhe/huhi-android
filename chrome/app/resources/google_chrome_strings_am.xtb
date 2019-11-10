@@ -1,0 +1,288 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="am">
+<translation id="1001534784610492198">የጫኝው መዝገብ ተሰናክሏል ወይም ትክክል አይደለም። እባክዎ Huhiን እንደገና ያውርዱ።</translation>
+<translation id="5849446944780602366">Huhiን ያብጁና ይቆጣጠሩ። ዝማኔ ይገኛል።</translation>
+<translation id="5935964611177478118">ወደ Huhi ይግቡ</translation>
+<translation id="1051826050538111504">በእርስዎ ኮምፒውተር ላይ ጎጂ ሶፍትዌር አለ። Huhi የእርስዎን አሰሳ እንደገና በጤናማነት እንዲሠራ ለማድረግ ሊያስወግደው፣ የእርስዎን ቅንብሮች እንደነበሩ ሊመልሳቸው እና ቅጥያዎችን ሊያሰናክል ይችላል።</translation>
+<translation id="1065672644894730302">አማራጮችዎ ሊነበቡ አልቻሉም።
+
+አንዳንድ ባህሪያት ላይገኙ ይችላሉ፣ እና በአማራጮች ላይ የተደረጉ ለውጦች አይቀመጡም።</translation>
+<translation id="1088300314857992706"><ph name="USER_EMAIL_ADDRESS" /> ከዚህ ቀደም Huhiን እየተጠቀመ ነበር</translation>
+<translation id="1097330777386562916">ከ Huhi አቋርጠው ሲወጡ ኩኪዎችን እና የጣቢያ ውሂብን ያጽዱ</translation>
+<translation id="1104959162601287462">ስለ &amp;Huhi ስርዓተ ክወና</translation>
+<translation id="4100716194836114130">ይሄ የእርስዎ Huhi ነው</translation>
+<translation id="6389268239133412586">Huhiን ማዘመን አልተቻለም</translation>
+<translation id="9071554113102421877">&amp;በHuhi ውስጥ ክፈት</translation>
+<translation id="123620459398936149">Chrome OS ውሂብዎን ሊያመሳስል አልቻለም። እባክዎ የማመሳሰያ ይለፍ ሐረግዎን ያዘምኑት።</translation>
+<translation id="127345590676626841">Huhi በራስ-ሰር ስለሚዘምን ሁልጊዜ ትኩሱ ስሪት ነው የሚኖርዎ። ይህ ውርድ ሲጠናቀቅ Huhi ዳግም ይጀምርና እርስዎም ስራዎን ይቀጥላሉ።</translation>
+<translation id="1302523850133262269">እባክዎ Huhi የቅርብ ጊዜዎቹን ዝማኔዎች እስኪጭን ድረስ ይጠብቁ።</translation>
+<translation id="137466361146087520">Huhi ቅድመ-ይሁነታ</translation>
+<translation id="1393853151966637042">ስለ Huhi አጠቃቀም ላይ እገዛን ያግኙ</translation>
+<translation id="1399397803214730675">ይህ ኮምፒውተር አስቀድሞ ይበልጥ የቅርብ ጊዜ የሆነ የHuhi ስሪት አለው። ሶፍትዌሩ የማይሰራ ከሆነ እባክዎ Huhiን ያራግፉና እንደገና ይሞክሩ።</translation>
+<translation id="1434626383986940139">የHuhi Canary መተግበሪያዎች</translation>
+<translation id="1457721931618994305">Huhiን በማዘመን ላይ...</translation>
+<translation id="1469002951682717133">Huhi የመተግበሪያ አስጀማሪ</translation>
+<translation id="1705567146636171298">Huhiን አዘምን</translation>
+<translation id="3205074487970075628">Huhi ካሜራዎን እየተጠቀመ ነው።</translation>
+<translation id="4168372721886011198"><ph name="FILE_NAME" /> አደገኛ ነው፣ ስለዚህ Huhi አግዶታል።</translation>
+<translation id="2632141563911437138">ለማዘመን Huhi በዚህ ኮምፒውተር ላይ መሥራቱን ማቆም አለበት። ይህ በዚህ ኮምፒውተር ላይ በመለያ የገቡ የሌሎች ተጠቃሚዎች ያልተቀመጡ ለውጦች ሊያጠፋባቸው ይችላል።</translation>
+<translation id="1619887657840448962">Huhiን ይበልጥ ደህንነቱ የተጠበቀ እንዲሆን ለማድረግ፣ በ<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ውስጥ ያልተዘረዘረውን የሚከተለውን ቅጥያ አሰናክለነዋል እና እርስዎ ሳያውቁት የታከለ ሊሆን ይችላል።</translation>
+<translation id="1628000112320670027">Huhi ላይ እገዛ ያግኙ</translation>
+<translation id="6813094029720377619">እርስዎ Huhi አቋርጠው ሲወጡ ኩኪዎችን ያጸዳሉ። ስምረትን ለመቀጠል፣ ይህን <ph name="COOKIE_SETTINGS_LINK" /> ይለውጡ።</translation>
+<translation id="1662639173275167396">Chrome OS እና እንዲሁም <ph name="BEGIN_LINK_LINUX_OSS" />Linux (ቅድመ-ይሁንታ)<ph name="END_LINK_LINUX_OSS" /> ሊሠሩ የቻሉት በተጨማሪ <ph name="BEGIN_LINK_CROS_OSS" />የክፍት ምንጭ ሶፍትዌር<ph name="END_LINK_CROS_OSS" /> ነው።</translation>
+<translation id="1674870198290878346">አገናኝ በHuhi ማንነት የ&amp;ማያሳውቅ መስኮት ውስጥ ክፈት</translation>
+<translation id="2585240446624043880">Huhi የውሂብ አቃፊውን ማንበብ እና እሱ ላይ መጻፍ አይችልም፦
+
+<ph name="USER_DATA_DIRECTORY" /></translation>
+<translation id="1698376642261615901">Huhi ድረ-ገፆችን እና መተግበሪያዎችን በሚገርም ፍጥነት ማሄድ የሚችል የድር አሳሽ ነው። ፈጣን፣ የረጋ እና ለመጠቀም ቀላል ነው። Huhi ውስጥ አብሮት በተሰራ የአስጋሪና ተንኮል-አዘል ሶፍትዌር መከላከያ አማካኝነት ደህንነትዎ በበለጠ ሁኔታ ተጠብቆ ድሩን ያስሱ።</translation>
+<translation id="1713301662689114961">{0,plural, =1{በአንድ ሰዓት ውስጥ Huhi ዳግም ይጀመራል}one{በ# ሰዓቶች ውስጥ Huhi ዳግም ይጀመራል}other{በ# ሰዓቶች ውስጥ Huhi ዳግም ይጀመራል}}</translation>
+<translation id="6163134585289952357">Huhi ይህን የይለፍ ቃል በእርስዎ የGoogle መለያ ውስጥ ያስቀምጠዋል። ማስታወስ አይኖርብዎትም።</translation>
+<translation id="174539241580958092">በመለያ ሲገባ በነበረ ስህተት ምክንያት Huhi ውሂብዎን ማመሳሰል አልቻለም።</translation>
+<translation id="1773601347087397504">Huhi ስርዓተ ክወናን መጠቀም ላይ እገዛን ያግኙ</translation>
+<translation id="1570795130102031380">Huhiን በእርስዎ ስልክ ላይ ይጫኑት። አንድ ኤስኤምኤስ ወደ ስልክዎ እንልካለን። <ph name="PHONE_NUMBER" /></translation>
+<translation id="1812689907177901597">ይህንን በማጥፋት፣ እንደ Gmail ወደ መሰሉ የGoogle ጣቢያዎች ወደ Huhi በመለያ ሳይገቡ መግባት ይችላሉ</translation>
+<translation id="1860536484129686729">Huhi ለዚህ ጣቢያ የእርስዎን ካሜራ ለመድረስ ፈቃድ ያስፈልገዋል</translation>
+<translation id="3343095737966473035">Huhi ነባሪ አሳሽዎ አይደለም</translation>
+<translation id="1874309113135274312">Huhi ቅድመ-ይሁነታ (mDNS-In)</translation>
+<translation id="5173820533850252773">Huhi ጊዜው አልፎበታል</translation>
+<translation id="1900795423379050516">በዚህ ገጽ ላይ አንድ ቅንብር ካልታየ በእርስዎ <ph name="LINK_BEGIN" />
+      የ Huhi አሳሽ ቅንብሮች<ph name="LINK_END" /> ውስጥ ይመልከቱ</translation>
+<translation id="1915828456209461693">ለHuhi አዲስ ዝማኔ ይገኛል እና ልክ ዳግም ሲያስጀምሩት ይተገበራል።</translation>
+<translation id="1919130412786645364">የHuhi በመለያ መግባትን ይፍቀዱ</translation>
+<translation id="2063848847527508675">Chrome OS ዝማኔውን ለመተግበር ዳግም መጀመር አለበት።</translation>
+<translation id="2094919256425865063">የሆነው ሆኖ Huhi ይቁም?</translation>
+<translation id="2120620239521071941">ይሄ <ph name="ITEMS_COUNT" /> ንጥሎችን ከዚህ መሣሪያ ይሰርዛል። ውሂብዎን በኋላ ላይ ሰርስረው ለማውጣት እንደ <ph name="USER_EMAIL" /> ሆነው ወደ Huhi ይግቡ።</translation>
+<translation id="2123055963409958220"><ph name="BEGIN_LINK" />የአሁኖቹን ቅንብሮች<ph name="END_LINK" /> ሪፖርት በማድረግ Huhi የተሻለ እንዲሆን ያግዙ።</translation>
+<translation id="5646769069113654257">እባክዎ Huhi ን አሁን ዳግም ያስጀምሩ</translation>
+<translation id="1609678321160597289">Huhiን በእርስዎ ስልክ ላይ ይጫኑት። አንድ ኤስኤምኤስ ወደ የእርስዎ የመልሶ ማግኛ ስልክ ቁጥር እንልካለን።</translation>
+<translation id="5874882355102994015">አብሮት የተሰራው የፒ ዲ ኤፍ መመልከቻ ሲጎድል Huhi የህትመት ቅድመ-እይታውን ሊያሳይ አይችልም።</translation>
+<translation id="7456658570432774853">የአሁኖቹ ቅንብሮችን ሪፖርት በማድረግ Huhi የተሻለ እንዲሆን ያግዙ</translation>
+<translation id="4934157190377700991">አሁን በመለያ ወደ Huhi ገብተዋል</translation>
+<translation id="350396164462274391">የGoogle ኤ ፒ አይ ቁልፎች ይጎድላሉ። አንዳንድ የHuhi ተግባራት ይሰናከላሉ።</translation>
+<translation id="2290095356545025170">እርግጠኛ ነዎት Huhiን ማራገፍ ይፈልጋሉ?</translation>
+<translation id="2309047409763057870">ይሄ ሁለተኛ የHuhi ጭነት ነው፣ እና ነባሪ አሳሽዎ ማድረግ አይቻልም።</translation>
+<translation id="2346876346033403680">የሆነ ሰው ከዚህ ቀደም በዚህ ኮምፒውተር ላይ እንደ <ph name="ACCOUNT_EMAIL_LAST" /> ሆኖ ወደ Huhi ገብቶ ነበር። ያ መለያዎ ካልሆነ መረጃዎን ለይተው ለማስቀመጥ አዲስ የHuhi ተጠቃሚ ይፍጠሩ።
+
+ዝም ብሎ መግባት እንደ ዕልባቶች፣ ታሪክ እና ሌሎች ቅንብሮች ያሉ የHuhi መረጃዎችን ከ<ph name="ACCOUNT_EMAIL_NEW" /> ጋር ያዋህዳቸዋል።</translation>
+<translation id="2348335408836342058">Huhi ለዚህ ጣቢያ የእርስዎን ካሜራ እና ማይክሮፎን ለመድረስ ፈቃድ ያስፈልገዋል</translation>
+<translation id="2429317896000329049">ማመሳሰል ለጎራዎ ስለማይገኝ Huhi ውሂብዎን ማመሳሰል አልቻለም።</translation>
+<translation id="2467438592969358367">Huhi የእርስዎን የይለፍ ቃላት ወደ ውጭ መላክ ይፈልጋል። ይህንን ለመፍቀድ የWindows የይለፍ ቃልዎን ይተይቡ።</translation>
+<translation id="2485422356828889247">አራግፍ</translation>
+<translation id="2534507159460261402">Google Pay (ወደ Huhi ተቀድቷል)</translation>
+<translation id="2535429035253759792">ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ Huhiን ዳግም እንዲያስጀምሩ ይጠይቀዎታል</translation>
+<translation id="2580411288591421699">አሁን እየሰራ ካለው Huhi ጋር አንድ አይነት የሆነ ስሪት መጫን አይቻልም። እባክዎ Huhi ይዝጉና እንደገና ይሞክሩ።</translation>
+<translation id="2586406160782125153">ይሄ የአሰሳ ውሂብዎን ከዚህ መሣሪያዎ ይሰርዘዋል። ውሂብዎን በኋላ ላይ ሰርስረው ለማውጣት እንደ <ph name="USER_EMAIL" /> ሆነው ወደ Huhi ይግቡ።</translation>
+<translation id="4847979153841887006">የHuhi አርማ</translation>
+<translation id="2644798301485385923">Chrome OS ሥርዓት</translation>
+<translation id="2652691236519827073">አገናኝ በአዲስ የHuhi &amp;ትር ውስጥ ክፈት</translation>
+<translation id="7348158796480960456">የብልሽት ሪፖርቶችን እና <ph name="UMA_LINK" /> ወደ Google በመላክ Huhiን የተሻለ ለማድረግ እገዛ ያድርጉ</translation>
+<translation id="3813272600615358652">ይህ ቅጥያ Huhiን ሲጀምሩት የሚታየውን ገጽ ቀይሮታል።</translation>
+<translation id="2765403129283291972">Huhi ለዚህ ጣቢያ የእርስዎን ማይክሮፎን ለመድረስ ፈቃድ ያስፈልገዋል</translation>
+<translation id="2770231113462710648">ነባሪ አሳሽን ወደዚህ ቀይር፦</translation>
+<translation id="2799223571221894425">ዳግም አስጀምር</translation>
+<translation id="2847461019998147611">Huhiን በዚህ ቋንቋ አሳይ</translation>
+<translation id="2857540653560290388">Huhiን በማስጀመር ላይ...</translation>
+<translation id="2871893339301912279">ወደ Huhi ገብተዋል!</translation>
+<translation id="8541922081612557424">ስለHuhi</translation>
+<translation id="3037838751736561277">Huhi በጀርባ ሁኔታ ላይ ነው።</translation>
+<translation id="4806360651959814118"><ph name="USERNAME" />ን ግንኙነት ማቋረጥ ታሪክዎን፣ ቅንበሮችዎን እና ሌሎች በዚህ መሳሪያ ላይ የተቀመጡትን ሌሎች የHuhi ውሂብ ያጸዳል። በGoogle መለያዎ ላይ ያለው ውሂብ የማይጸዳ ሲሆን በ<ph name="GOOGLE_DASHBOARD_LINK" />Google Dashboard<ph name="END_GOOGLE_DASHBOARD_LINK" /> ላይ መተዳደር ይችላል።</translation>
+<translation id="6791166902140255175">የHuhi ትር</translation>
+<translation id="3080151273017101988">Huhi ሲዘጋ የጀርባ መተግበሪያዎችን ማሂዱን ይቀጥሉ</translation>
+<translation id="3089968997497233615">አዲስና ደህንነቱ ይበልጥ የተጠበቀ የHuhi ስሪት ይገኛል።</translation>
+<translation id="300669147395456190">Huhi መተግበሪያዎች</translation>
+<translation id="82609232232243542">Huhi ውስጥ ይግቡ</translation>
+<translation id="3340978935015468852">ቅንብሮች</translation>
+<translation id="3360895254066713204">Huhi አጋዥ</translation>
+<translation id="3379938682270551431">{0,plural, =0{Huhi አሁን ዳግም ይጀምራል}=1{Huhi በ1 ሰከንድ ውስጥ ዳግም ይጀምራል}one{Huhi በ# ሰከንዶች ውስጥ ዳግም ይጀምራል}other{Huhi በ# ሰከንዶች ውስጥ ዳግም ይጀምራል}}</translation>
+<translation id="3395323229510056640">Chrome OS ላይ እገዛ ያግኙ</translation>
+<translation id="3396977131400919238">በመጫን ጊዜ የሥርዓተ ክወና ስህተት ተፈጥሯል። እባክዎ Huhiን እንደገና ያውርዱ።</translation>
+<translation id="3398288718845740432">በHuhi ምናሌ ውስጥ ደብቅ</translation>
+<translation id="8880183781256147665">ወድ Huhi በማከል ላይ...</translation>
+<translation id="345171907106878721">እራስዎን ወደ Huhi ያክሉ</translation>
+<translation id="34857402635545079">በተጨማሪ ከ Huhi (<ph name="URL" />) ውሂብን አጽዳ</translation>
+<translation id="3503306920980160878">Huhi አካባቢዎን ለዚህ ጣቢያ ለማጋራት የአካባቢዎ መዳረሻ ያስፈልገዋል</translation>
+<translation id="3576528680708590453">የእርስዎ የስርዓት አስተዳዳሪ <ph name="TARGET_URL_HOSTNAME" />ን ለመድረስ Huhi ተለዋጭ አሳሽ እንዲከፍት አዋቅሮታል።</translation>
+<translation id="5477319665405831211">Huhiን በመላ መሣሪያዎችዎ ላይ ያስምሩ እና ግላዊነት ያላብሱ</translation>
+<translation id="3622797965165704966">አሁን Huhiን ከGoogle መለያዎ ጋር እና በተጋሩ ኮምፒውተሮች ላይ መጠቀም ይበልጥ ቀላል ነው።</translation>
+<translation id="3637702109597584617">የGoogle Chrome OS <ph name="TERMS_OF_SERVICE_LINK" />አገልግሎት ውል<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
+<translation id="5805364706385912897">ይህ ገጽ በጣም ብዙ ማህደረ ትውስታን ይጠቀማል፣ ስለዚህ Huhi ባለበት አቁሞታል።</translation>
+<translation id="3718181793972440140">ይሄ 1 ንጥል ከዚህ መሣሪያዎ ይሰርዘዋል። ውሂብዎን በኋላ ላይ ሰርስረው ለማውጣት እንደ <ph name="USER_EMAIL" /> ሆነው ወደ Huhi ይግቡ።</translation>
+<translation id="2576129394594491151">ይህ «<ph name="EXTENSION_NAME" />» ቅጥያ Huhiን ሲጀምሩት የሚታየውን ገጽ ቀይሮታል።</translation>
+<translation id="3780814664026482060">Huhi - <ph name="PAGE_TITLE" /></translation>
+<translation id="3784527566857328444">ከHuhi አስወግድ</translation>
+<translation id="386202838227397562">እባክዎ ሁሉንም የHuhi መስኮቶች ይዝጉና እንደገና ይሞክሩ።</translation>
+<translation id="3873044882194371212">አገናኝ በHuhi ማንነት የ&amp;ማያሳውቅ መስኮት ውስጥ ክፈት</translation>
+<translation id="3889417619312448367">Huhiን አራግፍ</translation>
+<translation id="4050175100176540509">አስፈላጊ የደህንነት ማሻሻያዎች እና አዲስ ባህሪያት በቅርብ ጊዜው ስሪቱ ላይ ይገኛሉ።</translation>
+<translation id="8148611988012584308">Huhiን ያብጁ እና ይቆጣጠሩ</translation>
+<translation id="4143243756087420366">Huhi ስም እና ሥዕል</translation>
+<translation id="4147555960264124640">በሚተዳደር መለያ እየገቡ ነው፣ እና አስተዳዳሪው በእርስዎ Huhi መገለጫ ላይ ቁጥጥር እየሰጡት ነው። እንደ የእርስዎ መተግበሪያዎች፣ ዕልባቶች፣ ታሪክ፣ የይለፍ ቃላት እና ሌሎች ቅንብሮች ያሉ የእርስዎ Huhi ውሂብ እስከ መጨረሻው ከ<ph name="USER_NAME" /> ጋር የተያያዙ ይሆናሉ። ይህን ውሂብ በGoogle የመለያዎች Dashboard አማካኝነት ሊሰርዙት ይችላሉ፣ ነገር ግን ይህን ውሂብ ከሌላ መለያ ጋር ሊያጎዳኙት አይችሉም። <ph name="LEARN_MORE" /></translation>
+<translation id="4149882025268051530">ጫኝው መዝገብ ለመበተን አልቻለም። እባክዎ Huhiን እንደገና ያውርዱ።</translation>
+<translation id="4191857738314598978">{0,plural, =1{በአንድ ቀን ውስጥ Huhiን ዳግም አስጀምር}one{በ# ቀኖች ውስጥ Huhiን ዳግም አስጀምር}other{በ# ቀኖች ውስጥ Huhiን ዳግም አስጀምር}}</translation>
+<translation id="424864128008805179">ከHuhi ተዘግቶ ይወጣ?</translation>
+<translation id="4251615635259297716">የHuhi ውሂብዎ ከዚህ መለያ ጋር ይገናኝ?</translation>
+<translation id="8358191771897395012">በእርስዎ iPhone ላይ Huhiን ያግኙት</translation>
+<translation id="4293420128516039005">Huhiን በመላ መሣሪያዎችዎ ላይ ለማሳመር እና ግላዊነት ለማላበስ</translation>
+<translation id="4328355335528187361">Huhi ገንቢ (mDNS-In)</translation>
+<translation id="4331809312908958774">Huhi ስርዓተ ክወና</translation>
+<translation id="4343195214584226067"><ph name="EXTENSION_NAME" /> ወደ Huhi ታክሏል</translation>
+<translation id="4407807842708586359">Huhi ስርዓተ ክወና</translation>
+<translation id="4458462641685292929">በHuhi ላይ ሌላ ሥርዓተ ክወና በሂደት ላይ ነው። እባክዎ በኋላ ላይ እንደገና ይሞክሩ።</translation>
+<translation id="4480040274068703980">Chrome OS እየተገባ ሳለ በተፈጠረ አንድ ስህተት ምክንያት ውሂብዎን ማመሳሰል አልቻለም።</translation>
+<translation id="4561051373932531560">Huhi ድር ላይ ያለ ስልክ ቁጥር ጠቅ እንዲያደርጉት እና በSkype እንዲደውሉለት ያስችልዎታል!</translation>
+<translation id="4567424176335768812">እንደ <ph name="USER_EMAIL_ADDRESS" /> ሆነው ገብተዋል። አሁን የእርስዎን ዕልባቶች፣ ታሪክ እና ሌሎች ቅንብሮች በመለያ በገቡ ሁሉም መሣሪያዎችዎ ላይ መድረስ ይችላሉ።</translation>
+<translation id="4571503333518166079">ወደ Huhi ማሳወቂያ ቅንብሮች ይሂዱ</translation>
+<translation id="459622048091363950">አንዴ Huhi መዳረሻ ከኖረው በኋላ ድር ጣቢያዎች እርስዎን መዳረሻ መጠየቅ ይችላሉ።</translation>
+<translation id="7963515534397191222">Huhi ወደ የቅርብ ጊዜው ስሪት ሊዘመን አልቻለም፣ ስለዚህ አዲስ ባህሪያት እና የደህንነት ማስተካከያዎች እያመለጠዎት ነው።</translation>
+<translation id="4631713731678262610">በHuhi ምናሌ ውስጥ ደብቅ</translation>
+<translation id="4633000520311261472">Huhi ይበልጥ ደህንነቱ የተጠበቀ እንዲሆን ለማድረግ፣ በ<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ውስጥ ያልተጠቀሱ እና እርስዎ ሳያውቋቸው የታከሉ ሊሆኑ የሚችሉ የተወሰኑ ዝርዝሮችን አሰናክለናል።</translation>
+<translation id="4728575227883772061">ተለይቶ ባልታወቀ ስህተት ምክንያት ጭነት ከሽፏል። Huhi አሁን እያሄደ ከሆነ ፣ እባክዎ ይዝጉትና እንደገና ይሞክሩ።</translation>
+<translation id="4750550185319565338"><ph name="PLUGIN_NAME" />ን ለማንቃት Huhiን ዳግም ያስጀምሩ</translation>
+<translation id="4754614261631455953">Huhi Canary (mDNS-In)</translation>
+<translation id="89367911614620585">ይህ ፋይል አደገኛ ሊሆን ስለሚችል Huhi አግዶታል።</translation>
+<translation id="479167709087336770">ይህ በ Google ፍለጋ ውስጥ ጥቅም ላይ ጋር ተመሳሳይ የፊደል አራሚ ይጠቀማል። በአሳሽ ውስጥ የሚተይቡት ጽሑፍ ወደ Google ይላካል። ይህን ባህሪ ሁልጊዜ በቅንብሮች ውስጥ መለወጥ ይችላሉ።</translation>
+<translation id="4891791193823137474">Huhi በጀርባ ውስጥ ይሂድ</translation>
+<translation id="4895437082222824641">አገናኝ በአዲስ የHuhi &amp;ትር ውስጥ ክፈት</translation>
+<translation id="8296145982386097283">ኮምፒውተር ይጋራሉ? አሁን Huhiን ልክ እንደሚፈልጉት አድርገው ማዋቀር ይችላሉ።</translation>
+<translation id="4953650215774548573">Huhiን እንደ ነባሪ አሳሽዎ አድርገው ያቀናብሩ</translation>
+<translation id="6078442581074612226">በHuhi ውስጥ</translation>
+<translation id="4990567037958725628">Huhi Canary</translation>
+<translation id="5028489144783860647">Huhi የእርስዎን ውሂብ ማመሳሰል አልቻለም። እባክዎ የእርስዎን የማመሳሰያ የይለፍ ሐረግ ያዘምኑ።</translation>
+<translation id="5062123544085870375">Chrome OSን ዳግም አስጀምር</translation>
+<translation id="2871190378186459992">ለHuhi ምርጥ መተግበሪያዎችን፣ ጨዋታዎችን፣ ቅጥያዎችን እና ገጽታዎችን ያግኙ።</translation>
+<translation id="5170938038195470297">መገለጫዎ የአዲስ Huhi ስሪት አካል ስለሆነ መጠቀም አይቻልም።
+
+አንዳንድ ባሕሪያት ላይገኙ ይችላሉ። እባክዎ የተለየ የመገለጫ አቃፊ ይግለጹ ወይም አዲሱን የHuhi ስሪት ይጠቀሙ።</translation>
+<translation id="5193136243808726294">Google Chrome OS ይህን ገጽ መክፈት አይችልም።</translation>
+<translation id="5204098752394657250">Huhi <ph name="TERMS_OF_SERVICE_LINK" />የአገልግሎት ውል<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
+<translation id="5251420635869119124">እንግዳዎች ምንም ነገር ሳይተዉ Huhiን መጠቀም ይችላሉ።</translation>
+<translation id="5436841087823876677">ማስጠንቀቂያ፦ Huhi ቅጥያዎች የአሰሳ ታሪክዎን እንዳይመዘግቡ መከልከል አይችልም። ይህን ቅጥያ ማንነት በማያሳውቅ ሁነት ላይ ለማሰናከል ይህን አማራጭ አይምረጡ።</translation>
+<translation id="5386244825306882791">እንዲሁም Huhiን ሲጀምሩት ወይም ከኦምኒቦክሱ ሆነው ሲፈልጉ የሚታየውን ገጽ ይቆጣጠራል።</translation>
+<translation id="5147525139567260139">አንድ የHuhi ትር ያጋሩ</translation>
+<translation id="3403365884036456766">የምርጫዎችዎ ፋይል ተበላሽቷል ወይም ልክ አይደለም ነው።
+
+Huhi ቅንጅቶችዎን ማስመለስ አልቻለም።</translation>
+<translation id="1801551749768408825">ሌሎች የHuhi ቅጂዎች እያሄዱ ናቸው። ለማዘመን ይዝጓቸው።</translation>
+<translation id="556024056938947818">Huhi የይለፍ ቃላትን ለማሳየት እየሞከረ ነው።</translation>
+<translation id="5566025111015594046">Huhi (mDNS-In)</translation>
+<translation id="5657226924540934362">በዚህ ገጽ ላይ አንድ ቅንብር ካልታየ በእርስዎ <ph name="LINK_BEGIN" />
+      የ Chrome OS ቅንብሮች<ph name="LINK_END" /> ውስጥ ይመልከቱ</translation>
+<translation id="3561569806301739367"><ph name="FILE_NAME" /> አደገኛ ሊሆን ስለሚችል Huhi አግዶታል።</translation>
+<translation id="6315734375101223238">Huhiን ያብጁ እና ይቆጣጠሩ። የሆነ ነገር ትኩረትዎ ያስፈልገዋል - ለዝርዝሮች ጠቅ ያድርጉ።</translation>
+<translation id="5690427481109656848">Huhi Software Inc</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{Huhi በ1 ሰከንድ ውስጥ ዳግም ይጀምራል}one{Huhi በ​​# ሰከንዶች ውስጥ ዳግም ይጀምራል}other{Huhi በ​​# ሰከንዶች ውስጥ ዳግም ይጀምራል}}</translation>
+<translation id="573759479754913123">ስለ Chrome OS</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> - Huhi Canary</translation>
+<translation id="5804318322022881572">Huhiን ማስጀመር አልተቻለም። እንደገና ይሞክሩ።</translation>
+<translation id="5877064549588274448">ሰርጥ ተለውጧል። ለውጦችን ለመተግበር መሳሪያዎን ዳግም ያስጀምሩ።</translation>
+<translation id="5895138241574237353">እንደገና ጀምር</translation>
+<translation id="5906655207909574370">የተዘመነ ለመሆን ጥቂት ብቻ ቀርቷል! ዝማኔውን ለማጠናቀቅ መሣሪያዎን ዳግም ያስጀምሩት።</translation>
+<translation id="5940385492829620908">የእርስዎ ድር፣ ዕልባቶች እና ሌሎች የHuhi ነገሮች እዚህ ይኖራሉ።</translation>
+<translation id="5019879183386042809">Huhiን መነሻ ማሰሻ አድርግ</translation>
+<translation id="6014844626092547096">አሁን ወደ Huhi ገብተዋል! ማመሳሰል በአስተዳዳሪዎ ተሰናክሏል።</translation>
+<translation id="6040143037577758943">ዝጋ</translation>
+<translation id="6070348360322141662">ለተጨማሪ ደህንነት ሲባል Huhi ውሂብዎን ያመሰጥረዋል</translation>
+<translation id="6113794647360055231">Huhi አሁን ይበልጥ ተሻሽሏል</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> - Huhi</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> - Huhi ቅድመ-ይሁንታ</translation>
+<translation id="61852838583753520">&amp;Huhi ስርዓተ ክወናን አዘምን</translation>
+<translation id="6235018212288296708">Huhi ለmDNS ትራፊክ ለመፍቀድ የውስጥ ደንብ።</translation>
+<translation id="6291089322031436445">Huhi Dev መተግበሪያዎች</translation>
+<translation id="6291549208091401781">Huhi ቀደም ብሎ በእርስዎ ኮምፒውተር ላይ ላሉ ተጠቃሚዎች ተጭኗል።</translation>
+<translation id="6338556085225130112">Huhiን በማዘመን ላይ</translation>
+<translation id="6368958679917195344">Huhi ስርዓተ ክወና በተጨማሪ <ph name="BEGIN_LINK_CROS_OSS" />ክፍት ምንጭ ሶፍትዌር<ph name="END_LINK_CROS_OSS" /> እውን ሊሆን ችሏል።</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> - Huhi ግንባታ</translation>
+<translation id="6566149418543181476">Huhiን በማዘመን ላይ (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="2472951610753402739">የHuhi ነገሮችዎን ለማመሳሰል <ph name="PROFILE_EMAIL" />ን እየተጠቀሙ ነው። የማመሳሰል ምርጫዎን ለማዘመን ወይም Huhiን ያለGoogle መለያ ለመጠቀም <ph name="SETTINGS_LINK" />ን ይጎብኙ።</translation>
+<translation id="663059986967017181">ወደ Huhi ተቀድቷል</translation>
+<translation id="6634887557811630702">Huhi የተዘመነ ነው።</translation>
+<translation id="6676384891291319759">በይነመረብን ተዳረስ</translation>
+<translation id="6679975945624592337">Huhi ጀርባ ውስጥ ይሂድ</translation>
+<translation id="6750954913813541382">የሥርዓተ ሆሄ ህጸሶችን ለማስተካከል እርስዎን የሚተይቡትን ጽሑፍ Huhi ወደ Google በአሳሽ ውስጥ ይልካል</translation>
+<translation id="677276454032249905">የሆነው ሆኖ ከHuhi ይወጣ?</translation>
+<translation id="683440813066116847">Huhi Canary ለmDNS ትራፊክ ለመፍቀድ የውስጥ ደንብ።</translation>
+<translation id="6885412569789873916">የHuhi ቅድመ-ይሁነታ መተግበሪያዎች</translation>
+<translation id="6943584222992551122">የእዚህ ሰው የአሰሳ ውሂብ ከዚህ መሣሪያ ይሰረዛል። ውሂቡን መልሰው ለማግኘት እንደ <ph name="USER_EMAIL" /> ሆነው ወደ Huhi ይግቡ።</translation>
+<translation id="6967962315388095737">የmDNS ትራፊክን ለመፍቀድ የHuhi ቅድመ-ይሁንታ የውስጥ ደንብ።</translation>
+<translation id="6970811910055250180">መሣሪያዎን በማዘመን ላይ...</translation>
+<translation id="6982337800632491844"><ph name="DOMAIN" /> ይህን መሣሪያ ከመጠቀምዎ በፊት የሚከተለውን የአገልግሎት ውል እንዲያነቡ እና እንዲቀበሉ ይፈለጋል። ይህ ውል የHuhi ስርዓተ ክወና ውሉን አያስፋፋውም፣ አይቀይረውም ወይም አይገድበውም።</translation>
+<translation id="6989339256997917931">Huhi ተዘምኗል፣ ግን ቢያንስ ለ30 ቀኖች አልተጠቀሙበትም።</translation>
+<translation id="8919461291440820124">Huhi የእርስዎን ማይክሮፎን እየተጠቀመ ነው።</translation>
+<translation id="5516268345616100622">ተግባር መሪ - Huhi</translation>
+<translation id="474353600079041991">የደህንነት ሊሆኑ የሚችሉ ክስተቶችን በራስ-ሰር ለGoogle ሪፖርት በማድረግ Huhi ይበልጥ ደህንነቱ የተጠበቀ እና ለመጠቀም ቀላል እንዲሆን ማድረግ ይችላሉ።</translation>
+<translation id="7242029209006116544">በሚተዳደር መለያ እየገቡ ነው፣ እና አስተዳዳሪው በእርስዎ Huhi መገለጫ ላይ ቁጥጥር እየሰጡት ነው። እንደየእርስዎ  መተግበሪያዎች፣ ዕልባቶች፣ ታሪክ፣ የይለፍ ቃላት እና ሌሎች ቅንብሮች ያሉ የእርስዎ Huhi ውሂብ እስከ መጨረሻው ከ<ph name="USER_NAME" /> ጋር የተያያዙ ይሆናሉ። ይህን ውሂብ በGoogle የመለያዎች Dashboard አማካኝነት ሊሰርዙት ይችላሉ፣ ነገር ግን ይህን ውሂብ ከሌላ መለያ ጋር ሊያጎዳኙት አይችሉም። ነባሩ የእርስዎ Huhi ውሂብ ለይተው ለማስቀመጥም አዲስ መገለጫ እንደ አማራጭ መፍጠር ይችላሉ። <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">ይህ ቋንቋ የHuhi ዩአይን ለማሳየት ስራ ላይ ይውላል</translation>
+<translation id="7296210096911315575">ጠቃሚ የአጠቃቀም እና የደህንነት መረጃ</translation>
+<translation id="7308322188646931570">Huhi ፋይሎችን ለማውረድ የማከማቻ መዳረሻ ያስፈልገዋል</translation>
+<translation id="7339898014177206373">አዲሰ መስኮት</translation>
+<translation id="7398801000654795464">እንደ <ph name="USER_EMAIL_ADDRESS" /> ሆነው ወደ Huhi ገብተዋል። እባክዎ እንደገና ለመግባት ተመሳሳዩን መለያ ይጠቀሙ።</translation>
+<translation id="7408085963519505752">የChrome OS ውል</translation>
+<translation id="7419046106786626209">ማመሳሰል ለጎራዎ ስለማይገኝ Chrome OS ውሂብዎን ማመሳሰል አልቻለም።</translation>
+<translation id="7459554271817304652">ግላዊነት የተላበሰው የአሳሽ ባህሪዎችዎ ድር ላይ ለማስቀመጥና ከዚያ Huhi ካለው ማንኛውም ኮምፒውተር ለመድረስ አመሳስልን ያዋቅሩ።</translation>
+<translation id="7473136999113284234">Huhi በራስ-ሰር ይዘመናል፣ ስለዚህ ሁልጊዜ አዲሱ ስሪት ይኖርዎታል።</translation>
+<translation id="7486227612705979895">Huhi የእርስዎን Drive በአድራሻ አሞሌ ውስጥ ጥቆማ ሐሳቦችን ይደርሳል</translation>
+<translation id="8887390605192156061">ሁሉንም የHuhi ቅጂዎች ያቋርጡ።</translation>
+<translation id="7535429826459677826">Huhi ገንቢ</translation>
+<translation id="7573289029918943991">መሣሪያዎ የተዘመነ ከሆነ ለማየት ወደ <ph name="LINK_BEGIN" />የChrome OS ቅንብሮች ይሂዱ<ph name="LINK_END" /></translation>
+<translation id="7589360514048265910">Mac OS X 10.9 ከእንግዲህ ስለማይደገፍ ይህ ኮምፒውተር ከእንግዲህ የHuhi ዝማኔዎችን አይቀበልም።</translation>
+<translation id="7592736734348559088">የመለያዎ መግቢያ ዝርዝሮች ጊዜያቸው ያለፈባቸው ስለሆኑ Huhi ውሂብዎን ማመሳሰል አልቻለም።</translation>
+<translation id="7207456302801184289">ወደ Huhi እንኳን ደህና መጡ</translation>
+<translation id="8211837073776713955">Huhi የእርስዎ የይለፍ ቃላት ከተነጠቁ እርስዎ እንዲያውቁት ያደርግዎታል</translation>
+<translation id="7641148173327520642">የስርዓት አስተዳዳሪዎ Huhi <ph name="TARGET_URL_HOSTNAME" /> ለመድረስ <ph name="ALTERNATIVE_BROWSER_NAME" />ን እንዲከፍት አዋቅሮታል።</translation>
+<translation id="7651907282515937834">Huhi Enterprise አርማ</translation>
+<translation id="7747138024166251722">ጫኝው ጊዜያዊ ማውጫ መፍጠር አልቻለም። እባክዎ ነፃ የዲስክ ቦታ እና ሶፍትዌር የመጫን ፍቃድ እንዳለ ይፈትሹ።</translation>
+<translation id="7761834446675418963">Huhiን ለመክፈት እና ማሰስ ለመጀመር ስምዎን ጠቅ ያድርጉት።</translation>
+<translation id="7777080907402804672">አንድ ምስል ጠቃሚ መግለጫ ከሌለው Huhi ለእርስዎ አንድ ለማቅረብ ይሞክራል። ዝርዝር መግለጫዎችን ለመፍጠር፣ ምስሎች ወደ Google ይላካሉ። ይህን በማንኛውም ጊዜ በቅንብሮች ውስጥ ሊያጠፉት ይችላሉ።</translation>
+<translation id="7781002470561365167">የHuhi አዲስ ስሪት አለ።</translation>
+<translation id="7787950393032327779">መገለጫው በሌላ ኮምፒውተር (<ph name="HOST_NAME" />) ላይ በሌላ የHuhi ሂደት (<ph name="PROCESS_ID" />) የተያዘ ይመስላል። Huhi መገለጫው እንዳይበላሽ ቆልፎታል።  ሌሎች ሂደቶች ይህን መገለጫ እየተጠቀሙበት እንዳልሆኑ እርግጠኛ ከሆኑ መገለጫውን አስከፍተው Huhiን ዳግም ማስጀመር ይችላሉ።</translation>
+<translation id="777113543093865885">ከHuhi አስወግድ...</translation>
+<translation id="7825851276765848807">ተለይቶ ባልታወቀ ስህተት ምክንያት ጭነት ከሽፏል። እባክዎ Huhiን እንደገና ያውርዱ።</translation>
+<translation id="7855730255114109580">Huhi የተዘመነ ነው</translation>
+<translation id="7890208801193284374">ኮምፒውተር የሚጋሩ ከሆኑ ጓደኛዎች እና ቤተሰብ ተለይተው ሊያስሱ እና Huhiን በሚፈልጉበት መንገድ ማዋቀር ይችላሉ።</translation>
+<translation id="7896673875602241923">የሆነ ሰው ከዚህ ቀደም በዚህ ኮምፒውተር ላይ እንደ <ph name="ACCOUNT_EMAIL_LAST" /> ሆነው ወደ Huhi ገብተዋል። የእርስዎን መረጃ ለይተው ለማስቀመጥ እባክዎ አዲስ የHuhi ተጠቃሚ ይፍጠሩ።</translation>
+<translation id="7908168227788431038">የተዘመነ ለመሆን ጥቂት ብቻ ቀርቷል! ዝማኔውን ለማጠናቀቅ Huhiን ዳግም ያስጀምሩት።</translation>
+<translation id="7962410387636238736">Windows XP እና Windows Vista ከእንግዲህ ስለማይደገፉ ይህ ኮምፒውተር ከአሁን በኋላ የHuhi ዝማኔዎችን አይቀበልም።</translation>
+<translation id="5875673934455379806">Huhiን ዳግም ጫነው</translation>
+<translation id="8013993649590906847">አንድ ምስል ጠቃሚ መግለጫ ከሌለው Huhi ለእርስዎ አንድ ለማቅረብ ይሞክራል። ዝርዝር መግለጫዎችን ለመፍጠር፣ ምስሎች ወደ Google ይላካሉ።</translation>
+<translation id="8030318113982266900">መሳሪያዎን ወደ <ph name="CHANNEL_NAME" /> ሰርጥ በማዘመን ላይ...</translation>
+<translation id="1672124279374861424">መለያዎን ከHuhi ካስወገዱ በኋላ፣ ክፍት ትሮችዎ እንዲሰሩ መልሰው መጫን ሊኖርብዎ ይችላል።</translation>
+<translation id="8129812357326543296">ስለ &amp;Huhi</translation>
+<translation id="8899693649891674038">Huhiን በእርስዎ ስልክ ላይ ይጫኑ። አንድ ኤስኤምኤስ ወደ የእርስዎ ስልክ እንልካለን።</translation>
+<translation id="5138664332909611586">ይህ ገጽ በጣም ብዙ ማህደረ ትውስታን ይጠቀማል፣ ስለዚህ Huhi አንዳንድ ይዘትን አስወግዷል።</translation>
+<translation id="3293668930608086049">Huhi ካሜራዎን እና ማይክሮፎንዎን እየተጠቀመ ነው።</translation>
+<translation id="8286862437124483331">Huhi የይለፍ ቃሎችን ለማሳየት እየሞከረ ነው። ይህንን ለመፍቀድ የእርስዎን Windows የይለፍ ቃል ይተይቡ።</translation>
+<translation id="8290100596633877290">ኧረ ገዳይ! Huhi ተሰናክሏል። አሁን እንደገና ይጀመር?</translation>
+<translation id="9067428552314418522">ይህ ፋይል አደገኛ ስለሆነ Huhi አግዶታል።</translation>
+<translation id="8370517070665726704">የቅጂ መብት <ph name="YEAR" /> Huhi Software Inc. ሁሉም መብቶች በህግ የተጠበቁ ናቸው።</translation>
+<translation id="840084489713044809">Huhi የእርስዎን የይለፍ ቃላት ወደ ውጭ መላክ ይፈልጋል።</translation>
+<translation id="763369711159699222">Huhi የተሻለ እንዲሆን ያግዙ</translation>
+<translation id="8455999171311319804">ከተፈለገ፦ የምርመራ እና የአጠቃቀም ውሂብ ወደ Google በራስ-ሰር በመላክ Chrome OS የተሻለ እንዲሆን ያግዙ።</translation>
+<translation id="2965084188004448871">Huhiን በእርስዎ ስልክ ላይ ይጫኑት። አንድ ኤስኤምኤስ ወደዚህ የእርስዎ የመልሶ ማግኛ ስልክ ቁጥር እንልካለን፦ <ph name="PHONE_NUMBER" /></translation>
+<translation id="8668413672647811944">ለHuhi ልዩ የደህንነት ዝማኔ አሁን ተጭኗል። አሁን እንደገና ያስጀምሩ እና የእርስዎን ትሮች እንደነበሩ እንመልሳቸዋለን።</translation>
+<translation id="8521348052903287641">የmDNS ትራፊክን ለመፍቀድ የHuhi ገንቢ የውስጥ ደንብ።</translation>
+<translation id="939305735877869636">Huhi</translation>
+<translation id="8547799825197623713">የHuhi መተግበሪያ አስጀማሪ Canary</translation>
+<translation id="8556340503434111824">አዲስ የHuhi ስሪት አለ፣ እና ከመቼውም በበለጠ ፈጣን ነው።</translation>
+<translation id="8568392309447938879">መተግበሪያዎችን ለመጠቀም ወደ Huhi በመለያ መግባት አለብዎት። ይህ Huhi መተግበሪያዎችዎን፣ ዕልባቶችዎን፣ ታሪክዎን፣ የይለፍ ቃላትዎን እና ሌሎች ቅንብሮችዎን በተለያዩ መሣሪያዎች ላይ እንዲያመሳስል ያስችለዋል።</translation>
+<translation id="8606668294522778825">Huhi የአሰሳ ተሞክሮዎን ለማሻሻል የድር አገልግሎቶችን ሊጠቀም ይችላል። እነዚህን አገልግሎቶች በአማራጭነት ሊያሰናክሏቸው ይችላሉ። <ph name="BEGIN_LINK" />ተጨማሪ ለመረዳት<ph name="END_LINK" /></translation>
+<translation id="8614913330719544658">Huhi መልስ አይሰጥም። አሁን ዳግም ይጀምር?</translation>
+<translation id="8625237574518804553">{0,plural, =1{Huhi በ1 ደቂቃ ውስጥ ዳግም ይጀመራል}one{Huhi በ# ደቂቃዎች ውስጥ ዳግም ይጀመራል}other{Huhi በ# ደቂቃዎች ውስጥ ዳግም ይጀመራል}}</translation>
+<translation id="8667808506758191620">የእርስዎ <ph name="DEVICE_TYPE" /> የተዘመነ ነው።</translation>
+<translation id="8669527147644353129">Huhi አጋዥ</translation>
+<translation id="8679801911857917785">እንዲሁም Huhiን ሲጀምሩት የሚታየውን ገጽ ይቆጣጠራል።</translation>
+<translation id="870251953148363156">&amp;Huhiን አዘምን</translation>
+<translation id="873133009373065397">Huhi ነባሪ አሳሹን ማወቅ ወይም ማቀናበር አልቻለም</translation>
+<translation id="8736674169840206667">አንድ ዝማኔ ለመተግበር አስተዳዳሪዎ Huhiን ዳግም እንዲያስጀምሩት ይፈልግብዎታል</translation>
+<translation id="8823341990149967727">Huhi ጊዜው አልፎበታል</translation>
+<translation id="884296878221830158">እንዲሁም Huhiን ሲጀምሩት ወይም የመነሻ አዝራሩን ጠቅ ሲያደርጉት የሚታየውን ገጽ ይቆጣጠራል።</translation>
+<translation id="8862326446509486874">ለስርዓተ-ደረጃ ጭነት ተገቢ መብቶች የሉዎትም። ጫኚውን እንደ አስተዳዳሪ በማሄድ እንደገና ይሞክሩ።</translation>
+<translation id="8914504000324227558">Huhiን ዳግም አስጀምር</translation>
+<translation id="8999208279178790196">{0,plural, =0{የHuhi ዝማኔ አለ}=1{የHuhi ዝማኔ አለ}one{አንድ የHuhi ዝማኔ ለ# ቀኖች ነበር}other{አንድ የHuhi ዝማኔ ለ# ቀኖች ነበር}}</translation>
+<translation id="9026991721384951619">የመለያዎ መግቢያ ዝርዝሮች ጊዜያቸው ያለፈባቸው ስለሆኑ Chrome OS ውሂብዎን ማመሳሰል አልቻለም።</translation>
+<translation id="9067395829937117663">Huhi Windows 7 ወይም ከዚያ በላይ ያስፈልገዋል።</translation>
+<translation id="911206726377975832">የአሰሳ ውሂብዎም ይሰረዝ?</translation>
+<translation id="9138603949443464873">የእርስዎን ለውጦች ተፈጻሚ ለማድረግ፣ Huhiን ዳግም ያስጀምሩ</translation>
+<translation id="919706545465235479">ስምረትን ለመጀመር Huhiን ያዘምኑ</translation>
+<translation id="989369509083708165">Huhi ነባሪ አሳሽዎ ነው</translation>
+</translationbundle>

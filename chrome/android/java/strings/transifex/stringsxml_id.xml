@@ -1,0 +1,321 @@
+<resources>
+
+    <string name="huhi_settings_title">Pengaturan perisai situs Huhi untuk</string>
+    <string name="huhi_shields_down">Turun</string>
+    <string name="huhi_shields_up">Naik</string>
+    <string name="huhi_shields_ads_trackers">Iklan dan Pelacak Diblokir</string>
+    <string name="huhi_shields_https_upgrades">Peningkatan HTTPS</string>
+    <string name="huhi_shields_scripts_blocked">Skrip Diblokir</string>
+    <string name="huhi_shields_ads_tracking_switch">Blokir Iklan dan Pelacakan</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Everywhere</string>
+    <string name="huhi_shields_blocks_scripts_switch">Blokir Skrip</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Aktifkan/Nonaktifkan Perisai Huhi</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Kelola Huhi Rewards</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Blokir kuki pihak ke-3</string>
+
+    <string name="httpse_summary">Buka situs yang didukung menggunakan HTTPS daripada HTTP jika memungkinkan</string>
+    <string name="ad_block_title">Blokir Iklan</string>
+    <string name="ad_block_summary">Mencegah iklan-iklan dari proses memuat</string>
+
+    <string name="fingerprinting_protection_title">Perlindungan Sidik Jari</string>
+    <string name="fingerprinting_protection_summary">Cegah peramban dari sidik jari</string>
+    <string name="huhi_shields_fingerprints_blocked">Metode Sidik Jari Diblokir</string>
+    <string name="huhi_shields_block_fingerprints_switch">Perlindungan Sidik Jari</string>
+
+    <string name="ad_block_regional_title">Blokir Iklan Regional</string>
+    <string name="ad_block_regional_summary">Mencegah iklan regional dimuat</string>
+
+    <string name="ad_block_regional_summary_no_list">Tidak ada daftar tambahan yang tersedia untuk bahasa Anda</string>
+
+    <string name="menu_exit">Keluar</string>
+
+    <string name="huhi_sync">Sinkronisasi Huhi (beta)</string>
+    <string name="sync_settings_add_device_name_title">Tambahkan nama perangkat</string>
+    <string name="sync_settings_add_device_name_label">Masukkan nama opsional untuk perangkat ini</string>
+    <string name="sync_example_device_name">Perangkat Android</string>
+    <string name="enter_code_words_sync">Masukkan kode kata</string>
+    <string name="sync_device">Sinkronkan perangkat</string>
+    <string name="sync_device_failure">Sinkronisasi tidak dapat disiapkan</string>
+    <string name="sync_requires_correct_time">Jam komputer Anda mungkin diatur ke waktu atau zona waktu yang salah. Periksa pengaturan jam Anda.</string>
+
+    <string name="huhi_stats_text_ads">Iklan dan Pelacak
+Diblokir</string>
+    <string name="huhi_stats_text_https">Peningkatan
+HTTPS</string>
+    <string name="huhi_stats_text_time">± Waktu
+Dihemat</string>
+
+    <string name="send_metrics_title">Kirim metrik</string>
+
+    <string name="desktop_mode_title">Mode Desktop</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Memilih versi desktop dari situs</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Memilih versi seluler dari situs</string>
+    <string name="website_settings_category_desktop_view_enabled">Aktifkan Tampilan Desktop untuk tab baru</string>
+    <string name="website_settings_category_desktop_view_disabled">Gunakan versi seluler situs untuk tab baru (disarankan)</string>
+
+    <string name="huhi_shields_first_group_title">Layar Pemblokiran</string>
+    <string name="huhi_shields_second_group_title">Kontrol Individu</string>
+    <string name="huhi_shields">Perisai</string>
+    <string name="huhi_shields_ads_and_trackers">Iklan dan Pelacak</string>
+    <string name="huhi_shields_fingerprint_methods">Metode Sidik Jari</string>
+    <string name="huhi_shields_block_phishing_switch">Blokir Phishing</string>
+
+    <string name="play_video_in_background_title">Pemutaran video di latar</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Diaktifkan</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Dinonaktifkan</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Eksperimental: Aktifkan memutar audio dari video di latar ketika tab tidak aktif atau layar perangkat mati. Coba beralih ke mode desktop jika fitur ini tidak bekerja.</string>
+    <string name="settings_require_relaunch_notice">Perubahan Anda akan berlaku setelah Anda meluncurkan ulang Huhi</string>
+    <string name="settings_require_relaunch_now">LUNCURKAN ULANG</string>
+    <string name="settings_require_relaunch_later">NANTI</string>
+
+    <string name="play_yt_video_in_browser_title">Pemutaran video di Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Diaktifkan</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Dinonaktifkan</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Jika diaktifkan, video akan diputar di Huhi dan bukan di aplikasi yang terkait</string>
+
+    <string name="close_tabs_on_exit_title">Tutup tab saat keluar</string>
+    <string name="close_tabs_on_exit_summary">Jangan ingat tab di antara sesi penjelajahan</string>
+
+    <string name="open_pages_in_custom_tabs_title">Buka tab di Tab Ubahsuai</string>
+    <string name="open_pages_in_custom_tabs_summary">Tawarkan untuk membuka tab di Tab Ubahsuai</string>
+
+    <string name="ddg_offer_title">Pencarian pribadi dengan DuckDuckGo?</string>
+    <string name="ddg_offer_text">Dengan pencarian pribadi, Huhi akan menggunakan DuckDuckGo untuk mencari jawaban pencarian Anda saat Anda berada dalam tab pribadi ini. DuckDuckGo adalah mesin pencari yang tidak merekam riwayat pencarian Anda, memungkinkan Anda untuk mencari secara pribadi.</string>
+    <string name="ddg_offer_positive">Ya
+</string>
+    <string name="ddg_offer_negative">Tidak
+</string>
+    <string name="ddg_offer_link">Pelajari tentang pencarian pribadi dengan DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Tab Standar
+</string>
+    <string name="prefs_private_search_engine">Tab Pribadi</string>
+
+    <string name="huhi_open_in_private_tab">Buka di tab pribadi</string>
+    <string name="huhi_close_all_private_tabs">Tutup tab pribadi</string>
+    <string name="huhi_new_private_tab">Tab pribadi baru</string>
+    <string name="huhi_new_tab_private_header">Ini adalah Tab Pribadi</string>
+    <string name="huhi_new_tab_private_message">Meski situs yang Anda kunjungi melalui tab pribadi tidak disimpan secara lokal, tetapi tidak membuat jadi anonim atau tak tampak dari ISP Anda, bos Anda, atau situs yang Anda kunjungi.</string>
+    <string name="update_notification_title">Pembaruan Huhi</string>
+    <string name="update_notification_text">Peramban Huhi baru 22% lebih cepat</string>
+    <string name="prefs_sync">Sync (beta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Iklan Huhi ada di sini! </string>
+    <string name="huhi_ads_new_user_offer_title">Aktifkan Imbalan Huhi</string>
+    <string name="huhi_ads_offer_text">Dapatkan Token Atensi Dasar untuk melihat iklan yang menjaga privasi di Imbalan Huhi. </string>
+    <string name="huhi_ads_offer_positive">Saya ikut! </string>
+    <string name="huhi_sync_description_page_1_part_1">Huhi Sync memungkinkan Anda mensinkronisasi data markah secara pribadi antarperamban Huhi di semua perangkat Anda.</string>
+    <string name="huhi_sync_description_page_1_part_2">Cukup pindai kode dari rantai sinkronisasi yang Anda buat pada perangkat lain. Atau mulai rantai sinkronisasi baru.</string>
+    <string name="huhi_sync_scan_chain_code">Pindai atau masukkan kode sinkronisasi</string>
+    <string name="huhi_sync_start_new_chain">Mulai rantai sinkronisasi baru</string>
+    <string name="huhi_sync_qrcode_message_v2">Menggunakan perangkat tersinkronisasi yang ada, buka Pengaturan Huhi dan bernavigasi ke Pengaturan > Sinkronisasi. Pilih \"Tambah Perangkat\" dan pindai Kode QR yang ditampilkan di layar.</string>
+    <string name="huhi_sync_codewords_message">Menggunakan perangkat tersinkronisasi yang ada, buka Pengaturan Huhi dan bernavigasi ke Pengaturan > Sinkronisasi. Pilih \"Tambah Perangkat\" lalu \"Tampilkan kata-kata kode\".</string>
+    <string name="huhi_sync_btn_mobile">Tambah Perangkat Seluler</string>
+    <string name="huhi_sync_btn_laptop">Tambah Komputer</string>
+    <string name="huhi_sync_scan_sync_code">Pindai kode sinkronisasi ini</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Menggunakan ponsel atau tablet kedua, buka Pengaturan Huhi > Sinkronisasi > Pindai.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">Di perangkat mobile Anda, masuklah ke bagian Huhi Sync dalam panel Pengaturan dan klik tombol \"Pindai Kode Sinkronisasi\". Gunakan kamera Anda untuk memindai Kode QR di bawah ini.</string>
+    <string name="huhi_sync_btn_done">Selesai</string>
+    <string name="huhi_sync_tabs_text">Tab</string>
+    <string name="huhi_sync_history_text">Riwayat</string>
+    <string name="huhi_sync_autofill_passwords_text">Isi otomatis/Kata sandi</string>
+    <string name="huhi_sync_payment_settings_text">Pengaturan Huhi Payment</string>
+    <string name="huhi_sync_settings_title">SINKRONISASI DI PERANGKAT INI</string>
+    <string name="huhi_sync_settings_description">Mengubah pengaturan hanya akan mempengaruhi data yang dibagikan perangkat ini dengan perangkat lain.</string>
+    <string name="huhi_sync_devices_title">PERANGKAT LAIN DALAM RANTAI</string>
+    <string name="huhi_sync_loading_devices_title">MEMUAT PERANGKAT...</string>
+    <string name="huhi_sync_add_device_text">Tambah perangkat lain</string>
+    <string name="huhi_sync_remove_device_text">Hapus perangkat ini</string>
+    <string name="huhi_sync_code_words_title">Sambungkan</string>
+    <string name="huhi_sync_add_laptop_text_title">Masukkan kode rantai sinkronisasi</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Pada komputer Anda, buka Pengaturan Huhi > Sinkronisasi. Pilih \"Masukkan Kode Rantai Sinkronisasi\".</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Masukkan kata-kata kode di bawah ini, termasuk spasi.</string>
+    <string name="huhi_sync_delete_device">Yakin ingin menghapus perangkat \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'?</string>
+    <string name="huhi_sync_delete_sent">Permintaan penghapusan telah dikirim. Perangkat akan dihapus sebentar lagi.</string>
+    <string name="huhi_sync_loading_data_title">Memuat data...</string>
+    <string name="huhi_sync_time_out_message">Ada yang salah, sepertinya permintaan Anda kehabisan waktu.</string>
+    <string name="huhi_sync_use_camera_text">Saya akan gunakan kamera saya...</string>
+    <string name="huhi_sync_confirm_code_words_text">Konfirmasi</string>
+    <string name="huhi_sync_word_count_text">Jumlah kata: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Jumlah kata salah</string>
+    <string name="huhi_sync_qr_code">Kode QR</string>
+    <string name="huhi_sync_code_words">Kode Kata</string>
+    <string name="huhi_sync_copy_button_text">Salin ke Clipboard</string>
+    <string name="huhi_sync_copied_text">Telah Disalin ke Clipboard</string>
+    <string name="huhi_sync_this_device_text">(perangkat ini)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi telah ditetapkan sebagai
+browser default.</string>
+    <string name="huhi_default_browser_go_to_settings">Anda telah menetapkan browser default.
+Anda dapat mengubah browser default dalam pengaturan aplikasi.</string>
+    <string name="huhi_default_browser_notification_body">Hemat baterai dan muat laman web lebih cepat. Jadikan Huhi peramban baku Anda. Dari menu Huhi, ketuk \"Atur sebagai peramban baku\"</string>
+    <string name="huhi_set_default_browser">Atur sebagai peramban baku</string>
+    <string name="huhi_set_default_browser_dialog_text">Pilih Huhi dari daftar dan ketuk \"Selalu\"</string>
+    <string name="huhi_default_browser_existing_notification_body">Jadikan Huhi peramban baku Anda
+Hemat baterai dan muat laman web lebih cepat</string>
+
+    <string name="huhi_ui_welcome_header_two">Bersiaplah untuk merasakan pengalaman
+menelusuri Internet berikutnya.</string>
+    <string name="huhi_ui_welcome_desc_two">Anda kini dapat memperoleh token untuk
+menonton iklan yang tidak mengganggu privasi.</string>
+    <string name="huhi_ui_welcome_button_text_two">BERGABUNGLAH DENGAN HUHI REWARDS</string>
+    <string name="huhi_ui_welcome_footer_text_two">PELAJARI SELENGKAPNYA</string>
+    <string name="huhi_ui_rewards_creating_text">Membuat dompet</string>
+    <string name="huhi_ui_your_wallet">Dompet Anda</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Tambahkan Dana</string>
+    <string name="huhi_ui_settings">Pengaturan</string>
+    <string name="huhi_ui_rewards_summary">RINGKASAN HUHI REWARDS</string>
+    <string name="huhi_ui_site_banner_welcome">Terima kasih telah berkunjung!</string>
+    <string name="huhi_ui_rewards_banner_text1">Anda dapat mendukung situs ini dengan mengirim tip. Tip adalah cara untuk menunjukkan penghargaan kepada situs karena telah membuat konten menarik. Pembuat konten terverifikasi mendapatkan pembayaran untuk tip mereka selama minggu pertama pada setiap bulan kalender.</string>
+    <string name="huhi_ui_rewards_banner_text2">Jika ingin, Anda dapat menjadwalkan tip bulanan untuk mendukung situs ini secara berkelanjutan.</string>
+    <string name="huhi_ui_donation_amount">Jumlah tip</string>
+    <string name="huhi_ui_wallet_balance">saldo dompet:</string>
+    <string name="huhi_ui_make_monthly">Buat tip jadi bulanan</string>
+    <string name="huhi_ui_send_tip">kirim tip saya</string>
+    <string name="huhi_ui_do_monthly">atur tip bulanan</string>
+    <string name="huhi_ui_not_enough_tokens">token tidak cukup</string>
+    <string name="huhi_ui_site_banner_notice_text">CATATAN: Pembuat ini belum terdaftar untuk menerima kontribusi dari pengguna Huhi. Kami akan terus mencoba memberikan kontribusi hingga diverifikasi, atau hingga 90 hari telah lewat.</string>
+    <string name="huhi_ui_please">tambahkan</string>
+    <string name="huhi_ui_add_funds">dana</string>
+    <string name="huhi_ui_thank_you">Terima kasih!</string>
+    <string name="huhi_ui_error_init_wallet">Coba lagi nanti.</string>
+    <string name="huhi_ui_month_jan">JANUARI</string>
+    <string name="huhi_ui_month_feb">FEBRUARI</string>
+    <string name="huhi_ui_month_mar">MARET</string>
+    <string name="huhi_ui_month_apr">APRIL</string>
+    <string name="huhi_ui_month_may">MEI</string>
+    <string name="huhi_ui_month_jun">JUNI</string>
+    <string name="huhi_ui_month_jul">JULI</string>
+    <string name="huhi_ui_month_aug">AGUSTUS</string>
+    <string name="huhi_ui_month_sep">SEPTEMBER</string>
+    <string name="huhi_ui_month_oct">OKTOBER</string>
+    <string name="huhi_ui_month_nov">NOVEMBER</string>
+    <string name="huhi_ui_month_dec">DESEMBER</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>DESEMBER</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Perhatian</string>
+    <string name="huhi_ui_include_in_auto">Sertakan dalam Kontribusi Otomatis</string>
+    <string name="huhi_ui_donate_now">Kirim tip...</string>
+    <string name="huhi_ui_no_activity">Belum ada aktivitas di
+bulan ini...</string>
+    <string name="huhi_ui_token_grant_claimed">Hadiah Token Diklaim</string>
+    <string name="huhi_ui_earnings_ads">Pendapatan dari Iklan</string>
+    <string name="huhi_ui_rewards_contribute">Kontribusi Otomatis</string>
+    <string name="huhi_ui_rewards_contribute_description">Anda telah berkontribusi sebesar <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
+    <string name="huhi_ui_one_time_donation">Tip Satu Kali</string>
+    <string name="huhi_ui_recurring_donation">Tip Bulanan</string>
+    <string name="huhi_ui_verified_publisher">Penerbit Terverifikasi Huhi</string>
+    <string name="huhi_ui_not_verified_publisher">Belum terverifikasi</string>
+    <string name="huhi_ui_not_verified_publisher_description">Pembuat ini belum terdaftar untuk menerima kontribusi dari pengguna Huhi.
+        Setiap tip yang Anda kirim akan tetap ada di dompet Anda hingga diverifikasi.</string>
+    <string name="huhi_ui_on_youtube">di YouTube</string>
+    <string name="huhi_ui_on_twitch">di Twitch</string>
+    <string name="huhi_ui_new_grant">Tersedia hadiah token gratis.</string>
+    <string name="huhi_ui_new_token_grant">Hadiah Token Gratis</string>
+    <string name="huhi_ui_claim">Klaim</string>
+    <string name="huhi_ui_reserved_amount_text">Anda telah menetapkan <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT kepada pembuat yang belum terdaftar
+untuk menerima kontribusi. Browser Anda akan terus mencoba memberikan kontribusi
+hingga diverifikasi, atau hingga 90 hari telah lewat.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Pembayaran bulanan terjadwal Anda untuk Kontribusi Otomatis dan tip bulanan tidak dapat diselesaikan karena dana tidak mencukupi. Kami akan mencoba kembali dalam 30 hari.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Terjadi masalah saat memproses tip Anda, coba lagi.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Terjadi masalah saat memproses kontribusi Anda.</string>
+    <string name="huhi_rewards_local_uh_oh">Oh!</string>
+    <string name="huhi_rewards_local_server_not_responding">Server Huhi Rewards tidak merespons. Kami akan memperbaiki masalah ini secepat mungkin.</string>
+    <string name="huhi_ui_grants">Hadiah</string>
+    <string name="huhi_ui_expires_on">berakhir pada <ph name=\"DATE\">%1$s<ex>14/4/2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Dana Tidak Cukup</string>
+    <string name="huhi_ui_insufficient_funds_desc">Akun Huhi Rewards Anda sedang menunggu setoran dari Anda.</string>
+    <string name="huhi_ui_backup_wallet_msg">Dompet Cadangan</string>
+    <string name="huhi_ui_backup_wallet_desc">Cadangkan dompet Huhi Anda.</string>
+    <string name="huhi_ui_huhi_rewards">Huhi Rewards</string>
+    <string name="huhi_ui_welcome_back_message">Selamat datang!</string>
+    <string name="huhi_ui_get_rewarded">Dapatkan hadiah saat menelusuri.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Dapatkan dengan menonton iklan
+yang tidak mengganggu privasi, dan balas dengan mendukung
+pembuat konten yang Anda sukai.</string>
+    <string name="huhi_welcome_page_rewards_title">AKTIFKAN HUHI REWARDS</string>
+    <string name="huhi_ui_first_tip_text">Tip bulanan pertama Anda akan dikirimkan pada:</string>
+    <string name="huhi_ui_tip_text">Anda baru saja mengirimkan tip ke:</string>
+    <string name="huhi_ui_auto_tip_text">Anda mengirimkan tip secara otomatis ke:</string>
+    <string name="huhi_ui_monthly_text">Bulanan</string>
+    <string name="bottom_toolbar_enable">Aktifkan bilah alat bawah</string>
+    <string name="bottom_toolbar_disable">Nonaktifkan bilah alat bawah</string>
+    <string name="search_or_url">Cari atau URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Buat markah</string>
+    <string name="huhi_ui_donate_monthly">Beri situs ini tip setiap bulan</string>
+
+    <string name="huhi_rewards_not_available">Maaf, sepertinya Huhi Rewards tidak tersedia di perangkat Anda</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Menutup semua tab akan menutup Huhi</string>
+    <string name="prefs_section_display">Layar Tampilan</string>
+    <string name="prefs_section_controls">Kendali</string>
+    <string name="prefs_appearance">Tampilan</string>
+    <string name="hide_huhi_rewards_icon_title">Sembunyikan Ikon Huhi Rewards</string>
+    <string name="hide_huhi_rewards_icon_description">Menyembunyikan Ikon Huhi Rewards ketika Huhi Rewards tidak diaktifkan</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Tampilkan Iklan ketika Huhi tidak sedang digunakan</string>
+    <string name="reset_huhi_rewards_option">Atur Ulang Huhi Rewards</string>
+    <string name="reset_huhi_rewards_option_description">Dompet Huhi Anda akan dihapus dan mengatur ulang semua data Huhi Rewards Anda</string>
+    <string name="reset_huhi_rewards_error_title">Kesalahan Pengaturan Ulang</string>
+    <string name="reset_huhi_rewards_error_description">Terjadi kesalahan saat mengatur ulang Huhi Rewards. Harap luncurkan ulang Huhi dan coba lagi</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Di komputer target Anda, masuklah ke Huhi Sync dalam pengaturan dan klik tombol \"Saya punya Kode Sinkronisasi\".\nMasukkan rangkaian kata kode sinkronisasi yang ditampilkan di bawah ini.</string>
+
+    <string name="huhi_sync_official">Huhi Sync</string>
+    <string name="prefs_sync_official">Sinkronkan</string>
+
+    <string name="huhi_sync_code_warning">Perlakukan kode ini seperti kata sandi. Jika seseorang bisa mengetahuinya, mereka akan bisa membaca dan memodifikasi data yang Anda sinkronkan.</string>
+
+    <string name="notification_category_group_huhi_ads">Iklan Huhi</string>
+    <string name="huhi_ads_you_earned">Anda telah memperoleh</string>
+
+    <string name="huhi_default_browser_title">Huhi sangat cepat</string>
+    <string name="huhi_default_browser_body">Jadikan Huhi browser default Anda! </string>
+    <string name="huhi_make_default_text">Jadikan default</string>
+    <string name="huhi_ui_ads_earnings">didapat dari iklan</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Lewati</string>
+
+    <string name="search_engine_onboarding">Pemuatan mesin pencarian</string>
+    <string name="troubleshooting_onboarding">Pemuatan troubleshooting</string>
+
+    <string name="welcome_to_huhi_browser">Selamat datang di Huhi Browser</string>
+    <string name="select_your_default_search_engine">Pilih mesin pencarian default</string>
+
+    <string name="block">Blokir</string>
+    <string name="huhi_shields_onboarding_title">Perisai Huhi </string>
+    <string name="huhi_shields_onboarding_text">iklan dan pelacak yang melanggar privasi agar Anda dapat meramban tanpa diikuti saat menyusuri web.</string>
+
+    <string name="earn_tokens">Dapatkan token</string>
+    <string name="huhi_rewards_onboarding_title">Huhi Rewards</string>
+    <string name="huhi_rewards_onboarding_text">untuk melihat iklan yang menghargai privasi. Gunakan mereka untuk mendukung situs dan kreator favorit Anda.</string>
+    <string name="huhi_rewards_onboarding_text2">untuk melihat iklan yang menghargai privasi.</string>
+
+    <string name="terms_title">Setujui Persyaratan untuk menggunakan Huhi Rewards</string>
+    <string name="terms_text">Saya menyetujui Huhi Rewards</string>
+    <string name="terms_of_service">Syarat Layanan</string>
+
+    <string name="agree">Setuju</string>
+    <string name="join">Gabung</string>
+
+     <string name="start_browsing">Mulai meramban</string>
+    <string name="i_didnt_see">Saya tidak melihat iklan</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi akan menampilkan iklan pertama Anda dalam</string>
+    <string name="huhi_ads_onboarding_text">Untuk melihat iklan dari Huhi Rewards, pastikan Huhi diizinkan memberi Anda pemberitahuan.</string>
+
+    <string name="this_is_your_first_ad">Ini adalah iklan Huhi pertama Anda. Ketuk untuk pelajari lebih lanjut.</string>
+
+    <string name="turn_on">Nyalakan</string>
+
+    <string name="no_thanks">Tidak, terima kasih</string>
+    <string name="do_not_agree">Tidak setuju</string>
+
+    <string name="prefs_welcome_tour">Tur Selamat Datang</string>
+    <string name="welcome_tour_dialog_text">Meluncurkan ulang Tur Sambutan tidak akan memengaruhi pengaturan yang ada.</string>
+    <string name="finish">Selesai</string>
+    
+    <string name="clear_download_title">Unduh riwayat</string>
+
+    <string name="settings_exit">Pengaturan keluar</string>
+
+</resources>

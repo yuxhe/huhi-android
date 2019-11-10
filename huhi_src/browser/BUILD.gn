@@ -1,0 +1,20 @@
+import("//build/config/features.gni")
+
+source_set("browser_process") {
+  sources = [
+    "huhi_tab_helpers.cc",
+    "huhi_tab_helpers.h",
+    "huhi_tab_url_web_contents_observer.cc",
+    "huhi_tab_url_web_contents_observer.h",
+    "web_contents_ledger_observer.cc",
+    "web_contents_ledger_observer.h",
+  ]
+
+  deps = [
+    "//base",
+    "//huhi/vendor/bat-native-ledger",
+    "//chrome/common",
+    "//components/component_updater",
+    "//content/public/browser",
+  ]
+}

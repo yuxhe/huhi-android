@@ -1,0 +1,318 @@
+<resources>
+
+    <string name="huhi_settings_title">Configurări scut site Huhi pentru</string>
+    <string name="huhi_shields_down">Jos</string>
+    <string name="huhi_shields_up">Sus</string>
+    <string name="huhi_shields_ads_trackers">Reclame și urmărire blocate</string>
+    <string name="huhi_shields_https_upgrades">Actualizări HTTPS</string>
+    <string name="huhi_shields_scripts_blocked">Scripturi blocate</string>
+    <string name="huhi_shields_ads_tracking_switch">Blocare reclame și urmărire</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Everywhere</string>
+    <string name="huhi_shields_blocks_scripts_switch">Blocare scripturi</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Activare/Dezactivare scuturi Huhi</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Gestionare Recompense Huhi</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Blocare fișiere cookie terțe</string>
+
+    <string name="httpse_summary">Deschide site-uri compatibile utilizând HTTPS în loc de HTTP atunci când este posibil</string>
+    <string name="ad_block_title">Blocare reclame</string>
+    <string name="ad_block_summary">Împiedică încărcarea reclamelor</string>
+
+    <string name="fingerprinting_protection_title">Protecție pentru amprentare digitală</string>
+    <string name="fingerprinting_protection_summary">Împiedică amprentarea digitală a browserului</string>
+    <string name="huhi_shields_fingerprints_blocked">Metode de amprentare digitală blocate</string>
+    <string name="huhi_shields_block_fingerprints_switch">Protecție pentru amprentare digitală</string>
+
+    <string name="ad_block_regional_title">Ad Block regional</string>
+    <string name="ad_block_regional_summary">Împiedică încărcarea reclamelor regionale</string>
+
+    <string name="ad_block_regional_summary_no_list">Nicio listă suplimentară disponibilă pentru setările dvs. regionale</string>
+
+    <string name="menu_exit">Ieșire</string>
+
+    <string name="huhi_sync">Sincronizare Huhi (beta)</string>
+    <string name="sync_settings_add_device_name_title">Adăugare nume dispozitiv</string>
+    <string name="sync_settings_add_device_name_label">Introduceți un nume opțional pentru acest dispozitiv</string>
+    <string name="sync_example_device_name">Dispozitiv Android</string>
+    <string name="enter_code_words_sync">Introducere cuvânt codat</string>
+    <string name="sync_device">Dispozitiv de sincronizat</string>
+    <string name="sync_device_failure">Sincronizarea nu poate fi realizată</string>
+    <string name="sync_requires_correct_time">Este posibil ca ora sau fusul orar al ceasului computerului dvs. să fie configurate incorect. Verificați setările ceasului dvs.</string>
+
+    <string name="huhi_stats_text_ads">Anunțuri și urmăritori
+Blocat</string>
+    <string name="huhi_stats_text_https">Actualizări
+HTTPS</string>
+    <string name="huhi_stats_text_time">Timp est.
+Salvat</string>
+
+    <string name="send_metrics_title">Trimiteți măsurători</string>
+
+    <string name="desktop_mode_title">Mod calculator</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Preferință pentru versiunea pentru calculator a site-urilor</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Preferință pentru versiunea mobilă a site-urilor </string>
+    <string name="website_settings_category_desktop_view_enabled">Autorizare vizionare în mod calculator, pentru noi file</string>
+    <string name="website_settings_category_desktop_view_disabled">Utilizare versiuni mobile ale site-urilor, pentru noi file (recomandat)</string>
+
+    <string name="huhi_shields_first_group_title">Monitor Blocare</string>
+    <string name="huhi_shields_second_group_title">Controale Individuale</string>
+    <string name="huhi_shields">Scuturi</string>
+    <string name="huhi_shields_ads_and_trackers">Reclame şi Urmăritori</string>
+    <string name="huhi_shields_fingerprint_methods">Metode Amprentă</string>
+    <string name="huhi_shields_block_phishing_switch">Blocare Phishing</string>
+
+    <string name="play_video_in_background_title">Redare video în fundal</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Activat</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Dezactivat</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Funcție experimentală. Permite redarea în fundal a pistei audio a videoclipurilor atunci când fila nu este activă sau când ecranul dispozitivului este închis. Dacă funcția nu rulează, încercați să comutați în modul desktop.</string>
+    <string name="settings_require_relaunch_notice">Modificările efectuate vor fi activate la următoarea lansare a Huhi</string>
+    <string name="settings_require_relaunch_now">RELANSEAZĂ ACUM</string>
+    <string name="settings_require_relaunch_later">MAI TÂRZIU</string>
+
+    <string name="play_yt_video_in_browser_title">Redare video în Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Activat</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Dezactivat</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Dacă este activat, fișierele video vor fi redate în Huhi în loc de altă aplicație corespondentă</string>
+
+    <string name="close_tabs_on_exit_title">Închidere file la ieșire</string>
+    <string name="close_tabs_on_exit_summary">Taburile nu sunt persistente de la o sesiune de browsing la alta</string>
+
+    <string name="open_pages_in_custom_tabs_title">Deschidere file în File particularizate</string>
+    <string name="open_pages_in_custom_tabs_summary">Oferiți opțiunea de deschidere a filelor în File particularizate</string>
+
+    <string name="ddg_offer_title">Căutare privată cu DuckDuckGo?</string>
+    <string name="ddg_offer_text">În cazul căutării private, Huhi va folosi DuckDuckGo pentru a răspunde la căutările dvs. în timp ce vă aflați pe această filă privată. DuckDuckGo este un motor de căutare care nu vă monitorizează istoricul căutărilor, permițându-vă să căutați în mod privat.</string>
+    <string name="ddg_offer_positive">Da</string>
+    <string name="ddg_offer_negative">Nu</string>
+    <string name="ddg_offer_link">Aflați despre căutarea privată cu DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Filă standard</string>
+    <string name="prefs_private_search_engine">Filă privată</string>
+
+    <string name="huhi_open_in_private_tab">Deschideți în filă privată</string>
+    <string name="huhi_close_all_private_tabs">Închideți filele private</string>
+    <string name="huhi_new_private_tab">Filă privată nouă</string>
+    <string name="huhi_new_tab_private_header">Aceasta este o filă privată</string>
+    <string name="huhi_new_tab_private_message">Cu toate că site-urile pe care le vizitați în file private nu sunt salvate local, acestea nu vă fac anonim sau invizibil pentru furnizorul dvs. de internet, angajatorul dvs. sau site-urile pe care le vizitați.</string>
+    <string name="update_notification_title">Actualizare Huhi</string>
+    <string name="update_notification_text">Noul browser Huhi este cu 22% mai rapid</string>
+    <string name="prefs_sync">Sincronizare (beta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Reclamele Huhi sunt aici!</string>
+    <string name="huhi_ads_new_user_offer_title">Activați Recompense Huhi</string>
+    <string name="huhi_ads_offer_text">Obțineți Basic Attention Token pentru a vizualiza reclame care mențin confidențialitatea în Recompense Huhi.</string>
+    <string name="huhi_ads_offer_positive">Vreau să particip!</string>
+    <string name="huhi_sync_description_page_1_part_1">Sincronizare Beta vă permite să sincronizați în mod privat date privind marcajele între Browserele Huhi de pe diverse dispozitive.</string>
+    <string name="huhi_sync_description_page_1_part_2">Scanați codul de pe lanțul de sincronizare pe care l-ați creat pe un alt dispozitiv. Sau inițiați un lanț nou de sincronizare.</string>
+    <string name="huhi_sync_scan_chain_code">Scanați sau introduceți codul de sincronizare</string>
+    <string name="huhi_sync_start_new_chain">Inițiați un nou lanț de sincronizare</string>
+    <string name="huhi_sync_qrcode_message_v2">Pe dispozitivul sincronizat existent, deschideți Setări Huhi și accesați Setări  > Sincronizare. Alegeți „Adăugare dispozitiv” și scanați codul QR afișat pe ecran.</string>
+    <string name="huhi_sync_codewords_message">Pe dispozitivul sincronizat existent, deschideți Setări Huhi și accesați Setări  > Sincronizare. Alegeți „Adăugare dispozitiv” și apoi „Afișare cuvinte cod în schimb”.</string>
+    <string name="huhi_sync_btn_mobile">Adăugare dispozitiv mobil</string>
+    <string name="huhi_sync_btn_laptop">Adăugare computer</string>
+    <string name="huhi_sync_scan_sync_code">Scanați acest cod de sincronizare</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Pe o a doua tabletă sau un al doilea telefon, accesați Setări Huhi  > Sincronizare  > Scanare.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">Pe dispozitivul dvs. mobil, navigați la Sincronizare Huhi în panoul Setări și apăsați butonul „Scanare cod sincronizare”. Folosiți camera foto pentru a scana Codul QR de mai jos.</string>
+    <string name="huhi_sync_btn_done">Efectuat</string>
+    <string name="huhi_sync_tabs_text">File</string>
+    <string name="huhi_sync_history_text">Istoric</string>
+    <string name="huhi_sync_autofill_passwords_text">Completare automată/parole</string>
+    <string name="huhi_sync_payment_settings_text">Setări plăți Huhi</string>
+    <string name="huhi_sync_settings_title">SINCRONIZEAZĂ PE ACEST DISPOZITIV</string>
+    <string name="huhi_sync_settings_description">Modificarea setărilor va afecta numai datele pe care acest dispozitiv le partajează cu altele.</string>
+    <string name="huhi_sync_devices_title">ALTE DISPOZITIVE DIN LANȚ</string>
+    <string name="huhi_sync_loading_devices_title">SE ÎNCARCĂ DISPOZITIVELE...</string>
+    <string name="huhi_sync_add_device_text">Adăugați un alt dispozitiv</string>
+    <string name="huhi_sync_remove_device_text">Eliminați acest dispozitiv</string>
+    <string name="huhi_sync_code_words_title">Asociere</string>
+    <string name="huhi_sync_add_laptop_text_title">Introducere cod lanț sincronizare</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Pe computer, accesați Setări Huhi  >Sincronizare. Selectați „Introducere cod lanț sincronizare”.</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Introduceți cuvintele cod de mai sus, inclusiv spațiile.</string>
+    <string name="huhi_sync_delete_device">Sigur ștergeți dispozitivul \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'?</string>
+    <string name="huhi_sync_delete_sent">Solicitarea de șterge a fost trimisă. Dispozitivul va fi eliminat în curând.</string>
+    <string name="huhi_sync_loading_data_title">Se încarcă datele...</string>
+    <string name="huhi_sync_time_out_message">Ceva nu a funcționat corect; solicitarea a expirat.</string>
+    <string name="huhi_sync_use_camera_text">Voi utiliza camera....</string>
+    <string name="huhi_sync_confirm_code_words_text">Confirmați</string>
+    <string name="huhi_sync_word_count_text">Număr de cuvinte: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Număr de cuvinte incorect</string>
+    <string name="huhi_sync_qr_code">Cod QR</string>
+    <string name="huhi_sync_code_words">Cuvinte cod</string>
+    <string name="huhi_sync_copy_button_text">Copiere în clipboard</string>
+    <string name="huhi_sync_copied_text">Copiat în Clipboard</string>
+    <string name="huhi_sync_this_device_text">(acest dispozitiv)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi este deja setat
+ca browser implicit.</string>
+    <string name="huhi_default_browser_go_to_settings">Aveți deja setat un browser implicit.
+Puteți modifica browserul implicit din setările aplicației.</string>
+    <string name="huhi_default_browser_notification_body">Economisiți baterie și încărcați mai repede paginile web. Faceți ca Huhi să fie browserul dvs. implicit. Din meniul Huhi, atingeți „Setează ca browser implicit”</string>
+    <string name="huhi_set_default_browser">Setați ca browser implicit</string>
+    <string name="huhi_set_default_browser_dialog_text">Selectați Huhi din listă și atingeți „Întotdeauna”</string>
+    <string name="huhi_default_browser_existing_notification_body">Faceți Huhi browserul dumneavoastră implicit
+Economisiți baterie şi încărcați mai rapid paginile web</string>
+
+    <string name="huhi_ui_welcome_header_two">Pregătiți-vă pentru experiența
+următorului nivel de Internet.</string>
+    <string name="huhi_ui_welcome_desc_two">Acum puteți câștiga tokenuri pentru
+vizualizarea de reclame, cu respectarea vieții private.</string>
+    <string name="huhi_ui_welcome_button_text_two">DEVENIȚI MEMBRU REWARDS</string>
+    <string name="huhi_ui_welcome_footer_text_two">AFLAȚI MAI MULTE</string>
+    <string name="huhi_ui_rewards_creating_text">Creare portofel</string>
+    <string name="huhi_ui_your_wallet">Portofelul dvs.</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0.0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Adăugați fonduri</string>
+    <string name="huhi_ui_settings">Setări</string>
+    <string name="huhi_ui_rewards_summary">CUPRINS REWARDS</string>
+    <string name="huhi_ui_site_banner_welcome">Mulțumim pentru vizită!</string>
+    <string name="huhi_ui_rewards_banner_text1">Puteți susține acest site web trimițând un bonus. Acesta este un mod de a le mulțumi pentru conținutul de calitate pe care îl furnizează. Creatorii de conținut verificați sunt plătiți pentru bonusurile lor în prima săptămână a fiecărei luni calendaristice. </string>
+    <string name="huhi_ui_rewards_banner_text2">Dacă doriți, puteți opta pentru bonusuri lunare pentru a susține acest website în mod constant.</string>
+    <string name="huhi_ui_donation_amount">Sumă bonus</string>
+    <string name="huhi_ui_wallet_balance">sold portofel:</string>
+    <string name="huhi_ui_make_monthly">Faceți un abonament lunar</string>
+    <string name="huhi_ui_send_tip">trimite bonusul meu</string>
+    <string name="huhi_ui_do_monthly">stabilește bonus lunar</string>
+    <string name="huhi_ui_not_enough_tokens">nu aveți suficiente tokenuri</string>
+    <string name="huhi_ui_site_banner_notice_text">NOTĂ: Acest creator nu s-a înregistrat încă pentru a primi donații de la utilizatorii Huhi. Vom încerca să transmitem donațiile până când vor verifica, sau până când va curge un termen de 90 de zile. </string>
+    <string name="huhi_ui_please">te rog</string>
+    <string name="huhi_ui_add_funds">adaugă fonduri</string>
+    <string name="huhi_ui_thank_you">Mulțumesc!</string>
+    <string name="huhi_ui_error_init_wallet">Încercați din nou mai târziu.</string>
+    <string name="huhi_ui_month_jan">IANUARIE</string>
+    <string name="huhi_ui_month_feb">FEBRUARIE</string>
+    <string name="huhi_ui_month_mar">MARTIE</string>
+    <string name="huhi_ui_month_apr">APRILIE</string>
+    <string name="huhi_ui_month_may">MAI</string>
+    <string name="huhi_ui_month_jun">IUNIE</string>
+    <string name="huhi_ui_month_jul">IULIE</string>
+    <string name="huhi_ui_month_aug">AUGUST</string>
+    <string name="huhi_ui_month_sep">SEPTEMBRIE</string>
+    <string name="huhi_ui_month_oct">OCTOMBRIE</string>
+    <string name="huhi_ui_month_nov">NOIEMBRIE</string>
+    <string name="huhi_ui_month_dec">DECEMBRIE</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>DECEMBRIE</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Atenție</string>
+    <string name="huhi_ui_include_in_auto">Include în Auto-Contribute</string>
+    <string name="huhi_ui_donate_now">Trimite un bonus...</string>
+    <string name="huhi_ui_no_activity">Nicio activitate
+luna aceasta...</string>
+    <string name="huhi_ui_token_grant_claimed">Acordare de tokenuri solicitată</string>
+    <string name="huhi_ui_earnings_ads">Venituri din reclame</string>
+    <string name="huhi_ui_rewards_contribute">Auto-Contribute</string>
+    <string name="huhi_ui_rewards_contribute_description">Ați contribuit <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph>BAT.</string>
+    <string name="huhi_ui_one_time_donation">Bonusuri unice</string>
+    <string name="huhi_ui_recurring_donation">Bonusuri lunare</string>
+    <string name="huhi_ui_verified_publisher">Editor Huhi verificat</string>
+    <string name="huhi_ui_not_verified_publisher">Încă nu a fost verificat</string>
+    <string name="huhi_ui_not_verified_publisher_description">Acest creator nu s-a înregistrat încă pentru a primi donații de la utilizatorii Huhi.
+Orice bonusuri trimiteți vor rămâne în portofelul dumneavoastră până când se vor înscrie.</string>
+    <string name="huhi_ui_on_youtube">pe YouTube</string>
+    <string name="huhi_ui_on_twitch">pe Twitch</string>
+    <string name="huhi_ui_new_grant">Este disponibilă acordarea de tokenuri gratuite.</string>
+    <string name="huhi_ui_new_token_grant">Acordare de tokenuri gratuite</string>
+    <string name="huhi_ui_claim">Solicită</string>
+    <string name="huhi_ui_reserved_amount_text">Ați alocat <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph>BAT pentru creatori care nu
+s-au înregistrat încă pentru a primi contribuții. Browserul dvs. va încerca să transmită contribuțiile
+până când vor verifica sau până la 90 de zile. </string>
+    <string name="huhi_ui_notification_desc_no_funds">Plata dvs. lunară programată pentru Contribuție automată și bacșișuri lunare nu a putut fi finalizată din cauza fondurilor insuficiente. Vom încerca din nou peste 30 de zile.</string>
+    <string name="huhi_ui_notification_desc_tip_error">A apărut o problemă în procesarea bonusului, vă rugăm încercați din nou.</string>
+    <string name="huhi_ui_notification_desc_contr_error">A apărut o problemă în procesarea donației dumneavoastră.</string>
+    <string name="huhi_rewards_local_uh_oh">Oo, nu!</string>
+    <string name="huhi_rewards_local_server_not_responding">Serverul Huhi Rewards nu răspunde. Vom remedia problema în cel mai scurt timp posibil. </string>
+    <string name="huhi_ui_grants">Acordări</string>
+    <string name="huhi_ui_expires_on">expiră la<ph name=\"DATE\">%1$s<ex>14.04.2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Fonduri insuficiente</string>
+    <string name="huhi_ui_insufficient_funds_desc">Contul dumneavoastră pe Huhi Rewards este disponibil pentru depunere.</string>
+    <string name="huhi_ui_backup_wallet_msg">Portofel de rezervă</string>
+    <string name="huhi_ui_backup_wallet_desc">Salvați datele din portofelul Huhi.</string>
+    <string name="huhi_ui_huhi_rewards">Huhi Rewards</string>
+    <string name="huhi_ui_welcome_back_message">Bine ați revenit!</string>
+    <string name="huhi_ui_get_rewarded">Primiți recompense pentru navigări.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Câștigați din vizualizarea reclamelor, cu respectarea vieții private,
+și dați mai departe pentru a susține
+creatorii de conținut care vă plac.</string>
+    <string name="huhi_welcome_page_rewards_title">ACTIVEAZĂ HUHI REWARDS</string>
+    <string name="huhi_ui_first_tip_text">Primul dvs. bacșiș lunar va fi trimis la:</string>
+    <string name="huhi_ui_tip_text">Tocmai ați trimis un bacșiș către:</string>
+    <string name="huhi_ui_auto_tip_text">Trimiteți automat un bacșiș către:</string>
+    <string name="huhi_ui_monthly_text">Lunar</string>
+    <string name="bottom_toolbar_enable">Activează bara de instrumente de jos</string>
+    <string name="bottom_toolbar_disable">Dezactivează bara de instrumente de jos</string>
+    <string name="search_or_url">Căutare sau URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Creați un semn de carte</string>
+    <string name="huhi_ui_donate_monthly">Susțineți financiar lunar acest site</string>
+
+    <string name="huhi_rewards_not_available">Ne pare rău, dar se pare că Huhi Rewards nu este disponibil pe dispozitivul dvs.</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Dacă închideți toate filele, Huhi se va închide</string>
+    <string name="prefs_section_display">Afișaj</string>
+    <string name="prefs_section_controls">Controale</string>
+    <string name="prefs_appearance">Aspect</string>
+    <string name="hide_huhi_rewards_icon_title">Ascunde Iconița Recompense Huhi</string>
+    <string name="hide_huhi_rewards_icon_description">Ascunde Ioniță de Recompense Huhi când Recompensele Huhi nu sunt activate</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Afișează reclame când Huhi nu este utilizat</string>
+    <string name="reset_huhi_rewards_option">Resetează Recompense Huhi</string>
+    <string name="reset_huhi_rewards_option_description">Aceasta va șterge portofelul Huhi și va reseta toate datele despre Recompensele Huhi</string>
+    <string name="reset_huhi_rewards_error_title">Resetare Eroare</string>
+    <string name="reset_huhi_rewards_error_description">A apărut o eroare la resetarea Recompenselor Huhi. Vă rugăm relansați Huhi și încercați din nou</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Pe computerul țintă, navigați pe Huhi Sync în setări şi apăsați pe butonul \"Am un Cod Sync\".\nIntroduceți cuvintele înlănțuite cod sync afişate mai jos.</string>
+
+    <string name="huhi_sync_official">Huhi Sync</string>
+    <string name="prefs_sync_official">Sync</string>
+
+    <string name="huhi_sync_code_warning">Tratați acest cod ca pe o parolă. Dacă cineva îl obține, acea persoană poate să citească şi să modifice datele dumneavoastră sincronizate.</string>
+
+    <string name="notification_category_group_huhi_ads">Reclame Huhi</string>
+    <string name="huhi_ads_you_earned">Ați obținut</string>
+
+    <string name="huhi_default_browser_title">Huhi este iute ca fulgerul</string>
+    <string name="huhi_default_browser_body">Setați Huhi ca browser implicit!</string>
+    <string name="huhi_make_default_text">Setați ca implicit</string>
+    <string name="huhi_ui_ads_earnings">câștigat din reclame</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Omiteți</string>
+
+    <string name="search_engine_onboarding">Înscriere în motorul de căutare</string>
+    <string name="troubleshooting_onboarding">Remedierea erorilor pentru înscriere</string>
+
+    <string name="welcome_to_huhi_browser">Bine ați venit în Browserul Huhi</string>
+    <string name="select_your_default_search_engine">Selectați motorul de căutare prestabilit</string>
+
+    <string name="block">Blocați</string>
+    <string name="huhi_shields_onboarding_title">Scuturi Huhi</string>
+    <string name="huhi_shields_onboarding_text">anunțurile și instrumentele de urmărire invazive, ca să puteți naviga pe internet fără să fiți urmărit(ă).</string>
+
+    <string name="earn_tokens">Câștigați tokenuri</string>
+    <string name="huhi_rewards_onboarding_title">Recompense Huhi</string>
+    <string name="huhi_rewards_onboarding_text">pentru că vizionați anunțuri care respectă confidențialitatea. Folosiți-le pentru a vă susține site-urile și creatorii preferați.</string>
+    <string name="huhi_rewards_onboarding_text2">pentru vizionarea anunțurilor care respectă confidențialitatea.</string>
+
+    <string name="terms_title">Acceptați Termenii pentru a folosi Recompensele Huhi</string>
+    <string name="terms_text">Sunt de acord cu Recompensele Huhi</string>
+    <string name="terms_of_service">Termeni și condiții</string>
+
+    <string name="agree">Sunt de acord</string>
+    <string name="join">Înscrieți-vă</string>
+
+     <string name="start_browsing">Începeți să navigați</string>
+    <string name="i_didnt_see">Nu am văzut un anunț</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi vă va afișa primul anunț în</string>
+    <string name="huhi_ads_onboarding_text">Pentru a viziona anunțuri de la Recompensele Huhi, asigurați-vă că Huhi are permisiunea de a afișa notificări.</string>
+
+    <string name="this_is_your_first_ad">Acesta este primul dvs. anunț Huhi. Atingeți pentru a afla mai multe.</string>
+
+    <string name="turn_on">Activați</string>
+
+    <string name="no_thanks">Nu, mulțumesc</string>
+    <string name="do_not_agree">Nu sunt de acord</string>
+
+    <string name="prefs_welcome_tour">Tur de bun venit</string>
+    <string name="welcome_tour_dialog_text">Repornirea Turului de bun venit nu va afecta setările existente.</string>
+    <string name="finish">Gata</string>
+    
+    <string name="clear_download_title">Istoric descărcări</string>
+
+    <string name="settings_exit">Ieșire setări</string>
+
+</resources>

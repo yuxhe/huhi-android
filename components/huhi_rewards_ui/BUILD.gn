@@ -1,0 +1,33 @@
+import("//components/common/typescript.gni")
+import("//tools/grit/repack.gni")
+
+pack_web_resources("settings_generated_resources") {
+  resource_name = "huhi_rewards_settings"
+  output_dir = "$root_gen_dir/components/huhi_rewards/settings/resources"
+  deps = [
+    "resources:transpile_settings",
+  ]
+}
+
+pack_web_resources("internals_generated_resources") {
+  resource_name = "huhi_rewards_internals"
+  output_dir = "$root_gen_dir/components/huhi_rewards/settings/resources"
+  deps = [
+    "internals:transpile_settings",
+  ]
+}
+
+
+repack("ui") {
+  deps = [
+    ":settings_generated_resources",
+    ":internals_generated_resources"
+  ]
+
+  sources = [
+    "$root_gen_dir/components/huhi_rewards/settings/resources/huhi_rewards_settings_generated.pak",
+    "$root_gen_dir/components/huhi_rewards/settings/resources/huhi_rewards_internals_generated.pak",
+  ]
+
+  output = "$root_gen_dir/components/huhi_rewards/resources/huhi_rewards_resources.pak"
+}

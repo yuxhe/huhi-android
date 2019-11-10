@@ -1,0 +1,318 @@
+<resources>
+
+    <string name="huhi_settings_title">Huhi -sivustosuoja-asetukset kohteelle</string>
+    <string name="huhi_shields_down">Alas</string>
+    <string name="huhi_shields_up">Ylös</string>
+    <string name="huhi_shields_ads_trackers">Mainokset ja Seuraimet Estetty</string>
+    <string name="huhi_shields_https_upgrades">HTTPS Päivitykset</string>
+    <string name="huhi_shields_scripts_blocked">Komentosarjat Estetty</string>
+    <string name="huhi_shields_ads_tracking_switch">Estä Mainokset ja Seuranta</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Kaikkialla</string>
+    <string name="huhi_shields_blocks_scripts_switch">Estä Komentosarjat</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Ota käyttöön/Poista käytöstä Huhi -suojat</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Hallitse Huhin palkintoja</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Estä kolmannen osapuolen evästeet</string>
+
+    <string name="httpse_summary">Avaa tuetut sivustot käyttämällä HTTPS:ää HTTP:n sijasta, kun mahdollista</string>
+    <string name="ad_block_title">Ad Block</string>
+    <string name="ad_block_summary">Estää mainoksia latautumasta</string>
+
+    <string name="fingerprinting_protection_title">Sormenjälkisuojaus</string>
+    <string name="fingerprinting_protection_summary">Ehkäisee selaimen sormenjäljiltä</string>
+    <string name="huhi_shields_fingerprints_blocked">Sormenjälkimenetelmät estetty</string>
+    <string name="huhi_shields_block_fingerprints_switch">Sormenjälkisuojaus</string>
+
+    <string name="ad_block_regional_title">Alueellisen mainoksen esto</string>
+    <string name="ad_block_regional_summary">Estää paikallisten mainosten latautumisen</string>
+
+    <string name="ad_block_regional_summary_no_list">Ei ylimääräisiä listoja saatavilla tapahtumapaikallasi</string>
+
+    <string name="menu_exit">Poistua</string>
+
+    <string name="huhi_sync">Huhin synkronointi (beta)</string>
+    <string name="sync_settings_add_device_name_title">Lisää laitteen nimi</string>
+    <string name="sync_settings_add_device_name_label">Anna laitteelle vaihtoehtoinen nimi</string>
+    <string name="sync_example_device_name">Android-laite</string>
+    <string name="enter_code_words_sync">Anna koodisanat</string>
+    <string name="sync_device">Synkronoi laite</string>
+    <string name="sync_device_failure">Synkronoinnin määritys ei onnistunut</string>
+    <string name="sync_requires_correct_time">Tietokoneesi kello on saatettu asettaa väärään aikaan tai väärälle aikavyöhykkeelle. Tarkista kellosi asetukset</string>
+
+    <string name="huhi_stats_text_ads">Mainokset ja seuraimet
+Estetty</string>
+    <string name="huhi_stats_text_https">HTTPS
+Päivitykset</string>
+    <string name="huhi_stats_text_time">Arvioitu aika
+Tallennettu</string>
+
+    <string name="send_metrics_title">Lähetä mittaustulokset</string>
+
+    <string name="desktop_mode_title">Työpöytätila</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Suosi sivustojen työpöytäversioita</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Suosi sivustojen mobiiliversioita</string>
+    <string name="website_settings_category_desktop_view_enabled">Käytä työpöytänäkymää uusissa välilehdissä</string>
+    <string name="website_settings_category_desktop_view_disabled">Käytä sivustojen mobiiliversioita uusissa välilehdissä (suositellaan)</string>
+
+    <string name="huhi_shields_first_group_title">Estojen valvonta</string>
+    <string name="huhi_shields_second_group_title">Yksittäiset valvontaohjaimet</string>
+    <string name="huhi_shields">Suojaukset</string>
+    <string name="huhi_shields_ads_and_trackers">Mainokset ja seurantaohjelmat</string>
+    <string name="huhi_shields_fingerprint_methods">Sormenjälkimenetelmät</string>
+    <string name="huhi_shields_block_phishing_switch">Estä tiedonkalastelu</string>
+
+    <string name="play_video_in_background_title">Toista videot taustalla</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Käytössä</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Pois käytöstä</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Kokeiluversio. Mahdollistaa äänentoiston taustalla olevasta videosta kun välilehti ei ole auki tai laitteen näyttö ei ole päällä. Kokeile työpöytätilaan siirtymistä, jos tämä ominaisuus ei toimi.</string>
+    <string name="settings_require_relaunch_notice">Tekemäsi muutokset astuvat voimaan käynnistäessäsi Huhin seuraavan kerran</string>
+    <string name="settings_require_relaunch_now">KÄYNNISTÄ UUDELLEEN NYT</string>
+    <string name="settings_require_relaunch_later">MYÖHEMMIN</string>
+
+    <string name="play_yt_video_in_browser_title">Toista videot Huhi-sovelluksessa</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Käytössä</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Pois käytöstä</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Jos asetus on käytössä, videot toistetaan Huhi-sovelluksessa niille määritellyn oletussovelluksen sijaan</string>
+
+    <string name="close_tabs_on_exit_title">Sulje välilehdet lopetettaessa</string>
+    <string name="close_tabs_on_exit_summary">Älä muista välilehtiä selausistuntojen välillä</string>
+
+    <string name="open_pages_in_custom_tabs_title">Avoimet välilehdet Mukautetuissa Välilehdissä</string>
+    <string name="open_pages_in_custom_tabs_summary">Tarjoudu avaamaan välilehtiä Mukautetuissa Väilehdissä</string>
+
+    <string name="ddg_offer_title">Tehdäänkö yksityinen haku DuckDuckGolla?</string>
+    <string name="ddg_offer_text">Yksityishaussa Huhi käyttää DuckDuckGota vastaamaan hakuihisi, kun olet tällä yksityisellä välilehdellä. DuckDuckGo on hakukone, joka ei seuraa hakuhistoriaasi, joten voit tehdä hakuja yksityisesti.</string>
+    <string name="ddg_offer_positive">Kyllä</string>
+    <string name="ddg_offer_negative">Ei</string>
+    <string name="ddg_offer_link">Lue lisää DuckDuckGon yksityisestä hausta</string>
+    <string name="prefs_standard_search_engine">Normaali välilehti</string>
+    <string name="prefs_private_search_engine">Yksityinen välilehti</string>
+
+    <string name="huhi_open_in_private_tab">Avaa yksityisessä välilehdessä</string>
+    <string name="huhi_close_all_private_tabs">Sulje yksityiset välilehdet</string>
+    <string name="huhi_new_private_tab">Uusi yksityinen välilehti</string>
+    <string name="huhi_new_tab_private_header">Tämä on yksityinen välilehti</string>
+    <string name="huhi_new_tab_private_message">Vaikka sivustoja, joilla vierailemiseen käytät yksityisiä välilehtiä, ei tallennetakaan paikallisesti, et kuitenkaan ole anonyymi tai näkymätön Internet-palveluntarjoajallesi, työnantajallesi tai vierailemillesi sivustoille.</string>
+    <string name="update_notification_title">Huhi-selaimen päivitys</string>
+    <string name="update_notification_text">Uusi Huhi-selain on 22 % nopeampi</string>
+    <string name="prefs_sync">Synkronoi (beta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Huhi-mainokset ovat täällä!</string>
+    <string name="huhi_ads_new_user_offer_title">Ota Huhi-palkinnot käyttöön</string>
+    <string name="huhi_ads_offer_text">Ansaitse perushuomiopoletti katsomalla yksityisyyden säilyttäviä mainoksia Huhi-palkinnoissa.</string>
+    <string name="huhi_ads_offer_positive">Olen mukana!</string>
+    <string name="huhi_sync_description_page_1_part_1">Huhi Syncin avulla voit synkronoida kirjanmerkkitietoja yksityisesti Huhi-selaintesi välillä eri laitteissasi.</string>
+    <string name="huhi_sync_description_page_1_part_2">Yksinkertaisesti skannaa koodi synkronointiketjusta, jonka loit toisessa laitteessa. Tai aloita uusi synkronointiketju.</string>
+    <string name="huhi_sync_scan_chain_code">Skannaa tai anna synkronointikoodi</string>
+    <string name="huhi_sync_start_new_chain">Aloita uusi synkronointikoodi</string>
+    <string name="huhi_sync_qrcode_message_v2">Kun käytät olemassa olevaa synkronoitua laitetta, avaa Huhin asetukset ja siirry Asetukset > Synkronoi -kohtaan. Valitse \"Lisää laite\" ja skannaa näytöllä näkyvä QR-koodi. </string>
+    <string name="huhi_sync_codewords_message">Kun käytät olemassa olevaa synkronoitua laitetta, avaa Huhin asetukset ja siirry Asetukset > Synkronoi -kohtaan. Valitse \"Lisää laite\" ja sen jälkeen \"Näytä sen sijaan koodisanat\".</string>
+    <string name="huhi_sync_btn_mobile">Lisää mobiililaite</string>
+    <string name="huhi_sync_btn_laptop">Lisää tietokone</string>
+    <string name="huhi_sync_scan_sync_code">Skannaa tämä synkronointikoodi</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Käyttämällä toista puhelinta tai tablettia, siirry kohtaan Huhin asetukset > Synkronoi > Skannaa.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">Siirry mobiililaitteellasi asetuspaneelista löytyvään Huhin synkronointi -osioon ja napauta \"Skannaa synkronointikoodi\" -painiketta. Skannaa alla oleva ruutukoodi kamerallasi.</string>
+    <string name="huhi_sync_btn_done">Valmis</string>
+    <string name="huhi_sync_tabs_text">Välilehdet</string>
+    <string name="huhi_sync_history_text">Historia</string>
+    <string name="huhi_sync_autofill_passwords_text">Automaattinen täyttö/Salasanat</string>
+    <string name="huhi_sync_payment_settings_text">Huhin maksuasetukset</string>
+    <string name="huhi_sync_settings_title">SYNKRONOI TÄSSÄ LAITTEESSA</string>
+    <string name="huhi_sync_settings_description">Asetuksien muuttaminen vaikuttaa vain tietoihin, joita tämä laite jakaa muiden kanssa.</string>
+    <string name="huhi_sync_devices_title">MUUT LAITTEET KETJUSSA</string>
+    <string name="huhi_sync_loading_devices_title">LAITTEITA LADATAAN...</string>
+    <string name="huhi_sync_add_device_text">Lisää toinen laite</string>
+    <string name="huhi_sync_remove_device_text">Poista tämä laite</string>
+    <string name="huhi_sync_code_words_title">Muodosta laitepari</string>
+    <string name="huhi_sync_add_laptop_text_title">Anna synkronointiketjun koodi</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Siirry tietokoneellasi kohtaan Huhin asetukset > Synkronoi. Valitse \"Anna synkronointiketjun koodi\".</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Anna yllä olevat koodisanat, mukaan lukien välilyönnit.</string>
+    <string name="huhi_sync_delete_device">Haluatko varmasti poistaa laitteen \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'?</string>
+    <string name="huhi_sync_delete_sent">Poistopyyntö on lähetetty. Laite poistetaan kohta.</string>
+    <string name="huhi_sync_loading_data_title">Tietoja ladataan...</string>
+    <string name="huhi_sync_time_out_message">Jotain meni pieleen, näyttää siltä, että pyyntö aikakatkaistiin.</string>
+    <string name="huhi_sync_use_camera_text">Käytän kameraani...</string>
+    <string name="huhi_sync_confirm_code_words_text">Vahvista</string>
+    <string name="huhi_sync_word_count_text">Sanamäärä: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Virheellinen määrä sanoja</string>
+    <string name="huhi_sync_qr_code">QR-koodi</string>
+    <string name="huhi_sync_code_words">Koodisanat</string>
+    <string name="huhi_sync_copy_button_text">Kopioi leikepöydälle</string>
+    <string name="huhi_sync_copied_text">Kopioitu leikepöydälle</string>
+    <string name="huhi_sync_this_device_text">(tämä laite)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi on jo asetettu
+oletusselaimeksesi.</string>
+    <string name="huhi_default_browser_go_to_settings">Olet jo asettanut oletusselaimen.
+Voit vaihtaa oletusselainta sovelluksen asetuksissa.</string>
+    <string name="huhi_default_browser_notification_body">Säästä akkua ja lataa verkkosivut nopeammin. Tee Huhista oletusselaimesi. Napauta Huhi-valikosta kohtaa \"Aseta oletusselaimeksi\"</string>
+    <string name="huhi_set_default_browser">Aseta oletusselaimeksi</string>
+    <string name="huhi_set_default_browser_dialog_text">Valitse Huhi listasta ja napauta kohdasta \"Aina\"</string>
+    <string name="huhi_default_browser_existing_notification_body">Aseta Huhi oletusverkkoselaimeksesi
+Säästä akkua ja lataa verkkosivut nopeammin</string>
+
+    <string name="huhi_ui_welcome_header_two">Valmistaudu kokemaan
+seuraava Internet.</string>
+    <string name="huhi_ui_welcome_desc_two">Voit ansaita poletteja katsomalla
+yksityisyyttä kunnioittavia mainoksia.</string>
+    <string name="huhi_ui_welcome_button_text_two">LIITY REWARDSIIN</string>
+    <string name="huhi_ui_welcome_footer_text_two">LUE LISÄÄ</string>
+    <string name="huhi_ui_rewards_creating_text">Luodaan lompakkoa</string>
+    <string name="huhi_ui_your_wallet">Oma lompakko</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Lisää varoja</string>
+    <string name="huhi_ui_settings">Asetukset</string>
+    <string name="huhi_ui_rewards_summary">REWARDS-YHTEENVETO</string>
+    <string name="huhi_ui_site_banner_welcome">Kiitos käynnistä!</string>
+    <string name="huhi_ui_rewards_banner_text1">Voit tukea tätä sivustoa lähettämällä tipin. Se on tapa kiittää heitä loistavasta sisällöstä. Vahvistetuille sisällöntuottajille maksetaan tipeistä jokaisen kuukauden ensimmäisellä viikolla.</string>
+    <string name="huhi_ui_rewards_banner_text2">Voit halutessasi ajastaa jatkuvan kuukausittaisen tipin tälle sivustolle.</string>
+    <string name="huhi_ui_donation_amount">Tipin summa</string>
+    <string name="huhi_ui_wallet_balance">lompakon saldo:</string>
+    <string name="huhi_ui_make_monthly">Tee tästä kuukausittainen</string>
+    <string name="huhi_ui_send_tip">lähetä tippini</string>
+    <string name="huhi_ui_do_monthly">aseta kuukausittainen tippi</string>
+    <string name="huhi_ui_not_enough_tokens">poletit eivät riitä</string>
+    <string name="huhi_ui_site_banner_notice_text">HUOMIO: Tämä luoja ei ole kirjautunut vielä vastaanottamaan avustuksia Huhi-käyttäjiltä. Yritämme avustaa, kunnes hän vahvistaa itsensä tai 90 päivän aikaraja umpeutuu.</string>
+    <string name="huhi_ui_please">kiitos</string>
+    <string name="huhi_ui_add_funds">lisää varoja</string>
+    <string name="huhi_ui_thank_you">Kiitos!</string>
+    <string name="huhi_ui_error_init_wallet">Yritä myöhemmin uudestaan.</string>
+    <string name="huhi_ui_month_jan">TAMMIKUU</string>
+    <string name="huhi_ui_month_feb">HELMIKUU</string>
+    <string name="huhi_ui_month_mar">MAALISKUU</string>
+    <string name="huhi_ui_month_apr">HUHTIKUU</string>
+    <string name="huhi_ui_month_may">TOUKOKUU</string>
+    <string name="huhi_ui_month_jun">KESÄKUU</string>
+    <string name="huhi_ui_month_jul">HEINÄKUU</string>
+    <string name="huhi_ui_month_aug">ELOKUU</string>
+    <string name="huhi_ui_month_sep">SYYSKUU</string>
+    <string name="huhi_ui_month_oct">LOKAKUU</string>
+    <string name="huhi_ui_month_nov">MARRASKUU</string>
+    <string name="huhi_ui_month_dec">JOULUKUU</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>JOULUKUU</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Huomio</string>
+    <string name="huhi_ui_include_in_auto">Sisällytä automaattiseen avustukseen</string>
+    <string name="huhi_ui_donate_now">Lähetä tippi...</string>
+    <string name="huhi_ui_no_activity">Ei vielä toimintaa tässä
+kuussa...</string>
+    <string name="huhi_ui_token_grant_claimed">Polettilahjoituksia lunastettu</string>
+    <string name="huhi_ui_earnings_ads">Ansiot mainoksista</string>
+    <string name="huhi_ui_rewards_contribute">Automaattinen avustus</string>
+    <string name="huhi_ui_rewards_contribute_description">Avustit <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT:illa.</string>
+    <string name="huhi_ui_one_time_donation">Kertaluontoiset tipit</string>
+    <string name="huhi_ui_recurring_donation">Kuukausittaiset tipit</string>
+    <string name="huhi_ui_verified_publisher">Vahvistettu Huhi-julkaisija</string>
+    <string name="huhi_ui_not_verified_publisher">Vielä vahvistamaton</string>
+    <string name="huhi_ui_not_verified_publisher_description">Tämä luoja ei ole kirjautunut vielä vastaanottamaan avustuksia Huhi-käyttäjiltä.
+Kaikki lähettämäsi tipit pysyvät lompakossasi, kunnes hän vahvistaa itsensä.</string>
+    <string name="huhi_ui_on_youtube">YouTubessa</string>
+    <string name="huhi_ui_on_twitch">Twitchissä</string>
+    <string name="huhi_ui_new_grant">Ilmainen poletti saatavilla.</string>
+    <string name="huhi_ui_new_token_grant">Ilmainen polettilahjoitus</string>
+    <string name="huhi_ui_claim">Lunasta</string>
+    <string name="huhi_ui_reserved_amount_text"><ph name=\"BAT_VALUE\">Osoitit %1$s<ex>50</ex></ph> BAT:ia luojalle, joka ei ole vielä kirjautunut
+vastaanottamaan avustuksia. Selaimesi yrittää avustaa, kunnes hän vahvistaa
+itsensä tai 90 päivän aikaraja umpeutuu.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Ajoitettua kuukausimaksuasi automaattisesta avustuksesta ja kuukausittaisia tippejä ei voitu suorittaa tarvittavien varojen puuttuessa. Yritämme uudestaan 30 vuorokauden kuluttua.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Tippisi käsittelyssä ilmeni ongelma, yritä uudestaan.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Avustuksesi käsittelyssä ilmeni ongelma.</string>
+    <string name="huhi_rewards_local_uh_oh">Ohoh!</string>
+    <string name="huhi_rewards_local_server_not_responding">Huhi Rewards -palvelin ei vastaa. Korjaamme tämän mahdollisimman pian.</string>
+    <string name="huhi_ui_grants">Lahjoitukset</string>
+    <string name="huhi_ui_expires_on">erääntyy <ph name=\"DATE\">%1$s<ex>14.4.2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Varat eivät riitä</string>
+    <string name="huhi_ui_insufficient_funds_desc">Huhi Rewards -tilisi odottaa talletusta.</string>
+    <string name="huhi_ui_backup_wallet_msg">Varmuuskopioi lompakko</string>
+    <string name="huhi_ui_backup_wallet_desc">Varmuuskopioi Huhi-lompakkosi.</string>
+    <string name="huhi_ui_huhi_rewards">Huhi Rewards</string>
+    <string name="huhi_ui_welcome_back_message">Tervetuloa takaisin!</string>
+    <string name="huhi_ui_get_rewarded">Saa palkkioita selaamalla.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Ansaitse katsomalla yksityisyyyttä
+kunnioittavia mainoksia ja maksa
+rakastamillesi sisällöntuottajille.</string>
+    <string name="huhi_welcome_page_rewards_title">OTA HUHI REWARDSIT KÄYTTÖÖN</string>
+    <string name="huhi_ui_first_tip_text">Ensimmäinen kuukausittainen vinkkisi lähetetään:</string>
+    <string name="huhi_ui_tip_text">Olet juuri lähettänyt vinkin kohteelle:</string>
+    <string name="huhi_ui_auto_tip_text">Olet automaattisesti lähettämässä vinkkiä kohteelle:</string>
+    <string name="huhi_ui_monthly_text">Kuukausittainen</string>
+    <string name="bottom_toolbar_enable">Salli alaosan työkalupalkki</string>
+    <string name="bottom_toolbar_disable">Poista alapuolen työkalupalkki käytöstä</string>
+    <string name="search_or_url">Haku tai URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Luo kirjanmerkki</string>
+    <string name="huhi_ui_donate_monthly">Lahjoita tälle sivustolle rahaa kuukausittain</string>
+
+    <string name="huhi_rewards_not_available">Valitettavasti Huhi Rewardsit eivät nähtävästi ole käytettävissä laitteellasi</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Kaikkien välilehtien sulkeminen sulkee myös Huhin</string>
+    <string name="prefs_section_display">Näytä</string>
+    <string name="prefs_section_controls">Ohjaimet</string>
+    <string name="prefs_appearance">Ulkoasu</string>
+    <string name="hide_huhi_rewards_icon_title">Piilota Huhi Rewards -kuvake</string>
+    <string name="hide_huhi_rewards_icon_description">Piilottaa Huhi Rewards -kuvakkeen, kun Huhi Rewards ei ole käytössä</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Näytä mainoksia, kun Huhi ei ole käytössä</string>
+    <string name="reset_huhi_rewards_option">Nollaa Huhi Rewards</string>
+    <string name="reset_huhi_rewards_option_description">Tämä toiminto poistaa Huhi-lompakkosi ja nollaa kaikki Huhi Rewards -tietosi</string>
+    <string name="reset_huhi_rewards_error_title">Virhe nollattaessa</string>
+    <string name="reset_huhi_rewards_error_description">Huhi Rewards -järjestelmää nollattaessa ilmeni virhe. Käynnistä Huhi uudelleen ja yritä uudestaan</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Siirry kohdetietokoneellasi Huhin synkronointiasetuksiin ja napauta \"Minulla on synkronointikoodi\" -painiketta.\nKirjoita alla näkyvät synkronointiketjun koodisanat.</string>
+
+    <string name="huhi_sync_official">Huhi-synkronointi</string>
+    <string name="prefs_sync_official">Synkronoi</string>
+
+    <string name="huhi_sync_code_warning">Käsittele tätä koodia salasanan tavoin. Salasanan haltuunsa saava henkilö voi lukea ja muokata synkronoituja tietojasi.</string>
+
+    <string name="notification_category_group_huhi_ads">Huhi-mainokset</string>
+    <string name="huhi_ads_you_earned">Olet ansainnut</string>
+
+    <string name="huhi_default_browser_title">Huhi on salamannopea</string>
+    <string name="huhi_default_browser_body">Tee Huhista oletusselaimesi!</string>
+    <string name="huhi_make_default_text">Aseta oletukseksi</string>
+    <string name="huhi_ui_ads_earnings">tienattu mainoksista</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Ohita</string>
+
+    <string name="search_engine_onboarding">Hakukoneen perehdytys</string>
+    <string name="troubleshooting_onboarding">Ongelmanratkaisun perehdytys</string>
+
+    <string name="welcome_to_huhi_browser">Tervetuloa Huhin selaimeen</string>
+    <string name="select_your_default_search_engine">Valitse oletushakukoneesi</string>
+
+    <string name="block">Estä</string>
+    <string name="huhi_shields_onboarding_title">Huhi Shields</string>
+    <string name="huhi_shields_onboarding_text">yksityisyyttä rikkovat mainokset ja seurantaohjelmat, jotta voit selata rauhassa ilman pelkoa, että joku seuraisi sinua verkossa.</string>
+
+    <string name="earn_tokens">Ansaitse käyttötunnuksia</string>
+    <string name="huhi_rewards_onboarding_title">Huhi Rewards</string>
+    <string name="huhi_rewards_onboarding_text">nähdäksesi yksityisyyttä kunnioittavat mainokset. Käytä niitä suosikkisivustojesi ja -kehittäjiesi tukemiseen.</string>
+    <string name="huhi_rewards_onboarding_text2">nähdäksesi yksityisyyttä kunnioittavat mainokset.</string>
+
+    <string name="terms_title">Hyväksy käyttöehdot voidaksesi käyttää Huhi Rewardsin palkintoja</string>
+    <string name="terms_text">Hyväksyn Huhi Rewardsin</string>
+    <string name="terms_of_service">Käyttöehdot</string>
+
+    <string name="agree">Hyväksy</string>
+    <string name="join">Liity</string>
+
+     <string name="start_browsing">Aloita selaaminen</string>
+    <string name="i_didnt_see">En nähnyt mainosta</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi näyttää seuraavan mainoksesi:</string>
+    <string name="huhi_ads_onboarding_text">Varmista, että Huhilla on oikeudet näyttää sinulle ilmoituksia, jotta voisit nähdä Huhi Rewardsin mainokset</string>
+
+    <string name="this_is_your_first_ad">Tämä on ensimmäinen Huhi-mainoksesi. Lue lisää napauttamalla.</string>
+
+    <string name="turn_on">Aseta päälle</string>
+
+    <string name="no_thanks">Ei kiitos</string>
+    <string name="do_not_agree">Älä hyväksy</string>
+
+    <string name="prefs_welcome_tour">Tutustumiskierros</string>
+    <string name="welcome_tour_dialog_text">Tervetuliaiskierroksen käynnistäminen uudelleen ei vaikuta nykyisiin asetuksiin.</string>
+    <string name="finish">Viimeistele</string>
+    
+    <string name="clear_download_title">Lataushistoria</string>
+
+    <string name="settings_exit">Asetuksista poistuminen</string>
+
+</resources>

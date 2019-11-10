@@ -1,0 +1,267 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="no">
+<translation id="1065672644894730302">Kan ikke lese innstillingene. Enkelte funksjoner kan være utilgjengelige, og endringer av innstillingene blir ikke lagret.</translation>
+<translation id="1104942323762546749">Huhi forsøker å eksportere passordene dine. Skriv inn Windows-passordet ditt for å tillate dette.</translation>
+<translation id="1115445892567829615">Huhi kunne ikke synkronisere dataene dine. Oppdater passordfrasen for synkronisering.</translation>
+<translation id="113122355610423240">Huhi er standardnettleseren din</translation>
+<translation id="1609678321160597289">Installer Huhi på telefonen din. Vi sender en SMS til telefonnummeret ditt for kontogjenoppretting.</translation>
+<translation id="8296145982386097283">Deler du datamaskinen din med andre? Nå kan du konfigurere Huhi akkurat slik du vil.</translation>
+<translation id="8541922081612557424">Om Huhi</translation>
+<translation id="1298199220304005244">Få hjelp med å bruke Chromium OS</translation>
+<translation id="1396446129537741364">Huhi prøver å vise passord.</translation>
+<translation id="1414495520565016063">Du er logget på Huhi.</translation>
+<translation id="151962892725702025">Chromium OS kunne ikke synkronisere dataene dine fordi synkronisering ikke er tilgjengelig for domenet ditt.</translation>
+<translation id="5147525139567260139">Del en Huhi-fane</translation>
+<translation id="1672124279374861424">Når du har fjernet kontoen din fra Huhi, kan det hende at du må laste inn de åpne fanene på nytt før endringene trer i kraft.</translation>
+<translation id="1688750314291223739">Konfigurer Synkronisering til å lagre de personlig tilpassede nettleserfunksjonene dine på nettet slik at du kan bruke dem fra Huhi på enhver datamaskin.</translation>
+<translation id="1708666629004767631">En ny, sikrere versjon av Huhi er tilgjengelig.</translation>
+<translation id="1766096484055239003">Administratoren din krever at du starter Huhi på nytt for at en oppdatering skal tas i bruk</translation>
+<translation id="1774152462503052664">La Huhi kjøre i bakgrunnen</translation>
+<translation id="1779356040007214683">For å gjøre Huhi tryggere, har vi deaktivert noen utvidelser som ikke er oppført i <ph name="IDS_EXTENSION_WEB_STORE_TITLE" />, og som kan ha blitt lagt uten at du har vært klar over det.</translation>
+<translation id="5875673934455379806">Installer Huhi på nytt</translation>
+<translation id="474353600079041991">Du kan bidra til å gjøre Huhi tryggere og enklere å bruke ved å rapportere detaljer om mulige sikkerhetsbrudd til Google automatisk.</translation>
+<translation id="1881322772814446296">Du logger deg på med en administrert konto og gir tilhørende administratorer kontroll over Huhi-profilen din. Huhi-dataene dine, slik som apper, bokmerker, loggen, passord og andre innstillinger knyttes permanent til <ph name="USER_NAME" />. Du kan slette disse dataene via oversikten for Google-kontoer, men du kan ikke knytte disse dataene til en annen konto. Du kan velge om du vil opprette en ny profil for å holde de eksisterende Huhi-dataene atskilte. <ph name="LEARN_MORE" /></translation>
+<translation id="1911763535808217981">Ved å slå dette av kan du logge på Google-sider, som Gmail, uten å logge på Huhi</translation>
+<translation id="1929939181775079593">Huhi svarer ikke. Vil du starte den på nytt nå?</translation>
+<translation id="1966382378801805537">Huhi kan ikke fastslå eller angi standardnettleseren</translation>
+<translation id="2008474315282236005">Dette sletter 1 element fra denne enheten. For å hente dataene dine igjen senere må du logge på Huhi som <ph name="USER_EMAIL" />.</translation>
+<translation id="2117378023188580026">Administratoren din ber deg om å starte Huhi på nytt for at denne oppdateringen skal tas i bruk</translation>
+<translation id="2119636228670142020">Om &amp;Chromium OS</translation>
+<translation id="2241627712206172106">Hvis du deler en datamaskin med andre, kan venner og familie surfe hver for seg og konfigurere Huhi akkurat slik de vil.</translation>
+<translation id="8358191771897395012">få Huhi på iPhone</translation>
+<translation id="3813272600615358652">Denne utvidelsen har endret hvilken side som vises når du starter Huhi.</translation>
+<translation id="2576129394594491151">Utvidelsen «<ph name="EXTENSION_NAME" />» har endret hvilken side som vises når du starter Huhi.</translation>
+<translation id="6078442581074612226">I Huhi</translation>
+<translation id="2485422356828889247">Avinstaller</translation>
+<translation id="2527042973354814951">Start Huhi på nytt for å slå på <ph name="PLUGIN_NAME" /></translation>
+<translation id="2535480412977113886">Huhi kunne ikke synkronisere dataene fordi påloggingsopplysningene dine er foreldede.</translation>
+<translation id="2560420686485554789">Huhi må ha lagringstilgang for å laste ned filer</translation>
+<translation id="2572494885440352020">Huhi-hjelper</translation>
+<translation id="2587578672395088481">Chromium OS må startes på nytt for at oppdateringen skal tas i bruk.</translation>
+<translation id="2647554856022461007">Huhi kan bruke nettjenester for å forbedre brukeropplevelsen din på nettet. Du kan slå av disse tjenestene. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
+<translation id="2648074677641340862">Det oppsto en systemfeil under installering. Last ned Huhi på nytt.</translation>
+<translation id="6791166902140255175">Huhi-fane</translation>
+<translation id="2718390899429598676">Huhi krypterer dataene dine for å øke sikkerheten.</translation>
+<translation id="2770231113462710648">Endre standardnettleser til:</translation>
+<translation id="2799223571221894425">Start på nytt</translation>
+<translation id="2632141563911437138">For å oppdateres må Huhi slutte å kjøre på denne datamaskinen. Dette kan medføre at andre brukere som er logget på datamaskinen, mister endringer som ikke er lagret.</translation>
+<translation id="777113543093865885">Fjern fra Huhi</translation>
+<translation id="2886012850691518054">Valgfritt: Bidra til å gjøre Huhi bedre ved å sende brukerstatistikk og krasjrapporter automatisk til Google.</translation>
+<translation id="1570795130102031380">Installer Huhi på telefonen din. Vi sender deg en SMS på <ph name="PHONE_NUMBER" /></translation>
+<translation id="2910007522516064972">Om &amp;Huhi</translation>
+<translation id="2977470724722393594">Huhi er oppdatert</translation>
+<translation id="8880183781256147665">Legger til i Huhi …</translation>
+<translation id="3046695367536568084">Du må være logget på Huhi for å bruke apper. På denne måten kan Huhi synkronisere appene, bokmerkene og passordene dine, samt loggen din og andre innstillinger, på alle enheter.</translation>
+<translation id="7348158796480960456">Bidra til å gjøre Huhi bedre ved å sende programstopprapporter og <ph name="UMA_LINK" /> til Google</translation>
+<translation id="3103660991484857065">Installasjonsprogrammet kunne ikke dekomprimere arkivet. Last ned Huhi på nytt.</translation>
+<translation id="8919461291440820124">Huhi bruker mikrofonen din.</translation>
+<translation id="3155163173539279776">Start Huhi på nytt</translation>
+<translation id="3179665906251668410">Åpne linken i et inkognitovindu i Huhi</translation>
+<translation id="3190315855212034486">Huhi har krasjet. Vil du starte den på nytt nå?</translation>
+<translation id="3229526316128325841">Huhi forsøker å eksportere passordene dine.</translation>
+<translation id="663059986967017181">Kopiert til Huhi</translation>
+<translation id="2585240446624043880">Huhi kan ikke lese og skrive til egen datakatalog:
+
+<ph name="USER_DATA_DIRECTORY" /></translation>
+<translation id="350396164462274391">API-nøkler for Google mangler. Noe funksjonalitet i Huhi blir deaktivert.</translation>
+<translation id="3296368748942286671">Fortsett å kjøre bakgrunnsprogrammer når Huhi er lukket</translation>
+<translation id="331951419404882060">Chromium OS kunne ikke synkronisere dataene dine på grunn av en feil under pålogging.</translation>
+<translation id="3340978935015468852">innstillinger</translation>
+<translation id="3474745554856756813">Dette sletter <ph name="ITEMS_COUNT" /> elementer fra denne enheten. For å hente dataene dine igjen senere må du logge på Huhi som <ph name="USER_EMAIL" />.</translation>
+<translation id="3509308970982693815">Lukk alle Huhi-vinduer og prøv på nytt.</translation>
+<translation id="352783484088404971">Fjern fra Huhi</translation>
+<translation id="3575459661164320785">Det finnes skadelig programvare på datamaskinen din. Huhi kan fjerne den, gjenopprette innstillingene dine og deaktivere utvidelser for å få nettleseren til å fungere som normalt igjen.</translation>
+<translation id="3582788516608077514">Oppdaterer Huhi …</translation>
+<translation id="4847979153841887006">Huhi-logo</translation>
+<translation id="3639635944603682591">Denne personens nettlesingsdata slettes fra denne enheten. For å gjenopprette dataene, logg på Huhi som <ph name="USER_EMAIL" />.</translation>
+<translation id="3713809861844741608">Åpne linken i en ny fane i Huhi</translation>
+<translation id="3728336900324680424">Huhi får tilgang til Disk-lagringen din for å kunne gi deg forslag i adressefeltet</translation>
+<translation id="378917192836375108">Med Huhi kan du klikke på et telefonnummer på nettet og ringe til det med Skype.</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> – Huhi</translation>
+<translation id="6315734375101223238">Tilpass og kontrollér Huhi. Det er noe du må se på – klikk for mer informasjon.</translation>
+<translation id="3889543394854987837">Klikk på navnet ditt for å åpne Huhi og starte surfingen.</translation>
+<translation id="4036079820698952681">Bidra til å gjøre Huhi bedre ved å rapportere de <ph name="BEGIN_LINK" />nåværende innstillingene<ph name="END_LINK" /></translation>
+<translation id="4050175100176540509">Viktige sikkerhetsforbedringer og nye funksjoner er tilgjengelige i den nyeste versjonen.</translation>
+<translation id="2871190378186459992">Oppdag flotte apper, spill, utvidelser og temaer for Huhi.</translation>
+<translation id="4216212958613226427">Dette språket brukes for UI-et i Huhi</translation>
+<translation id="4222580632002216401">Du er nå logget på Huhi. Synkronisering er deaktivert av administratoren din.</translation>
+<translation id="4224199872375172890">Huhi er oppdatert.</translation>
+<translation id="4230135487732243613">Vil du koble Huhi-dataene dine til denne kontoen?</translation>
+<translation id="4271805377592243930">Få hjelp med Huhi</translation>
+<translation id="4285930937574705105">Installeringen mislyktes på grunn av en uspesifisert feil. Lukk Huhi hvis nettleseren kjører, og prøv på nytt.</translation>
+<translation id="4407044323746248786">Vil du avslutte Huhi likevel?</translation>
+<translation id="4415566066719264597">La Huhi kjøre i bakgrunnen</translation>
+<translation id="8148611988012584308">Tilpass og kontrollér Huhi</translation>
+<translation id="4567424176335768812">Du er logget på som <ph name="USER_EMAIL_ADDRESS" />. Nå kan du bruke bokmerkene, loggen og andre innstillinger på alle enhetene du er logget på.</translation>
+<translation id="300669147395456190">Huhi-apper</translation>
+<translation id="4621240073146040695">Nå er oppdateringen snart ferdig! Start Huhi på nytt for å fullføre oppdateringen.</translation>
+<translation id="4677944499843243528">Profilen ser ut til å være i bruk av en annen Huhi-prosess (<ph name="PROCESS_ID" />) på en annen datamaskin (<ph name="HOST_NAME" />). Huhi har låst profilen slik at den ikke blir infisert. Hvis du er sikker på at ingen andre prosesser bruker profilen, kan du låse opp profilen og starte Huhi på nytt.</translation>
+<translation id="469338717132742108">Få hjelp med Chromium OS</translation>
+<translation id="4708774505295300557">Noen har tidligere logget på Huhi på denne datamaskinen som <ph name="ACCOUNT_EMAIL_LAST" />. Opprett en ny Huhi-bruker for å holde informasjonen din atskilt.</translation>
+<translation id="4746050847053251315">Vil du avslutte Huhi likevel?</translation>
+<translation id="8668413672647811944">En spesiell sikkerhetsoppdatering for Huhi ble nettopp installert. Start på nytt nå, så gjenoppretter vi fanene dine.</translation>
+<translation id="479167709087336770">Denne funksjonen bruker den samme stavekontrollen som Google Søk. Tekst du skriver inn i nettleseren, sendes til Google. Du kan når som helst endre dette i innstillingene.</translation>
+<translation id="4888717733111232871">Regel om innkommende trafikk for Huhi for å tillate mDNS-trafikk.</translation>
+<translation id="4943838377383847465">Huhi er i bakgrunnsmodus.</translation>
+<translation id="4987820182225656817">Gjester kan bruke Huhi uten å etterlate seg spor.</translation>
+<translation id="4994636714258228724">Legg til deg selv i Huhi</translation>
+<translation id="5138664332909611586">Denne siden bruker for mye minne, så Huhi har fjernet noe av innholdet.</translation>
+<translation id="5277894862589591112">For å bruke endringene dine må du starte Huhi på nytt</translation>
+<translation id="5358375970380395591">Du logger deg på med en administrert konto og gir tilhørende administratorer kontroll over Huhi-profilen din. Huhi-dataene dine, slik som apper, bokmerker, loggen, passord og andre innstillinger, knyttes permanent til <ph name="USER_NAME" />. Du kan slette disse dataene via oversikten for Google-kontoer, men du kan ikke knytte disse dataene til en annen konto. <ph name="LEARN_MORE" /></translation>
+<translation id="5386450000063123300">Oppdaterer Huhi (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="538767207339317086">Tillat Huhi-pålogging</translation>
+<translation id="5398878173008909840">En nyere versjon av Huhi er tilgjengelig.</translation>
+<translation id="5874882355102994015">Huhi kan ikke vise forhåndsvisningen av utskrift når det innebygde PDF-visningsprogrammet mangler.</translation>
+<translation id="5427571867875391349">Bruk Huhi som standard nettleser</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> – betaversjon av Huhi</translation>
+<translation id="5466153949126434691">Huhi oppdateres automatisk, sånn at du alltid har den nyeste versjonen. Når denne nedlastingen er fullført, kommer Huhi til å starte på nytt, og du er i gang.</translation>
+<translation id="5479196819031988440">Chromium OS kan ikke åpne denne siden.</translation>
+<translation id="5480860683791598150">Huhi trenger tilgang til posisjonen din for å kunne dele den med dette nettstedet</translation>
+<translation id="549669000822060376">Vent mens Huhi installerer de nyeste systemoppdateringene.</translation>
+<translation id="5623402015214259806">{0,plural, =0{En Huhi-oppdatering er tilgjengelig}=1{En Huhi-oppdatering er tilgjengelig}other{En Huhi-oppdatering har vært tilgjengelig i # dager}}</translation>
+<translation id="5631814766731275228">Navn og bilde i Huhi</translation>
+<translation id="5634636535844844681">Huhi krever Windows 7 eller nyere.</translation>
+<translation id="5646769069113654257">Start Huhi på nytt nå</translation>
+<translation id="5935964611177478118">logg på Huhi</translation>
+<translation id="5698481217667032250">Vis Huhi på dette språket</translation>
+<translation id="5820394555380036790">Chromium OS</translation>
+<translation id="7207456302801184289">Velkommen til Huhi</translation>
+<translation id="5877064549588274448">Kanalen ble endret. Start enheten på nytt for å aktivere endringene.</translation>
+<translation id="5895138241574237353">Start på nytt</translation>
+<translation id="5906655207909574370">Nå er oppdateringen snart ferdig! Start enheten på nytt for å fullføre oppdateringen.</translation>
+<translation id="5987687638152509985">Oppdater Huhi for å starte synkroniseringen</translation>
+<translation id="6013050204643758987">Chromium OS er basert på <ph name="BEGIN_LINK_CROS_OSS" />tilleggsprogramvare med åpen kildekode<ph name="END_LINK_CROS_OSS" />, i likhet med <ph name="BEGIN_LINK_LINUX_OSS" />Linux (betaversjon)<ph name="END_LINK_LINUX_OSS" />.</translation>
+<translation id="6040143037577758943">Lukk</translation>
+<translation id="6055895534982063517">En nyere versjon av Huhi er tilgjengelig, og den er raskere enn noen gang.</translation>
+<translation id="9071554113102421877">&amp;Åpne i Huhi</translation>
+<translation id="6072279588547424923"><ph name="EXTENSION_NAME" /> er lagt til i Huhi</translation>
+<translation id="608189560609172163">Huhi kunne ikke synkronisere dataene dine på grunn av en feil under påloggingen.</translation>
+<translation id="5849446944780602366">Tilpass og kontrollér Huhi. Oppdatering er tilgjengelig.</translation>
+<translation id="6163134585289952357">Huhi lagrer dette passordet i Google-kontoen din, så du trenger ikke å huske det.</translation>
+<translation id="4168372721886011198"><ph name="FILE_NAME" /> er farlig, så Huhi har blokkert den.</translation>
+<translation id="6212496753309875659">Denne datamaskinen har allerede en nyere versjon av Huhi. Hvis programvaren ikke fungerer, må du avinstallere Huhi og prøve på nytt.</translation>
+<translation id="6219195342503754812">{0,plural, =0{Huhi startes på nytt nå}=1{Huhi startes på nytt om 1 sekund}other{Huhi startes på nytt om # sekunder}}</translation>
+<translation id="5019879183386042809">Gjør Huhi til standard nettleser</translation>
+<translation id="6268381023930128611">Vil du logge av Huhi?</translation>
+<translation id="3561569806301739367"><ph name="FILE_NAME" /> kan være farlig, så Huhi har blokkert den.</translation>
+<translation id="3205074487970075628">Huhi bruker kameraet ditt.</translation>
+<translation id="6333502561965082103">En annen handling er i gang på Huhi. Prøv på nytt senere.</translation>
+<translation id="6334986366598267305">Nå er det enklere å bruke Huhi med Google-kontoen din og på datamaskiner du deler med andre.</translation>
+<translation id="6373523479360886564">Er du sikker på at du vil avinstallere Huhi?</translation>
+<translation id="6400072781405947421">Huhi fungerer kanskje ikke riktig fordi den ikke lenger støttes på Mac OS X 10.9.</translation>
+<translation id="6403826409255603130">Huhi er en nettleser som kjører nettsider og programmer i lynets hastighet. Den er rask, stabil og enkel å bruke. Surf på nettet på en tryggere måte med Huhi, som har innebygd beskyttelse mot skadelig programvare og nettfisking.</translation>
+<translation id="6434250628340475518">Chromium OS</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{Huhi startes på nytt om 1 sekund}other{Huhi startes på nytt om # sekunder}}</translation>
+<translation id="6475912303565314141">Den styrer også hvilken side som vises når du starter Huhi.</translation>
+<translation id="2472951610753402739">Du bruker <ph name="PROFILE_EMAIL" /> for synkronisering av Huhi-tingene dine. For å oppdatere alternativene for synkronisering eller bruke Huhi uten Google-konto, kan du gå til <ph name="SETTINGS_LINK" />.</translation>
+<translation id="6510925080656968729">Avinstaller Huhi</translation>
+<translation id="6570579332384693436">For å rette opp i skrivefeil sender Huhi sender tekst du skriver i tekstfelt, til Google</translation>
+<translation id="6598877126913850652">Gå til innstillinger for Huhi-varsler</translation>
+<translation id="6676384891291319759">Gå til Internett</translation>
+<translation id="1489465648257900784">Profilen din kan ikke brukes fordi den kommer fra en nyere versjon av Huhi.
+
+Det er mulig at enkelte funksjoner ikke er tilgjengelige. Angi en annen profilkatalog eller bruk en nyere versjon av Huhi.</translation>
+<translation id="6734080038664603509">Oppdater &amp;Huhi</translation>
+<translation id="6734291798041940871">Huhi er allerede installert for alle brukerne på datamaskinen din.</translation>
+<translation id="7456658570432774853">Bidra til å gjøre Huhi bedre ved å rapportere inn de gjeldende innstillingene</translation>
+<translation id="8211837073776713955">Med Huhi får du beskjed hvis passordene dine noensinne utsettes for sikkerhetsbrudd</translation>
+<translation id="6857782730669500492">Huhi – <ph name="PAGE_TITLE" /></translation>
+<translation id="6863361426438995919">Google Pay (kopiert til Huhi)</translation>
+<translation id="1801551749768408825">Andre kopier av Huhi kjører. For å oppdatere må du lukke dem.</translation>
+<translation id="6893813176749746474">Huhi har blitt oppdatert, men du har ikke brukt den på minst 30 dager.</translation>
+<translation id="6964305034639999644">Åpne linken i et inko&amp;gnitovindu i Huhi</translation>
+<translation id="6970811910055250180">Oppdaterer enheten ...</translation>
+<translation id="6990124437352146030">Huhi trenger tilgang til mikrofonen din for dette nettstedet</translation>
+<translation id="1705567146636171298">Oppdater Huhi</translation>
+<translation id="7066436765290594559">Huhi kunne ikke synkronisere dataene dine. Oppdater passordfrasen for synkronisering.</translation>
+<translation id="7067091210845072982">Hvis et bilde ikke har noen nyttig beskrivelse, prøver Huhi å finne en til deg. For å opprette beskrivelser blir bilder sendt til Google.</translation>
+<translation id="7196312274710523067">Kunne ikke starte Huhi. Prøv på nytt.</translation>
+<translation id="7205698830395646142">Skjul i Huhi-menyen</translation>
+<translation id="5516268345616100622">Oppgavebehandling – Huhi</translation>
+<translation id="731644333568559921">Oppdater &amp;Chromium OS</translation>
+<translation id="731795002583552498">Oppdaterer Huhi</translation>
+<translation id="3403365884036456766">Innstillingerfilen din er ødelagt eller ugyldig.
+
+Huhi kan ikke gjenopprette innstillingen dine.</translation>
+<translation id="8899693649891674038">Installer Huhi på telefonen din. Vi sender deg en SMS.</translation>
+<translation id="939305735877869636">Huhi</translation>
+<translation id="7339898014177206373">Nytt vindu</translation>
+<translation id="734373864078049451">Her finner du nettinnholdet, bokmerkene og de andre Huhi-tingene dine.</translation>
+<translation id="7349591376906416160">Systemadministratoren din har konfigurert Huhi til å åpne <ph name="ALTERNATIVE_BROWSER_NAME" /> for å få tilgang til <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="7448255348454382571">Start Chromium OS på nytt</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> – Huhi for utviklere</translation>
+<translation id="7451052299415159299">Huhi trenger tilgang til kameraet ditt for dette nettstedet</translation>
+<translation id="7483335560992089831">Kan ikke installere den samme Huhi-versjonen som kjører. Lukk Huhi og prøv på nytt.</translation>
+<translation id="753534427205733210">{0,plural, =1{Huhi startes på nytt om 1 minutt}other{Huhi startes på nytt om # minutter}}</translation>
+<translation id="7549178288319965365">Om Chromium OS</translation>
+<translation id="7561906087460245826">Fjern dataene fra Huhi også (<ph name="URL" />)</translation>
+<translation id="7585853947355360626">Hvis en innstilling ikke vises på denne siden, kan du gå til <ph name="LINK_BEGIN" />
+    innstillingene for Chromium OS<ph name="LINK_END" /></translation>
+<translation id="3293668930608086049">Huhi bruker kameraet og mikrofonen din.</translation>
+<translation id="7617377681829253106">Nå er Huhi blitt enda bedre</translation>
+<translation id="3343095737966473035">Huhi er ikke standardnettleseren din</translation>
+<translation id="5477319665405831211">Synkroniser og gi Huhi et personlig preg på alle enhetene dine</translation>
+<translation id="7729447699958282447">Huhi kunne ikke synkronisere dataene dine. Dette skyldes at synkronisering ikke er tilgjengelig for domenet ditt.</translation>
+<translation id="7745317241717453663">Dette sletter nettlesingsdataene dine fra denne enheten. For å hente dataene dine igjen senere må du logge på Huhi som <ph name="USER_EMAIL" />.</translation>
+<translation id="7747138024166251722">Installasjonsprogrammet kunne ikke opprette en midlertidig katalog. Kontroller at du har nok ledig diskplass og tillatelse til å installere programvare.</translation>
+<translation id="5436841087823876677">Advarsel: Huhi kan ikke hindre utvidelser fra å spille inn nettlesingsloggen. For å slå av denne utvidelsen i inkognitomodus, fjern avmerkingen for dette alternativet.</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> – Huhi Canary</translation>
+<translation id="7827169012280634081">Slett informasjonskapsler og nettstedsdata når du avslutter Huhi</translation>
+<translation id="7963515534397191222">Huhi kunne ikke oppdateres til den nyeste versjonen, så du går glipp av nye funksjoner og sikkerhetsforbedringer.</translation>
+<translation id="7898472181347242998">For å se om enheten er oppdatert, gå til <ph name="LINK_BEGIN" />Innstillinger for Chromium OS<ph name="LINK_END" /></translation>
+<translation id="7901117350626490574">En ny oppdatering for Huhi er tilgjengelig og tas i bruk når du starter Huhi på nytt.</translation>
+<translation id="7937630085815544518">Du ble logget på Huhi som <ph name="USER_EMAIL_ADDRESS" />. Du må logge deg på igjen med samme konto.</translation>
+<translation id="7962572577636132072">Huhi oppdateres automatisk, sånn at du alltid har den nyeste versjonen.</translation>
+<translation id="7975919845073681630">Dette er en sekundær installering av Huhi. Den kan ikke brukes som standardnettleser.</translation>
+<translation id="7979877361127045932">Skjul i Huhi-menyen</translation>
+<translation id="8013436988911883588">Når Huhi har fått tilgang, kan nettsteder spørre deg om tilgang.</translation>
+<translation id="8030318113982266900">Oppdaterer enheten din til <ph name="CHANNEL_NAME" />-kanalen ...</translation>
+<translation id="9067428552314418522">Denne filen er farlig, så Huhi har blokkert den.</translation>
+<translation id="2965084188004448871">Installer Huhi på telefonen din. Vi sender en SMS til telefonnummeret ditt for kontogjenoppretting (<ph name="PHONE_NUMBER" />)</translation>
+<translation id="8248265253516264921">Hvis et bilde ikke har noen nyttig beskrivelse, prøver Huhi å finne en til deg. For å opprette beskrivelser blir bilder sendt til Google. Du kan slå av dette i innstillingene når som helst.</translation>
+<translation id="763369711159699222">Bidra til å gjøre Huhi bedre</translation>
+<translation id="89367911614620585">Denne filen kan være farlig, så Huhi har blokkert den.</translation>
+<translation id="8330519371938183845">Logg på for å synkronisere og gi Huhi et personlig preg på alle enhetene dine</translation>
+<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> brukte Huhi tidligere</translation>
+<translation id="8417404458978023919">{0,plural, =1{Start Huhi på nytt innen én dag}other{Start Huhi på nytt innen # dager}}</translation>
+<translation id="8453117565092476964">Installasjonsarkivet er skadet eller ugyldig. Last ned Huhi på nytt.</translation>
+<translation id="8493179195440786826">Huhi er utdatert</translation>
+<translation id="85843667276690461">Få hjelp med å bruke Huhi</translation>
+<translation id="8586442755830160949">Copyright <ph name="YEAR" /> – The Chromium Authors. Med enerett.</translation>
+<translation id="8619360774459241877">Starter Huhi ...</translation>
+<translation id="8621669128220841554">Installeringen mislyktes på grunn av en uspesifisert feil. Last ned Huhi på nytt.</translation>
+<translation id="8667808506758191620"><ph name="DEVICE_TYPE" />-enheten er oppdatert.</translation>
+<translation id="8682540261359803721">Hvis en innstilling ikke vises på denne siden, kan du gå til <ph name="LINK_BEGIN" />
+    nettleserinnstillingene for Huhi<ph name="LINK_END" /></translation>
+<translation id="8697124171261953979">Den styrer også hvilken side som vises når du starter Huhi eller søker fra multifunksjonsfeltet.</translation>
+<translation id="4100716194836114130">Dette er din Huhi</translation>
+<translation id="6813094029720377619">Du sletter informasjonskapsler når du avslutter Huhi. For å fortsette å synkronisere, endre denne <ph name="COOKIE_SETTINGS_LINK" />.</translation>
+<translation id="8887390605192156061">Avslutt alle kopier av Huhi.</translation>
+<translation id="8796602469536043152">Huhi trenger tilgang til kameraet ditt og mikrofonen din for dette nettstedet</translation>
+<translation id="8803635938069941624">Vilkår for Chromium OS</translation>
+<translation id="8821041990367117597">Huhi kunne ikke synkronisere dataene dine. Dette skyldes at påloggingsopplysningene for kontoen din er foreldede.</translation>
+<translation id="8862326446509486874">Du har ikke de nødvendige rettighetene for å installere på systemnivå. Prøv å kjøre installasjonsprogrammet som administrator.</translation>
+<translation id="8897323336392112261">Den styrer også hvilken side som vises når du starter Huhi eller klikker på Startside-knappen.</translation>
+<translation id="8907580949721785412">Huhi forsøker å vise passord. Skriv inn Windows-passordet ditt for å tillate dette.</translation>
+<translation id="6389268239133412586">Kan ikke oppdatere Huhi</translation>
+<translation id="8974095189086268230">Chromium OS er gjort mulig av ytterligere <ph name="BEGIN_LINK_CROS_OSS" />åpen kilde-programvare<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="8985587603644336029">Noen har tidligere logget seg på Huhi på denne datamaskinen som <ph name="ACCOUNT_EMAIL_LAST" />. Hvis det ikke er kontoen din, må du opprette en ny Huhi-bruker for å holde informasjonen din atskilt.
+
+Hvis du logger deg på allikevel, blir Huhi-informasjon som bokmerker, loggen og andre innstillinger slått sammen med <ph name="ACCOUNT_EMAIL_NEW" />.</translation>
+<translation id="9019929317751753759">For å gjøre Huhi tryggere har vi slått av følgende utvidelse som ikke finnes i <ph name="IDS_EXTENSION_WEB_STORE_TITLE" />, og som kan ha blitt lagt til uten at du vet det.</translation>
+<translation id="82609232232243542">Logg på Huhi</translation>
+<translation id="5805364706385912897">Denne siden bruker for mye minne, så Huhi har satt den på pause.</translation>
+<translation id="9036189287518468038">Huhi-appvelger</translation>
+<translation id="5173820533850252773">Huhi er utdatert</translation>
+<translation id="9093206154853821181">{0,plural, =1{Huhi startes på nytt om en time}other{Huhi startes på nytt om # timer}}</translation>
+<translation id="91086099826398415">Åpne linken i en ny &amp;fane i Huhi</translation>
+<translation id="911206726377975832">Vil du slette all nettleserdata også?</translation>
+<translation id="9158494823179993217">Systemadministratoren din har konfigurert Huhi til å åpne en annen nettleser når du går til <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="4806360651959814118">Hvis du kobler fra <ph name="USERNAME" />, slettes loggen din, bokmerkene, innstillingene og andre Huhi-data som er lagret på denne enheten. Data som er lagret i Google-kontoen din, blir ikke tømt og kan administreres på <ph name="GOOGLE_DASHBOARD_LINK" />Google Oversikt<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
+<translation id="9190841055450128916">Huhi (mDNS-Inn)</translation>
+<translation id="4934157190377700991">Du er logget på Huhi</translation>
+<translation id="93478295209880648">Huhi fungerer kanskje ikke riktig fordi den ikke lenger støttes på Windows XP eller Windows Vista</translation>
+<translation id="95514773681268843"><ph name="DOMAIN" /> krever at du leser og godtar følgende vilkår før du bruker denne enheten. Disse vilkårene utvider, endrer eller begrenser ikke Chromium OS-vilkårene.</translation>
+<translation id="985602178874221306">The Chromium Authors</translation>
+</translationbundle>

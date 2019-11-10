@@ -1,0 +1,304 @@
+<resources>
+
+    <string name="huhi_settings_title">Huhi ጣቢያ ጋሻዎች ቅንብር ለ</string>
+    <string name="huhi_shields_down">ታች</string>
+    <string name="huhi_shields_up">ላይ</string>
+    <string name="huhi_shields_ads_trackers">ማስታወቂያዎች እና ተከታታዮች ታግደዋል</string>
+    <string name="huhi_shields_https_upgrades">የHTTPS ማሳደጊያዎች</string>
+    <string name="huhi_shields_scripts_blocked">ስክሪፕቶች ታግደዋል</string>
+    <string name="huhi_shields_ads_tracking_switch">ማስታወቂያዎችን እና ክትትልን አግድ</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS በሁሉም ቦታ</string>
+    <string name="huhi_shields_blocks_scripts_switch">ስክሪፕቶችን አግድ</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">የHuhi ጋሻዎችን አንቃ/አሰናክል</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">የ3ኛ ወገን ኩኪዎችን አግድ</string>
+
+    <string name="httpse_summary">በተቻለ ሰአት ከ HTTP ይልቅ HTTPSን በመጠቀም የሚደገፉ ጣቢያዎችን ይከፍታል</string>
+    <string name="ad_block_title">ማስታወቂያ አግድ</string>
+    <string name="ad_block_summary">ማስታወቂያዎች ከመተላለፍ ሂደታቸው ይከላከላል</string>
+
+    <string name="fingerprinting_protection_title">መለያ አሻራ መከላከያ</string>
+    <string name="fingerprinting_protection_summary">አሳሾችን መለያ አሻራን ከመያዝ ይከላከላል</string>
+    <string name="huhi_shields_fingerprints_blocked">የአሻራ መያዣ መንገዶች ታግደዋል</string>
+    <string name="huhi_shields_block_fingerprints_switch">መለያ አሻራ መከላከያ</string>
+
+    <string name="ad_block_regional_title">የክልል ማስታወቂያ ማገጃ</string>
+    <string name="ad_block_regional_summary">የክልል ማስታወቂያዎች እንዳይጫኑ ይከላከላል</string>
+
+    <string name="ad_block_regional_summary_no_list">ለእርስዎ አከባቢ ሌላ ተጨማሪ ዝርዝሮች አልተገኙም</string>
+
+    <string name="menu_exit">ውጣ</string>
+
+    <string name="huhi_sync">Huhi ሲንክ (ቤታ)</string>
+    <string name="sync_settings_add_device_name_title">የኤሌክትሮኒክ መሳሪያ ስም ይደምሩ</string>
+    <string name="sync_settings_add_device_name_label">ለዚህ መሳሪያ ስም ያስገቡ (አማስገባት ይቻላል)</string>
+    <string name="sync_example_device_name">አንድሮይድ የሚጠቀም መሳሪያ</string>
+    <string name="enter_code_words_sync">የኮድ ቃላቱን ያስገቡ</string>
+    <string name="sync_device">መሳሪያውን ያጣምሩ</string>
+    <string name="sync_device_failure">ለማጣመር አልተቻለም</string>
+    <string name="sync_requires_correct_time">የኮምፒውተርዎ ሰአት ቅንብር ትክክል ላይሆን ይችላል፣ ወይም ትክክለኛ ባልሆነ የሰአት ክልል ውስጥ ሊሆን ይችላል። የሰአት ቅንብርዎን ያረጋግጡ።</string>
+
+    <string name="huhi_stats_text_https">የ HTTPS እደሳዎች</string>
+    <string name="huhi_stats_text_time">ማትረፍ የተቻለ ግዜ መጠን ግምት</string>
+
+    <string name="send_metrics_title">ልኬቶችን ላክ</string>
+
+    <string name="desktop_mode_title">ዴስክቶፕ ሞድ</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">የድህረ ገፆችን  ዴስክቶፕ ስሪት ቅድሚያ ስጥ</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">በድረገጾች ላይ የሞባይል እይታን ቅድሚያ ስጥ</string>
+    <string name="website_settings_category_desktop_view_enabled">በአዳዲስ ታቦች ላይ የዴስክቶፕ እይታን አስችል</string>
+    <string name="website_settings_category_desktop_view_disabled"> ለአዳዲስ ታቦች የሞባይል ስሪቶችን ተጠቀም (ይህ ይመከራል)</string>
+
+    <string name="huhi_shields_first_group_title">ከልካይ ተቆጣጣሪ</string>
+    <string name="huhi_shields_second_group_title">የግል መቆጣጠሪያዎች</string>
+    <string name="huhi_shields">መከላከያዎች</string>
+    <string name="huhi_shields_ads_and_trackers">ማስታወቂያዎች እና መከታተያዎች</string>
+    <string name="huhi_shields_fingerprint_methods">የጣት አሻራ ዘዴዎች</string>
+    <string name="huhi_shields_block_phishing_switch">ማጭበርበርን ከልክል</string>
+
+    <string name="play_video_in_background_title">የጀርባ ቪዲዮ ማጫወት</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">በርቷል</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">ስራ አቁሟል</string>
+    <string name="website_settings_category_play_video_in_background_enabled">በሙከራ ላይ ያለ። ታብ በስራ ላይ በማይሆንበት ጊዜ ወይም የመሳሪያው ማያ በሚጠፋበት ጊዜ በቪዲዮ ላይ ያለ ድምጽ በጀርባ አንዲሰማ ያደርጋል። ይህ የማይሰራ ከሆነ ወደ ዴስክቶፕ ሞድ ለመቀየር ይሞክሩ።</string>
+    <string name="settings_require_relaunch_notice">በሚቀጥለው ጊዜ Huhiን ሲያበሩ ያደረጉት ቅያሬ መስራት ይጀምራል።</string>
+    <string name="settings_require_relaunch_now">አሁን ተዘግቶ ይከፈት</string>
+    <string name="settings_require_relaunch_later">በኋላ</string>
+
+    <string name="play_yt_video_in_browser_title">በ Huhi ቪዲዮን ማጫወት</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">ጀምሯል</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">ስራ አቁሟል</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">በስራ ላይ ከሆነ፣ ቪዲዮዎች ከሌሎች መተግበሪያዎች ይልቅ በ Huhi ላይ ይጫወታሉ።</string>
+
+    <string name="close_tabs_on_exit_title">ሲወጡ ታቦችን ይዝጉ</string>
+    <string name="close_tabs_on_exit_summary">በማሰስ ክፍለ ጊዜዎች ላይ ታቦች ላይ ጫና አያብዙ</string>
+
+    <string name="open_pages_in_custom_tabs_title">ታቦችን በከስተም ታብ ይክፈቱ</string>
+    <string name="open_pages_in_custom_tabs_summary">ታቦች በከስተም ታብ እንዲከፈቱ ያድርጉ</string>
+
+    <string name="ddg_offer_title">በ DuckDuckGo የግል ፍለጋ ይደረግ?</string>
+    <string name="ddg_offer_text">በግል ፍለጋ። DuckDuckGoን በመጠቀም Huhi በዚህ የግል ታብ ላይ እያሉ ለፍለጋዎ መልስ ይሰጣል። DuckDuckGo የፍለጋ ታሪክዎን የማይከታተል የፍለጋ ሞተር ሲሆን ግለኝነትዎን ጠብቀው ማሰስ እንዲችሉ ያደርግዎታል።</string>
+    <string name="ddg_offer_positive">አዎ</string>
+    <string name="ddg_offer_negative">አይ</string>
+    <string name="ddg_offer_link">በ DuckDuckGo ግለኝነቱን የጠበቀ ፍለጋ እንዴት ማድረግ እንደሚችሉ ይማሩ</string>
+    <string name="prefs_standard_search_engine">መስፈርቱን የጠበቀ ታብ</string>
+    <string name="prefs_private_search_engine">የግል ታብ</string>
+
+    <string name="huhi_open_in_private_tab">በግል ታብ ክፈት</string>
+    <string name="huhi_close_all_private_tabs">የግል ታብን ዝጋ</string>
+    <string name="huhi_new_private_tab">አዲስ የግል ታብ</string>
+    <string name="huhi_new_tab_private_header">ይህ የግል ታብ ነው</string>
+    <string name="huhi_new_tab_private_message">በግል ታቦች የሚጎበኙዋቸው ድረገጾች እዚያው ላይ የማይቀመጡ ቢሆንም፣ ለበይነመረብ አገልግሎት አቅራቢዎ፣ ቀጣሪዎ ወይም የሚጎበኙዋቸው ድረገጾች ማንነትዎ እንዳይታወቅ አያደርጉም።</string>
+    <string name="update_notification_title">የHuhi እደሳ</string>
+    <string name="update_notification_text">አዲሱ የHuhi ማሰሻ በ 22% ይፈጥናል</string>
+    <string name="prefs_sync">ሲንክ (ቤታ)</string>
+    <string name="huhi_ads_existing_user_offer_title">የ Huhi ማስታወቂያዎች እዚህ ይገኛሉ!</string>
+    <string name="huhi_ads_new_user_offer_title">የ Huhi ሽልማቶችን አስችል</string>
+    <string name="huhi_ads_offer_text">መሰረታዊ የትኩረት ቶክንን በ Huhi ሽልማቶች ግለኝነትን የሚያስከብሩ ማስታወቂያዎች ያግኙ።</string>
+    <string name="huhi_ads_offer_positive">ገብቻለሁ!</string>
+    <string name="huhi_sync_description_page_1_part_1">Huhi ሲንክ የቡክማርክ ውሂብን በ Huhi ማሰሻዎ በተለያዩ መሳሪያዎችዎ ላይ ሲንክ ማድረግ ይችሉ ዘንድ ያደርጋል።</string>
+    <string name="huhi_sync_description_page_1_part_2">በቀላሉ በሌላ መሳሪያ ላይ የተፈጠረውን ኮድ ከሲክዎ ላይ ስካን ያድርጉ። ወይም አዲስ የሲንክ ሰንሰለት ይጀምሩ።</string>
+    <string name="huhi_sync_scan_chain_code">ስካን ያድርጉ ወይም አዲስ ኮድ ያስገቡ</string>
+    <string name="huhi_sync_start_new_chain">አዲስ የሲንክ ሰንሰለት ይጀምሩ</string>
+    <string name="huhi_sync_qrcode_message_v2">አሁን ያለን የስንክ መሳሪያ መጠቀም፣ የ Huhi ቅንብርን ይክፈቱ እና ወደ ቅንብሮች > ሲንክ ይሂዱ ከዚያም \"መሳሪያ ጨምር\" የሚለውን ይምረጡ እና በማያው ላይ ያለውን QR ኮድ ይጨምሩ።</string>
+    <string name="huhi_sync_codewords_message">አሁን ያለውን ሲንክ የተደረገ መሳሪያ በመጠቀም የ Huhi ቀንብርን ይክፈቱ እና ወደ ቅንብሮች >ሲንክ ይሂዱ ከዚያም \" መሳሪያ ጨምር\" የሚለውን መርጠው \"የኮድ ቃላትን ምረጥ የሚለውን ይምረጡ\"</string>
+    <string name="huhi_sync_btn_mobile">የሞባይል መሳሪያን ይጨምሩ</string>
+    <string name="huhi_sync_btn_laptop">ኮምፒውተር ይጨምሩ</string>
+    <string name="huhi_sync_scan_sync_code">ይህንን የሲንክ ኮድ ይጨምሩ</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">ሁለተኛ ስልክን ወይም ታብሌትን ጥቅም ላይ በማዋል፣ ወደ Huhi> ቅንብሮች > ሲንክ > ስካን ይሂዱ።</string>
+    <string name="huhi_sync_btn_done">አልቋል</string>
+    <string name="huhi_sync_tabs_text">ታቦች</string>
+    <string name="huhi_sync_history_text">ታሪክ</string>
+    <string name="huhi_sync_autofill_passwords_text">በራስሙላ/የይለፍ ቃሎች</string>
+    <string name="huhi_sync_payment_settings_text">Huhi የክፍያ ቅንብር</string>
+    <string name="huhi_sync_settings_title">በዚህ መሳሪያ ላይ ሲንክ አድርግ</string>
+    <string name="huhi_sync_settings_description">ቅንብርን መቀየር ይህ መሳሪያ ከሌሎች ጋር የሚጋራውን ውሂብ ብቻ ነው የሚቀይረው።</string>
+    <string name="huhi_sync_devices_title">በሰንሰለቱ ውስጥ ያሉ ሌሎች መሳሪያዎች</string>
+    <string name="huhi_sync_loading_devices_title">መሳሪያዎችን በመጫን ላይ•••</string>
+    <string name="huhi_sync_add_device_text">ሌላ መሳሪያ ጨምር</string>
+    <string name="huhi_sync_remove_device_text">ይህንን መሳሪያ አስወግድ</string>
+    <string name="huhi_sync_code_words_title">አጣምር</string>
+    <string name="huhi_sync_add_laptop_text_title">የሲንክ ሰንሰለት ኮድን አስገባ</string>
+    <string name="huhi_sync_add_laptop_text_part_1">በኮምፒውተርዎ ላይ፣ ወደ Huhi ቅንብር > ሲንክ ሄደው \"የሲንክ ሰንሰለት ኮድን አስገባ\" የሚለውን ይምረጡ።</string>
+    <string name="huhi_sync_add_laptop_text_part_2">ከላይ ያለውን የቃላት ኮድ ክፍት ቦታዎችን ጨምረው ያስገቡ።</string>
+    <string name="huhi_sync_delete_device">መሳሪያውን ለማጥፋት እንደሚፈልጉ እርግጠኛ ነዎት<ph name=\"DEVICE_NAME\">%1$s</ph>?</string>
+    <string name="huhi_sync_delete_sent">እንጠፋ ያቀረቡት ጥያቄ ተላፏል። መሳሪያወ በአጭር ጊዜ ውስጥ ይወገዳል።</string>
+    <string name="huhi_sync_loading_data_title">ዳታን በመጫን ላይ. . . . </string>
+    <string name="huhi_sync_time_out_message">አንድ ነገር ተበላሽቷል፣ ጥያቄዎ ለጊዜው አልተሳካም።</string>
+    <string name="huhi_sync_use_camera_text">ካሜራዬን እጠቀማለሁ. . . </string>
+    <string name="huhi_sync_confirm_code_words_text">አረጋግጥ</string>
+    <string name="huhi_sync_word_count_text">የቃላት ብዛት<ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">ትክክለኛ ያልሆነ የቃላት ብዛት </string>
+    <string name="huhi_sync_qr_code">QR ኮድ</string>
+    <string name="huhi_sync_code_words">የኮድ ቃላት</string>
+    <string name="huhi_sync_copy_button_text">ወደ ክሊፕቦርድ ገልብጥ</string>
+    <string name="huhi_sync_copied_text">ወደ ክሊፕቦርድ ተገልብጧል</string>
+    <string name="huhi_sync_this_device_text">(ይህ መሳሪያ)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi እንደ ዋና
+ማሰሻዎ ተወስኗል።</string>
+    <string name="huhi_default_browser_go_to_settings">መጠቀም የሚፈልጉትን መደበኛወ አሳሽ ወስነዋል።
+በመተግበሪያ ቅንብሮች ውስጥ መደበኛ አሳሽን ሊቀይሩ ይችላሉ።</string>
+    <string name="huhi_set_default_browser">እንደመደበኛ አሳሽ ያቀናብሩ</string>
+    <string name="huhi_default_browser_existing_notification_body">Huhi መደበኛ የድር አሳሽዎ እንዲሆን ያድርጉ
+ባትሪ ያድኑ እንዲሁም የድር ገጸችን በፍጥነት ይጫኑ</string>
+
+    <string name="huhi_ui_welcome_header_two">የሚቀጥለውን ኢንተርኔት
+ለመሞክር ዝግጁ ይሁኑ።</string>
+    <string name="huhi_ui_welcome_desc_two">ግለኝነትን የሚያከብሩ ማስታወቂያዎቸን በማየት
+ሁልጊዜም ቶክኖችን ማግኘት ይችላሉ።</string>
+    <string name="huhi_ui_welcome_button_text_two">ሽልማትን ይቀላቀሉ</string>
+    <string name="huhi_ui_welcome_footer_text_two">ተጨማሪ ይማሩ</string>
+    <string name="huhi_ui_rewards_creating_text">ዋሌት በመፍጠር ላይ</string>
+    <string name="huhi_ui_your_wallet">የእርሶ ዋሌት</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0.0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">ገንዘብ ይጨምሩ</string>
+    <string name="huhi_ui_settings">ቅንብሮች</string>
+    <string name="huhi_ui_rewards_summary">የሽልማቶች አጭር መግለጫ</string>
+    <string name="huhi_ui_site_banner_welcome">እዚህ ስለመጡ እናመሰግንዎታለን!</string>
+    <string name="huhi_ui_rewards_banner_text1">ጉርሻ በመስጠት ይህንን ገጽ መደገፍ ይችላሉ። ምርጥ የሆነ ይዘት ስላላቸው እናመሰግናለን መባያ አንድ መንገድ ነው። የተረጋገጡ የይዘት ፈጣሪዎች በእያንዳንዱ የቀን መቁጠሪያ ወር የመጀመሪያው ሳምንት ላይ ጉርሻቸው ይከፈላቸዋል።</string>
+    <string name="huhi_ui_rewards_banner_text2">ይህንን ድረገጽ በቀጣይነት ለመርዳት የሚፈልጉ እንደሆነ የሚፈልጉ ከሆነ ወርሀዊ ጉርሻዎች ተቆራጭ እንዲሆኑ ሊያደርጉ ይችላሉ።</string>
+    <string name="huhi_ui_donation_amount">የጉርሻ መጠን</string>
+    <string name="huhi_ui_wallet_balance">በእርሶ ዋሌት ውስጥ ያለው ገንዘብ።</string>
+    <string name="huhi_ui_make_monthly">ይህንን ወርሀዊ አድርግ</string>
+    <string name="huhi_ui_send_tip">ጉርሻዬን ላክ</string>
+    <string name="huhi_ui_do_monthly">ወርሀዊ ጉርሻ መጠንን ወስን</string>
+    <string name="huhi_ui_not_enough_tokens">በቂ የሆነ ቶክን የሎትም</string>
+    <string name="huhi_ui_site_banner_notice_text">ያስታውሱ፡ ይህ ፈጣሪ ከ Huhi ተጠቃሚዎች መዋጮዎችን ለመቀበል ገና አልተመዘገበም። እስከሚያረጋግጡ ወይም 90 ቀናት እስከሚያልፉ ድረስ መዋጮውን ለማድረግ እንሞክራለን።</string>
+    <string name="huhi_ui_please">እባክዎትን</string>
+    <string name="huhi_ui_add_funds">ገንዘብ ይጨምሩ</string>
+    <string name="huhi_ui_thank_you">እናመሰግናለን!</string>
+    <string name="huhi_ui_error_init_wallet">እባክዎትን በኋላ እንደገና ይሞክሩ።</string>
+    <string name="huhi_ui_month_jan">ጃንዩዋሪ</string>
+    <string name="huhi_ui_month_feb">ፌብሩዋሪ</string>
+    <string name="huhi_ui_month_mar">ማርች</string>
+    <string name="huhi_ui_month_apr">ኤፕሪል</string>
+    <string name="huhi_ui_month_may">ሜይ</string>
+    <string name="huhi_ui_month_jun">ጁን</string>
+    <string name="huhi_ui_month_jul">ጁላይ</string>
+    <string name="huhi_ui_month_aug">ኦገስት</string>
+    <string name="huhi_ui_month_sep">ሴፕቴምበር</string>
+    <string name="huhi_ui_month_oct">ኦክቶበር</string>
+    <string name="huhi_ui_month_nov">ኖቬምበር</string>
+    <string name="huhi_ui_month_dec">ዲሴምበር</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>ዲሴምበር</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">ያስተውሉ</string>
+    <string name="huhi_ui_include_in_auto">በራስ ሰር መዋጮዎችን አድርግ</string>
+    <string name="huhi_ui_donate_now">ጉርሻ ላክ. . . </string>
+    <string name="huhi_ui_no_activity">በዚህ ወር ምንም
+እንቅስቃሴ የለም...</string>
+    <string name="huhi_ui_token_grant_claimed">የቶክን ግራንቶችዎን ወስደዋል</string>
+    <string name="huhi_ui_earnings_ads">ከማስታወቂያ የተገኘ ገቢ</string>
+    <string name="huhi_ui_rewards_contribute">በራስ ሰር መዋጮ አድርግ</string>
+    <string name="huhi_ui_rewards_contribute_description"><ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT ያክል መዋጮ አድርገዋል።</string>
+    <string name="huhi_ui_one_time_donation">የአንድ ጊዜ መዋጮ</string>
+    <string name="huhi_ui_recurring_donation">ወርሀዊ መዋጮ</string>
+    <string name="huhi_ui_verified_publisher">Huhi ያረጋገጠው አታሚ</string>
+    <string name="huhi_ui_not_verified_publisher">ገና ያልተረጋገጠ</string>
+    <string name="huhi_ui_not_verified_publisher_description">ይህ ፈጣሪ ከ Huhi ተጠቃሚዎች መዋጮዎችን ለመቀበል ገና አልተመዘገበም።
+እስከሚያረጋግጡ ድረስ ማንኛውም መዋጮ በእርሶ ዋሌት ውስጥ የሚቆይ ይሆናል።</string>
+    <string name="huhi_ui_on_youtube">በዩቲውብ ላይ</string>
+    <string name="huhi_ui_on_twitch">በትዊች ላይ</string>
+    <string name="huhi_ui_new_grant">ነጻ የሆነ የቶክን ግራንት አለ።</string>
+    <string name="huhi_ui_new_token_grant">ነጻ የቶክን ግራንት</string>
+    <string name="huhi_ui_claim">ይገባኛል</string>
+    <string name="huhi_ui_reserved_amount_text">ገና ላልተመዘገቡ ፈጣሪዎች <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT መድበዋል
+። አሳሽዎ እርሶ እስከሚያረጋግጡ ወይም 90 ቀን እስሚሞላ ድረስ መዋጮውን ለማድረግ ይሞክራል
+።</string>
+    <string name="huhi_ui_notification_desc_tip_error">ጉርሻዎትን በማስተላለፍ ሂደት ውስጥ ችግር አጋጥሟል፣ እባክዎትን አንደገና ይሞክሩ።</string>
+    <string name="huhi_ui_notification_desc_contr_error">መዋጮዎትን በማስተላለፍ ሂደት ውስጥ ችግር አጋጥሟል።</string>
+    <string name="huhi_rewards_local_uh_oh">ውይ!</string>
+    <string name="huhi_rewards_local_server_not_responding">የ Huhi ሽልማቶች ሰርቨር ምላሽ እየሰጠ አይደለም። ይህንን በተቻለ ፍጥነት እናስተካክለዋለን።</string>
+    <string name="huhi_ui_grants">ግራንቶች</string>
+    <string name="huhi_ui_expires_on">በ <ph name=\"DATE\">%1$s<ex>4/14/2019</ex></ph>አገልግሎት መስጠት ያቆማል</string>
+    <string name="huhi_ui_insufficient_funds_msg">በቂ ያልሆነ ገንዘብ</string>
+    <string name="huhi_ui_insufficient_funds_desc">የ Huhi Rewards አካውንትዎ ተቀማጭ እስሚደረግበት እየጠበቀ ነው።</string>
+    <string name="huhi_ui_backup_wallet_msg">ምትኬ ዋሌት</string>
+    <string name="huhi_ui_backup_wallet_desc">እባክዎትን የ Huhi ዋሌት አካውንትዎን ምትኬ ያድርጉ።</string>
+    <string name="huhi_ui_huhi_rewards">Huhi Rewards</string>
+    <string name="huhi_ui_welcome_back_message">እንኳን በደህና ተመለሱ!</string>
+    <string name="huhi_ui_get_rewarded">በማሰስዎ ሽልማት ያግኙ።</string>
+    <string name="huhi_ui_huhi_rewards_desc">ግለኝነት የሚያከብሩ ማስታወቂያዎችን
+በማየት ቀድመው ይክፈሉ እና 
+የሚወዷቸውን ፈጣሪዎች ይደግፉ።</string>
+    <string name="huhi_welcome_page_rewards_title">Huhi Rewards አስጀምር</string>
+    <string name="huhi_ui_first_tip_text">የመጀመሪያ ወር ጉርሻዎ የሚላከው በ፡</string>
+    <string name="huhi_ui_tip_text">አሁን ጉርሻ የላኩት ለ፡</string>
+    <string name="huhi_ui_auto_tip_text">እርሶ በራስሰር ጉርሻ ሊልኩ ያሉት ለ፡</string>
+    <string name="huhi_ui_monthly_text">ወርሀዊ</string>
+    <string name="bottom_toolbar_enable">የግርጌ መሳሪያ አሞሌን አስችል</string>
+    <string name="bottom_toolbar_disable">የግርጌ መሳሪያ አሞሌን ከስራ አስቁም</string>
+    <string name="search_or_url">ፈልግ ወይም URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">እልባት ፍጠር</string>
+    <string name="huhi_ui_donate_monthly">ለዚህ ድረ-ገጽ ወርሀዊ ጉርሻ ስጥ</string>
+
+    <string name="huhi_rewards_not_available">እናዝናለን የ Huhi ሽልማቶች በስልክዎ ላይ ያለ አይመስልም</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">ሀሉንም ታቦች መዝጋት Huhi ን እንዲዘጋ ያደርጋል</string>
+    <string name="prefs_section_display">አሳይ</string>
+    <string name="prefs_section_controls">መቆጣጠሪያዎች</string>
+    <string name="prefs_appearance">ገጽታ</string>
+    <string name="hide_huhi_rewards_icon_title">የ Huhi ሽልማቶች አዶን ደብቅ</string>
+    <string name="hide_huhi_rewards_icon_description">የ Huhi ሸልማቶች በስራ ላይ በማይሆንበት ጊዜ የ Huhi ሸልማቶች አዶንን ይደብቃል</string>
+    <string name="reset_huhi_rewards_option">የ Huhi ሽልማቶችን ወደነበረበት መልስ</string>
+    <string name="reset_huhi_rewards_option_description">ይህ ዋሌትዎን ያጠፋ እና ሁሉንም የ Huhi ሽልማትዎን ወደነበሩበት ይመልሳቸዋል</string>
+    <string name="reset_huhi_rewards_error_title">ወደነበረበት የመመለስ ስህተት</string>
+    <string name="reset_huhi_rewards_error_description">የ Huhi ሸልማቶችን በማዋቀር ሂደት ውስጥ ስህተት ነበር። እባክዎ Huhi አጥፍተው ያብሩ እና እንደገና ይሞክሩ</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">በኮምፒውተርዎ ላይ ወደ ቅንብር ውስጥ ወዳለው ወደ Huhi ሲንክ ይሂዱ እና \"የሲንክ ኮድ አለኝ\"\ የሚለውን ቁልፍ ጠቅ ያድርጉ። ከዚህ በታች የሚታዩትን የሲንክ ሰንሰለት ኮድ ቃላት ያስገቡ።</string>
+
+    <string name="huhi_sync_official">Huhi ሲንክ</string>
+    <string name="prefs_sync_official">ሲንክ</string>
+
+    <string name="huhi_sync_code_warning">ይህንን ኮድ ልክ እንደ ይለፍቃል ይያዙት። አንድ ሰው እጅ ላይ የሚገባ ከሆነ ሲንክ የተደረገውን ዳታዎን ሊያነቡ እና ሊቀይሩት ይችላሉ።</string>
+
+    <string name="notification_category_group_huhi_ads">የ Huhi ማስታወቂያዎች</string>
+    <string name="huhi_ads_you_earned">አግኝተዋል</string>
+
+    <string name="huhi_default_browser_title">Huhi እንደ መብረቅ ፈጣን ነው</string>
+    <string name="huhi_default_browser_body">Huhi ን መደበኛ አሳሽዎ እንዲሆን ያድርጉ!</string>
+    <string name="huhi_make_default_text">መደበኛ ያድርጉ</string>
+    <string name="huhi_ui_ads_earnings">ከማስታወቂያዎች የተገኘ</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">ዝለል</string>
+
+    <string name="search_engine_onboarding">የማሰሻ ኢንጂን አለ</string>
+    <string name="troubleshooting_onboarding">ችግርመፍቻ አለ</string>
+
+    <string name="welcome_to_huhi_browser">ወደ Huhi ማሰሻ እንኳን በደህና መጡ</string>
+    <string name="select_your_default_search_engine">መደበኛውን የማሰሻ ኢንጅንዎን ይምረጡ</string>
+
+    <string name="block">አግድ</string>
+    <string name="huhi_shields_onboarding_title">የ Huhi ጋሻዎች</string>
+    <string name="huhi_shields_onboarding_text">በድር ላይ ክትትል ሳይደረግብዎ እሰሳ ማድረግ ይችሉ ዘንድ ግለኝነት የሚጥሱ ማስታወቂያዎች እና ክትትል ማድረጊያዎች።</string>
+
+    <string name="earn_tokens">ቶክኖችን ያግኙ</string>
+    <string name="huhi_rewards_onboarding_title">የ Huhi ሽልማቶች</string>
+    <string name="huhi_rewards_onboarding_text">ግለኝነትን የሚያከብሩ ማስታወቂያዎችን ለማየት። የሚወዷቸውን ገጾች እና ፈጣሪዎች ለመደገፍ ይጠቀሙዋቸው።</string>
+    <string name="huhi_rewards_onboarding_text2">ግለኝነትን የሚያከብሩ ማስታወቂያዎችን ለማየት።</string>
+
+    <string name="terms_title">የ Huhi ሸልማቶችን ለመጠቀም ከውሎቹ ጋር ስምምነት ያድርጉ</string>
+    <string name="terms_text">ከ Huhi ሸልማቶች ጋር እስማማለሁ</string>
+    <string name="terms_of_service">የአገልግሎት ውሎች</string>
+
+    <string name="agree">ተስማማ</string>
+    <string name="join">ተቀላቀል</string>
+
+     <string name="start_browsing">ማሰስ ጀምር</string>
+    <string name="i_didnt_see">እኔ ማስታወቂያ አላየሁም</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi የመጀመሪያውን ማስታወቂያ የሚያሳይዎ በ</string>
+    <string name="huhi_ads_onboarding_text">ማስታወቂያዎችን ከ Huhi ሸልማቶች ለማየት፣ Huhi ማሳወቂያዎችን ለእርሶ ለማሳየት ፈቃድ እንዳለው ያረጋግጡ።</string>
+
+    <string name="this_is_your_first_ad">ይህ የመጀመሪያው የ Huhi ማስታወቂያዎ ነው። ተጨማሪ ለማንበብ ይንኩት።</string>
+
+    <string name="turn_on">አብራ</string>
+
+    <string name="no_thanks">አይ አመሰግናለሁ</string>
+    <string name="do_not_agree">አልስማማም</string>
+
+    <string name="prefs_welcome_tour">የእንኳን ደህና መጡ ጉብኝት</string>
+    <string name="welcome_tour_dialog_text">የእንኳን ደህን መጡ ጉብኝትን እንደገና ማስፈንጠር አሁን ባሉ ቅንብሮች ላይ ተጽእኖ አያሳድርም።</string>
+    <string name="finish">ጨርስ</string>
+    
+    </resources>

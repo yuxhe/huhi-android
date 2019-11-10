@@ -1,0 +1,304 @@
+<resources>
+
+    <string name="huhi_settings_title">Mipangilio mahiri ya ngao ya tovuti</string>
+    <string name="huhi_shields_down">Chini</string>
+    <string name="huhi_shields_up">Juu</string>
+    <string name="huhi_shields_ads_trackers">Matangazo na Vifuatiliaji Vimezuiwa</string>
+    <string name="huhi_shields_https_upgrades">Uboreshaji wa HTTPS</string>
+    <string name="huhi_shields_scripts_blocked">Hati Zimezuiwa</string>
+    <string name="huhi_shields_ads_tracking_switch">Zuia Matangazo na Ufuatiliaji</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Everywhere</string>
+    <string name="huhi_shields_blocks_scripts_switch">Zuia Hati</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Wezesha/Lemaza Ngao Mahiri</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Zuia vidakuzi vya mhusika mwengine</string>
+
+    <string name="httpse_summary">Hufungua tovuti zinazoauniwa kwa kutumia HTTPS badala ya HTTP ikiwezekana</string>
+    <string name="ad_block_title">Kizuiaji cha Tangazo</string>
+    <string name="ad_block_summary">Huzuia matangazo kupakia</string>
+
+    <string name="fingerprinting_protection_title">Ulinzi wa Alama ya kidole</string>
+    <string name="fingerprinting_protection_summary">Huzuia kivinjari kuchapisha kutumia alama ya kidole</string>
+    <string name="huhi_shields_fingerprints_blocked">Mbinu za Uchapishaji wa Alama ya kidole Zimezuiwa</string>
+    <string name="huhi_shields_block_fingerprints_switch">Ulinzi wa Alama ya kidole</string>
+
+    <string name="ad_block_regional_title">Uzuiaji wa Tangazo la Kimaeneo</string>
+    <string name="ad_block_regional_summary">Huzuia matangazo ya kimaeneo kupakia</string>
+
+    <string name="ad_block_regional_summary_no_list">Hakuna orodha za ziada zinazopatikana kwa lugha yako</string>
+
+    <string name="menu_exit">Mlango wa kutoka</string>
+
+    <string name="sync_settings_add_device_name_title">Ongeza jina la kifaa</string>
+    <string name="sync_settings_add_device_name_label">Ingiza jina la hiari la kifaa hiki</string>
+    <string name="sync_example_device_name">Kifaa cha Android</string>
+    <string name="enter_code_words_sync">Ingiza maneno ya msimbo</string>
+    <string name="sync_device">Landanisha kifaa</string>
+    <string name="sync_device_failure">Ulandanishaji usingesanidiwa</string>
+    <string name="sync_requires_correct_time">Saa ya kompyuta yako huenda ikawekwa saa isiyofaa, au saa za eneo zisizofaa. Angalia mipangilio ya saa yako</string>
+
+    <string name="huhi_stats_text_ads">Matangazo na Vifuatiliaji
+Yamezuiwa</string>
+    <string name="huhi_stats_text_https">Uboreshaji
+wa HTTPS</string>
+    <string name="huhi_stats_text_time">Muda Kadiriwa
+Umehifadhiwa</string>
+
+    <string name="send_metrics_title">Tuma vipimo</string>
+
+    <string name="desktop_mode_title">Mwonekano wa Kompyuta</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Unapendelea tovuti katika mwonekano wa kompyuta</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Unapendelea tovuti katika mwonekano wa simu</string>
+    <string name="website_settings_category_desktop_view_enabled">Wezesha Mwonekano wa Kompyuta kwa vichupo vipya</string>
+    <string name="website_settings_category_desktop_view_disabled">Tumia tovuti katika mwonekano wa kompyuta kwa vichupo vipya (inapendekezwa)</string>
+
+    <string name="huhi_shields_first_group_title">Inaziba Monita</string>
+    <string name="huhi_shields_second_group_title">Vidhibiti Binafsi</string>
+    <string name="huhi_shields">Ngao</string>
+    <string name="huhi_shields_ads_and_trackers">Matangazo na Vifuatiliaji</string>
+    <string name="huhi_shields_fingerprint_methods">Mbinu za Alama za Vidole</string>
+    <string name="huhi_shields_block_phishing_switch">Zuia Udukuzi</string>
+
+    <string name="play_video_in_background_title">Sauti ya video ya nyuma</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Imewezeshwa</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Imelemazwa</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Ya kimajaribo. Husaidia sauti kutoka kwenye video wakati kichupo hakifanyi kazi au skrini ya kifaa imezimwa. Jaribu kutumia mwonekano wa kompyuta ikiwa kipengele hiki hakifanyi kazi.</string>
+    <string name="settings_require_relaunch_notice">Mabadiliko yako yataonekana wakati utakapofungua tena Huhi</string>
+    <string name="settings_require_relaunch_now">FUNGUA TENA SASA</string>
+    <string name="settings_require_relaunch_later">BAADAYE</string>
+
+    <string name="play_yt_video_in_browser_title">Video inayocheza kwenye Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Imewezeshwa</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Imelemazwa</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Ikiwa imewezeshwa, video zitachezwa kwenye Huhi badala ya programu tumishi</string>
+
+    <string name="close_tabs_on_exit_title">Funga vichupo unapotoka</string>
+    <string name="close_tabs_on_exit_summary">Usiache vichupo vikiwa amilifu wakati ukiwa unavinjari</string>
+
+    <string name="open_pages_in_custom_tabs_title">Fungua vichupo kwenye Custom Tabs</string>
+    <string name="open_pages_in_custom_tabs_summary">Kubali kufungua vichupo kwenye Custom Tabs</string>
+
+    <string name="ddg_offer_title">Utafutaji binafsi na DuckDuckGo?</string>
+    <string name="ddg_offer_text">Kwa utafutaji binafsi, Huhi itatumia DuckDuckGo kujibu utafutaji wako huku ukiwa katika kichupo hiki binafsi. DuckDuckGo ni kivinjari ambacho hakifuatilii historia yako ya utafutaji, ikikuwezesha kuvinjari binafsi.</string>
+    <string name="ddg_offer_positive">Ndiyo</string>
+    <string name="ddg_offer_negative">Hapana</string>
+    <string name="ddg_offer_link">Jifunze kuhusu utafutaji binafsi na DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Kichupo cha Kawaida</string>
+    <string name="prefs_private_search_engine">Kichupo Binafsi</string>
+
+    <string name="huhi_open_in_private_tab">Fungua kwenye kichupo binafsi</string>
+    <string name="huhi_close_all_private_tabs">Funga vichupo binafsi</string>
+    <string name="huhi_new_private_tab">Kichupo binafsi kipya</string>
+    <string name="huhi_new_tab_private_header">Hiki ni Kichupo Binafsi</string>
+    <string name="huhi_new_tab_private_message">Ingawa tovuti unazozitembelea hazihifadhiwi kimahalia, hazifichi utambulisho wako kwa ISP yako, mwajiri wako, au tovuti unayoitembelea.</string>
+    <string name="update_notification_title">Sasisho la Huhi</string>
+    <string name="update_notification_text">Kivinjari kipya cha Huhi kina kasi kubwa kwa 22%</string>
+    <string name="prefs_sync">Uoanishaji (beta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Matangazo ya Huhi yapo hapa!</string>
+    <string name="huhi_ads_new_user_offer_title">Wezesha Huhi Rewards</string>
+    <string name="huhi_ads_offer_text">Pata Basic Attention Token kwa kuangalia matangazo ya kuzingatia faragha katika Huhi Rewards.</string>
+    <string name="huhi_ads_offer_positive">Ninakubali</string>
+    <string name="huhi_sync_description_page_1_part_1">Huhi Uoanishaji hukuwezesha kuoanisha data za kumbukumbu kibinafsi kati ya Vivinjari vya Huhi katika vifaa vyako mbalimbali.</string>
+    <string name="huhi_sync_description_page_1_part_2">Unachotakiwa kufanya ni kuskani msimbo kutoka kwenye mnyororo wako wa kuoanisha ambao umeutengeneza kwenye kifaa kingine. Au anza mnyororo mpya wa kuoanisha.</string>
+    <string name="huhi_sync_scan_chain_code">Skani au ingiza msimbo wa kuoanisha</string>
+    <string name="huhi_sync_start_new_chain">Anza mnyororo mpya wa kuoanisha</string>
+    <string name="huhi_sync_qrcode_message_v2">Kwa kutumia kifaa kilichooanishwa, fungua Mipangilio ya Huhi na nenda kwenye Mipangilio > Uoanishaji. Chagua \"Ongeza Kifaa\" na skani Msimbo wa QR ulioonyeshwa kwenye skrini.</string>
+    <string name="huhi_sync_codewords_message">Kwa kutumia kifaa kilichooanishwa, fungua Mipangilio ya Huhi na nenda kwenye Mipangilio > Uoanishaji. Chagua \"Ongeza Kifaa\" kisha \"Onyesha maneno ya msimbo badala yake.\"</string>
+    <string name="huhi_sync_btn_mobile">Ongeza Kifaa Simu</string>
+    <string name="huhi_sync_btn_laptop">Ongeza Kompyuta</string>
+    <string name="huhi_sync_scan_sync_code">Skani msimbo huu wa kuoanisha</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Kwa kutumia simu ya pili au tabuleti, nenda kwenye Mipangilio ya Huhi > Oanisha > Skani</string>
+    <string name="huhi_sync_btn_done">Imekamilika</string>
+    <string name="huhi_sync_tabs_text">Vichupo</string>
+    <string name="huhi_sync_history_text">Historia</string>
+    <string name="huhi_sync_autofill_passwords_text">Kujaza kiotomati/Nywila</string>
+    <string name="huhi_sync_payment_settings_text">Mipangilio ya Huhi Malipo</string>
+    <string name="huhi_sync_settings_title">OANISHA KWENYE KIFAA HIKI</string>
+    <string name="huhi_sync_settings_description">Kubadilisha mipangilio kutaathiri tu data ambazo kifaa hiki kitashiriki na vingine</string>
+    <string name="huhi_sync_devices_title">VIFAA VINGINE KATIKA MNYORORO</string>
+    <string name="huhi_sync_loading_devices_title">INAPAKIA VIFAA...</string>
+    <string name="huhi_sync_add_device_text">Ongeza kifaa kingine</string>
+    <string name="huhi_sync_remove_device_text">Ondoa kifaa hiki</string>
+    <string name="huhi_sync_code_words_title">Unganisha</string>
+    <string name="huhi_sync_add_laptop_text_title">Ingiza msimbo wa mnyororo wa kuoanisha</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Kwenye kompyuta yako, nenda kwenye Mipangilio ya Huhi > Uoanishaj. Chagua \"Ingiza Msimbo wa Mnyororo wa Kuoanisha.\"</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Ingiza maneno ya msimbo hapo juu, pamoja na nafasi.</string>
+    <string name="huhi_sync_delete_device">Una uhakika unataka kufuta kifaa \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'?</string>
+    <string name="huhi_sync_delete_sent">Ombi la kufuta limetumwa. Kifaa kitaondolewa hivi karibuni.</string>
+    <string name="huhi_sync_loading_data_title">Inapakia data...</string>
+    <string name="huhi_sync_time_out_message">Kuna kitu hakiko sawa, inaonekana ombi lako limekwisha muda wake.</string>
+    <string name="huhi_sync_use_camera_text">Nitatumia kamera yangu...</string>
+    <string name="huhi_sync_confirm_code_words_text">Thibitisha</string>
+    <string name="huhi_sync_word_count_text">Idadi ya maneno: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Idadi ya maneno isiyo sahihi</string>
+    <string name="huhi_sync_qr_code">Msimbo wa QR</string>
+    <string name="huhi_sync_code_words">Maneno ya Msimbo</string>
+    <string name="huhi_sync_copy_button_text">Nakili kwenye Clipboard</string>
+    <string name="huhi_sync_copied_text">Imenakiliwa kwenye Clipboard</string>
+    <string name="huhi_sync_this_device_text">(kifaa hiki)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi tayari imewekwa kuwa
+kivinjari chako chaguomsingi.</string>
+    <string name="huhi_default_browser_go_to_settings">Tayari umeshapangilia kivinjari chaguomsingi.
+Unaweza kubadilisha kivinjari chaguomsingi katika mipangilio ya programu yako.</string>
+    <string name="huhi_set_default_browser">Kiweke kuwa kivinjari chaguomsingi</string>
+    <string name="huhi_default_browser_existing_notification_body">Fanya Huhi kuwa kivinjari chako chaguomsingi
+Okoa betri na vinjari haraka zaidi.</string>
+
+    <string name="huhi_ui_welcome_header_two">Kaa tayari kufurahia
+intaneti mpya.</string>
+    <string name="huhi_ui_welcome_desc_two">Sasa unaweza kupata zawadi kwa
+kutazama matangazo yanayoheshimu faragha.</string>
+    <string name="huhi_ui_welcome_button_text_two">JIUNGE NA REWARDS</string>
+    <string name="huhi_ui_welcome_footer_text_two">PATA MAELEZO ZAIDI</string>
+    <string name="huhi_ui_rewards_creating_text">Kutengeneza waleti</string>
+    <string name="huhi_ui_your_wallet">Waleti yako</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0.0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Weka Fedha</string>
+    <string name="huhi_ui_settings">Mipangilio</string>
+    <string name="huhi_ui_rewards_summary">MUHTASARI WA REWRDS</string>
+    <string name="huhi_ui_site_banner_welcome">Asante kwa kutembelea tovuti hii!</string>
+    <string name="huhi_ui_rewards_banner_text1">Unaweza kuwezesha tovuti hii kwa kutuma zawadi. Ni namna ya kuwashukuru kwa kutengeneza maudhui mazuri. Watengenezaji maudhui waliothibitishwa wanalipwa zawadi zao wiki ya kwanza ya kila mwezi.</string>
+    <string name="huhi_ui_rewards_banner_text2">Kama unapenda, unaweza kupanga kutoa zawadi kila mwezi ili kuiwezesha tovuti hii kwa mwendelezo.</string>
+    <string name="huhi_ui_donation_amount">Kiwango cha zawadi</string>
+    <string name="huhi_ui_wallet_balance">salio la waleti:</string>
+    <string name="huhi_ui_make_monthly">Ifanye hii kila mwezi</string>
+    <string name="huhi_ui_send_tip">tuma zawadi yangu</string>
+    <string name="huhi_ui_do_monthly">weka zawadi ya kila mwezi</string>
+    <string name="huhi_ui_not_enough_tokens">hakuna zawazi za kutosha</string>
+    <string name="huhi_ui_site_banner_notice_text">ZINGATIA: Mtengenezaji huyu bado hajajisajili ili kuweza kupokea michango kutoka kwa watumiaji wa Huhi. Tutaendelea kujaribu kuchangia hadi watakapothibitisha, au hadi siku 90 zitakapopita.</string>
+    <string name="huhi_ui_please">tafadhali</string>
+    <string name="huhi_ui_add_funds">weka fedha</string>
+    <string name="huhi_ui_thank_you">Asante!</string>
+    <string name="huhi_ui_error_init_wallet">Tafadhali jaribu tena baadaye.</string>
+    <string name="huhi_ui_month_jan">JANUARI</string>
+    <string name="huhi_ui_month_feb">FEBRUARI</string>
+    <string name="huhi_ui_month_mar">MACHI</string>
+    <string name="huhi_ui_month_apr">APRILI</string>
+    <string name="huhi_ui_month_may">MEI</string>
+    <string name="huhi_ui_month_jun">JUNI</string>
+    <string name="huhi_ui_month_jul">JULAI</string>
+    <string name="huhi_ui_month_aug">AGOSTI</string>
+    <string name="huhi_ui_month_sep">SEPTEMBA</string>
+    <string name="huhi_ui_month_oct">OKTOBA</string>
+    <string name="huhi_ui_month_nov">NOVEMBA</string>
+    <string name="huhi_ui_month_dec">DESEMBA</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>DESEMBA</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Ilani</string>
+    <string name="huhi_ui_include_in_auto">Jumuisha Auto-Contribute</string>
+    <string name="huhi_ui_donate_now">Tuma zawadi...</string>
+    <string name="huhi_ui_no_activity">Hakuna shughuli
+mwezi huu...</string>
+    <string name="huhi_ui_token_grant_claimed">Ruzuku za Zawadi Zilizodaiwa</string>
+    <string name="huhi_ui_earnings_ads">Mapato kutokana na Matangazo</string>
+    <string name="huhi_ui_rewards_contribute">Auto-Contribute</string>
+    <string name="huhi_ui_rewards_contribute_description">Umechangia <ph name=\"BAT_VALUE\">%1$s<ex>BAT 50</ex></ph>.</string>
+    <string name="huhi_ui_one_time_donation">Zawadi za mara moja</string>
+    <string name="huhi_ui_recurring_donation">Zawadi za Kila Mwezi</string>
+    <string name="huhi_ui_verified_publisher">Mchapishaji wa Huhi Aliyethibitishwa</string>
+    <string name="huhi_ui_not_verified_publisher">Bado hajathibitishwa</string>
+    <string name="huhi_ui_not_verified_publisher_description">Mtengenezaji huyu bado hajajisajili ili kuweza kupokea michango kutoka kwa watumiaji wa Huhi. Zawadi zozote utakazotuma zitabaki kwenye waleti yake hadi atakapothibitisha.</string>
+    <string name="huhi_ui_on_youtube">kwenye YouTube</string>
+    <string name="huhi_ui_on_twitch">kwenye Twitch</string>
+    <string name="huhi_ui_new_grant">Ruzuku ya zawadi ya bure inapatikana.</string>
+    <string name="huhi_ui_new_token_grant">Ruzuku ya Zawadi ya Bure</string>
+    <string name="huhi_ui_claim">Dai</string>
+    <string name="huhi_ui_reserved_amount_text">Umeweka <ph name=\"BAT_VALUE\">%1$s<ex>BAT 50</ex></ph> kwa  watengenezaji wa maudhui ambao hawajajisajili kupokea michango. Kivinjari chako kitaendelea kujaribu kuchangia hadi watakapothibitisha, au hadi siku 90 zipite.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Hitilafu fulani ilitokea wakati wa kuchakata zawadi yako, tafadhali jaribu tena.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Hitilafu fulani ilitokea wakati wa kuchakata mchango wako.</string>
+    <string name="huhi_rewards_local_uh_oh">Ayaa!</string>
+    <string name="huhi_rewards_local_server_not_responding">Seva ya Huhi Rewards imepata hitilafu. Tutarekebisha hii mapema iwezekanavyo.</string>
+    <string name="huhi_ui_grants">Ruzuku</string>
+    <string name="huhi_ui_expires_on">huisha muda wake mnamo <ph name=\"DATE\">%1$s<ex>4/14/2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Hakuna Fedha za Kutosha</string>
+    <string name="huhi_ui_insufficient_funds_desc">Akaunti yako ya Huhi inasubiri kuwekwa fedha.</string>
+    <string name="huhi_ui_backup_wallet_msg">Waleti ya Hifadhi Mbadala</string>
+    <string name="huhi_ui_backup_wallet_desc">Tafadhali hifadhi kwa njia mbadala waleti yako ya Huhi.</string>
+    <string name="huhi_ui_huhi_rewards">Huhi Rewards</string>
+    <string name="huhi_ui_welcome_back_message">Karibu tena!</string>
+    <string name="huhi_ui_get_rewarded">Pata zawadi kwa kuvinjari kwenye intaneti.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Pata kipato kwa kutazama matangazo yanayoheshimu
+faragha, na itoe kuwasaidia
+watengenezaji maudhui unaowapenda.</string>
+    <string name="huhi_welcome_page_rewards_title">WEZESHA HUHI REWARDS</string>
+    <string name="huhi_ui_first_tip_text">Kidokezo chako cha kwanza cha kila mwezi kitatumwa mnamo:</string>
+    <string name="huhi_ui_tip_text">Umetuma kidokezo kwa:</string>
+    <string name="huhi_ui_auto_tip_text">Unatuma kidokezo kiotomatiki kwa:</string>
+    <string name="huhi_ui_monthly_text">Kila mwezi</string>
+    <string name="bottom_toolbar_enable">Wezesha upau wa vidhibiti wa chini</string>
+    <string name="bottom_toolbar_disable">Lemeza upau wa vidhibiti wa chini</string>
+    <string name="search_or_url">Utafutaji au URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Unda alamisho</string>
+    <string name="huhi_ui_donate_monthly">Dokeza tovuti hii kila mwezi</string>
+
+    <string name="huhi_rewards_not_available">Samahani inaonekana kuwa Huhi Rewards haipatikani kwenye kifaa chako</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Kufunga vichupo vyote kunafunga Huhi</string>
+    <string name="prefs_section_display">Onyesha</string>
+    <string name="prefs_section_controls">Vidhibiti</string>
+    <string name="prefs_appearance">Mwonekano</string>
+    <string name="hide_huhi_rewards_icon_title">Ficha Ikoni ya Huhi Rewards</string>
+    <string name="hide_huhi_rewards_icon_description">Huficha Ikoni ya Huhi Rewards wakati Huhi Rewards haijawezeshwa</string>
+    <string name="reset_huhi_rewards_option">Weka upya Huhi Rewards</string>
+    <string name="reset_huhi_rewards_option_description">Hatua hii itafuta pochi yako ya Huhi na kuweka upya data zako zote za Huhi Rewards</string>
+    <string name="reset_huhi_rewards_error_title">Hitilafu ya Kuweka Upya</string>
+    <string name="reset_huhi_rewards_error_description">Kulikuwa na hitilafu wakati wa kuweka upya Huhi Rewards. Tafadhali fungua upya Huhi na ujaribu tena</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Kwenye kompyuta yako lengwa, nenda kwenye Usawazishaji wa Huhi katika mipangilio na ubofye kitufe \"I have a Sync Code\".\nWeka maneno ya msururu wa usawazishaji yanayoonyeshwa hapa chini.</string>
+
+    <string name="huhi_sync_official">Usawazishaji wa Huhi</string>
+    <string name="prefs_sync_official">Usawazishaji</string>
+
+    <string name="huhi_sync_code_warning">Uchukulie msimbo huu kama nenosiri. Mtu akiupata, anaweza kusoma na kurekebisha data yako iliyosawazishwa.</string>
+
+    <string name="notification_category_group_huhi_ads">Matangazo ya Huhi</string>
+    <string name="huhi_ads_you_earned">Umepata</string>
+
+    <string name="huhi_default_browser_title">Huhi inang`aa kwa kasi</string>
+    <string name="huhi_default_browser_body">Fanya Huhi kuwa kivinjari chako chaguomsingi!</string>
+    <string name="huhi_make_default_text">Fanya chaguomsingi</string>
+    <string name="huhi_ui_ads_earnings">umepata kutoka kwenye matangazo</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Ruka</string>
+
+    <string name="search_engine_onboarding">Utaratibu wa kufahamu mtambo wa kutafuta</string>
+    <string name="troubleshooting_onboarding">Utaritubu wa kufahamu utatuzi</string>
+
+    <string name="welcome_to_huhi_browser">Karibu kwenye Kivinjari cha Huhi</string>
+    <string name="select_your_default_search_engine">Teua mtambo wako wa utafutaji chaguomsingi</string>
+
+    <string name="block">Zuia</string>
+    <string name="huhi_shields_onboarding_title">Ngao za Huhi</string>
+    <string name="huhi_shields_onboarding_text">matangazo na vifuatiliaji vya kuvamia faragha ili uvinjari bila kufuatwa kwenye wavuti.</string>
+
+    <string name="earn_tokens">Pata tokeni</string>
+    <string name="huhi_rewards_onboarding_title">Huhi Rewards</string>
+    <string name="huhi_rewards_onboarding_text">kwa ajili ya kuona matangazo ya kuheshimu faragha. Yatumie kuauni tovuti na watengenezaji wako unaopenda.</string>
+    <string name="huhi_rewards_onboarding_text2">kwa ajili ya kuona matangazo yanayoheshimu faragha.</string>
+
+    <string name="terms_title">Kubali Sheria na Masharti ya kutumia Huhi Rewards</string>
+    <string name="terms_text">Ninakubali Huhi Rewards</string>
+    <string name="terms_of_service">Sheria na Masharti</string>
+
+    <string name="agree">Kubali</string>
+    <string name="join">Jiunge</string>
+
+     <string name="start_browsing">Anza kuvinjari</string>
+    <string name="i_didnt_see">Sikuchapisha ona tangazo</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi itaonyesha tangazo lako la kwanza katika</string>
+    <string name="huhi_ads_onboarding_text">Ili kuona matangazo kutoka Huhi Rewards, hakikisha kuwa Huhi inaruhusiwa kukuonyesha arifa.</string>
+
+    <string name="this_is_your_first_ad">Hili ni tangazo lako la Huhi la kwanza. Gusa ili ujifunze zaidi.</string>
+
+    <string name="turn_on">Washa</string>
+
+    <string name="no_thanks">La, asante</string>
+    <string name="do_not_agree">Sikubali</string>
+
+    <string name="prefs_welcome_tour">Welcome Tour</string>
+    <string name="welcome_tour_dialog_text">Kuanzisha tena Welcome Tour hakutaathiri mipangilio yoyote iliyopo.</string>
+    <string name="finish">Kamilisha</string>
+    
+    </resources>

@@ -1,0 +1,6 @@
+[submodule "huhiSync"]
+	path = huhiSync
+	url = https://github.com/huhisoft/sync
+[submodule "huhi-crypto"]
+	path = huhi-crypto
+	url = https://github.com/huhisoft/crypto

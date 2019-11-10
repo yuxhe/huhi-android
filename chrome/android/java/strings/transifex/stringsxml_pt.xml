@@ -1,0 +1,142 @@
+<resources>
+
+    <string name="huhi_settings_title">Configurações Huhi de proteção do site para</string>
+    <string name="huhi_shields_down">Baixo</string>
+    <string name="huhi_shields_up">Cima</string>
+    <string name="huhi_shields_ads_trackers">Anúncios e Controladores Bloqueados</string>
+    <string name="huhi_shields_https_upgrades">Atualizações HTTPS </string>
+    <string name="huhi_shields_scripts_blocked">Scripts Bloqueados</string>
+    <string name="huhi_shields_ads_tracking_switch">Bloquear Anúncios e Monitorização</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS em todo o lado</string>
+    <string name="huhi_shields_blocks_scripts_switch">Bloquear Scripts</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Ativar/Desativar Huhi Shields</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Bloquear cookies de terceiros</string>
+
+    <string name="httpse_summary">Abre sites suportados com recurso a HTTPS em vez de HTTP sempre que possível</string>
+    <string name="tracking_protection_title">Modo de Proteção de Monitorização</string>
+    <string name="tracking_protection_summary">Impede que recursos que o monitorizam sejam carregados</string>
+    <string name="ad_block_title">Bloqueio de Anúncios</string>
+    <string name="ad_block_summary">Impede que anúncios sejam carregados</string>
+
+    <string name="fingerprinting_protection_title">Proteção de Impressão Digital</string>
+    <string name="fingerprinting_protection_summary">Impede que o navegador use impressões digitais</string>
+    <string name="huhi_shields_fingerprints_blocked">Métodos de Impressão Digital Bloqueados</string>
+    <string name="huhi_shields_block_fingerprints_switch">Proteção de Impressão Digital</string>
+
+    <string name="ad_block_regional_title">Bloqueio de Anúncios Regionais</string>
+    <string name="ad_block_regional_summary">Impede que anúncios regionais sejam carregados</string>
+
+    <string name="ad_block_regional_summary_no_list">Nenhuma lista adicional disponível para a sua localização</string>
+
+    <string name="menu_exit">Sair</string>
+
+    <string name="huhi_sync">Huhi (beta) Sincronização</string>
+    <string name="sync_settings_add_device_name_title">Adicionar nome do dispositivo</string>
+    <string name="sync_settings_add_device_name_label">Introduza um nome opcional para este dispositivo</string>
+    <string name="sync_example_device_name">Dispositivo Android</string>
+    <string name="enter_code_words_sync">Introduza as palavras de código</string>
+    <string name="sync_device">Sincronizar dispositivo</string>
+    <string name="sync_device_failure">Não foi possível configurar o Sync</string>
+
+    <string name="huhi_stats_text_trackers">Controladores
+Bloqueados</string>
+    <string name="huhi_stats_text_ads">Anúncios
+Bloqueados</string>
+    <string name="huhi_stats_text_https">Atualizações
+HTTPS</string>
+    <string name="huhi_stats_text_time">Tempo Est.
+Guardado</string>
+
+    <string name="send_metrics_title">Enviar métricas</string>
+
+    <string name="desktop_mode_title">Modo de Computador</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Preferir versões de sites para computador</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Preferir versões de sites para telemóvel</string>
+    <string name="website_settings_category_desktop_view_enabled">Ativar Vista de Computador para novos separadores</string>
+    <string name="website_settings_category_desktop_view_disabled">Usar versões de sites para telemóvel em novos separadores (recomendado)</string>
+
+    <string name="huhi_shields_first_group_title">Monitorização de Bloqueio</string>
+    <string name="huhi_shields_second_group_title">Controlos Individuais</string>
+    <string name="huhi_shields">Shields</string>
+    <string name="huhi_shields_ads_and_trackers">Anúncios e Controladores</string>
+    <string name="huhi_shields_fingerprint_methods">Métodos de impressão Digital</string>
+    <string name="huhi_shields_block_phishing_switch">Bloquear Phishing</string>
+
+    <string name="play_video_in_background_title">Reprodução de vídeo em segundo plano</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Ativado</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Desativado</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Experimental. Ativa a reprodução do áudio de um vídeo em segundo plano quando o separador não está ativo ou quando o ecrã está desligado. Tente alterar para modo de computador se esta funcionalidade não estiver a funcionar.</string>
+    <string name="settings_require_relaunch_notice">As suas alterações entrarão em vigor da próxima vez que reiniciar o Huhi</string>
+    <string name="settings_require_relaunch_now">REINICIAR AGORA</string>
+    <string name="settings_require_relaunch_later">MAIS TARDE</string>
+
+    <string name="play_yt_video_in_browser_title">Reprodução de vídeo no Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Ativado</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Desativado</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Se ativado, os vídeos serão reproduzidos no Huhi e não na aplicação correspondente</string>
+
+    <string name="close_tabs_on_exit_title">Ao sair, feche os separadores</string>
+    <string name="close_tabs_on_exit_summary">Não mantenha os separadores abertos entre as sessões de navegação</string>
+
+    <string name="open_pages_in_custom_tabs_title">Abrir separadores em Custom Tabs</string>
+    <string name="open_pages_in_custom_tabs_summary">Oferta para abrir separadores em Custom Tabs</string>
+
+    <string name="ddg_offer_title">Pesquisar de forma privada com o DuckDuckGo?</string>
+    <string name="ddg_offer_text">Com a pesquisa privada, o Huhi usará o DuckDuckGo para apresentar os resultados das suas pesquisas enquanto estiver neste separador privado. O DuckDuckGo é um motor de pesquisa que não monitoriza o seu histórico de pesquisas, permitindo-lhe pesquisar de forma privada.</string>
+    <string name="ddg_offer_positive">Sim</string>
+    <string name="ddg_offer_negative">Não</string>
+    <string name="ddg_offer_link">Saiba mais sobre a pesquisa privada com o DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Separador Normal</string>
+    <string name="prefs_private_search_engine">Separador Privado</string>
+
+    <string name="huhi_open_in_private_tab">Abrir num separador privado</string>
+    <string name="huhi_close_all_private_tabs">Fechar separadores privados</string>
+    <string name="huhi_new_private_tab">Novo separador privado</string>
+    <string name="huhi_new_tab_private_header">Este é um Separador Privado</string>
+    <string name="huhi_new_tab_private_message">Apesar dos sítios que visita nos separadores privados não ficarem guardados localmente, os separadores privados não asseguram o seu anonimato e não o tornam invisível em relação ao seu ISP (fornecedor de Internet), ao seu empregador, ou em relação aos próprios sítios que visita.</string>
+
+    <string name="update_notification_title">Atualize o Huhi</string>
+    <string name="update_notification_text">O novo navegador Huhi é 22% mais rápido</string>
+
+    <string name="prefs_sync">Sincronização (beta)</string>
+    <string name="huhi_sync_description_page_1_part_1">O Huhi Sync permite-lhe sincronizar dados de marcadores de modo privado entre os seus navegadores Huhi em vários dispositivos.</string>
+    <string name="huhi_sync_description_page_1_part_2">Basta digitalizar o código da cadeia de sincronização criada noutro dispositivo ou iniciar uma nova cadeia de sincronização.</string>
+    <string name="huhi_sync_scan_chain_code">Digitalizar ou introduzir código de sincronização</string>
+    <string name="huhi_sync_start_new_chain">Iniciar uma nova cadeia de sincronização</string>
+    <string name="huhi_sync_qrcode_message_v2">Com o dispositivo sincronizado existente, abra as definições do Huhi e aceda a Definições > Sync. Selecione \"Adicionar dispositivo\" e digitalize o código QR apresentado no ecrã.</string>
+    <string name="huhi_sync_codewords_message">Com o dispositivo sincronizado existente, abra as definições do Huhi e aceda a Definições > Sincronizar. Selecione \"Adicionar dispositivo\" e, em seguida, \"Apresentar palavras de código em alternativa\".</string>
+    <string name="huhi_sync_btn_mobile">Adicionar um dispositivo móvel</string>
+    <string name="huhi_sync_btn_laptop">Adicionar um computador</string>
+    <string name="huhi_sync_scan_sync_code">Digitalizar este código de sincronização</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Com um segundo telefone ou tablet, aceda no Huhi a Definições > Sync > Digitalizar.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">Capture o código QR (acima) com o segundo dispositivo ou introduza as palavras do código se não existir uma câmara disponível.</string>
+    <string name="huhi_sync_btn_done">Concluído</string>
+    <string name="huhi_sync_tabs_text">Separadores</string>
+    <string name="huhi_sync_history_text">Histórico</string>
+    <string name="huhi_sync_autofill_passwords_text">Preenchimento automático/Palavras-passe</string>
+    <string name="huhi_sync_payment_settings_text">Definições de pagamento do Huhi</string>
+    <string name="huhi_sync_settings_title">SINCRONIZAR NESTE DISPOSITIVO</string>
+    <string name="huhi_sync_settings_description">Alterar as definições irá apenas afetar os dados que este dispositivo partilhar com outros.</string>
+    <string name="huhi_sync_devices_title">OUTROS DISPOSITIVOS NA CADEIA</string>
+    <string name="huhi_sync_loading_devices_title">A CARREGAR DISPOSITIVOS...</string>
+    <string name="huhi_sync_add_device_text">Adicionar outro dispositivo</string>
+    <string name="huhi_sync_remove_device_text">Remover este dispositivo</string>
+    <string name="huhi_sync_code_words_title">Emparelhar</string>
+    <string name="huhi_sync_add_laptop_text_title">Introduzir o código da cadeia de sincronização</string>
+    <string name="huhi_sync_add_laptop_text_part_1">No seu computador,  aceda ao Huhi a Definições > Sync. Selecione \"Introduzir um código de cadeia de sincronização\".</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Introduza as palavras do código acima, incluindo espaços.</string>
+    <string name="huhi_sync_delete_device">Tem a certeza de que pretende eliminar o dispositivo \'<ph name="DEVICE_NAME">%1$s</ph>\'?</string>
+    <string name="huhi_sync_delete_sent">O pedido de eliminação foi enviado. O dispositivo será removido em breve.</string>
+    <string name="huhi_sync_loading_data_title">A carregar dados...</string>
+    <string name="huhi_sync_time_out_message">Ocorreu um erro. Aparentemente, o pedido excedeu o tempo limite.</string>
+    <string name="huhi_sync_use_camera_text">Vou usar a câmara...</string>
+    <string name="huhi_sync_confirm_code_words_text">Confirmar</string>
+    <string name="huhi_sync_word_count_text">Contagem de palavras: <ph name="WORD_COUNT">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Número de palavras incorreto</string>
+    <string name="huhi_sync_qr_code">Código QR</string>
+    <string name="huhi_sync_code_words">Palavras do código</string>
+    <string name="huhi_sync_copy_button_text">Copiar para a área de transferência</string>
+    <string name="huhi_sync_copied_text">Copiado para a área de transferência</string>
+    <string name="huhi_sync_this_device_text">(este dispositivo)</string>
+
+</resources>

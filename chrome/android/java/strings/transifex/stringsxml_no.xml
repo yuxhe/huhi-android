@@ -1,0 +1,318 @@
+<resources>
+
+    <string name="huhi_settings_title">Skjoldinnstillinger for Huhi-nettstedet</string>
+    <string name="huhi_shields_down">Ned</string>
+    <string name="huhi_shields_up">Opp</string>
+    <string name="huhi_shields_ads_trackers">Annonser og sporing blokkert</string>
+    <string name="huhi_shields_https_upgrades">HTTPS-oppgraderinger</string>
+    <string name="huhi_shields_scripts_blocked">Skript blokkert</string>
+    <string name="huhi_shields_ads_tracking_switch">Blokker annonser og sporing</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS overalt</string>
+    <string name="huhi_shields_blocks_scripts_switch">Blokker skript</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Aktiver/deaktiver Huhi-skjold</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Administrer Huhi-belønninger</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Blokker informasjonskapsler fra tredjeparter</string>
+
+    <string name="httpse_summary">Åpner støttede nettsteder ved å bruke HTTPS i stedet for HTTP når mulig</string>
+    <string name="ad_block_title">Blokker annonse</string>
+    <string name="ad_block_summary">Forhindrer annonser å starte</string>
+
+    <string name="fingerprinting_protection_title">Beskyttelse mot bruk av fingeravtrykk</string>
+    <string name="fingerprinting_protection_summary">Hindrer nettleser I å bruke fingeravtrykk</string>
+    <string name="huhi_shields_fingerprints_blocked">Metoder for bruk av fingeravtrykk blokkert</string>
+    <string name="huhi_shields_block_fingerprints_switch">Beskyttelse mot bruk av fingeravtrykk</string>
+
+    <string name="ad_block_regional_title">Regional annonse blokkering</string>
+    <string name="ad_block_regional_summary">Hindrer regionale annonser fra å laste</string>
+
+    <string name="ad_block_regional_summary_no_list">Ingen flere lister tilgjengelig for din lokasjon</string>
+
+    <string name="menu_exit">Utgang</string>
+
+    <string name="huhi_sync">Huhi Sync (beta)</string>
+    <string name="sync_settings_add_device_name_title">Legg til enhetsnavn</string>
+    <string name="sync_settings_add_device_name_label">Skriv inn et valgfritt navn for denne enheten</string>
+    <string name="sync_example_device_name">Android enhet</string>
+    <string name="enter_code_words_sync">Skriv inn kode ord</string>
+    <string name="sync_device">Synk enhet</string>
+    <string name="sync_device_failure">Synk kunne ikke settes opp</string>
+    <string name="sync_requires_correct_time">Datamaskinklokken din kan være satt feil, eller </string>
+
+    <string name="huhi_stats_text_ads">Annonser og sporere
+Blokkert</string>
+    <string name="huhi_stats_text_https">HTTPS-
+oppgraderinger</string>
+    <string name="huhi_stats_text_time">Beregnet tid
+Lagret</string>
+
+    <string name="send_metrics_title">Send beregninger</string>
+
+    <string name="desktop_mode_title">Skrivebordsmodus</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Foretrekker skrivebordsversjon av sidene</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Foretrekker mobilversjon av sidene</string>
+    <string name="website_settings_category_desktop_view_enabled">Aktiver skrivebordsvisning for nye faner</string>
+    <string name="website_settings_category_desktop_view_disabled">Bruk nettstedenes mobilversjoner for nye faner (anbefalt)</string>
+
+    <string name="huhi_shields_first_group_title">Blokkeringsmonitor</string>
+    <string name="huhi_shields_second_group_title">Individuelle kontroller</string>
+    <string name="huhi_shields">Skjermer</string>
+    <string name="huhi_shields_ads_and_trackers">Annonser og sporinger</string>
+    <string name="huhi_shields_fingerprint_methods">Fingeravtrykksmetoder</string>
+    <string name="huhi_shields_block_phishing_switch">Blokker nettfisking</string>
+
+    <string name="play_video_in_background_title">Videoavspilling i bakgrunnen</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Aktivert</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Deaktivert</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Eksperimentelt. Gjør det mulig å spille av lyd fra video i bakgrunnen når fanen ikke er aktiv eller skjermen på enheten er avslått. Prøv å bytte til skrivebordsmodus hvis denne funksjonen ikke virker.</string>
+    <string name="settings_require_relaunch_notice">Endringene dine trer i kraft neste gang du starter Huhi på nytt</string>
+    <string name="settings_require_relaunch_now">START PÅ NYTT NÅ</string>
+    <string name="settings_require_relaunch_later">SENERE</string>
+
+    <string name="play_yt_video_in_browser_title">Videoavspilling i Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Aktivert</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Deaktivert</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Hvis dette er aktivert, blir videoer spilt av i Huhi i stedet for den tilhørende appen</string>
+
+    <string name="close_tabs_on_exit_title">Lukk faner ved avslutning </string>
+    <string name="close_tabs_on_exit_summary">Ikke behold fanene mellom nettleserøktene </string>
+
+    <string name="open_pages_in_custom_tabs_title">Åpne faner i \"Tilpassede faner\"</string>
+    <string name="open_pages_in_custom_tabs_summary">Tilby å åpne faner i \"Tilpassede faner\"</string>
+
+    <string name="ddg_offer_title">Privat søk med DuckDuckGo?</string>
+    <string name="ddg_offer_text">Med privat søk vil Huhi bruke DuckDuckGo til å svare på søkene dine så lenge du er i denne private fanen. DuckDuckGo er en søkemotor som ikke sporer søkehistorikken din, slik at du er i stand til å søke privat.</string>
+    <string name="ddg_offer_positive">Ja</string>
+    <string name="ddg_offer_negative">Nei</string>
+    <string name="ddg_offer_link">Lær om privat søk med DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Standardfane</string>
+    <string name="prefs_private_search_engine">Privat fane</string>
+
+    <string name="huhi_open_in_private_tab">Åpne i privat fane</string>
+    <string name="huhi_close_all_private_tabs">Lukk private faner</string>
+    <string name="huhi_new_private_tab">Ny privat fane</string>
+    <string name="huhi_new_tab_private_header">Dette er en privat fane</string>
+    <string name="huhi_new_tab_private_message">Selv om nettsteder du besøker i private faner, ikke lagres lokalt, gjør de deg ikke anonym eller usynlig overfor internettleverandøren din, arbeidsgiveren din eller nettstedene du besøker.</string>
+    <string name="update_notification_title">Huhi-oppdatering</string>
+    <string name="update_notification_text">Den nye nettleseren til Huhi er 22 % raskere</string>
+    <string name="prefs_sync">Synkronisering (beta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Huhi Ads er her!</string>
+    <string name="huhi_ads_new_user_offer_title">Aktiver Huhi Rewards</string>
+    <string name="huhi_ads_offer_text">Opptjen Basic Attention Token for å se på personvernbeskyttende annonser i Huhi Rewards.</string>
+    <string name="huhi_ads_offer_positive">Jeg er inne!</string>
+    <string name="huhi_sync_description_page_1_part_1">Med Huhi-synkronisering kan du synkronisere Huhi-nettlesere på ulike enheter slik at du får de samme private bokmerkene på alle.</string>
+    <string name="huhi_sync_description_page_1_part_2">Skann helt enkelt koden fra synkkjeden du laget på en annen enhet, eller start en ny synkkjede.</string>
+    <string name="huhi_sync_scan_chain_code">Skann eller angi synkkode</string>
+    <string name="huhi_sync_start_new_chain">Start en ny synkkjede</string>
+    <string name="huhi_sync_qrcode_message_v2">Bruk en synkronisert enhet og åpne Innstillingene i Huhi. Gå deretter til Innstillinger > Synkroniser. Velg «Legg til enhet», og skann QR-koden du ser på skjermen.</string>
+    <string name="huhi_sync_codewords_message">Bruk en synkronisert enhet og åpne Innstillinger i Huhi. Gå deretter til Innstillinger > Synkroniser Velg «Legg til enhet» og så «Vis kodeord i stedet».</string>
+    <string name="huhi_sync_btn_mobile">Legg til en mobilenhet</string>
+    <string name="huhi_sync_btn_laptop">Legg til en datamaskin</string>
+    <string name="huhi_sync_scan_sync_code">Skann synkkoden</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Bruk en annen telefon eller nettbrett, og gå til Innstillinger i Huhi > Synkroniser > Skann.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">Naviger til Huhi Sync i innstillingene på din mobile enhet, og klikk på knappen \"Skann sync-kode\". Bruk kameraet ditt til å skanne QR-koden nedenfor.</string>
+    <string name="huhi_sync_btn_done">Ferdig</string>
+    <string name="huhi_sync_tabs_text">Faner</string>
+    <string name="huhi_sync_history_text">Historikk</string>
+    <string name="huhi_sync_autofill_passwords_text">Automatisk utfylling / passord</string>
+    <string name="huhi_sync_payment_settings_text">Betalingsinnstillinger for Huhi</string>
+    <string name="huhi_sync_settings_title">SYNK DENNE ENHETEN</string>
+    <string name="huhi_sync_settings_description">Det å endre innstillingene har bare innvirkning på dataene som denne enheten deler med andre.</string>
+    <string name="huhi_sync_devices_title">ANDRE ENHETER I KJEDEN</string>
+    <string name="huhi_sync_loading_devices_title">LASTER INN ENHETER …</string>
+    <string name="huhi_sync_add_device_text">Legg til en ny enhet</string>
+    <string name="huhi_sync_remove_device_text">Fjern denne enheten</string>
+    <string name="huhi_sync_code_words_title">Par</string>
+    <string name="huhi_sync_add_laptop_text_title">Angi synkkjedekoden</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Bruk datamaskinen din og gå til Innstillinger i Huhi > Synkroniser. Velg «Angi synkkjedekoden».</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Skriv inn kodeordene over (ta med mellomrommene).</string>
+    <string name="huhi_sync_delete_device">Er du sikker på at du vil slette enheten «<ph name=\"DEVICE_NAME\">%1$s</ph>»?</string>
+    <string name="huhi_sync_delete_sent">Forespørselen om sletting er sendt. Enheten vil snart fjernes.</string>
+    <string name="huhi_sync_loading_data_title">Laster inn data …</string>
+    <string name="huhi_sync_time_out_message">Det oppsto en feil. Det ser ut som forespørselen fikk tidsavbrudd.</string>
+    <string name="huhi_sync_use_camera_text">Jeg bruker kameraet …</string>
+    <string name="huhi_sync_confirm_code_words_text">Bekreft</string>
+    <string name="huhi_sync_word_count_text">Ordtelling: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Feil antall ord</string>
+    <string name="huhi_sync_qr_code">QR-kode</string>
+    <string name="huhi_sync_code_words">Kodeord</string>
+    <string name="huhi_sync_copy_button_text">Kopier til utklippstavlen</string>
+    <string name="huhi_sync_copied_text">Kopiert til utklippstavlen</string>
+    <string name="huhi_sync_this_device_text">(denne enheten)</string>
+
+    <string name="huhi_already_set_as_default_browser">Du bruker allerede Huhi
+som standard nettleser.</string>
+    <string name="huhi_default_browser_go_to_settings">Du har allerede valgt standard nettleser.
+Du kan endre standard nettleser i innstillingene til appen.</string>
+    <string name="huhi_default_browser_notification_body">Spar batteri og last inn nettsider raskere. Gjør Huhi til din standard nettleser. Fra menyen til Huhi trykker du \"Gjør til standard nettleser\"</string>
+    <string name="huhi_set_default_browser">Bruk som standard nettleser</string>
+    <string name="huhi_set_default_browser_dialog_text">Velg Huhi fra listen og trykk \"Alltid\"</string>
+    <string name="huhi_default_browser_existing_notification_body">Gjør Huhi til din standard nettleser
+Spar batteri og last nettsider raskere</string>
+
+    <string name="huhi_ui_welcome_header_two">Nå kan du oppleve
+fremtidens internett.</string>
+    <string name="huhi_ui_welcome_desc_two">Nå kan du få polletter for
+å se reklame som respekterer personvernet ditt.</string>
+    <string name="huhi_ui_welcome_button_text_two">BLI MED I REWARDS</string>
+    <string name="huhi_ui_welcome_footer_text_two">FINN UT MER</string>
+    <string name="huhi_ui_rewards_creating_text">Oppretter lommebok</string>
+    <string name="huhi_ui_your_wallet">Lommeboken din</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Legg til midler</string>
+    <string name="huhi_ui_settings">Innstillinger</string>
+    <string name="huhi_ui_rewards_summary">OPPSUMMERING FOR REWARDS</string>
+    <string name="huhi_ui_site_banner_welcome">Takk for at du stakk innom!</string>
+    <string name="huhi_ui_rewards_banner_text1">Du kan støtte de som driver dette nettstedet, ved å sende tips. Slik takker du dem for innholdet de lager. Verifiserte innholdsskapere får betalt for tipsen de mottar, den første uken i hver kalendermåned.</string>
+    <string name="huhi_ui_rewards_banner_text2">Hvis du vil, kan du angi en månedlig tips for å støtte nettstedet fast.</string>
+    <string name="huhi_ui_donation_amount">Tipsbeløp</string>
+    <string name="huhi_ui_wallet_balance">saldo i lommebok:</string>
+    <string name="huhi_ui_make_monthly">Gjør dette månedlig</string>
+    <string name="huhi_ui_send_tip">send tipsen</string>
+    <string name="huhi_ui_do_monthly">angi månedlig tips</string>
+    <string name="huhi_ui_not_enough_tokens">ikke nok polletter</string>
+    <string name="huhi_ui_site_banner_notice_text">OBS! Denne innholdsskaperen har foreløpig ikke registrert seg for å motta bidrag fra Huhi-brukere. Vi prøver å sende bidraget inntil vedkommende bekrefter, eller til det har gått 90 dager.</string>
+    <string name="huhi_ui_please">du må</string>
+    <string name="huhi_ui_add_funds">legge til midler</string>
+    <string name="huhi_ui_thank_you">Tusen takk!</string>
+    <string name="huhi_ui_error_init_wallet">Prøv igjen senere.</string>
+    <string name="huhi_ui_month_jan">JANUAR</string>
+    <string name="huhi_ui_month_feb">FEBRUAR</string>
+    <string name="huhi_ui_month_mar">MARS</string>
+    <string name="huhi_ui_month_apr">APRIL</string>
+    <string name="huhi_ui_month_may">MAI</string>
+    <string name="huhi_ui_month_jun">JUNI</string>
+    <string name="huhi_ui_month_jul">JULI</string>
+    <string name="huhi_ui_month_aug">AUGUST</string>
+    <string name="huhi_ui_month_sep">SEPTEMBER</string>
+    <string name="huhi_ui_month_oct">OKTOBER</string>
+    <string name="huhi_ui_month_nov">NOVEMBER</string>
+    <string name="huhi_ui_month_dec">DESEMBER</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>DESEMBER</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Obs!</string>
+    <string name="huhi_ui_include_in_auto">Ta med i automatisk bidrag</string>
+    <string name="huhi_ui_donate_now">Send tips …</string>
+    <string name="huhi_ui_no_activity">Foreløpig ingen aktivitet
+denne måneden …</string>
+    <string name="huhi_ui_token_grant_claimed">Pollettbidrag hentet</string>
+    <string name="huhi_ui_earnings_ads">Inntekt fra reklame</string>
+    <string name="huhi_ui_rewards_contribute">Automatisk bidrag</string>
+    <string name="huhi_ui_rewards_contribute_description">Du bidro med <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
+    <string name="huhi_ui_one_time_donation">Engangstips</string>
+    <string name="huhi_ui_recurring_donation">Månedlig tips</string>
+    <string name="huhi_ui_verified_publisher">Huhi-verifisert utgiver</string>
+    <string name="huhi_ui_not_verified_publisher">Foreløpig ikke verifisert</string>
+    <string name="huhi_ui_not_verified_publisher_description">Denne skaperen har foreløpig ikke registrert seg for å motta bidrag fra Huhi-brukere.
+        Tips du vil sende, blir værende i lommeboken din inntil vedkommende bekrefter.</string>
+    <string name="huhi_ui_on_youtube">på YouTube</string>
+    <string name="huhi_ui_on_twitch">på Twitch</string>
+    <string name="huhi_ui_new_grant">Et gratis pollettbidrag er tilgjengelig.</string>
+    <string name="huhi_ui_new_token_grant">Gratis pollettbidrag</string>
+    <string name="huhi_ui_claim">Hent</string>
+    <string name="huhi_ui_reserved_amount_text">Du har reservert <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT til skapere som foreløpig ikke
+har registrert seg for å motta bidrag. Nettleseren din vil prøve å sende bidraget
+inntil vedkommende har bekreftet, eller det har gått 90 dager.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Den planlagte månedlige betalingen for autobidrag og månedlige tips kunne ikke fullføres på grunn av utilstrekkelige midler. Vi prøver på nytt om 30 dager.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Det oppsto et problem med behandlingen av tipsen. Prøv igjen.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Det oppsto et problem med behandlingen av bidraget.</string>
+    <string name="huhi_rewards_local_uh_oh">Å nei!</string>
+    <string name="huhi_rewards_local_server_not_responding">Huhi Rewards-serveren svarer ikke. Vi skal rette feilen så fort som mulig.</string>
+    <string name="huhi_ui_grants">Bidrag</string>
+    <string name="huhi_ui_expires_on">utløper <ph name=\"DATE\">%1$s<ex>14.4.2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Ikke nok midler</string>
+    <string name="huhi_ui_insufficient_funds_desc">Huhi Rewards-kontoen din venter på innskudd.</string>
+    <string name="huhi_ui_backup_wallet_msg">Sikkerhetskopier lommebok</string>
+    <string name="huhi_ui_backup_wallet_desc">Du må sikkerhetskopiere Huhi-lommeboken.</string>
+    <string name="huhi_ui_huhi_rewards">Huhi Rewards</string>
+    <string name="huhi_ui_welcome_back_message">Velkommen tilbake!</string>
+    <string name="huhi_ui_get_rewarded">Du kan få belønninger for å surfe på nettet.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Tjen midler ved å se reklame
+som respekterer personvernet ditt, og bruk dem
+til å støtte innholdsskapere du liker.</string>
+    <string name="huhi_welcome_page_rewards_title">AKTIVER HUHI REWARDS</string>
+    <string name="huhi_ui_first_tip_text">Ditt første månedlige tips blir sendt den:</string>
+    <string name="huhi_ui_tip_text">Du sendte nettopp et tips til:</string>
+    <string name="huhi_ui_auto_tip_text">Du sender automatisk et tips til:</string>
+    <string name="huhi_ui_monthly_text">Månedlig</string>
+    <string name="bottom_toolbar_enable">Aktiver verktøylinjen på bunn</string>
+    <string name="bottom_toolbar_disable">Deaktiver verktøylinjen på bunn</string>
+    <string name="search_or_url">Søk eller URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Opprett et bokmerke</string>
+    <string name="huhi_ui_donate_monthly">Tips dette nettstedet månedlig</string>
+
+    <string name="huhi_rewards_not_available">Vi beklager, men det virker som Huhi Rewards ikke er tilgjengelig på enheten din</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Ved å lukke alle fanene, lukkes Huhi</string>
+    <string name="prefs_section_display">Vis</string>
+    <string name="prefs_section_controls">Kontroller</string>
+    <string name="prefs_appearance">Utseende</string>
+    <string name="hide_huhi_rewards_icon_title">Skjul Huhi Rewards-ikonet</string>
+    <string name="hide_huhi_rewards_icon_description">Skjuler Huhi Rewards-ikonet når Huhi Rewards ikke er aktivert</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Vis annonser når Huhi ikke er i bruk</string>
+    <string name="reset_huhi_rewards_option">Tilbakestill Huhi Rewards</string>
+    <string name="reset_huhi_rewards_option_description">Dette medfører at Huhi-lommeboken din slettes og alle Huhi Rewards-dataene dine tilbakestilles</string>
+    <string name="reset_huhi_rewards_error_title">Feil ved tilbakestilling</string>
+    <string name="reset_huhi_rewards_error_description">En feil oppsto under tilbakestilling av Huhi Rewards. Start Huhi på nytt og prøv igjen</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Gå til Huhi Sync-innstillinger på målmaskinen din og klikk på knappen \"Jeg har en synkroniseringskode\".\nLegg inn synkroniseringskjedens kodeord, som vist nedenfor.</string>
+
+    <string name="huhi_sync_official">Huhi Sync</string>
+    <string name="prefs_sync_official">Synkroniser</string>
+
+    <string name="huhi_sync_code_warning">Anse denne koden som et passord. Hvis noen får tak i den kan de lese og endre de synkroniserte dataene dine.</string>
+
+    <string name="notification_category_group_huhi_ads">Huhi Ads</string>
+    <string name="huhi_ads_you_earned">Du har opptjent</string>
+
+    <string name="huhi_default_browser_title">Huhi er lynrask</string>
+    <string name="huhi_default_browser_body">Gjør Huhi til din standardnettleser!</string>
+    <string name="huhi_make_default_text">Sett som standard</string>
+    <string name="huhi_ui_ads_earnings">tjent på annonser</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Hopp over</string>
+
+    <string name="search_engine_onboarding">Søkemotor-innføring</string>
+    <string name="troubleshooting_onboarding">Innføring i feilsøking</string>
+
+    <string name="welcome_to_huhi_browser">Velkommen til nettleseren Huhi</string>
+    <string name="select_your_default_search_engine">Velg din standard søkemotor</string>
+
+    <string name="block">Blokker</string>
+    <string name="huhi_shields_onboarding_title">Huhi Shields</string>
+    <string name="huhi_shields_onboarding_text">personverninvaderende annonser og sporing, slik at du kan søke uten å bli fulgt etter på nettet.</string>
+
+    <string name="earn_tokens">Tjen tokens</string>
+    <string name="huhi_rewards_onboarding_title">Huhi Rewards</string>
+    <string name="huhi_rewards_onboarding_text">for å se annonser som respekterer personvernet. Bruk dem for å støtte dine favorittnettsteder og skapere.</string>
+    <string name="huhi_rewards_onboarding_text2">for å se annonser som respekterer personvernet.</string>
+
+    <string name="terms_title">Godta vilkårene for å bruke Huhi Rewards </string>
+    <string name="terms_text">Jeg godtar Huhi Rewards\'</string>
+    <string name="terms_of_service">Vilkår for tjenesten</string>
+
+    <string name="agree">Godta</string>
+    <string name="join">Bli med</string>
+
+     <string name="start_browsing">Start søkingen</string>
+    <string name="i_didnt_see">Jeg så ingen annonse</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi viser din første annonse i</string>
+    <string name="huhi_ads_onboarding_text">For å se annonser fra Huhi Rewards, sørg for at Huhi har lov til å vise deg varslinger.</string>
+
+    <string name="this_is_your_first_ad">Dette er din første Huhi-annonse. Trykk for å lære mer.</string>
+
+    <string name="turn_on">Slå på</string>
+
+    <string name="no_thanks">Nei takk</string>
+    <string name="do_not_agree">Ikke godta</string>
+
+    <string name="prefs_welcome_tour">Velkomsttur</string>
+    <string name="welcome_tour_dialog_text">Å starte velkomstturen på nytt påvirker ikke eventuelle innstillinger som allerede finnes. </string>
+    <string name="finish">Avslutt</string>
+    
+    <string name="clear_download_title">Nedlastingshistorikk</string>
+
+    <string name="settings_exit">Gå ut av innstillingene</string>
+
+</resources>

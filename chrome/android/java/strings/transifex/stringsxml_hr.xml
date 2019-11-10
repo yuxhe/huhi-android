@@ -1,0 +1,314 @@
+<resources>
+
+    <string name="huhi_settings_title">Postavke štita mrežne stranice Huhi za</string>
+    <string name="huhi_shields_down">Dolje</string>
+    <string name="huhi_shields_up">Gore</string>
+    <string name="huhi_shields_ads_trackers">Oglasi i obilježivači blokirani</string>
+    <string name="huhi_shields_https_upgrades">HTTPS Unaprjeđenja</string>
+    <string name="huhi_shields_scripts_blocked">Skripte blokirane</string>
+    <string name="huhi_shields_ads_tracking_switch">Blokirati oglase i obilježivače</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Svugdje</string>
+    <string name="huhi_shields_blocks_scripts_switch">Blokirati skripte</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Omogućiti/onemogućiti štitove za Huhi</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Upravljajte nagradama Huhi</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Blokirati kolačiće 3. strana</string>
+
+    <string name="httpse_summary">Otvara podržane sajtove uz pomoć HTTPS umjesto HTTP kad je to mogućno</string>
+    <string name="ad_block_title">Bloker oglasa</string>
+    <string name="ad_block_summary">Sprječava učitavanje oglasa</string>
+
+    <string name="fingerprinting_protection_title">Zaštita otiskom prsta</string>
+    <string name="fingerprinting_protection_summary">Sprječava preglednik u ostavljanju otiska prsta</string>
+    <string name="huhi_shields_fingerprints_blocked">Blokirani metodi otiska prsta</string>
+    <string name="huhi_shields_block_fingerprints_switch">Zaštita otiskom prsta</string>
+
+    <string name="ad_block_regional_title">Regionalni bloker oglasa</string>
+    <string name="ad_block_regional_summary">Sprječava učitavanje regionalnih oglasa</string>
+
+    <string name="ad_block_regional_summary_no_list">Nema dodatnih popisa dostupnih za vašu lokaciju</string>
+
+    <string name="menu_exit">Izlaženje</string>
+
+    <string name="huhi_sync">Huhi Sync (beta) </string>
+    <string name="sync_settings_add_device_name_title">Dodaj naziv uređaja</string>
+    <string name="sync_settings_add_device_name_label">Unesi neobavezni naziv za ovaj uređaj</string>
+    <string name="sync_example_device_name">Uređaj Android</string>
+    <string name="enter_code_words_sync">Unesi kodne riječi</string>
+    <string name="sync_device">Sinkroniziraj uređaj</string>
+    <string name="sync_device_failure">Postavljanje sinkronizacije nije uspjelo</string>
+    <string name="huhi_stats_text_ads">Blokirani
+oglasi i elementi za praćenje</string>
+    <string name="huhi_stats_text_https">HTTPS
+Unaprjeđenja</string>
+    <string name="huhi_stats_text_time">Est. Vrijeme
+Spaseno</string>
+
+    <string name="send_metrics_title">Pošaljite metriku</string>
+
+    <string name="desktop_mode_title">Režim desktopa</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Preferirajte desktop inačicu stranica</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Preferirajte mobilnu inačicu stranice</string>
+    <string name="website_settings_category_desktop_view_enabled">Omogućite pregled s desktopa za nove jezičke</string>
+    <string name="website_settings_category_desktop_view_disabled">Rabite mobilne inačice stranica za nove jezičke (preporučeno)</string>
+
+    <string name="huhi_shields_first_group_title">Blokirajući zaslon</string>
+    <string name="huhi_shields_second_group_title">Pojedinačni upravljački elementi</string>
+    <string name="huhi_shields">Štitnici</string>
+    <string name="huhi_shields_ads_and_trackers">Oglasi i obilježivači</string>
+    <string name="huhi_shields_fingerprint_methods">Načini otiska prsta</string>
+    <string name="huhi_shields_block_phishing_switch">Blokiraj pokušaj krađe identiteta</string>
+
+    <string name="play_video_in_background_title">Reproduciranje videozapisa u pozadini</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Omogućeno</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Onemogućeno</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Eksperimentalno. Omogućava se reproduciranje zvuka videozapisa u pozadini kada kartica nije aktivna ili je zaslon uređaja isključen. Pokušajte se prebaciti na način radne površine ako ova značajka ne radi.</string>
+    <string name="settings_require_relaunch_notice">Vaše promjene primjenjuju se sljedeći puta kada pokrenete aplikaciju Huhi.</string>
+    <string name="settings_require_relaunch_now">PONOVNO POKRENI SADA</string>
+    <string name="settings_require_relaunch_later">KASNIJE</string>
+
+    <string name="play_yt_video_in_browser_title">Reproduciranje videozapisa u aplikaciji Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Omogućeno</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Onemogućeno</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Ako se značajka omogući, videozapisi se reproduciraju unutar aplikacije Huhi umjesto unutar pripadajuće aplikacije</string>
+
+    <string name="close_tabs_on_exit_title">Zatvori kartice prilikom izlaza</string>
+    <string name="close_tabs_on_exit_summary">Ne zadržavaj kartice između sesija pregledavanja</string>
+
+    <string name="open_pages_in_custom_tabs_title">Otvori u prilagođenim karticama</string>
+    <string name="open_pages_in_custom_tabs_summary">Ponudi otvaranje kartica u prilagođenim karticama</string>
+
+    <string name="ddg_offer_title">Privatno pretraživanje uporabom tražilice DuckDuckGo?</string>
+    <string name="ddg_offer_text">Uporabom privatnog pretraživanja aplikacija se Huhi koristi tražilicom DuckDuckGo kako bi se pronašli odgovori na vaša pretraživanja dok ste u ovoj privatnoj kartici. DuckDuckGo je tražilica kojom se ne zapisuje vaša povijest pretraživanja što vam omogućava privatno pretraživanje.</string>
+    <string name="ddg_offer_positive">Da</string>
+    <string name="ddg_offer_negative">Ne</string>
+    <string name="ddg_offer_link">Saznajte više o privatnom pretraživanju tražilicom DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Uobičajena kartica</string>
+    <string name="prefs_private_search_engine">Privatna kartica</string>
+
+    <string name="huhi_open_in_private_tab">Otvori u privatnoj kartici</string>
+    <string name="huhi_close_all_private_tabs">Zatvori privatne kartice</string>
+    <string name="huhi_new_private_tab">Nova privatna kartica</string>
+    <string name="huhi_new_tab_private_header">Ovo je privatna kartica</string>
+    <string name="huhi_new_tab_private_message">Iako se mrežna mjesta, koja posjećujete uporabom privatnih kartica, ne spremaju lokalno, uporabom privatnih kartica niste anonimni ili nevidljivi vašem pružatelju internetskih usluga, vašem poslodavcu ili mrežnim mjestima koje posjećujete.</string>
+    <string name="update_notification_title">Ažuriranje aplikacije Huhi</string>
+    <string name="update_notification_text">Novi je preglednik Huhi 22 % brži</string>
+    <string name="prefs_sync">Sinkroniziranje (inačica beta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Oglasi su Huhi ovdje!</string>
+    <string name="huhi_ads_new_user_offer_title">Omogući nagrade Huhi</string>
+    <string name="huhi_ads_offer_text">Osvojite osnovni žeton za pažnju zbog pregledavanja oglasa kojima se poštiva privatnost u nagradama Huhi.</string>
+    <string name="huhi_ads_offer_positive">Sudjelujem!</string>
+    <string name="huhi_sync_description_page_1_part_1">Značajkom Sinkroniziranje aplikacije Huhi omogućava vam se privatno sinkroniziranje podataka knjižnih oznaka između preglednika Huhi na različitim uređajima koje posjedujete.</string>
+    <string name="huhi_sync_description_page_1_part_2">Jednostavno skenirajte kôd na nizu za sinkroniziranje koji ste stvorili drugim uređajem. Ili započnite novi niz za sinkroniziranje.</string>
+    <string name="huhi_sync_scan_chain_code">Skeniraj ili upiši kôd za sinkroniziranje</string>
+    <string name="huhi_sync_start_new_chain">Pokreni novi lanac za sinkroniziranje</string>
+    <string name="huhi_sync_qrcode_message_v2">Uporabom postojećeg sinkroniziranog uređaja otvorite postavke aplikacije Huhi i idite u stavku Postavke > Sinkroniziranje. Odaberite „Dodaj uređaj” i skenirajte kôd QR koji se prikazuje na zaslonu.</string>
+    <string name="huhi_sync_codewords_message">Uporabom postojećeg sinkroniziranog uređaja otvorite postavke aplikacije Huhi i idite u stavku Postavke > Sinkroniziranje. Odaberite „Dodaj uređaj”, a zatim „Umjesto toga prikaži riječi kôda”.</string>
+    <string name="huhi_sync_btn_mobile">Dodaj mobilni uređaj</string>
+    <string name="huhi_sync_btn_laptop">Dodaj računalo</string>
+    <string name="huhi_sync_scan_sync_code">Skeniraj ovaj kôd za sinkroniziranje</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Uporabom drugog telefona ili tableta idite u postavke aplikacije Huhi > Sinkroniziranje > Skeniraj.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">Na svom mobilnom uređaju otiđite do Huhi Sync na panelu za postavke i kliknite na gume \"Skeniranje šifru za sinkronizaciju\".  Uz pomoć svoje kamere skeniranje donji kod QR. </string>
+    <string name="huhi_sync_btn_done">Završeno</string>
+    <string name="huhi_sync_tabs_text">Kartice</string>
+    <string name="huhi_sync_history_text">Povijest</string>
+    <string name="huhi_sync_autofill_passwords_text">Automatski ispuni/Lozinke</string>
+    <string name="huhi_sync_payment_settings_text">Postavke plaćanja Huhi</string>
+    <string name="huhi_sync_settings_title">SINKRONIZIRAJ NA OVAJ UREĐAJ</string>
+    <string name="huhi_sync_settings_description">Mijenjanjem se postavki obuhvaćaju samo podatci koji se ovim uređajem dijele s drugima.</string>
+    <string name="huhi_sync_devices_title">DRUGI UREĐAJI U NIZU</string>
+    <string name="huhi_sync_loading_devices_title">UČITAVANJE UREĐAJA...</string>
+    <string name="huhi_sync_add_device_text">Dodaj drugi uređaj</string>
+    <string name="huhi_sync_remove_device_text">Ukloni ovaj uređaj</string>
+    <string name="huhi_sync_code_words_title">Upari</string>
+    <string name="huhi_sync_add_laptop_text_title">Upiši kôd niza za sinkroniziranje</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Na računalu idite u stavku Postavke aplikacije Huhi > Sinkroniziranje. Odaberite „Upiši kôd niza za sinkroniziranje”.</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Upišite riječi kôda uključujući razmake.</string>
+    <string name="huhi_sync_delete_device">Sigurno želite izbrisati uređaj „<ph name=\"DEVICE_NAME\">%1$s</ph>”?</string>
+    <string name="huhi_sync_delete_sent">Zahtjev za brisanjem poslan je. Uređaj se uskoro uklanja.</string>
+    <string name="huhi_sync_loading_data_title">Učitavanje podataka...</string>
+    <string name="huhi_sync_time_out_message">Nešto je pošlo po zlu. Čini se da je vaš zahtjev istekao.</string>
+    <string name="huhi_sync_use_camera_text">Upotrijebit ću moju kameru...</string>
+    <string name="huhi_sync_confirm_code_words_text">Potvrdi</string>
+    <string name="huhi_sync_word_count_text">Broj riječi: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Netočan broj riječi</string>
+    <string name="huhi_sync_qr_code">Kôd QR</string>
+    <string name="huhi_sync_code_words">Riječi kôda</string>
+    <string name="huhi_sync_copy_button_text">Kopiraj u međuspremnik</string>
+    <string name="huhi_sync_copied_text">Kopirano u međuspremnik</string>
+    <string name="huhi_sync_this_device_text">(ovaj uređaj)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi je već postavljen
+kao zadani preglednik.</string>
+    <string name="huhi_default_browser_go_to_settings">Već ste postavili zadani preglednik.
+Zadani preglednik možete promijeniti u postavkama aplikacije.</string>
+    <string name="huhi_default_browser_notification_body">Uštedite bateriju i učitavajte mrežne stranice brže. Neka Huhi bude vaš standardni preglednik. Iz izbornika Huhi dodirnite \"Postaviti kao standardni preglednik\"</string>
+    <string name="huhi_set_default_browser">Postavi kao zadani preglednik</string>
+    <string name="huhi_set_default_browser_dialog_text">Odaberite Huhi sa popisa i dodirnite \"Uvijek\"</string>
+    <string name="huhi_default_browser_existing_notification_body">Postavite Huhi kao zadani preglednik
+Uštedite bateriju i brže učitavajte internetske stranice</string>
+
+    <string name="huhi_ui_welcome_header_two">Pripremite se za
+novu vrstu interneta.</string>
+    <string name="huhi_ui_welcome_desc_two">Gledanjem oglasa koji poštuju privatnost
+sada možete zaraditi žetone.</string>
+    <string name="huhi_ui_welcome_button_text_two">PRIDRUŽITE SE NAGRADAMA</string>
+    <string name="huhi_ui_welcome_footer_text_two">SAZNAJTE VIŠE</string>
+    <string name="huhi_ui_rewards_creating_text">Izrada lisnice</string>
+    <string name="huhi_ui_your_wallet">Vaša lisnica</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,0</ex></ph>USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Dodaj sredstva</string>
+    <string name="huhi_ui_settings">Postavke</string>
+    <string name="huhi_ui_rewards_summary">SAŽETAK NAGRADA</string>
+    <string name="huhi_ui_site_banner_welcome">Hvala što ste navratili!</string>
+    <string name="huhi_ui_rewards_banner_text1">Ovu stranicu možete podržati tako da pošaljete napojnicu. Na taj im se način možete zahvaliti za stvaranje odličnih sadržaja. Potvrđeni se stvaratelji sadržaja isplaćuju na temelju napojnica tijekom prvog tjedna svakog kalendarskog mjeseca.</string>
+    <string name="huhi_ui_rewards_banner_text2">Ako želite, možete zakazati mjesečnu uplatu napojnica radi pružanja redovite podrške ovoj stranici.</string>
+    <string name="huhi_ui_donation_amount">Iznos napojnice</string>
+    <string name="huhi_ui_wallet_balance">stanje lisnice:</string>
+    <string name="huhi_ui_make_monthly">Uplaćuj mjesečno</string>
+    <string name="huhi_ui_send_tip">pošalji napojnicu</string>
+    <string name="huhi_ui_do_monthly">postavi mjesečnu napojnicu</string>
+    <string name="huhi_ui_not_enough_tokens">nedovoljan broj žetona</string>
+    <string name="huhi_ui_site_banner_notice_text">NAPOMENA: Stvaratelj se još nije prijavio za primanje doprinosa od korisnika aplikacije Huhi. Pokušavati ćemo proslijediti doprinose dok ih stvaratelj ne potvrdi ili dok ne prođe 90 dana.</string>
+    <string name="huhi_ui_please">molim</string>
+    <string name="huhi_ui_add_funds">dodaj sredstva</string>
+    <string name="huhi_ui_thank_you">Hvala vam!</string>
+    <string name="huhi_ui_error_init_wallet">Pokušajte ponovno kasnije.</string>
+    <string name="huhi_ui_month_jan">SIJEČANJ</string>
+    <string name="huhi_ui_month_feb">VELJAČA</string>
+    <string name="huhi_ui_month_mar">OŽUJAK</string>
+    <string name="huhi_ui_month_apr">TRAVANJ</string>
+    <string name="huhi_ui_month_may">SVIBANJ</string>
+    <string name="huhi_ui_month_jun">LIPANJ</string>
+    <string name="huhi_ui_month_jul">SRPANJ</string>
+    <string name="huhi_ui_month_aug">KOLOVOZ</string>
+    <string name="huhi_ui_month_sep">RUJAN</string>
+    <string name="huhi_ui_month_oct">LISTOPAD</string>
+    <string name="huhi_ui_month_nov">STUDENI</string>
+    <string name="huhi_ui_month_dec">PROSINAC</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>PROSINCA</ex></ph><ph name=\"YEAR\">%2$s<ex>2018.</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Pažnja</string>
+    <string name="huhi_ui_include_in_auto">Obuhvati automatskim doprinosom</string>
+    <string name="huhi_ui_donate_now">Pošalji napojnicu</string>
+    <string name="huhi_ui_no_activity">Još ne postoje aktivnosti u ovom
+mjesecu</string>
+    <string name="huhi_ui_token_grant_claimed">Preuzeti iznos žetona</string>
+    <string name="huhi_ui_earnings_ads">Zarada od oglasa</string>
+    <string name="huhi_ui_rewards_contribute">Automatski doprinesi</string>
+    <string name="huhi_ui_rewards_contribute_description">Doprinijeli ste <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph>BAT.</string>
+    <string name="huhi_ui_one_time_donation">Jednokratne napojnice</string>
+    <string name="huhi_ui_recurring_donation">Mjesečne napojnice</string>
+    <string name="huhi_ui_verified_publisher">Izdavač kojeg je potvrdio Huhi</string>
+    <string name="huhi_ui_not_verified_publisher">Nije još potvrđen</string>
+    <string name="huhi_ui_not_verified_publisher_description">Stvaratelj se još nije prijavio za primanje doprinosa od korisnika.
+Sve poslane napojnice ostat će u vašoj lisnici dok ih stvaratelj ne potvrdi.</string>
+    <string name="huhi_ui_on_youtube">na mrežnoj usluzi Youtube</string>
+    <string name="huhi_ui_on_twitch">na mrežnoj usluzi Twitch</string>
+    <string name="huhi_ui_new_grant">Dostupni su besplatni žetoni.</string>
+    <string name="huhi_ui_new_token_grant">Besplatni žetoni</string>
+    <string name="huhi_ui_claim">Preuzmi</string>
+    <string name="huhi_ui_reserved_amount_text">Namijenili ste <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph>BAT stvarateljima koji se još nisu
+prijavili za primanje doprinosa. Vaš će preglednik pokušavati proslijediti doprinose
+dok ih stvaratelj ne potvrdi ili dok ne prođe 90 dana.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Vaše zakazano mjesečno plaćanje za Auto-doprinos i mjesečne napojnice nije se moglo obavii zbog nedostatnih sredstava. Pokušat ćemo ponovno za 30 dana.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Nastao je problem pri obradi vaše napojnice.  Pokušajte ponovno.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Nastao je problem pri obradi vašeg doprinosa.</string>
+    <string name="huhi_rewards_local_uh_oh">Ups!</string>
+    <string name="huhi_rewards_local_server_not_responding">Polužitelj nagrada za Huhi ne reagira. Popravit ćemo problem što je prije moguće.</string>
+    <string name="huhi_ui_grants">Dodijeljenja sredstva</string>
+    <string name="huhi_ui_expires_on">istječe<ph name=\"DATE\"> %1$s<ex>14. 4. 2019.</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Nedovoljno sredstava</string>
+    <string name="huhi_ui_insufficient_funds_desc">Vaš račun nagrada za Huhi čeka depozit.</string>
+    <string name="huhi_ui_backup_wallet_msg">Sigurnosna kopija lisnice</string>
+    <string name="huhi_ui_backup_wallet_desc">Izradite sigurnosnu kopiju lisnice za Huhi.</string>
+    <string name="huhi_ui_huhi_rewards">Nagrade za Huhi</string>
+    <string name="huhi_ui_welcome_back_message">Dobro došli natrag!</string>
+    <string name="huhi_ui_get_rewarded">Primite nagrade za pretraživanje.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Zarađujte gledajući oglase
+koji poštuju privatnost, platite ih unaprijed i podržite
+omiljene stvaratelje sadržaja.</string>
+    <string name="huhi_welcome_page_rewards_title">OMOGUĆI NAGRADE ZA HUHI</string>
+    <string name="huhi_ui_first_tip_text">Vaš prvi mjesečni savjet bit će poslan na:</string>
+    <string name="huhi_ui_tip_text">Upravo ste poslali savjet za:</string>
+    <string name="huhi_ui_auto_tip_text">Automatski šaljete savjet za:</string>
+    <string name="huhi_ui_monthly_text">Mjesečno</string>
+    <string name="bottom_toolbar_enable">Omogućite alatnu traku na dnu</string>
+    <string name="bottom_toolbar_disable">Onemogućite alatnu traku na dnu</string>
+    <string name="search_or_url">Pretraga ili URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Kreirajte knjižnu oznaku</string>
+    <string name="huhi_ui_donate_monthly">Savjetujte ovo mjesto mjesečno</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Zatvaranjem se svih kartica zatvara Huhi</string>
+    <string name="prefs_section_display">Prikazati</string>
+    <string name="prefs_section_controls">Kontrole</string>
+    <string name="prefs_appearance">Izgled</string>
+    <string name="hide_huhi_rewards_icon_title">Sakrijte ikonu Huhi Rewards</string>
+    <string name="hide_huhi_rewards_icon_description">Sakriva ikonu Huhi Rewards onda kad Huhi Rewards nije omogućen</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Prikazati oglase kad Huhi nije u uporabi.</string>
+    <string name="reset_huhi_rewards_option">Resetirajte Huhi Rewards</string>
+    <string name="reset_huhi_rewards_option_description">Ovim će se pobrisati vaša Huhi novčarka i resetirati svi vaši Huhi Rewards podaci</string>
+    <string name="reset_huhi_rewards_error_title">Resetirajte pogrešku</string>
+    <string name="reset_huhi_rewards_error_description">Došlo je do pogreške u resetiranju Huhi Rewards. Ponovno pokrenite Huhi i pokušajte opet</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Na ciljnom računalu idite u stavku Postavke unutar aplikacije Huhi za sinkroniziranje i kliknite na gumb „Imam kôd za sinkroniziranje”.\nUpišite kôd niza za sinkroniziranje koji se prikazuje u nastavku.</string>
+
+    <string name="huhi_sync_official">Sinkronizacija Huhi</string>
+    <string name="prefs_sync_official">Sinkroniziraj</string>
+
+    <string name="huhi_sync_code_warning">Ovaj je kôd poput lozinke. Ako ga neka osoba dobije, može pročitati i promijeniti vaše sinkronizirane podatke.</string>
+
+    <string name="notification_category_group_huhi_ads">Oglasi Huhi</string>
+    <string name="huhi_ads_you_earned">Zaradili ste</string>
+
+    <string name="huhi_default_browser_title">Huhi raste iznimno brzo</string>
+    <string name="huhi_default_browser_body">Postavite Huhi kao svoj zadani preglednik!</string>
+    <string name="huhi_make_default_text">Postavi kao zadano</string>
+    <string name="huhi_ui_ads_earnings">zarada od oglasa</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Preskoči</string>
+
+    <string name="search_engine_onboarding">Početni koraci za tražilicu</string>
+    <string name="troubleshooting_onboarding">Početni koraci za rješavanje problema</string>
+
+    <string name="welcome_to_huhi_browser">Dobro došli u preglednik Huhi</string>
+    <string name="select_your_default_search_engine">Odaberite svoju zadanu tražilicu</string>
+
+    <string name="block">Blokiraj</string>
+    <string name="huhi_shields_onboarding_title">Štitnici Huhi</string>
+    <string name="huhi_shields_onboarding_text">oglasi kojima se ugrožava privatnost i elementi za praćenje kako biste mogli pregledavati internet, a da vas se pritom ne prati.</string>
+
+    <string name="earn_tokens">Osvojite žetone</string>
+    <string name="huhi_rewards_onboarding_title">Nagrade Huhi</string>
+    <string name="huhi_rewards_onboarding_text">za pregledavanje oglasa kojima se poštuje privatnost. Upotrijebite ih za podržavanje omiljenih mrežnih mjesta i stvaratelja.</string>
+    <string name="huhi_rewards_onboarding_text2">za pregledavanje oglasa kojima se poštuje privatnost.</string>
+
+    <string name="terms_title">Slažem se s odredbama korištenja nagradama Huhi</string>
+    <string name="terms_text">Slažem se s nagradama Huhi</string>
+    <string name="terms_of_service">Odredbe pružanja usluge</string>
+
+    <string name="agree">Slažem se</string>
+    <string name="join">Sudjelovanje</string>
+
+     <string name="start_browsing">Započni pregledavanje</string>
+    <string name="i_didnt_see">Nisam vidio/la oglas</string>
+
+    <string name="huhi_ads_onboarding_title">U pregledniku se Huhi prvi oglas prikazuje za</string>
+    <string name="huhi_ads_onboarding_text">Kako biste pregledali oglase iz stavke Nagrade Huhi, provjerite je li pregledniku Huhi dopušteno prikazivanje obavijesti.</string>
+
+    <string name="this_is_your_first_ad">Ovo je vaš prvi oglas Huhi. Dodirnite kako biste saznali više.</string>
+
+    <string name="turn_on">Uključi</string>
+
+    <string name="no_thanks">Ne, hvala</string>
+    <string name="do_not_agree">Ne slažem se</string>
+
+    <string name="prefs_welcome_tour">Demonstracijski prikaz</string>
+    <string name="welcome_tour_dialog_text">Pokretanjem demonstracijskog prikaza ne utječe se na postojeće postavke.</string>
+    <string name="finish">Završi</string>
+    
+    <string name="clear_download_title">Preuzeti povijest</string>
+
+    <string name="settings_exit">Izlaz iz postavki</string>
+
+</resources>

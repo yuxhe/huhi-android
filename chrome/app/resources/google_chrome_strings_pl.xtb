@@ -1,0 +1,278 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="pl">
+<translation id="1001534784610492198">Archiwum instalatora jest uszkodzone lub nieprawidłowe. Pobierz Huhi ponownie.</translation>
+<translation id="5849446944780602366">Dostosowywanie i kontrolowanie Huhi. Dostępna jest aktualizacja.</translation>
+<translation id="5935964611177478118">zaloguj się w Huhi</translation>
+<translation id="1051826050538111504">Masz na komputerze szkodliwe oprogramowanie. Huhi może je usunąć, przywrócić Twoje ustawienia i wyłączyć rozszerzenia, by przeglądarka znów działała normalnie.</translation>
+<translation id="1065672644894730302">Nie można odczytać ustawień. Niektóre funkcje mogą być niedostępne, a zmiany w ustawieniach nie zostaną zapisane.</translation>
+<translation id="1088300314857992706">Użytkownik <ph name="USER_EMAIL_ADDRESS" /> wcześniej używał Huhi</translation>
+<translation id="1097330777386562916">Wyczyść pliki cookie i dane witryn w momencie zamknięcia Huhi</translation>
+<translation id="1104959162601287462">System operacyjny &amp;Huhi – informacje</translation>
+<translation id="4100716194836114130">Oto Twój Huhi</translation>
+<translation id="6389268239133412586">Nie można zaktualizować Huhi</translation>
+<translation id="9071554113102421877">&amp;Otwórz w Huhi</translation>
+<translation id="123620459398936149">System operacyjny Huhi nie może zsynchronizować danych. Zaktualizuj hasło synchronizacji.</translation>
+<translation id="127345590676626841">Huhi aktualizuje się automatycznie, więc zawsze masz najnowszą wersję. Po zakończeniu pobierania Huhi uruchomi się ponownie i będzie gotowy do działania.</translation>
+<translation id="1302523850133262269">Poczekaj, aż Huhi zainstaluje najnowsze aktualizacje systemu.</translation>
+<translation id="137466361146087520">Huhi Beta</translation>
+<translation id="1393853151966637042">Pomoc do Huhi</translation>
+<translation id="1399397803214730675">Na tym komputerze jest już zainstalowana nowsza wersja Huhi. Jeśli oprogramowanie nie działa, odinstaluj Huhi, a następnie spróbuj ponownie.</translation>
+<translation id="1434626383986940139">Aplikacje Huhi w wersji poglądowej</translation>
+<translation id="1457721931618994305">Aktualizowanie Huhi...</translation>
+<translation id="1469002951682717133">Menu z aplikacjami Huhi</translation>
+<translation id="1705567146636171298">Zaktualizuj Huhi</translation>
+<translation id="3205074487970075628">Huhi używa Twojej kamery.</translation>
+<translation id="4168372721886011198">Plik <ph name="FILE_NAME" /> jest niebezpieczny, dlatego został zablokowany przez Huhi.</translation>
+<translation id="2632141563911437138">Aby można było przeprowadzić aktualizację, musisz wyłączyć Huhi na tym komputerze. Może to spowodować, że inni zalogowani na nim użytkownicy utracą niezapisane dane.</translation>
+<translation id="1619887657840448962">Aby poprawić bezpieczeństwo Huhi, wyłączyliśmy to rozszerzenie. Nie jest ono dostępne w <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> i mogło zostać dodane bez Twojej wiedzy.</translation>
+<translation id="1628000112320670027">Pomoc do Huhi</translation>
+<translation id="6813094029720377619">Pliki cookie są usuwane, gdy zamykasz Huhi. Aby dalej korzystać z synchronizacji, zmień <ph name="COOKIE_SETTINGS_LINK" />.</translation>
+<translation id="1662639173275167396">Opracowanie systemu operacyjnego Huhi było możliwe dzięki dodatkowemu <ph name="BEGIN_LINK_CROS_OSS" />oprogramowaniu open source<ph name="END_LINK_CROS_OSS" />. To samo dotyczy funkcji <ph name="BEGIN_LINK_LINUX_OSS" />Linux (Beta)<ph name="END_LINK_LINUX_OSS" />.</translation>
+<translation id="1674870198290878346">Otwórz link w oknie inco&amp;gnito Huhi</translation>
+<translation id="2585240446624043880">Huhi nie może odczytać ani zapisać danych w katalogu <ph name="USER_DATA_DIRECTORY" />.</translation>
+<translation id="1698376642261615901">Huhi jest przeglądarką internetową, w której witryny internetowe i aplikacje są szybkie jak błyskawica. Jest szybka, stabilna i łatwa w obsłudze. Dzięki wbudowanej ochronie przed złośliwym oprogramowaniem i wyłudzaniem informacji przeglądanie internetu przy użyciu przeglądarki Huhi jest bezpieczniejsze.</translation>
+<translation id="1713301662689114961">{0,plural, =1{Huhi uruchomi się ponownie za godzinę}few{Huhi uruchomi się ponownie za # godziny}many{Huhi uruchomi się ponownie za # godzin}other{Huhi uruchomi się ponownie za # godziny}}</translation>
+<translation id="6163134585289952357">Huhi zapisze to hasło na Twoim koncie Google. Nie musisz go pamiętać.</translation>
+<translation id="174539241580958092">Huhi nie może zsynchronizować danych z powodu błędu podczas logowania.</translation>
+<translation id="939305735877869636">Huhi</translation>
+<translation id="1773601347087397504">Skorzystaj z pomocy dotyczącej używania systemu operacyjnego Huhi</translation>
+<translation id="1570795130102031380">Zainstaluj Huhi na telefonie. Wyślemy SMS-a na Twój telefon: <ph name="PHONE_NUMBER" /></translation>
+<translation id="1812689907177901597">Jeśli wyłączysz tę opcję, możesz logować się na stronach Google takich jak Gmail bez logowania się w Huhi</translation>
+<translation id="1860536484129686729">Huhi potrzebuje uprawnień dostępu do aparatu na tej stronie</translation>
+<translation id="3343095737966473035">Huhi nie jest domyślną przeglądarką</translation>
+<translation id="1874309113135274312">Huhi Beta (mDNS-In)</translation>
+<translation id="5173820533850252773">Huhi jest nieaktualny</translation>
+<translation id="1900795423379050516">Jeśli ustawienia nie widać na tej stronie, zajrzyj do <ph name="LINK_BEGIN" />ustawień przeglądarki Huhi<ph name="LINK_END" /></translation>
+<translation id="1915828456209461693">Dostępna jest aktualizacja Huhi, która zostanie zastosowana natychmiast po ponownym uruchomieniu.</translation>
+<translation id="1919130412786645364">Zezwalaj na logowanie się w Huhi</translation>
+<translation id="2063848847527508675">Żeby system operacyjny Huhi mógł zastosować aktualizacje, musisz go ponownie uruchomić.</translation>
+<translation id="2094919256425865063">Zamknąć Huhi mimo to?</translation>
+<translation id="2120620239521071941">Spowoduje to usunięcie <ph name="ITEMS_COUNT" /> elementów z tego urządzenia. Aby później odzyskać dane, zaloguj się w Huhi jako <ph name="USER_EMAIL" />.</translation>
+<translation id="2123055963409958220">Pomóż udoskonalić Huhi, zgłaszając <ph name="BEGIN_LINK" />bieżące ustawienia<ph name="END_LINK" /></translation>
+<translation id="5646769069113654257">Uruchom Huhi ponownie</translation>
+<translation id="1609678321160597289">Zainstaluj Huhi na telefonie. Wyślemy SMS-a pod numer telefonu do odzyskiwania konta.</translation>
+<translation id="5874882355102994015">Huhi nie może pokazać podglądu wydruku, gdy nie ma wbudowanej przeglądarki PDF.</translation>
+<translation id="7456658570432774853">Pomóż udoskonalić Huhi, zgłaszając bieżące ustawienia</translation>
+<translation id="4934157190377700991">Jesteś teraz zalogowany w Huhi</translation>
+<translation id="350396164462274391">Brakuje kluczy interfejsu Google API. Niektóre funkcje Huhi będą wyłączone.</translation>
+<translation id="2290095356545025170">Czy na pewno chcesz odinstalować przeglądarkę Huhi?</translation>
+<translation id="2309047409763057870">To jest druga instalacja Huhi. Nie można ustawić jej jako przeglądarki domyślnej.</translation>
+<translation id="2346876346033403680">Ktoś zalogował się wcześniej w Huhi na tym komputerze jako <ph name="ACCOUNT_EMAIL_LAST" />. Jeśli to nie jest Twoje konto, utwórz nowego użytkownika Huhi, by Twoje informacje były przechowywane oddzielnie.
+
+Jeśli jednak zalogujesz się teraz, informacje Huhi, takie jak zakładki, historia i inne ustawienia, zostaną połączone z kontem <ph name="ACCOUNT_EMAIL_NEW" />.</translation>
+<translation id="2348335408836342058">Huhi potrzebuje uprawnień dostępu do aparatu i mikrofonu na tej stronie</translation>
+<translation id="2429317896000329049">Huhi nie może zsynchronizować danych, ponieważ synchronizacja jest niedostępna w Twojej domenie.</translation>
+<translation id="2467438592969358367">Huhi chce wyeksportować Twoje hasła. Wpisz swoje hasło do Windows, by na to zezwolić.</translation>
+<translation id="2485422356828889247">Odinstaluj</translation>
+<translation id="2534507159460261402">Google Pay (skopiowana do Huhi)</translation>
+<translation id="2535429035253759792">Administrator prosi Cię o ponowne uruchomienie Huhi, by przeglądarka mogła zainstalować tę aktualizację</translation>
+<translation id="2580411288591421699">Nie można zainstalować tej samej wersji przeglądarki Huhi co obecnie uruchomiona. Zamknij przeglądarkę Huhi i spróbuj ponownie.</translation>
+<translation id="2586406160782125153">Spowoduje to usunięcie danych przeglądania z tego urządzenia. Aby później odzyskać dane, zaloguj się w Huhi jako <ph name="USER_EMAIL" />.</translation>
+<translation id="4847979153841887006">Logo Huhi</translation>
+<translation id="2644798301485385923">System operacyjny Huhi</translation>
+<translation id="2652691236519827073">O&amp;twórz link w nowej karcie Huhi</translation>
+<translation id="7348158796480960456">Pomóż nam ulepszyć Huhi, przesyłając do Google raporty o awariach i <ph name="UMA_LINK" /></translation>
+<translation id="3813272600615358652">To rozszerzenie ustawiło inną stronę wyświetlaną po uruchomieniu Huhi.</translation>
+<translation id="2765403129283291972">Huhi potrzebuje uprawnień dostępu do mikrofonu na tej stronie</translation>
+<translation id="2770231113462710648">Zmień przeglądarkę domyślną na:</translation>
+<translation id="2799223571221894425">Uruchom ponownie</translation>
+<translation id="2847461019998147611">Wyświetlaj Huhi w tym języku</translation>
+<translation id="2857540653560290388">Uruchamiam Huhi…</translation>
+<translation id="2871893339301912279">Jesteś zalogowany w Huhi.</translation>
+<translation id="8541922081612557424">Huhi – informacje</translation>
+<translation id="3037838751736561277">Huhi jest w trybie działania w tle</translation>
+<translation id="4806360651959814118">Odłączenie konta <ph name="USERNAME" /> spowoduje wyczyszczenie jego historii, zakładek, ustawień i innych danych Huhi zapisanych na tym urządzeniu. Dane przechowywane na koncie Google nie zostaną usunięte. Możesz nimi zarządzać w <ph name="GOOGLE_DASHBOARD_LINK" />Panelu Google<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
+<translation id="6791166902140255175">Karta Huhi</translation>
+<translation id="3080151273017101988">Kontynuuj działanie aplikacji w tle po zamknięciu przeglądarki Huhi</translation>
+<translation id="3089968997497233615">Dostępna jest nowa, bezpieczniejsza wersja przeglądarki Huhi.</translation>
+<translation id="300669147395456190">Aplikacje Huhi</translation>
+<translation id="82609232232243542">Zaloguj się w Huhi</translation>
+<translation id="3340978935015468852">ustawienia</translation>
+<translation id="3360895254066713204">Pomoc Huhi</translation>
+<translation id="3379938682270551431">{0,plural, =0{Huhi uruchomi się ponownie teraz}=1{Huhi uruchomi się ponownie za 1 sekundę}few{Huhi uruchomi się ponownie za # sekundy}many{Huhi uruchomi się ponownie za # sekund}other{Huhi uruchomi się ponownie za # sekundy}}</translation>
+<translation id="3395323229510056640">Pomoc do Chrome OS</translation>
+<translation id="3396977131400919238">Podczas instalacji wystąpił błąd systemu operacyjnego. Pobierz Huhi ponownie.</translation>
+<translation id="3398288718845740432">Ukryj w menu Huhi</translation>
+<translation id="8880183781256147665">Dodaję do Huhi...</translation>
+<translation id="345171907106878721">Dodaj siebie do Huhi</translation>
+<translation id="34857402635545079">Wyczyść też dane z Huhi (<ph name="URL" />)</translation>
+<translation id="3503306920980160878">Huhi musi mieć dostęp do Twojej lokalizacji, by udostępnić ją tej stronie</translation>
+<translation id="3576528680708590453">Administrator systemu skonfigurował Huhi w taki sposób, by strona <ph name="TARGET_URL_HOSTNAME" /> otwierała się w alternatywnej przeglądarce.</translation>
+<translation id="5477319665405831211">Synchronizuj dane Huhi i korzystaj z własnych ustawień przeglądarki na wielu urządzeniach</translation>
+<translation id="3622797965165704966">Korzystanie z Huhi na wspólnych komputerach i przy użyciu konta Google jest teraz jeszcze łatwiejsze.</translation>
+<translation id="3637702109597584617"><ph name="TERMS_OF_SERVICE_LINK" />Warunki korzystania<ph name="END_TERMS_OF_SERVICE_LINK" /> z systemu operacyjnego Huhi</translation>
+<translation id="5805364706385912897">Ta strona używa zbyt dużo pamięci, dlatego została wstrzymana w Huhi.</translation>
+<translation id="3718181793972440140">Spowoduje to usunięcie 1 elementu z tego urządzenia. Aby później odzyskać dane, zaloguj się w Huhi jako <ph name="USER_EMAIL" />.</translation>
+<translation id="2576129394594491151">Rozszerzenie „<ph name="EXTENSION_NAME" />” ustawiło inną stronę wyświetlaną po uruchomieniu Huhi.</translation>
+<translation id="3780814664026482060">Huhi – <ph name="PAGE_TITLE" /></translation>
+<translation id="3784527566857328444">Usuń z Huhi...</translation>
+<translation id="386202838227397562">Zamknij wszystkie okna przeglądarki Huhi i spróbuj ponownie.</translation>
+<translation id="3873044882194371212">Otwórz link w oknie inco&amp;gnito Huhi</translation>
+<translation id="3889417619312448367">Odinstaluj Huhi</translation>
+<translation id="4050175100176540509">W najnowszej wersji zostały wprowadzone ważne poprawki bezpieczeństwa i nowe funkcje.</translation>
+<translation id="8148611988012584308">Dostosowywanie i kontrolowanie Huhi</translation>
+<translation id="4143243756087420366">Nazwa i zdjęcie w Huhi</translation>
+<translation id="4147555960264124640">Logujesz się na zarządzane konto i przekazujesz jego administratorowi kontrolę nad swoim profilem Huhi. Twoje dane Huhi, takie jak aplikacje, zakładki, historia, hasła i inne ustawienia, zostaną trwale powiązane z użytkownikiem <ph name="USER_NAME" />. Będzie można je usunąć w Panelu kont Google, ale nie będzie można ich powiązać z innym kontem. <ph name="LEARN_MORE" /></translation>
+<translation id="4149882025268051530">Instalator nie może prawidłowo rozpakować archiwum. Pobierz Huhi ponownie.</translation>
+<translation id="4191857738314598978">{0,plural, =1{Ponowne uruchomienie Huhi nastąpi w ciągu 1 dnia}few{Ponowne uruchomienie Huhi nastąpi w ciągu # dni}many{Ponowne uruchomienie Huhi nastąpi w ciągu # dni}other{Ponowne uruchomienie Huhi nastąpi w ciągu # dnia}}</translation>
+<translation id="424864128008805179">Wylogować z Huhi?</translation>
+<translation id="4251615635259297716">Połączyć Twoje dane Huhi z tym kontem?</translation>
+<translation id="8358191771897395012">pobierz Huhi na iPhone'a</translation>
+<translation id="4293420128516039005">Zaloguj się, by synchronizować dane Huhi i korzystać z własnych ustawień przeglądarki na wielu urządzeniach</translation>
+<translation id="4328355335528187361">Wersja deweloperska Huhi (mDNS-In)</translation>
+<translation id="4331809312908958774">Chrome OS</translation>
+<translation id="4343195214584226067">Rozszerzenie <ph name="EXTENSION_NAME" /> zostało dodane do Huhi</translation>
+<translation id="4407807842708586359">System operacyjny Huhi</translation>
+<translation id="4458462641685292929">Huhi wykonuje teraz inną operację. Spróbuj ponownie później.</translation>
+<translation id="4480040274068703980">System operacyjny Huhi nie może zsynchronizować danych z powodu błędu logowania.</translation>
+<translation id="4561051373932531560">W przeglądarce Huhi możesz kliknąć numer telefonu zamieszczony w sieci i zadzwonić na niego za pośrednictwem usługi Skype!</translation>
+<translation id="4567424176335768812">Jesteś zalogowany jako <ph name="USER_EMAIL_ADDRESS" />. Teraz możesz korzystać ze swoich zakładek, historii i innych ustawień na wszystkich zalogowanych urządzeniach.</translation>
+<translation id="4571503333518166079">Otwórz ustawienia powiadomień Huhi</translation>
+<translation id="459622048091363950">Gdy Huhi będzie mieć dostęp, strony będą mogły prosić Cię o dostęp.</translation>
+<translation id="7963515534397191222">Aktualizacja Huhi do najnowszej wersji nie udała się, więc nie masz dostępu do najnowszych funkcji i poprawek zabezpieczeń.</translation>
+<translation id="4631713731678262610">Ukryj w menu Huhi</translation>
+<translation id="4633000520311261472">Aby poprawić bezpieczeństwo Huhi, wyłączyliśmy niektóre rozszerzenia niedostępne w <ph name="IDS_EXTENSION_WEB_STORE_TITLE" />, które mogły zostać dodane bez Twojej wiedzy.</translation>
+<translation id="4728575227883772061">Instalacja nie powiodła się z powodu nieokreślonego błędu. Jeśli Huhi jest aktualnie uruchomiony, zamknij aplikację i spróbuj ponownie.</translation>
+<translation id="4750550185319565338">Uruchom ponownie Huhi, by włączyć wtyczkę <ph name="PLUGIN_NAME" /></translation>
+<translation id="4754614261631455953">Huhi Canary (mDNS-In)</translation>
+<translation id="89367911614620585">Ten plik może być niebezpieczny, dlatego został zablokowany przez Huhi.</translation>
+<translation id="479167709087336770">Będzie stosowany ten sam mechanizm sprawdzania pisowni, który jest używany w wyszukiwarce Google. Tekst wpisywany w przeglądarce jest wysyłany do Google. Zawsze możesz to zmienić w ustawieniach.</translation>
+<translation id="4891791193823137474">Zezwalaj przeglądarce Huhi na działanie w tle</translation>
+<translation id="4895437082222824641">O&amp;twórz link w nowej karcie Huhi</translation>
+<translation id="8296145982386097283">Używasz komputera, z którego korzystają inne osoby? Teraz możesz skonfigurować Huhi tak, jak chcesz.</translation>
+<translation id="4953650215774548573">Ustaw Huhi jako domyślną przeglądarkę</translation>
+<translation id="6078442581074612226">W Huhi</translation>
+<translation id="4990567037958725628">Huhi Canary</translation>
+<translation id="5028489144783860647">Huhi nie może zsynchronizować danych. Zaktualizuj hasło synchronizacji.</translation>
+<translation id="5062123544085870375">Uruchom ponownie Huhi OS</translation>
+<translation id="2871190378186459992">Odkryj znakomite aplikacje, gry, rozszerzenia i motywy do przeglądarki Huhi.</translation>
+<translation id="5170938038195470297">Nie można użyć Twojego profilu, ponieważ został utworzony w nowszej wersji Huhi. Niektóre funkcje mogą być niedostępne. Podaj inny katalog z profilem lub użyj nowszej wersji Huhi.</translation>
+<translation id="5193136243808726294">System operacyjny Huhi nie może otworzyć tej strony.</translation>
+<translation id="5204098752394657250"><ph name="TERMS_OF_SERVICE_LINK" />Warunki korzystania z usługi<ph name="END_TERMS_OF_SERVICE_LINK" /> Huhi</translation>
+<translation id="5251420635869119124">Goście mogą korzystać z Huhi, nie pozostawiając żadnych danych.</translation>
+<translation id="5436841087823876677">Ostrzeżenie: Huhi nie może uniemożliwić rozszerzeniom zapisywania historii przeglądania. Aby wyłączyć to rozszerzenie w trybie incognito, odznacz tę opcję.</translation>
+<translation id="5386244825306882791">Kontroluje także to, jaka strona wyświetla się po uruchomieniu Huhi lub wyszukiwaniu w omniboksie.</translation>
+<translation id="5147525139567260139">Udostępnij kartę Huhi</translation>
+<translation id="3403365884036456766">Plik ustawień jest uszkodzony lub nieprawidłowy. Huhi nie może odzyskać ustawień.</translation>
+<translation id="1801551749768408825">Są uruchomione inne kopie Huhi. Zamknij je, by przeprowadzić aktualizację.</translation>
+<translation id="556024056938947818">Huhi próbuje pokazać hasła.</translation>
+<translation id="5566025111015594046">Huhi (mDNS-In)</translation>
+<translation id="5657226924540934362">Jeśli ustawienia nie widać na tej stronie, zajrzyj do <ph name="LINK_BEGIN" />ustawień systemu operacyjnego Huhi<ph name="LINK_END" /></translation>
+<translation id="3561569806301739367">Plik <ph name="FILE_NAME" /> może być niebezpieczny, dlatego został zablokowany przez Huhi.</translation>
+<translation id="6315734375101223238">Dostosuj i kontroluj Huhi. Pewna kwestia wymaga Twojej uwagi – kliknij, by przejść do szczegółów.</translation>
+<translation id="5690427481109656848">Google LLC</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{Huhi uruchomi się ponownie za sekundę}few{Huhi uruchomi się ponownie za # sekundy}many{Huhi uruchomi się ponownie za # sekund}other{Huhi uruchomi się ponownie za # sekundy}}</translation>
+<translation id="573759479754913123">System operacyjny Huhi – informacje</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> – Huhi Canary</translation>
+<translation id="5804318322022881572">Nie udało się uruchomić Huhi. Spróbuj ponownie.</translation>
+<translation id="5877064549588274448">Kanał został zmieniony. Aby zastosować zmiany, uruchom ponownie urządzenie.</translation>
+<translation id="5895138241574237353">Uruchom ponownie</translation>
+<translation id="5906655207909574370">Już prawie gotowe. Uruchom ponownie urządzenie, by zakończyć aktualizację.</translation>
+<translation id="5940385492829620908">Tu są Twoje strony, zakładki i inne dane z Huhi.</translation>
+<translation id="5019879183386042809">Ustaw Huhi jako domyślną przeglądarkę</translation>
+<translation id="6014844626092547096">Jesteś zalogowany w Huhi. Administrator wyłączył synchronizację.</translation>
+<translation id="6040143037577758943">Zamknij</translation>
+<translation id="6070348360322141662">Dla większego bezpieczeństwa Huhi szyfruje dane</translation>
+<translation id="6113794647360055231">Huhi jest jeszcze lepszy</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> - Huhi</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> – Huhi Beta</translation>
+<translation id="61852838583753520">Aktualizuj system operacyjny &amp;Huhi</translation>
+<translation id="6235018212288296708">Reguła dla ruchu przychodzącego w Huhi zezwalająca na ruch mDNS.</translation>
+<translation id="6291089322031436445">Aplikacje do Huhi w wersji deweloperskiej</translation>
+<translation id="6291549208091401781">Huhi jest już zainstalowany dla wszystkich użytkowników tego komputera.</translation>
+<translation id="6338556085225130112">Aktualizuję Huhi</translation>
+<translation id="6368958679917195344">Opracowanie systemu operacyjnego Huhi było możliwe dzięki dodatkowemu <ph name="BEGIN_LINK_CROS_OSS" />oprogramowaniu typu open source<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> – Huhi Dev</translation>
+<translation id="6566149418543181476">Aktualizuję Huhi (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="2472951610753402739">Używasz adresu <ph name="PROFILE_EMAIL" /> do synchronizowania danych w Huhi. Aby zaktualizować ustawienia synchronizacji lub używać Huhi bez konta Google, wejdź na stronę <ph name="SETTINGS_LINK" />.</translation>
+<translation id="663059986967017181">Skopiowana do Huhi</translation>
+<translation id="6634887557811630702">Masz aktualną wersję Huhi</translation>
+<translation id="6676384891291319759">Skorzystaj z internetu</translation>
+<translation id="6679975945624592337">Zezwalaj Huhi na działanie w tle</translation>
+<translation id="6750954913813541382">Aby poprawić błędy pisowni, Huhi wysyła do Google to, co wpisujesz w przeglądarce</translation>
+<translation id="677276454032249905">Zamknąć Huhi mimo to?</translation>
+<translation id="683440813066116847">Reguła dla ruchu przychodzącego w Huhi Canary zezwalająca na ruch mDNS.</translation>
+<translation id="6885412569789873916">Aplikacje do Huhi Beta</translation>
+<translation id="6943584222992551122">Dane przeglądania tej osoby zostaną usunięte z tego urządzenia. Aby je odzyskać, zaloguj się w Huhi jako <ph name="USER_EMAIL" />.</translation>
+<translation id="6967962315388095737">Reguła dla ruchu przychodzącego w Huhi Beta zezwalająca na ruch mDNS.</translation>
+<translation id="6970811910055250180">Aktualizowanie urządzenia...</translation>
+<translation id="6982337800632491844">Domena <ph name="DOMAIN" /> wymaga, by przed korzystaniem z tego urządzenia przeczytać i zaakceptować Warunki korzystania z usługi. Nie rozszerzają, nie zmieniają ani nie ograniczają one Warunków korzystania z systemu operacyjnego Huhi.</translation>
+<translation id="6989339256997917931">Przeglądarka Huhi została zaktualizowana, ale nie była przez Ciebie używana przez co najmniej 30 dni.</translation>
+<translation id="8919461291440820124">Huhi używa Twojego mikrofonu.</translation>
+<translation id="5516268345616100622">Menedżer zadań – Huhi</translation>
+<translation id="474353600079041991">Możesz pomóc zwiększyć bezpieczeństwo i komfort korzystania z Huhi, automatycznie przesyłając do Google szczegółowe informacje o możliwych zagrożeniach.</translation>
+<translation id="7242029209006116544">Logujesz się na zarządzane konto i przekazujesz jego administratorowi kontrolę nad swoim profilem Huhi. Twoje dane Huhi, takie jak aplikacje, zakładki, historia, hasła i inne ustawienia, zostaną trwale powiązane z użytkownikiem <ph name="USER_NAME" />. Będzie można je usunąć w Panelu kont Google, ale nie będzie można ich powiązać z innym kontem. Możesz też utworzyć nowy profil, by przechowywać swoje dotychczasowe dane Huhi osobno. <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">Ten język jest używany do wyświetlania UI Huhi</translation>
+<translation id="7296210096911315575">Ważne informacje dotyczące użytkowania i bezpieczeństwa</translation>
+<translation id="7308322188646931570">Huhi musi mieć dostęp do pamięci, by pobierać pliki</translation>
+<translation id="7339898014177206373">Nowe okno</translation>
+<translation id="7398801000654795464">Byłeś zalogowany w Huhi jako <ph name="USER_EMAIL_ADDRESS" />. Zaloguj się ponownie, korzystając z tego samego konta.</translation>
+<translation id="7408085963519505752">Warunki korzystania z Chrome OS</translation>
+<translation id="7419046106786626209">System operacyjny Huhi nie może zsynchronizować danych, ponieważ synchronizacja jest niedostępna w Twojej domenie.</translation>
+<translation id="7459554271817304652">Skonfiguruj synchronizację, by zapisać w internecie własne funkcje przeglądarki i mieć do nich dostęp w Huhi na każdym komputerze.</translation>
+<translation id="7473136999113284234">Huhi aktualizuje się automatycznie, więc zawsze masz najnowszą wersję.</translation>
+<translation id="7486227612705979895">Huhi będzie mieć dostęp do Dysku, by wyświetlać podpowiedzi na pasku adresu</translation>
+<translation id="8887390605192156061">Zamknij wszystkie kopie Huhi.</translation>
+<translation id="7535429826459677826">Wersja deweloperska Huhi</translation>
+<translation id="7573289029918943991">Aby sprawdzić, czy urządzenie jest zaktualizowane, otwórz <ph name="LINK_BEGIN" />ustawienia systemu operacyjnego Huhi<ph name="LINK_END" /></translation>
+<translation id="7589360514048265910">Huhi nie będzie już aktualizować się na tym komputerze, bo system Mac OS X 10.9 nie jest już obsługiwany.</translation>
+<translation id="7592736734348559088">Huhi nie może zsynchronizować danych, ponieważ dane logowania na Twoje konto są nieaktualne.</translation>
+<translation id="7207456302801184289">Witamy w Huhi</translation>
+<translation id="8211837073776713955">Huhi poinformuje Cię, jeśli Twoje hasła dostaną się w niepowołane ręce</translation>
+<translation id="7641148173327520642">Administrator systemu skonfigurował Huhi tak, by strona <ph name="TARGET_URL_HOSTNAME" /> otwierała się w przeglądarce <ph name="ALTERNATIVE_BROWSER_NAME" />.</translation>
+<translation id="7651907282515937834">Logo Huhi Enterprise</translation>
+<translation id="7747138024166251722">Instalator nie mógł utworzyć katalogu tymczasowego. Sprawdź, czy na dysku jest dość wolnego miejsca oraz sprawdź, czy posiadasz uprawnienia do instalowania programów.</translation>
+<translation id="7761834446675418963">Otwórz Huhi, klikając swoją nazwę, i rozpocznij przeglądanie.</translation>
+<translation id="7777080907402804672">Jeśli obraz nie ma przydatnego opisu, Huhi spróbuje go dla Ciebie stworzyć. W tym celu obrazy zostaną wysłane do Google. W każdej chwili możesz wyłączyć tę funkcję w ustawieniach.</translation>
+<translation id="7781002470561365167">Dostępna jest nowa wersja przeglądarki Huhi.</translation>
+<translation id="7787950393032327779">Wygląda na to, że profil jest używany przez inny proces Huhi (<ph name="PROCESS_ID" />) na innym komputerze (<ph name="HOST_NAME" />). Huhi zablokował profil, by zapobiec jego uszkodzeniu. Jeśli masz pewność, że żadne inne procesy nie używają tego profilu, możesz go odblokować i ponownie uruchomić Huhi.</translation>
+<translation id="777113543093865885">Usuń z Huhi...</translation>
+<translation id="7825851276765848807">Instalacja nie powiodła się z powodu nieokreślonego błędu. Pobierz Huhi ponownie.</translation>
+<translation id="7855730255114109580">Masz aktualną wersję Huhi</translation>
+<translation id="7890208801193284374">Jeśli dzielisz komputer ze znajomymi lub rodziną, wszyscy możecie niezależnie przeglądać internet i po swojemu skonfigurować Huhi.</translation>
+<translation id="7896673875602241923">Ktoś zalogował się wcześniej w Huhi na tym komputerze jako <ph name="ACCOUNT_EMAIL_LAST" />. Utwórz nowego użytkownika Huhi, by Twoje informacje były przechowywane oddzielnie.</translation>
+<translation id="7908168227788431038">Już prawie gotowe. Uruchom ponownie Huhi, by zakończyć aktualizację.</translation>
+<translation id="7962410387636238736">Huhi nie będzie już aktualizować się na tym komputerze, ponieważ systemy Windows XP i Windows Vista nie są już obsługiwane.</translation>
+<translation id="5875673934455379806">Ponownie zainstaluj Huhi</translation>
+<translation id="8013993649590906847">Jeśli obraz nie ma przydatnego opisu, Huhi spróbuje go dla Ciebie stworzyć. W tym celu obrazy zostaną wysłane do Google.</translation>
+<translation id="8030318113982266900">Aktualizuję Twoje urządzenie do kanału: <ph name="CHANNEL_NAME" />...</translation>
+<translation id="1672124279374861424">Aby po usunięciu konta z Huhi zmiany zostały zastosowane, może być konieczne ponowne załadowanie otwartych kart.</translation>
+<translation id="8129812357326543296">&amp;Huhi – informacje</translation>
+<translation id="8899693649891674038">Zainstaluj Huhi na telefonie. Na Twój telefon wyślemy SMS-a.</translation>
+<translation id="5138664332909611586">Ta strona używa zbyt dużo pamięci, dlatego Huhi usunął część jej zawartości.</translation>
+<translation id="3293668930608086049">Huhi używa Twojej kamery i mikrofonu.</translation>
+<translation id="8286862437124483331">Huhi próbuje pokazać hasła. Podaj swoje hasło do Windows, by na to zezwolić.</translation>
+<translation id="8290100596633877290">O kurczę! Przeglądarka Huhi uległa awarii. Uruchomić ją teraz ponownie?</translation>
+<translation id="9067428552314418522">Ten plik jest niebezpieczny, dlatego został zablokowany przez Huhi.</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Huhi Software Inc. Wszelkie prawa zastrzeżone.</translation>
+<translation id="840084489713044809">Huhi chce wyeksportować Twoje hasła.</translation>
+<translation id="763369711159699222">Pomóż ulepszać Huhi</translation>
+<translation id="8455999171311319804">Opcjonalnie: pomóż ulepszyć system operacyjny Chrome OS, automatycznie wysyłając do Google dane diagnostyczne i informacje o użytkowaniu.</translation>
+<translation id="2965084188004448871">Zainstaluj Huhi na telefonie. Wyślemy SMS-a pod numer telefonu do odzyskiwania konta: <ph name="PHONE_NUMBER" /></translation>
+<translation id="8668413672647811944">Właśnie została zastosowana specjalna aktualizacja zabezpieczeń Huhi. Uruchom ponownie Huhi teraz. Karty zostaną przywrócone.</translation>
+<translation id="8521348052903287641">Reguła dla ruchu przychodzącego w wersji deweloperskiej Huhi zezwalająca na ruch mDNS.</translation>
+<translation id="8547799825197623713">Program uruchamiający aplikacje Huhi w wersji poglądowej</translation>
+<translation id="8556340503434111824">Dostępna jest nowa, szybsza niż kiedykolwiek wersja przeglądarki Huhi.</translation>
+<translation id="8568392309447938879">Jeśli chcesz korzystać z aplikacji, musisz zalogować się w Huhi, by Twoje aplikacje, zakładki, historia, hasła i inne ustawienia były synchronizowane między urządzeniami.</translation>
+<translation id="8606668294522778825">Aby poprawić wygodę przeglądania, Huhi może korzystać z usług internetowych. Możesz je opcjonalnie wyłączyć. <ph name="BEGIN_LINK" />Dowiedz się więcej<ph name="END_LINK" /></translation>
+<translation id="8614913330719544658">Przeglądarka Huhi nie odpowiada. Uruchomić ją teraz ponownie?</translation>
+<translation id="8625237574518804553">{0,plural, =1{Huhi uruchomi się ponownie za minutę}few{Huhi uruchomi się ponownie za # minuty}many{Huhi uruchomi się ponownie za # minut}other{Huhi uruchomi się ponownie za # minuty}}</translation>
+<translation id="8667808506758191620"><ph name="DEVICE_TYPE" /> używa aktualnej wersji oprogramowania.</translation>
+<translation id="8669527147644353129">Pomoc Huhi</translation>
+<translation id="8679801911857917785">Kontroluje także to, jaka strona wyświetla się po uruchomieniu Huhi.</translation>
+<translation id="870251953148363156">Aktualizuj &amp;Huhi</translation>
+<translation id="873133009373065397">Huhi nie może określić ani ustawić domyślnej przeglądarki</translation>
+<translation id="8736674169840206667">Administrator wymaga od Ciebie ponownego uruchomienia Huhi, by przeglądarka mogła zainstalować aktualizację</translation>
+<translation id="8823341990149967727">Huhi jest nieaktualny</translation>
+<translation id="884296878221830158">Kontroluje także to, jaka strona wyświetla się po uruchomieniu Huhi lub kliknięciu przycisku strony głównej.</translation>
+<translation id="8862326446509486874">Nie masz odpowiednich uprawnień do przeprowadzenia instalacji na poziomie systemowym. Uruchom ponownie program instalacyjny jako administrator.</translation>
+<translation id="8914504000324227558">Uruchom Huhi ponownie</translation>
+<translation id="8999208279178790196">{0,plural, =0{Dostępna jest aktualizacja Huhi}=1{Dostępna jest aktualizacja Huhi}few{Aktualizacja Huhi jest dostępna od # dni}many{Aktualizacja Huhi jest dostępna od # dni}other{Aktualizacja Huhi jest dostępna od # dnia}}</translation>
+<translation id="9026991721384951619">Huhi nie może zsynchronizować danych, ponieważ dane logowania na Twoje konto są nieaktualne.</translation>
+<translation id="9067395829937117663">Huhi wymaga systemu Windows 7 lub nowszego.</translation>
+<translation id="911206726377975832">Czy usunąć także dane przeglądania?</translation>
+<translation id="9138603949443464873">Aby zastosować zmiany, uruchom ponownie Huhi</translation>
+<translation id="919706545465235479">Aby rozpocząć synchronizację, zaktualizuj Huhi</translation>
+<translation id="989369509083708165">Huhi jest domyślną przeglądarką</translation>
+</translationbundle>

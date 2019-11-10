@@ -1,0 +1,305 @@
+<resources>
+
+    <string name="huhi_settings_title">Mga setting ng shield ng Huhi site para sa</string>
+    <string name="huhi_shields_down">Pababa</string>
+    <string name="huhi_shields_up">Pataas</string>
+    <string name="huhi_shields_ads_trackers">Na-block ang Mga Ad at Tracker</string>
+    <string name="huhi_shields_https_upgrades">Mga Pag-upgrade sa HTTPS</string>
+    <string name="huhi_shields_scripts_blocked">Na-block ang Mga Script</string>
+    <string name="huhi_shields_ads_tracking_switch">I-block ang Mga Ad at Pag-track</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS sa Lahat ng Lugar</string>
+    <string name="huhi_shields_blocks_scripts_switch">I-block ang Mga Script</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">I-enable/I-disable ang Mga Shield ng Huhi</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">I-block ang cookies ng 3rd party</string>
+
+    <string name="httpse_summary">Binubuksan ang mga sinusuportahang site gamit ang HTTPS sa halip na HTTP hangga\'t maaari</string>
+    <string name="ad_block_title">Pag-block ng Ad</string>
+    <string name="ad_block_summary">Pinipigilan ang pag-load ng mga ad</string>
+
+    <string name="fingerprinting_protection_title">Proteksyon sa Fingerprinting</string>
+    <string name="fingerprinting_protection_summary">Pinipigilan ang fingerprinting ng browser</string>
+    <string name="huhi_shields_fingerprints_blocked">Na-block ang Mga Pamamaraan sa Fingerprinting</string>
+    <string name="huhi_shields_block_fingerprints_switch">Proteksyon sa Fingerprinting</string>
+
+    <string name="ad_block_regional_title">Pag-block ng Panrehiyong Ad</string>
+    <string name="ad_block_regional_summary">Pinipigilan ang pag-load ng mga panrehiyong ad</string>
+
+    <string name="ad_block_regional_summary_no_list">Walang karagdagang listahang available para sa iyong lokal</string>
+
+    <string name="menu_exit">Lumabas</string>
+
+    <string name="sync_settings_add_device_name_title">Magdagdag ng pangalan ng device</string>
+    <string name="sync_settings_add_device_name_label">Maglagay ng opsyonal na pangalan para sa device na ito</string>
+    <string name="sync_example_device_name">Android device</string>
+    <string name="enter_code_words_sync">Maglagay ng mga code na salita</string>
+    <string name="sync_device">I-sync ang device</string>
+    <string name="sync_device_failure">Hindi ma-set up ang pag-sync</string>
+    <string name="sync_requires_correct_time">Maaaring nakatakda sa maling oras, o sa maling time-zone ang orasan ng iyong computer. Tingnan ang mga setting ng iyong orasan</string>
+
+    <string name="huhi_stats_text_https">Mga Pag-upgrade sa
+HTTPS</string>
+    <string name="huhi_stats_text_time">Tinatayang Oras
+na Natipid</string>
+
+    <string name="send_metrics_title">Magpadala ng mga sukatan</string>
+
+    <string name="desktop_mode_title">Desktop Mode</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Mas gusto ang desktop na bersyon ng mga site</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Mas gusto ang mobile na bersyon ng mga site</string>
+    <string name="website_settings_category_desktop_view_enabled">I-enable ang Desktop View para sa mga bagong tab</string>
+    <string name="website_settings_category_desktop_view_disabled">Gumamit ng mga mobile na bersyon ng mga site para sa mga bagong tab (inirerekomenda)</string>
+
+    <string name="huhi_shields_first_group_title">Pagsubaybay sa Pag-block</string>
+    <string name="huhi_shields_second_group_title">Mga Indibidwal na Kontrol</string>
+    <string name="huhi_shields">Mga Shield</string>
+    <string name="huhi_shields_ads_and_trackers">Mga Ad at Tracker</string>
+    <string name="huhi_shields_fingerprint_methods">Mga Pamamaraan para sa Fingerprint</string>
+    <string name="huhi_shields_block_phishing_switch">I-block ang Phishing</string>
+
+    <string name="play_video_in_background_title">Pag-playback ng video sa background</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Naka-enable</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Naka-disable</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Pang-eksperimento. Ine-enable ang pag-play ng audio mula sa video sa background kapag hindi aktibo ang tab o naka-off ang screen ng device. Subukang lumipat sa desktop mode kung hindi gumagana ang feature na ito.</string>
+    <string name="settings_require_relaunch_notice">Malalapat ang iyong mga pagbabago sa susunod na pagkakataong muli mong ilulunsad ang Huhi</string>
+    <string name="settings_require_relaunch_now">MULING ILUNSAD NGAYON</string>
+    <string name="settings_require_relaunch_later">SA IBANG PAGKAKATAON</string>
+
+    <string name="play_yt_video_in_browser_title">Pag-playback ng video sa Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Naka-enable</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Naka-disable</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Kung naka-enable, mape-play ang mga video sa Huhi sa halip na sa kaukulang app</string>
+
+    <string name="close_tabs_on_exit_title">Isara ang mga tab sa paglabas</string>
+    <string name="close_tabs_on_exit_summary">Huwag panatilihin ang mga tab sa pagitan ng mga session ng pag-browse</string>
+
+    <string name="open_pages_in_custom_tabs_title">Buksan ang mga tab sa Mga Custom na Tab</string>
+    <string name="open_pages_in_custom_tabs_summary">Nag-aalok na buksan ang mga tab sa Mga Custom na Tab</string>
+
+    <string name="ddg_offer_title">Pribadong maghanap sa DuckDuckGo?</string>
+    <string name="ddg_offer_text">Sa pribadong paghahanap, gagamitin ng Huhi ang DuckDuckGo para tugunan ang iyong mga paghahanap habang ikaw ay nasa pribadong tab na ito. Ang DuckDuckGo ay isang search engine na hindi sinusubaybayan ang iyong history sa paghahanap, kung kaya nabibigyang-daan kang maghanap sa pribadong paraan.</string>
+    <string name="ddg_offer_positive">Oo</string>
+    <string name="ddg_offer_negative">Hindi</string>
+    <string name="ddg_offer_link">Alamin ang tungkol sa pribadong paghahanap sa DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Karaniwang Tab</string>
+    <string name="prefs_private_search_engine">Pribadong Tab</string>
+
+    <string name="huhi_open_in_private_tab">Buksan sa pribadong tab</string>
+    <string name="huhi_close_all_private_tabs">Isara ang mga pribadong tab</string>
+    <string name="huhi_new_private_tab">Bagong pribadong tab</string>
+    <string name="huhi_new_tab_private_header">Isa itong Pribadong Tab</string>
+    <string name="huhi_new_tab_private_message">Bagama\'t hindi lokal na nase-save ang mga site na binibisita mo sa mga pribadong tab, hindi ka nito ginagawang anonymous o invisible sa iyong ISP, sa iyong employer, o sa mga site na binibisita mo.</string>
+    <string name="update_notification_title">Update sa Huhi</string>
+    <string name="update_notification_text">Ang bagong Huhi browser ay 22% mas mabilis</string>
+    <string name="prefs_sync">Pag-sync (beta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Narito na ang Huhi Ads!</string>
+    <string name="huhi_ads_new_user_offer_title">I-enable ang Huhi Rewards</string>
+    <string name="huhi_ads_offer_text">Makakuha ng Basic Attention Token para sa pagtingin o panonood ng mga ad tungkol sa pagpapanatili ng privacy sa Huhi Rewards.</string>
+    <string name="huhi_ads_offer_positive">Okay!</string>
+    <string name="huhi_sync_description_page_1_part_1">Ang Pag-sync ng Huhi ay nagbibigay-daan sa iyong i-sync nang pribado ang data ng mga bookmark sa pagitan ng iyong Mga Huhi Browser sa iba\'t ibang device mo.</string>
+    <string name="huhi_sync_description_page_1_part_2">I-scan lang ang code mula sa iyong chain ng pag-sync na ginawa mo sa ibang device. O kaya, magsimula ng bagong chain ng pag-sync.</string>
+    <string name="huhi_sync_scan_chain_code">I-scan o ilagay ang code sa pag-sync</string>
+    <string name="huhi_sync_start_new_chain">Magsimula ng bagong chain ng pag-sync</string>
+    <string name="huhi_sync_qrcode_message_v2">Gamit ang kasalukuyang naka-sync na device, buksan ang Mga Setting ng Huhi at mag-navigate sa Mga Setting > Pag-sync. Piliin ang \"Magdagdag ng Device\" at i-scan ang QR Code na ipinapakita sa screen.</string>
+    <string name="huhi_sync_codewords_message">Gamit ang kasalukuyang naka-sync na device, buksan ang Mga Setting ng Huhi at mag-navigate sa Mga Setting > Pag-sync. Piliin ang \"Magdagdag ng Device\" pagkatapos ay \"Ipakita na lang ang mga code na salita\".</string>
+    <string name="huhi_sync_btn_mobile">Magdagdag ng Mobile Device</string>
+    <string name="huhi_sync_btn_laptop">Magdagdag ng Computer</string>
+    <string name="huhi_sync_scan_sync_code">I-scan ang code sa pag-sync na ito</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Gamit ang pangalawang telepono o tablet, mag-navigate sa Mga Setting ng Huhi > Pag-sync > Mag-scan.</string>
+    <string name="huhi_sync_btn_done">Tapos na</string>
+    <string name="huhi_sync_tabs_text">Mga Tab</string>
+    <string name="huhi_sync_history_text">History</string>
+    <string name="huhi_sync_autofill_passwords_text">Autofill/Mga Password</string>
+    <string name="huhi_sync_payment_settings_text">Mga Setting ng Pagbabayad sa Huhi</string>
+    <string name="huhi_sync_settings_title">MAG-SYNC SA DEVICE NA ITO</string>
+    <string name="huhi_sync_settings_description">Kapag binago ang mga setting, ang data lang na ibinabahagi ng device na ito sa iba ang maaapektuhan.</string>
+    <string name="huhi_sync_devices_title">IBA PANG DEVICE SA CHAIN</string>
+    <string name="huhi_sync_loading_devices_title">NILO-LOAD ANG MGA DEVICE...</string>
+    <string name="huhi_sync_add_device_text">Magdagdag ng ibang device</string>
+    <string name="huhi_sync_remove_device_text">Alisin ang device na ito</string>
+    <string name="huhi_sync_code_words_title">Pares</string>
+    <string name="huhi_sync_add_laptop_text_title">Ilagay ang code sa chain ng pag-sync</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Sa iyong computer, mag-navigate sa Mga Setting ng Huhi > Pag-sync. Piliin ang \"Maglagay ng Code sa Chain ng Pag-sync\".</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Ilagay ang mga code na salita sa itaas, kasama ang mga puwang.</string>
+    <string name="huhi_sync_delete_device">Sigurado ka bang gusto mong i-delete ang device na \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'?</string>
+    <string name="huhi_sync_delete_sent">Naipadala na ang kahilingan sa pag-delete. Aalisin ang device sa loob ng ilang sandali.</string>
+    <string name="huhi_sync_loading_data_title">Nilo-load ang data...</string>
+    <string name="huhi_sync_time_out_message">Nagkaproblema, mukhang nag-time out ang iyong kahilingan.</string>
+    <string name="huhi_sync_use_camera_text">Gagamitin ko ang aking camera...</string>
+    <string name="huhi_sync_confirm_code_words_text">Kumpirmahin</string>
+    <string name="huhi_sync_word_count_text">Bilang ng salita: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Maling bilang ng mga salita</string>
+    <string name="huhi_sync_qr_code">QR Code</string>
+    <string name="huhi_sync_code_words">Mga Code na Salita</string>
+    <string name="huhi_sync_copy_button_text">Kopyahin sa Clipboard</string>
+    <string name="huhi_sync_copied_text">Kinopya sa Clipboard</string>
+    <string name="huhi_sync_this_device_text">(ang device na ito)</string>
+
+    <string name="huhi_already_set_as_default_browser">Naka-set na ang Huhi
+bilang iyong default na browser.</string>
+    <string name="huhi_default_browser_go_to_settings">Nag-set ka na ng default na browser.
+Pwede mong baguhin ang default na browser sa mga setting ng iyong app.</string>
+    <string name="huhi_set_default_browser">I-set bilang default na browser</string>
+    <string name="huhi_default_browser_existing_notification_body">Gawing iyong default na web browser ang Huhi
+Makatipid ng baterya at mag-load ng mga web page nang mas mabilis</string>
+
+    <string name="huhi_ui_welcome_header_two">Maghandang maranasan
+ang susunod na Internet.</string>
+    <string name="huhi_ui_welcome_desc_two">Makakatanggap ka na ngayon ng mga token para
+sa panonood ng mga ad na gumagalang sa privacy.</string>
+    <string name="huhi_ui_welcome_button_text_two">SUMALI SA REWARDS</string>
+    <string name="huhi_ui_welcome_footer_text_two">MATUTO PA</string>
+    <string name="huhi_ui_rewards_creating_text">Ginagawa ang wallet</string>
+    <string name="huhi_ui_your_wallet">Iyong wallet</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0.0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Magdagdag ng Pondo</string>
+    <string name="huhi_ui_settings">Mga Setting</string>
+    <string name="huhi_ui_rewards_summary">BUOD NG REWARDS</string>
+    <string name="huhi_ui_site_banner_welcome">Salamat sa pagpunta rito!</string>
+    <string name="huhi_ui_rewards_banner_text1">Pwede mong suportahan ang site na ito sa pamamagitan ng pagpapadala ng tip. Isa itong paraan ng pagpapasalamat sa kanila sa paggawa ng magandang content. Ang mga na-verify na content creator na binabayaran para sa kanilang mga tip sa unang linggo ng bawat buwan ng kalendaryo.</string>
+    <string name="huhi_ui_rewards_banner_text2">Kung gusto mo, maaari kang mag-iskedyul ng mga buwanang tip para suportahan ang site na ito nang tuluy-tuloy.</string>
+    <string name="huhi_ui_donation_amount">Halaga ng tip</string>
+    <string name="huhi_ui_wallet_balance">balanse ng wallet:</string>
+    <string name="huhi_ui_make_monthly">Gawin itong buwan-buwan</string>
+    <string name="huhi_ui_send_tip">ipadala ang tip ko</string>
+    <string name="huhi_ui_do_monthly">mag-set ng buwanang tip</string>
+    <string name="huhi_ui_not_enough_tokens">hindi sapat ang mga token</string>
+    <string name="huhi_ui_site_banner_notice_text">TANDAAN: Ang creator na ito ay hindi pa nag-sign up para makatanggap ng mga kontribusyon mula sa mga user ng Huhi. Patuloy naming susubukang mag-ambag hanggang sa mag-verify sila, o hanggang lumipas ang 90 araw.</string>
+    <string name="huhi_ui_please">kung maaari</string>
+    <string name="huhi_ui_add_funds">magdagdag ng pondo</string>
+    <string name="huhi_ui_thank_you">Salamat!</string>
+    <string name="huhi_ui_error_init_wallet">Pakisubukang muli sa ibang pagkakataon.</string>
+    <string name="huhi_ui_month_jan">ENERO</string>
+    <string name="huhi_ui_month_feb">PEBRERO</string>
+    <string name="huhi_ui_month_mar">MARSO</string>
+    <string name="huhi_ui_month_apr">ABRIL</string>
+    <string name="huhi_ui_month_may">MAYO</string>
+    <string name="huhi_ui_month_jun">HUNYO</string>
+    <string name="huhi_ui_month_jul">HULYO</string>
+    <string name="huhi_ui_month_aug">AGOSTO</string>
+    <string name="huhi_ui_month_sep">SETYEMBRE</string>
+    <string name="huhi_ui_month_oct">OKTUBRE</string>
+    <string name="huhi_ui_month_nov">NOBYEMBRE</string>
+    <string name="huhi_ui_month_dec">DISYEMBRE</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>DISYEMBRE</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Atensyon</string>
+    <string name="huhi_ui_include_in_auto">Isama sa Auto-Contribute</string>
+    <string name="huhi_ui_donate_now">Magpadala ng tip...</string>
+    <string name="huhi_ui_no_activity">Wala pang mga aktibidad
+ngayong buwan...</string>
+    <string name="huhi_ui_token_grant_claimed">Mga Nakuhang Token Grant</string>
+    <string name="huhi_ui_earnings_ads">Mga Kinita Mula sa Mga Ad</string>
+    <string name="huhi_ui_rewards_contribute">Auto-Contribute</string>
+    <string name="huhi_ui_rewards_contribute_description">Nag-ambag ka ng <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
+    <string name="huhi_ui_one_time_donation">Mga One-time na Tip</string>
+    <string name="huhi_ui_recurring_donation">Mga Buwanang Tip</string>
+    <string name="huhi_ui_verified_publisher">Huhi Verified Publisher</string>
+    <string name="huhi_ui_not_verified_publisher">Hindi pa na-verify</string>
+    <string name="huhi_ui_not_verified_publisher_description">Ang creator na ito ay hindi pa nag-sign up para makatanggap ng mga kontribusyon mula sa mga Huhi user.
+        Ang anumang tip na ipinadala mo ay mananatili sa iyong wallet hanggang sa mag-verify sila.</string>
+    <string name="huhi_ui_on_youtube">sa YouTube</string>
+    <string name="huhi_ui_on_twitch">sa Twitch</string>
+    <string name="huhi_ui_new_grant">May libreng token grant na available.</string>
+    <string name="huhi_ui_new_token_grant">Libreng Token Grant</string>
+    <string name="huhi_ui_claim">Kunin</string>
+    <string name="huhi_ui_reserved_amount_text">Nagtalaga ka ng <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT para sa mga creator na hindi
+pa nag-sign upa para makatanggap ng mga kontribusyon. Patuloy na susubukan ng iyong browser na mag-ambag
+hanggang sa mag-verify sila, o hanggang lumipas ang 90 araw.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Nagkaroon ng problema sa pagproseso sa iyong tip, pakisubukang muli.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Nagkaroon ng problema sa pagproseso sa iyong kontribusyon.</string>
+    <string name="huhi_rewards_local_uh_oh">Hala!</string>
+    <string name="huhi_rewards_local_server_not_responding">Hindi nagre-respond ang Huhi Rewards server. Susubukan namin itong ayusin sa lalong madaling panahon.</string>
+    <string name="huhi_ui_grants">Mga Grant</string>
+    <string name="huhi_ui_expires_on">mag-e-expire sa <ph name=\"DATE\">%1$s<ex>4/14/2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Hindi Sapat ang Pondo</string>
+    <string name="huhi_ui_insufficient_funds_desc">Naghihintay ng deposito ang iyong Huhi Rewards account.</string>
+    <string name="huhi_ui_backup_wallet_msg">Backup Wallet</string>
+    <string name="huhi_ui_backup_wallet_desc">Paki-back up ang iyong Huhi wallet.</string>
+    <string name="huhi_ui_huhi_rewards">Huhi Rewards</string>
+    <string name="huhi_ui_welcome_back_message">Maligayang pagbabalik!</string>
+    <string name="huhi_ui_get_rewarded">Magkaroon ng reward para sa pagba-browse.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Kumita sa pamamagitan ng panonood ng
+mga ad na gumagalang sa privacy, ay mag-pay it forward
+para suportahan ang mga content creator na gusto mo.</string>
+    <string name="huhi_welcome_page_rewards_title">I-ENABLE ANG HUHI REWARDS</string>
+    <string name="huhi_ui_first_tip_text">Ang iyong unang buwanang tip ay ipapadala sa:</string>
+    <string name="huhi_ui_tip_text">Nagpadala ka ng tip sa:</string>
+    <string name="huhi_ui_auto_tip_text">Awtomatiko kang magpapadala ng tip sa:</string>
+    <string name="huhi_ui_monthly_text">Buwanan</string>
+    <string name="bottom_toolbar_enable">I-enable ang toolbar sa ibaba</string>
+    <string name="bottom_toolbar_disable">I-disable ang toolbar sa ibaba</string>
+    <string name="search_or_url">Paghahanap o URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Gumawa ng bookmark</string>
+    <string name="huhi_ui_donate_monthly">Bigyan ng tip ang site na ito buwan-buwan</string>
+
+    <string name="huhi_rewards_not_available">Paumanhin, mukhang hindi available ang Huhi Rewards sa iyong device</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Kapag isinara ang lahat ng tab, sasara ang Huhi</string>
+    <string name="prefs_section_display">Display</string>
+    <string name="prefs_section_controls">Mga Kontrol</string>
+    <string name="prefs_appearance">Hitsura</string>
+    <string name="hide_huhi_rewards_icon_title">Itago ang Icon ng Huhi Rewards</string>
+    <string name="hide_huhi_rewards_icon_description">Itinatago ang Icon ng Huhi Rewards kapag hindi naka-enable ang Huhi Rewards</string>
+    <string name="reset_huhi_rewards_option">I-reset ang Huhi Rewards</string>
+    <string name="reset_huhi_rewards_option_description">Ide-delete nito ang iyong Huhi wallet at ire-reset ang lahat ng data ng iyong Huhi Rewards</string>
+    <string name="reset_huhi_rewards_error_title">Error sa Pag-reset</string>
+    <string name="reset_huhi_rewards_error_description">Nagkaroon ng error sa pag-reset ng Huhi Rewards. Pakibuksang muli ang Huhi at subukang muli</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Sa iyong target na computer, mag-navigate sa Huhi Sync sa mga setting at i-click ang button na \"Mayroon akong Sync Code\".\nIlagay ang mga sync chain code word na ipinapakita sa ibaba.</string>
+
+    <string name="huhi_sync_official">Huhi Sync</string>
+    <string name="prefs_sync_official">I-sync</string>
+
+    <string name="huhi_sync_code_warning">Ituring ang code na ito na isang password. Kung may makaalam nito, mababasa at mababago nila ang iyong naka-sync na data.</string>
+
+    <string name="notification_category_group_huhi_ads">Huhi Ads</string>
+    <string name="huhi_ads_you_earned">Nakakuha ka ng</string>
+
+    <string name="huhi_default_browser_title">Napakapabilis ng Huhi</string>
+    <string name="huhi_default_browser_body">Gawin mong default na browser ang Huhi!</string>
+    <string name="huhi_make_default_text">Gawing default</string>
+    <string name="huhi_ui_ads_earnings">nakuha mula sa mga ad</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Laktawan</string>
+
+    <string name="search_engine_onboarding">Onboarding ng search engine</string>
+    <string name="troubleshooting_onboarding">Onboarding ng pag-troubleshoot</string>
+
+    <string name="welcome_to_huhi_browser">Welcome sa Huhi Browser</string>
+    <string name="select_your_default_search_engine">Pumili ng iyong default na search engine</string>
+
+    <string name="block">I-block</string>
+    <string name="huhi_shields_onboarding_title">Huhi Shields</string>
+    <string name="huhi_shields_onboarding_text">mga ad at tracker na nanghihimasok sa privacy nang sa gayon ay makapag-browse ka nang hindi tina-track sa web.</string>
+
+    <string name="earn_tokens">Makakuha ng mga token</string>
+    <string name="huhi_rewards_onboarding_title">Huhi Rewards</string>
+    <string name="huhi_rewards_onboarding_text">para tingnan ang mga ad na nanghihimasok sa privacy. Gamitin ang mga iyon para suportahan ang mga paborito mong site at creator.</string>
+    <string name="huhi_rewards_onboarding_text2">para tingnan ang mga ad na nanghihimasok sa privacy.</string>
+
+    <string name="terms_title">Sumang-ayon sa Mga Tuntunin ng paggamit sa Huhi Rewards</string>
+    <string name="terms_text">Sumasang-ayon ako sa Huhi Rewards</string>
+    <string name="terms_of_service">Mga Tuntunin ng Serbisyo</string>
+
+    <string name="agree">Sumasang-ayon</string>
+    <string name="join">Sumali</string>
+
+     <string name="start_browsing">Simulang mag-browse</string>
+    <string name="i_didnt_see">Wala akong nakitang ad</string>
+
+    <string name="huhi_ads_onboarding_title">Ipapakita ng Huhi ang una mong ad sa</string>
+    <string name="huhi_ads_onboarding_text">Para makakita ng mga ad mula sa Huhi Rewards, tiyaking pinapayagan ang Huhi na magpakita sa iyo ng mga notification.</string>
+
+    <string name="this_is_your_first_ad">Ito ang una mong ad sa Huhi. Mag-tap para matuto pa.</string>
+
+    <string name="turn_on">I-on</string>
+
+    <string name="no_thanks">Hindi, salamat na lang</string>
+    <string name="do_not_agree">Hindi sumasang-ayon</string>
+
+    <string name="prefs_welcome_tour">Pang-welcome na Tour</string>
+    <string name="welcome_tour_dialog_text">Kapag sinimulang muli ang Pang-welcome na Tour, hindi nito maaapektuhan ang anumang kasalukuyang setting.</string>
+    <string name="finish">Tapos na</string>
+    
+    </resources>

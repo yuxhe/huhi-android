@@ -1,0 +1,318 @@
+<resources>
+
+    <string name="huhi_settings_title">Налаштування щитів Huhi для</string>
+    <string name="huhi_shields_down">Вимк</string>
+    <string name="huhi_shields_up">Увімк</string>
+    <string name="huhi_shields_ads_trackers">Реклами і стеження</string>
+    <string name="huhi_shields_https_upgrades">HTTPS перенаправлень</string>
+    <string name="huhi_shields_scripts_blocked">Скриптів</string>
+    <string name="huhi_shields_ads_tracking_switch">Реклама і стеження</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Everywhere</string>
+    <string name="huhi_shields_blocks_scripts_switch">Скрипти</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Увімк/Вимк щити Huhi</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Керувати Винагородами Huhi</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Сторонні куки</string>
+
+    <string name="httpse_summary">Відкривати підтримувані сайти з використанням протоколу HTTPS замість HTTP</string>
+    <string name="ad_block_title">Блокувати рекламу</string>
+    <string name="ad_block_summary">Блокувати завантаження реклами</string>
+
+    <string name="fingerprinting_protection_title">Захист відбитку браузера</string>
+    <string name="fingerprinting_protection_summary">Захист відстеження відбитку браузера</string>
+    <string name="huhi_shields_fingerprints_blocked">Відбитків браузера</string>
+    <string name="huhi_shields_block_fingerprints_switch">Відбиток браузера</string>
+
+    <string name="ad_block_regional_title">Блокувати регіональну рекламу</string>
+    <string name="ad_block_regional_summary">Блокувати завантаження регіональної реклами</string>
+
+    <string name="ad_block_regional_summary_no_list">Для вашої локалі не знайдено додаткових списків</string>
+
+    <string name="menu_exit">Вихід</string>
+
+    <string name="huhi_sync">Синхронізація Huhi (бета)</string>
+    <string name="sync_settings_add_device_name_title">Додавання імені пристрою</string>
+    <string name="sync_settings_add_device_name_label">Введіть ім'я для даного пристрою</string>
+    <string name="sync_example_device_name">Android пристрій</string>
+    <string name="enter_code_words_sync">Введення кодових слів</string>
+    <string name="sync_device">Синхронізація пристрою</string>
+    <string name="sync_device_failure">Синхронізація не може бути встановлена</string>
+    <string name="sync_requires_correct_time">Можливо, годинник вашого комп\'ютера йде за невірним часом чи часовим поясом. Перевірте налаштування свого годинника</string>
+
+    <string name="huhi_stats_text_ads">Реклама та відстежувачі
+заблоковані</string>
+    <string name="huhi_stats_text_https">HTTPS
+перенаправлень</string>
+    <string name="huhi_stats_text_time">Заощаджено
+часу</string>
+
+    <string name="send_metrics_title">Надсилати метрики</string>
+
+    <string name="desktop_mode_title">Режим повних версій сайтів</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Перевага для повних версій сайтів</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Перевага для мобільних версій сайтів</string>
+    <string name="website_settings_category_desktop_view_enabled">Повні версії сайтів для нових вкладок</string>
+    <string name="website_settings_category_desktop_view_disabled">Використовувати мобільні версії сайтів для нових вкладок (рекомендовано)</string>
+
+    <string name="huhi_shields_first_group_title">Монітор блокування</string>
+    <string name="huhi_shields_second_group_title">Керування блокуванням</string>
+    <string name="huhi_shields">Щити</string>
+    <string name="huhi_shields_ads_and_trackers">Реклами і стеження</string>
+    <string name="huhi_shields_fingerprint_methods">Відбитків браузера</string>
+    <string name="huhi_shields_block_phishing_switch">Шахрайство</string>
+
+    <string name="play_video_in_background_title">Відео на задньому плані</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Увімкнено</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Вимкнено</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Експериментальна функція. Вмикає відтворення аудіо для відео на задньому плані, коли вкладка неактивна, або екран вимкнений. Якщо ця функція не працює, спробуйте перемкнутися на повну версію сайту.</string>
+    <string name="settings_require_relaunch_notice">Зміни набудуть чинності після перезапуску Huhi</string>
+    <string name="settings_require_relaunch_now">ПЕРЕЗАПУСТИТИ ЗАРАЗ</string>
+    <string name="settings_require_relaunch_later">ПІЗНІШЕ</string>
+
+    <string name="play_yt_video_in_browser_title">Відтворення відео в Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Увімкнено</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Вимкнено</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Якщо увімкнено, відео буде відтворюватись в Huhi замість відповідного додатку</string>
+
+    <string name="close_tabs_on_exit_title">Закривати вкладки при виході</string>
+    <string name="close_tabs_on_exit_summary">Не зберігати вкладки між сеансами перегляду</string>
+
+    <string name="open_pages_in_custom_tabs_title">Відкривати вкладки у Custom Tabs</string>
+    <string name="open_pages_in_custom_tabs_summary">Запропонувати відкривати вкладки у Custom Tabs </string>
+
+    <string name="ddg_offer_title">Приватний пошук з </string>
+    <string name="ddg_offer_text">Під час приватного пошуку Huhi використовує DuckDuckGo, аби знайти те, що ви шукаєте, поки ви у приватній вкладці. DuckDuckGo — це пошукова система, що не збирає вашу історію пошуку, таким чином даючи вам змогу зберігати приватність.</string>
+    <string name="ddg_offer_positive">Так</string>
+    <string name="ddg_offer_negative">Ні</string>
+    <string name="ddg_offer_link">Дізнайтеся про приватний пошук з DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Звичайна вкладка</string>
+    <string name="prefs_private_search_engine">Приватна вкладка</string>
+
+    <string name="huhi_open_in_private_tab">Відкрити у приватній вкладці</string>
+    <string name="huhi_close_all_private_tabs">Закрити приватні вкладки</string>
+    <string name="huhi_new_private_tab">Нова приватна вкладка</string>
+    <string name="huhi_new_tab_private_header">Це приватна вкладка</string>
+    <string name="huhi_new_tab_private_message">Хоча сайти, на які ви заходите у приватних вкладках, не зберігаються, ви не є анонімними чи невидимими для свого Інтернет-провайдера, начальника чи сайтів, на які ви заходите.</string>
+    <string name="update_notification_title">Оновлення Huhi</string>
+    <string name="update_notification_text">Новий Huhi браузер на 22% швидше</string>
+    <string name="prefs_sync">Синхронізація (бета)</string>
+    <string name="huhi_ads_existing_user_offer_title">Реклама Huhi тут!</string>
+    <string name="huhi_ads_new_user_offer_title">Увімкнути Винагороди Huhi </string>
+    <string name="huhi_ads_offer_text">Заробіть Токен Базової Уваги, переглядаючи рекламу, що зберігає приватність, у Винагородах Huhi.</string>
+    <string name="huhi_ads_offer_positive">Беру участь!</string>
+    <string name="huhi_sync_description_page_1_part_1">«Синхронізація Huhi» дозволяє конфіденційно синхронізувати дані закладок у браузерах Huhi на різних пристроях.</string>
+    <string name="huhi_sync_description_page_1_part_2">Просто відскануйте код ланцюжка синхронізації, створеного на іншому пристрої, або створіть новий ланцюжок синхронізації.</string>
+    <string name="huhi_sync_scan_chain_code">Відскануйте або введіть код синхронізації</string>
+    <string name="huhi_sync_start_new_chain">Створіть новий ланцюжок синхронізації</string>
+    <string name="huhi_sync_qrcode_message_v2">На пристрої, який вже синхронізовано, відкрийте налаштування Huhi і перейдіть до розділу «Налаштування» > «Синхронізація». Виберіть пункт «Додати пристрій» і відскануйте QR-код, зображений на екрані.</string>
+    <string name="huhi_sync_codewords_message">На пристрої, який вже синхронізовано, відкрийте налаштування Huhi і перейдіть до розділу «Налаштування» > «Синхронізація». Виберіть пункт «Додати пристрій», а потім — «Відобразити кодові слова».</string>
+    <string name="huhi_sync_btn_mobile">Додати мобільний пристрій</string>
+    <string name="huhi_sync_btn_laptop">Додати комп’ютер</string>
+    <string name="huhi_sync_scan_sync_code">Відскануйте цей код синхронізації</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Використовуючи другий телефон або планшет, перейдіть у меню «Налаштування Huhi» > «Синхронізація» > «Сканування».</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">На вашому мобільному пристрої перейдіть до Синхронізації Huhi на панелі Налаштувань і клацніть на кнопку \"Сканувати код синхронізації\". Використайте свою камеру, щоб відсканувати QR код нижче.  </string>
+    <string name="huhi_sync_btn_done">Готово</string>
+    <string name="huhi_sync_tabs_text">Вкладки</string>
+    <string name="huhi_sync_history_text">Історія</string>
+    <string name="huhi_sync_autofill_passwords_text">Автозаповнення/паролі</string>
+    <string name="huhi_sync_payment_settings_text">Налаштування оплати в Huhi</string>
+    <string name="huhi_sync_settings_title">СИНХРОНІЗАЦІЯ НА ЦЬОМУ ПРИСТРОЇ</string>
+    <string name="huhi_sync_settings_description">Зміна налаштувань вплине лише на ті дані, які цей пристрій надає іншим.</string>
+    <string name="huhi_sync_devices_title">ІНШІ ПРИСТРОЇ В ЛАНЦЮЖКУ</string>
+    <string name="huhi_sync_loading_devices_title">ЗАВАНТАЖЕННЯ ПРИСТРОЇВ…</string>
+    <string name="huhi_sync_add_device_text">Додайте інший пристрій</string>
+    <string name="huhi_sync_remove_device_text">Видаліть цей пристрій</string>
+    <string name="huhi_sync_code_words_title">Створення пари</string>
+    <string name="huhi_sync_add_laptop_text_title">Уведення коду ланцюжка синхронізації</string>
+    <string name="huhi_sync_add_laptop_text_part_1">На комп’ютері перейдіть до меню «Налаштування Huhi» > «Синхронізація» та виберіть пункт «Увести код ланцюжка синхронізації».</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Уведіть кодові слова вище, ураховуючи пробіли між ними.</string>
+    <string name="huhi_sync_delete_device">Ви впевнені, що хочете видалити пристрій «<ph name=\"DEVICE_NAME\">%1$s</ph>»?</string>
+    <string name="huhi_sync_delete_sent">Запит на видалення надіслано. Незабаром пристрій буде видалено.</string>
+    <string name="huhi_sync_loading_data_title">Завантаження даних…</string>
+    <string name="huhi_sync_time_out_message">Сталася помилка. Минув час очікування відповіді на запит.</string>
+    <string name="huhi_sync_use_camera_text">Я скористаюся камерою…</string>
+    <string name="huhi_sync_confirm_code_words_text">Підтвердити</string>
+    <string name="huhi_sync_word_count_text">Усього слів: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Неправильна кількість слів</string>
+    <string name="huhi_sync_qr_code">QR-код</string>
+    <string name="huhi_sync_code_words">Кодові слова</string>
+    <string name="huhi_sync_copy_button_text">Скопіювати до буфера обміну</string>
+    <string name="huhi_sync_copied_text">Скопійовано до буфера обміну</string>
+    <string name="huhi_sync_this_device_text">(цей пристрій)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi вже вибрано
+браузером за замовчуванням.</string>
+    <string name="huhi_default_browser_go_to_settings">Ви вже вибрали браузер за замовчуванням.
+Цей вибір можна змінити в налаштуваннях програми.</string>
+    <string name="huhi_default_browser_notification_body">Економте заряд та завантажуйте сторінки швидше. Зробіть Huhi своїм усталеним переглядачем. Натисніть на \"Зробити усталеним переглядачем\" у меню Huhi</string>
+    <string name="huhi_set_default_browser">Зробити усталеним переглядачем</string>
+    <string name="huhi_set_default_browser_dialog_text">Виберіть Huhi зі списку і натисніть \"Завжди\"</string>
+    <string name="huhi_default_browser_existing_notification_body">Зробіть Huhi своїм усталеним веб-переглядачем
+Економте заряд та завантажуйте сторінки швидше</string>
+
+    <string name="huhi_ui_welcome_header_two">Починайте користуватися
+Інтернетом на новому рівні!</string>
+    <string name="huhi_ui_welcome_desc_two">Заробляйте токени, переглядаючи
+рекламу, яка не порушує основ конфіденційності.</string>
+    <string name="huhi_ui_welcome_button_text_two">ПРИЄДНАТИСЯ ДО ПРОГРАМИ «НАГОРОДИ»</string>
+    <string name="huhi_ui_welcome_footer_text_two">ДІЗНАТИСЯ БІЛЬШЕ</string>
+    <string name="huhi_ui_rewards_creating_text">Створення гаманця</string>
+    <string name="huhi_ui_your_wallet">Ваш гаманець</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,0</ex></ph> дол. США</string>
+    <string name="huhi_rewards_local_panel_add_funds">Внести кошти</string>
+    <string name="huhi_ui_settings">Налаштування</string>
+    <string name="huhi_ui_rewards_summary">ЗАГАЛЬНА ІНФОРМАЦІЯ ПРО НАГОРОДИ</string>
+    <string name="huhi_ui_site_banner_welcome">Дякуємо, що перейшли на цю сторінку!</string>
+    <string name="huhi_ui_rewards_banner_text1">Ви можете підтримати цей сайт, надіславши заохочення. Це спосіб подякувати розробникам сайту за їхню величезну роботу. Усі підтвердженні автори контенту отримують гроші за зароблені заохочення протягом першого тижня кожного місяця.</string>
+    <string name="huhi_ui_rewards_banner_text2">За бажанням ви можете робити щомісячні заохочення, щоб підтримувати роботу сайту на постійній основі.</string>
+    <string name="huhi_ui_donation_amount">Розмір заохочення</string>
+    <string name="huhi_ui_wallet_balance">залишок у гаманці:</string>
+    <string name="huhi_ui_make_monthly">Сплачувати щомісяця</string>
+    <string name="huhi_ui_send_tip">надіслати заохочення</string>
+    <string name="huhi_ui_do_monthly">налаштувати щомісячне заохочення</string>
+    <string name="huhi_ui_not_enough_tokens">недостатньо токенів</string>
+    <string name="huhi_ui_site_banner_notice_text">ПРИМІТКА. Цей автор ще не зареєструвався, щоб отримувати внески від користувачів Huhi. Ми робитимемо спроби надіслати внесок, доки автор не виконає процедуру підтвердження або доки не мине 90 днів. </string>
+    <string name="huhi_ui_please">будь ласка</string>
+    <string name="huhi_ui_add_funds">внесіть кошти</string>
+    <string name="huhi_ui_thank_you">Дякуємо!</string>
+    <string name="huhi_ui_error_init_wallet">Спробуйте ще раз пізніше.</string>
+    <string name="huhi_ui_month_jan">СІЧЕНЬ</string>
+    <string name="huhi_ui_month_feb">ЛЮТИЙ</string>
+    <string name="huhi_ui_month_mar">БЕРЕЗЕНЬ</string>
+    <string name="huhi_ui_month_apr">КВІТЕНЬ</string>
+    <string name="huhi_ui_month_may">ТРАВЕНЬ</string>
+    <string name="huhi_ui_month_jun">ЧЕРВЕНЬ</string>
+    <string name="huhi_ui_month_jul">ЛИПЕНЬ</string>
+    <string name="huhi_ui_month_aug">СЕРПЕНЬ</string>
+    <string name="huhi_ui_month_sep">ВЕРЕСЕНЬ</string>
+    <string name="huhi_ui_month_oct">ЖОВТЕНЬ</string>
+    <string name="huhi_ui_month_nov">ЛИСТОПАД</string>
+    <string name="huhi_ui_month_dec">ГРУДЕНЬ</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex> ГРУДНЯ</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018 р.</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Увага</string>
+    <string name="huhi_ui_include_in_auto">Додати до автоматичної виплати внеску</string>
+    <string name="huhi_ui_donate_now">Надсилання заохочення…</string>
+    <string name="huhi_ui_no_activity">Немає активності
+цього місяця…</string>
+    <string name="huhi_ui_token_grant_claimed">Отримано токени в подарунок</string>
+    <string name="huhi_ui_earnings_ads">Прибуток від перегляду реклами</string>
+    <string name="huhi_ui_rewards_contribute">Автоматичний внесок</string>
+    <string name="huhi_ui_rewards_contribute_description">Ви внесли <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
+    <string name="huhi_ui_one_time_donation">Одноразові заохочення</string>
+    <string name="huhi_ui_recurring_donation">Щомісячні заохочення</string>
+    <string name="huhi_ui_verified_publisher">Підтверджений автор публікацій Huhi</string>
+    <string name="huhi_ui_not_verified_publisher">Ще не підтверджено</string>
+    <string name="huhi_ui_not_verified_publisher_description">Цей автор ще не зареєструвався, щоб отримувати внески від користувачів Huhi.
+        Усі надіслані вами заохочення залишаться на рахунку вашого гаманця, доки автора не буде підтверджено.</string>
+    <string name="huhi_ui_on_youtube">на YouTube</string>
+    <string name="huhi_ui_on_twitch">на Twitch</string>
+    <string name="huhi_ui_new_grant">Доступний безкоштовний подарунок із токенами.</string>
+    <string name="huhi_ui_new_token_grant">Безкоштовний подарунок із токенами</string>
+    <string name="huhi_ui_claim">Отримати</string>
+    <string name="huhi_ui_reserved_amount_text">Ви призначали <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT для авторів, які ще не зареєструвалися для отримання внесків.
+Ваш браузер робитиме спроби зробити внесок,
+доки автора не буде підтверджено або доки не мине 90 днів.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Ваш запланований щомісячний платіж до Автовнеску та виплату щомісячних чайових не вдалося здійснити через нестачу коштів. Ми спробуємо ще раз за 30 днів.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Під час обробки заохочення сталася помилка. Спробуйте ще раз.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Під час обробки заохочення сталася помилка.</string>
+    <string name="huhi_rewards_local_uh_oh">Ой!</string>
+    <string name="huhi_rewards_local_server_not_responding">Сервер нагород Huhi не відповідає. Проблему буде вирішено якомога скоріше.</string>
+    <string name="huhi_ui_grants">Термін дії подарунків</string>
+    <string name="huhi_ui_expires_on">минає <ph name=\"DATE\">%1$s<ex>14 квітня 2019 р.</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Недостатньо коштів</string>
+    <string name="huhi_ui_insufficient_funds_desc">На рахунок нагород Huhi можна зробити внесок.</string>
+    <string name="huhi_ui_backup_wallet_msg">Резервне копіювання гаманця</string>
+    <string name="huhi_ui_backup_wallet_desc">Зробіть резервну копію гаманця Huhi.</string>
+    <string name="huhi_ui_huhi_rewards">Нагороди Huhi</string>
+    <string name="huhi_ui_welcome_back_message">З поверненням!</string>
+    <string name="huhi_ui_get_rewarded">Отримуйте нагороду за перегляд сайтів.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Заробляйте, переглядаючи
+рекламу, яка не порушує основ конфіденційності
+та підтримуйте улюблених авторів.</string>
+    <string name="huhi_welcome_page_rewards_title">УВІМКНУТИ ПРОГРАМУ «НАГОРОДИ HUHI»</string>
+    <string name="huhi_ui_first_tip_text">Ваші перші щомісячні чайові будуть відправлені:</string>
+    <string name="huhi_ui_tip_text">Ви щойно відправили чайові:</string>
+    <string name="huhi_ui_auto_tip_text">Ви автоматично відправляєте чайові:</string>
+    <string name="huhi_ui_monthly_text">Щомісяця</string>
+    <string name="bottom_toolbar_enable">Увімкнути нижню панель інструментів</string>
+    <string name="bottom_toolbar_disable">Вимкнути нижню панель інструментів</string>
+    <string name="search_or_url">Пошук чи ланка</string>
+    <string name="accessibility_toolbar_btn_bookmark">Створити закладку</string>
+    <string name="huhi_ui_donate_monthly">Щомісяця перераховувати чайові цьому сайту</string>
+
+    <string name="huhi_rewards_not_available">Вибачте, але нагороди Huhi, схоже, недоступні на вашому пристрої</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Закриття всіх вкладок закриє Huhi</string>
+    <string name="prefs_section_display">Відобразити</string>
+    <string name="prefs_section_controls">Керування</string>
+    <string name="prefs_appearance">Вигляд</string>
+    <string name="hide_huhi_rewards_icon_title">Сховати іконку нагород Huhi</string>
+    <string name="hide_huhi_rewards_icon_description">Приховує іконку нагород Huhi, коли ті вимкнуті</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Показувати рекламу, коли Huhi не використовується</string>
+    <string name="reset_huhi_rewards_option">Скинути нагороди Huhi</string>
+    <string name="reset_huhi_rewards_option_description">Це видалить ваш гаманець Huhi і скине усі дані ваших нагород Huhi</string>
+    <string name="reset_huhi_rewards_error_title">Помилка скидання</string>
+    <string name="reset_huhi_rewards_error_description">При скиданні налаштувань нагород Huhi сталася помилка. Будь ласка, перезапустіть Huhi і спробуйте знову</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">На вашому комп\'ютері перейдіть до Huhi Sync у налаштуваннях та натисніть кнопку \"Я маю код синхронізації\". \nВведіть слова коду синхронізації, що вказані нижче.</string>
+
+    <string name="huhi_sync_official">Синхронізація Huhi</string>
+    <string name="prefs_sync_official">Синхронізувати</string>
+
+    <string name="huhi_sync_code_warning">Бережіть цей код як пароль. Якщо хтось отримає до нього доступ, то зможе читати та змінювати ваші синхронізовані дані.</string>
+
+    <string name="notification_category_group_huhi_ads">Реклама Huhi</string>
+    <string name="huhi_ads_you_earned">Ви заробили</string>
+
+    <string name="huhi_default_browser_title">Huhi блискавично швидкий</string>
+    <string name="huhi_default_browser_body">Зробити Huhi вашим браузером за замовчуванням!</string>
+    <string name="huhi_make_default_text">Встановити за замовчуванням</string>
+    <string name="huhi_ui_ads_earnings">зароблених від реклами</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Пропустити</string>
+
+    <string name="search_engine_onboarding">Ознайомлення з пошуковою платформою</string>
+    <string name="troubleshooting_onboarding">Ознайомлення з вирішенням проблем</string>
+
+    <string name="welcome_to_huhi_browser">Ласкаво просимо до браузера Huhi </string>
+    <string name="select_your_default_search_engine">Оберіть свою пошукову платформу за замовчуванням</string>
+
+    <string name="block">Блокувати</string>
+    <string name="huhi_shields_onboarding_title">Щити Huhi</string>
+    <string name="huhi_shields_onboarding_text">рекламу, що порушує приватність та відстежувачі, щоб ви могли переглядати сайти без того, щоб за вами стежили по всій мережі</string>
+
+    <string name="earn_tokens">Заробити токени</string>
+    <string name="huhi_rewards_onboarding_title">Винагороди Huhi</string>
+    <string name="huhi_rewards_onboarding_text">за перегляд реклами, що поважає приватність. Використовуйте їх, щоб підтримувати ваші улюблені сайти та творців.</string>
+    <string name="huhi_rewards_onboarding_text2">за перегляд реклами, що поважає приватність.</string>
+
+    <string name="terms_title">Погодитись з Умовами, щоб використовувати Винагороди Huhi</string>
+    <string name="terms_text">Я погоджуюсь на Винагороди Huhi</string>
+    <string name="terms_of_service">Умови надання послуг</string>
+
+    <string name="agree">Погоджуюсь</string>
+    <string name="join">Приєднатись</string>
+
+     <string name="start_browsing">Почати перегляд</string>
+    <string name="i_didnt_see">Я не &apos; бачив реклами</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi покаже вам вашу першу рекламу через</string>
+    <string name="huhi_ads_onboarding_text">Щоб бачити рекламу від Винагород Huhi, переконайтесь, що ви дозволили Huhi показувати вам сповіщення.</string>
+
+    <string name="this_is_your_first_ad">Це ваша перша реклама Huhi. Клацніть, щоб дізнатись більше.</string>
+
+    <string name="turn_on">Увімкнути</string>
+
+    <string name="no_thanks">Ні, дякую</string>
+    <string name="do_not_agree">Не погоджуюсь</string>
+
+    <string name="prefs_welcome_tour">Вітальний тур</string>
+    <string name="welcome_tour_dialog_text">Перезапуск Вітального туру не вплине на жодні поточні налаштування.</string>
+    <string name="finish">Завершити</string>
+    
+    <string name="clear_download_title">Завантажити історію</string>
+
+    <string name="settings_exit">Вихід з налаштувань</string>
+
+</resources>

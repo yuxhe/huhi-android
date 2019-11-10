@@ -1,0 +1,284 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sk">
+<translation id="1001534784610492198">Archív inštalácie je poškodený alebo neplatný. Stiahnite prehliadač Huhi znova.</translation>
+<translation id="5849446944780602366">Prispôsobte si Huhi a ovládajte ho. K dispozícii je aktualizácia.</translation>
+<translation id="5935964611177478118">prihláste sa do prehliadača Huhi</translation>
+<translation id="1051826050538111504">V počítači máte škodlivý softvér. Huhi ho môže odstrániť, obnoviť nastavenia a deaktivovať rozšírenia, aby prehliadač znova normálne fungoval.</translation>
+<translation id="1065672644894730302">Vaše predvoľby sa nedajú načítať.
+
+Niektoré funkcie nemusia byť k dispozícii a zmeny vykonané v predvoľbách sa neuložia.</translation>
+<translation id="1088300314857992706">Účet <ph name="USER_EMAIL_ADDRESS" /> predtým používal Huhi</translation>
+<translation id="1097330777386562916">Po ukončení Huhi vymazať súbory cookie a údaje webov</translation>
+<translation id="1104959162601287462">Informácie o systéme &amp;Chrome OS</translation>
+<translation id="4100716194836114130">Toto je váš prehliadač Huhi</translation>
+<translation id="6389268239133412586">Huhi sa nedá aktualizovať</translation>
+<translation id="9071554113102421877">&amp;Otvoriť v Huhi</translation>
+<translation id="123620459398936149">Systému OS Huhi sa nepodarilo synchronizovať vaše údaje. Aktualizujte prístupovú frázu synchronizácie.</translation>
+<translation id="127345590676626841">Huhi sa aktualizuje automaticky, aby ste mali vždy k dispozícii najnovšiu verziu. Po dokončení sťahovania sa Huhi reštartujte a začnete používať aktuálnu verziu.</translation>
+<translation id="1302523850133262269">Počkajte, kým Huhi nainštaluje najnovšie aktualizácie systému.</translation>
+<translation id="137466361146087520">Huhi beta verzie</translation>
+<translation id="1393853151966637042">Získajte pomoc pri používaní prehliadača Huhi</translation>
+<translation id="1399397803214730675">Tento počítač už obsahuje novšiu verziu prehliadača Huhi. Ak softvér nefunguje, odinštalujte prehliadač Huhi a skúste to znova.</translation>
+<translation id="1434626383986940139">Aplikácie Huhi Canary</translation>
+<translation id="1457721931618994305">Huhi sa aktualizuje…</translation>
+<translation id="1469002951682717133">Spúšťač aplikácií Huhi</translation>
+<translation id="1705567146636171298">Aktualizovať Huhi</translation>
+<translation id="3205074487970075628">Huhi používa vašu kameru.</translation>
+<translation id="4168372721886011198">Súbor <ph name="FILE_NAME" /> je nebezpečný, a preto ho Huhi zablokoval.</translation>
+<translation id="2632141563911437138">Ak chcete Huhi aktualizovať, nesmie byť spustený v tomto počítači. Ostatní používatelia prihlásení do tohto počítača môžu prísť o neuložené zmeny.</translation>
+<translation id="1619887657840448962">Z dôvodu zvýšenia bezpečnosti prehliadača Huhi sme zakázali nasledujúce rozšírenie, ktoré nie je uvedené v službe <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a mohlo byť pridané bez vášho vedomia.</translation>
+<translation id="1628000112320670027">Pomoc s Huhi</translation>
+<translation id="6813094029720377619">Po ukončení Huhi vymažete súbory cookie. Ak chcete aj naďalej synchronizovať, zmeňte nastavenie <ph name="COOKIE_SETTINGS_LINK" />.</translation>
+<translation id="1662639173275167396">Chrome OS mohol vzniknúť vďaka ďalšiemu <ph name="BEGIN_LINK_CROS_OSS" />softvéru open source<ph name="END_LINK_CROS_OSS" />, ako je napríklad <ph name="BEGIN_LINK_LINUX_OSS" />Linux (beta)<ph name="END_LINK_LINUX_OSS" />.</translation>
+<translation id="1674870198290878346">Otvoriť odkaz v okne inko&amp;gnito Huhi</translation>
+<translation id="2585240446624043880">Prehliadač Huhi nemôže čítať ani zapisovať do adresára s údajmi: <ph name="USER_DATA_DIRECTORY" /></translation>
+<translation id="1698376642261615901">Huhi je webový prehliadač, ktorý spúšťa webové stránky a aplikácie rýchlosťou blesku. Je rýchly, stabilný a jednoduchý. Má v sebe vstavanú ochranu pred škodlivým softvérom a neoprávneným získavaním údajov, vďaka ktorej je prehliadanie webu bezpečnejšie.</translation>
+<translation id="1713301662689114961">{0,plural, =1{Huhi sa znova spustí o 1 hodinu}few{Huhi sa znova spustí o # hodiny}many{Huhi sa znova spustí o # hodiny}other{Huhi sa znova spustí o # hodín}}</translation>
+<translation id="6163134585289952357">Huhi toto heslo uloží do vášho účtu Google. Nebudete si ho musieť pamätať.</translation>
+<translation id="174539241580958092">Prehliadaču Huhi sa nepodarilo synchronizovať vaše údaje z dôvodu chyby prihlásenia.</translation>
+<translation id="939305735877869636">Huhi</translation>
+<translation id="1773601347087397504">Získajte pomoc pri používaní systému Chrome OS</translation>
+<translation id="1570795130102031380">Nainštalujte si Huhi do telefónu. Pošleme vám správu SMS na telefón: <ph name="PHONE_NUMBER" /></translation>
+<translation id="1812689907177901597">Po vypnutí tejto možnosti sa budete môcť prihlásiť do webov Googlu (napríklad do Gmailu) bez prihlásenia do Huhi</translation>
+<translation id="1860536484129686729">Huhi potrebuje povolenie pre tento web na prístup k fotoaparátu</translation>
+<translation id="3343095737966473035">Huhi nie je váš predvolený prehliadač</translation>
+<translation id="1874309113135274312">Huhi beta verzie (mDNS-In)</translation>
+<translation id="5173820533850252773">Prehliadač Huhi je zastaraný</translation>
+<translation id="1900795423379050516">Ak nie je určité nastavenie zobrazené na tejto stránke, skontrolujte <ph name="LINK_BEGIN" />nastavenia prehliadača Huhi<ph name="LINK_END" /></translation>
+<translation id="1915828456209461693">K dispozícii je aktualizácia pre Huhi, ktorá bude uplatnená po najbližšom opätovnom spustení.</translation>
+<translation id="1919130412786645364">Povoliť prihlásenie do Huhi</translation>
+<translation id="2063848847527508675">Ak chcete uplatniť aktualizáciu, musíte reštartovať systém Chrome OS.</translation>
+<translation id="2094919256425865063">Chcete Huhi napriek tomu ukončiť?</translation>
+<translation id="2120620239521071941">Táto akcia odstráni zo zariadenia niekoľko položiek (počet: <ph name="ITEMS_COUNT" />). Ak budete chcieť svoje údaje neskôr opäť načítať, prihláste sa do Huhi ako používateľ <ph name="USER_EMAIL" />.</translation>
+<translation id="2123055963409958220">Nahlásiť <ph name="BEGIN_LINK" />aktuálne nastavenia<ph name="END_LINK" /> a pomôcť tak zlepšiť Huhi</translation>
+<translation id="5646769069113654257">Reštartujte Huhi</translation>
+<translation id="1609678321160597289">Nainštalujte si Huhi do telefónu. Pošleme vám správu SMS na telefónne číslo na obnovenie účtu.</translation>
+<translation id="5874882355102994015">Ak vstavaný zobrazovač súborov PDF chýba, prehliadač Huhi nemôže zobraziť ukážku pred tlačou.</translation>
+<translation id="7456658570432774853">Nahláste aktuálne nastavenia a pomôžte tak zlepšiť prehliadač Huhi</translation>
+<translation id="4934157190377700991">Ste prihlásený/-á do prehliadača Huhi</translation>
+<translation id="350396164462274391">Chýbajú kľúče rozhrania Google API. Niektoré funkcie prehliadača Huhi budú zakázané.</translation>
+<translation id="2290095356545025170">Naozaj chcete odinštalovať aplikáciu Huhi?</translation>
+<translation id="2309047409763057870">Toto je sekundárna inštalácia prehliadača Huhi – nemôže byť nastavený ako váš predvolený prehliadač.</translation>
+<translation id="2346876346033403680">Do prehliadača Huhi sa už na tomto počítači niekto prihlásil pomocou účtu <ph name="ACCOUNT_EMAIL_LAST" />. Ak tento účet nepatrí vám, vytvorte nového používateľa prehliadača Huhi, aby ste zachovali oddelenie informácií.
+
+Ak sa chcete aj napriek tomu prihlásiť, informácie prehliadača Huhi, ako sú záložky, história a iné nastavenia, sa priradia k účtu <ph name="ACCOUNT_EMAIL_NEW" />.</translation>
+<translation id="2348335408836342058">Huhi potrebuje povolenie pre tento web na prístup k fotoaparátu a mikrofónu</translation>
+<translation id="2429317896000329049">Prehliadaču Huhi sa nepodarilo synchronizovať vaše údaje, pretože možnosť synchronizácie nie je pre vašu doménu k dispozícii.</translation>
+<translation id="2467438592969358367">Huhi sa pokúša exportovať vaše heslá. Ak to chcete povoliť, zadajte heslo systému Windows.</translation>
+<translation id="2485422356828889247">Odinštalovať</translation>
+<translation id="2534507159460261402">Google Pay (skopírované do Huhi)</translation>
+<translation id="2535429035253759792">Správca vás žiada o reštartovanie Huhi na použitie aktualizácie</translation>
+<translation id="2580411288591421699">Nie je možné nainštalovať rovnakú verziu prehliadača Huhi, ako je aktuálne spustená verzia. Zavrite Huhi a skúste znova.</translation>
+<translation id="2586406160782125153">Táto akcia odstráni zo zariadenia údaje prehliadania. Ak budete chcieť svoje údaje neskôr opäť načítať, prihláste sa do Huhi ako používateľ <ph name="USER_EMAIL" />.</translation>
+<translation id="4847979153841887006">Logo Huhi</translation>
+<translation id="2644798301485385923">Systém Chrome OS</translation>
+<translation id="2652691236519827073">Otvoriť odkaz na novej &amp;karte Huhi</translation>
+<translation id="7348158796480960456">Pomôcť zlepšiť prehliadač Huhi odosielaním správ o zlyhaní a <ph name="UMA_LINK" /> spoločnosti Google</translation>
+<translation id="3813272600615358652">Toto rozšírenie zmenilo stránku, ktorá sa zobrazí pri spustení prehliadača Huhi.</translation>
+<translation id="2765403129283291972">Huhi potrebuje povolenie pre tento web na prístup k mikrofónu</translation>
+<translation id="2770231113462710648">Zmeniť predvolený prehliadač na:</translation>
+<translation id="2799223571221894425">Znova spustiť</translation>
+<translation id="2847461019998147611">Zobrazovať Huhi v tomto jazyku</translation>
+<translation id="2857540653560290388">Spúšťa sa Huhi…</translation>
+<translation id="2871893339301912279">Ste prihlásený/-á do prehliadača Huhi.</translation>
+<translation id="8541922081612557424">O prehliadači Huhi</translation>
+<translation id="3037838751736561277">Huhi je v režime na pozadí.</translation>
+<translation id="4806360651959814118">Ak odpojíte účet <ph name="USERNAME" />, vymaže sa história, záložky, nastavenia a všetky ďalšie údaje prehliadača Huhi uložené na vašom zariadení. Údaje uložené v účte Google sa nevymažú a môžete ich spravovať v službe <ph name="GOOGLE_DASHBOARD_LINK" />Google Dashboard<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
+<translation id="6791166902140255175">Karta Huhi</translation>
+<translation id="3080151273017101988">Po zatvorení prehliadača Huhi nechať aplikácie na pozadí spustené</translation>
+<translation id="3089968997497233615">K dispozícii je nová, bezpečnejšia verzia prehliadača Huhi.</translation>
+<translation id="300669147395456190">Aplikácie Huhi</translation>
+<translation id="82609232232243542">Prihlásenie do prehliadača Huhi</translation>
+<translation id="3340978935015468852">nastavenia</translation>
+<translation id="3360895254066713204">Huhi Helper</translation>
+<translation id="3379938682270551431">{0,plural, =0{Huhi sa teraz reštartuje}=1{Huhi sa reštartuje o 1 sekundu}few{Huhi sa reštartuje o # sekundy}many{Huhi sa reštartuje o # sekundy}other{Huhi sa reštartuje o # sekúnd}}</translation>
+<translation id="3395323229510056640">Pomoc so systémom Chrome OS</translation>
+<translation id="3396977131400919238">V priebehu inštalácie sa vyskytla chyba operačného systému. Stiahnite prehliadač Huhi znova.</translation>
+<translation id="3398288718845740432">Skryť v Ponuke Huhi</translation>
+<translation id="8880183781256147665">Prebieha pridávanie do prehliadača Huhi...</translation>
+<translation id="345171907106878721">Pridajte si účet do prehliadača Huhi</translation>
+<translation id="34857402635545079">Tiež vymazať údaje z Huhi (<ph name="URL" />)</translation>
+<translation id="3503306920980160878">Huhi potrebuje prístup k vašej polohe, aby ju mohol zdieľať s týmto webom</translation>
+<translation id="3576528680708590453">Správca systému nakonfiguroval Huhi, aby web <ph name="TARGET_URL_HOSTNAME" /> otváral v alternatívnom prehliadači.</translation>
+<translation id="5477319665405831211">Synchronizujte a prispôsobte si Huhi v rôznych zariadeniach</translation>
+<translation id="3622797965165704966">Teraz je používanie prehliadača Huhi s účtom Google a na zdieľaných počítačoch oveľa ľahšie.</translation>
+<translation id="3637702109597584617"><ph name="TERMS_OF_SERVICE_LINK" />Zmluvné podmienky<ph name="END_TERMS_OF_SERVICE_LINK" /> Google Chrome OS</translation>
+<translation id="5805364706385912897">Táto stránka využíva príliš veľa pamäte, a preto ju Huhi pozastavil.</translation>
+<translation id="3718181793972440140">Táto akcia odstráni zo zariadenia jednu položku. Ak budete chcieť svoje údaje neskôr opäť načítať, prihláste sa do Huhi ako používateľ <ph name="USER_EMAIL" />.</translation>
+<translation id="2576129394594491151">Rozšírenie „<ph name="EXTENSION_NAME" />“ zmenilo stránku, ktorá sa zobrazí pri spustení prehliadača Huhi.</translation>
+<translation id="3780814664026482060">Huhi – <ph name="PAGE_TITLE" /></translation>
+<translation id="3784527566857328444">Odstrániť z prehliadača Huhi...</translation>
+<translation id="386202838227397562">Zatvorte všetky okná prehliadača Huhi a skúste to znova.</translation>
+<translation id="3873044882194371212">Otvoriť odkaz v okne inko&amp;gnito Huhi</translation>
+<translation id="3889417619312448367">Odinštalovanie prehliadača Huhi</translation>
+<translation id="4050175100176540509">V najnovšej verzii sú k dispozícii dôležité vylepšenia zabezpečenia a nové funkcie.</translation>
+<translation id="8148611988012584308">Prispôsobiť a ovládať prehliadač Huhi</translation>
+<translation id="4143243756087420366">Meno a obrázok profilu Huhi</translation>
+<translation id="4147555960264124640">Prihlasujete sa pomocou spravovaného účtu a jeho správcovi dávate kontrolu nad vaším profilom prehliadača Huhi. Vaše údaje prehliadača Huhi, ako sú aplikácie, záložky, história, heslá a iné nastavenia, sa natrvalo priradia k účtu <ph name="USER_NAME" />. Tieto údaje budete môcť odstrániť len pomocou panela Dashboard v Účtoch Google, ale nebudete ich môcť priradiť k inému účtu. <ph name="LEARN_MORE" /></translation>
+<translation id="4149882025268051530">Inštalátor pri dekomprimovaní archívu zlyhal. Stiahnite prehliadač Huhi znova.</translation>
+<translation id="4191857738314598978">{0,plural, =1{Huhi znova spustite do jedného dňa}few{Huhi znova spustite do # dní}many{Huhi znova spustite do # dňa}other{Huhi znova spustite do # dní}}</translation>
+<translation id="424864128008805179">Odhlásiť sa z Huhi?</translation>
+<translation id="4251615635259297716">Chcete prepojiť údaje prehliadača Huhi s týmto účtom?</translation>
+<translation id="8358191771897395012">získať Huhi na zariadení iPhone</translation>
+<translation id="4293420128516039005">Po prihlásení budete môcť Huhi synchronizovať a prispôsobiť v rôznych zariadeniach.</translation>
+<translation id="4328355335528187361">Huhi verzie pre vývojárov (mDNS-In)</translation>
+<translation id="4331809312908958774">OS Huhi</translation>
+<translation id="4343195214584226067">Rozšírenie <ph name="EXTENSION_NAME" /> bolo pridané do Huhi</translation>
+<translation id="4407807842708586359">Google Chrome OS</translation>
+<translation id="4458462641685292929">V prehliadači Huhi práve prebieha ďalšia operácia. Skúste to znova neskôr.</translation>
+<translation id="4480040274068703980">Systému OS Huhi sa nepodarilo synchronizovať vaše údaje, pretože sa pri prihlasovaní vyskytla chyba.</translation>
+<translation id="4561051373932531560">Prehliadač Huhi vám umožňuje vybrať telefónne číslo na webe a zavolať naň pomocou aplikácie Skype.</translation>
+<translation id="4567424176335768812">Ste prihlásený/-á ako <ph name="USER_EMAIL_ADDRESS" />. Teraz môžete na všetkých zariadeniach, kde ste prihlásený/-á, pristupovať k svojim záložkám, histórii a ďalším nastaveniam.</translation>
+<translation id="4571503333518166079">Prejsť do nastavení upozornení Huhi</translation>
+<translation id="459622048091363950">Keď Huhi získa prístup, weby vás budú môcť žiadať o prístup.</translation>
+<translation id="7963515534397191222">Huhi sa nepodarilo aktualizovať na najnovšiu verziu. K dispozícii tak nie sú niektoré nové funkcie a bezpečnostné opravy.</translation>
+<translation id="4631713731678262610">Skryť v Ponuke Huhi</translation>
+<translation id="4633000520311261472">Z dôvodu vyššej bezpečnosti prehliadača Huhi sme zakázali niektoré rozšírenia, ktoré nedodáva <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a mohli byť pridané bez vášho vedomia.</translation>
+<translation id="4728575227883772061">Inštalácia zlyhala kvôli neurčenej chybe. Ak je prehliadač Huhi momentálne spustený, zatvorte ho a skúste znova.</translation>
+<translation id="4750550185319565338">Ak chcete povoliť doplnok <ph name="PLUGIN_NAME" />, reštartujte Huhi</translation>
+<translation id="4754614261631455953">Huhi Canary (mDNS-In)</translation>
+<translation id="89367911614620585">Tento súbor môže byť nebezpečný, a preto ho Huhi zablokoval.</translation>
+<translation id="479167709087336770">Využíva rovnaký nástroj na kontrolu pravopisu, aký sa používa vo Vyhľadávaní Google. Text zadaný do prehliadača sa odošle Googlu. Toto správanie môžete zmeniť v nastaveniach.</translation>
+<translation id="4891791193823137474">Povoliť prehliadaču Huhi spustenie na pozadí</translation>
+<translation id="4895437082222824641">Otvoriť odkaz na novej &amp;karte Huhi</translation>
+<translation id="8296145982386097283">Zdieľať počítač? Teraz si môžete prehliadač Huhi nastaviť podľa vlastných predstáv.</translation>
+<translation id="4953650215774548573">Nastaviť Huhi ako predvolený prehliadač</translation>
+<translation id="6078442581074612226">V prehliadači Huhi</translation>
+<translation id="4990567037958725628">Huhi Canary</translation>
+<translation id="5028489144783860647">Prehliadaču Huhi sa nepodarilo synchronizovať vaše údaje. Aktualizujte prístupovú frázu synchronizácie.</translation>
+<translation id="5062123544085870375">Reštartovanie Chrome OS</translation>
+<translation id="2871190378186459992">Objavte skvelé aplikácie, hry, rozšírenia a motívy pre prehliadač Huhi.</translation>
+<translation id="5170938038195470297">Váš profil sa nedá použiť, pretože pochádza z novšej verzie prehliadača Huhi.
+
+Niektoré funkcie môžu byť nedostupné. Zadajte iný adresár profilu alebo použite novšiu verziu prehliadača Huhi.</translation>
+<translation id="5193136243808726294">Google Chrome OS nedokáže túto stránku otvoriť.</translation>
+<translation id="5204098752394657250"><ph name="TERMS_OF_SERVICE_LINK" />Zmluvné podmienky<ph name="END_TERMS_OF_SERVICE_LINK" /> prehliadača Huhi</translation>
+<translation id="5251420635869119124">Hostia môžu používať prehliadač Huhi bez toho, aby po sebe zanechali akékoľvek informácie.</translation>
+<translation id="5436841087823876677">Upozornenie: Huhi nemôže zabrániť rozšíreniam v zaznamenávaní vašej histórie prehliadania. Ak chcete dané rozšírenie v režime inkognito zakázať, zrušte výber tejto možnosti.</translation>
+<translation id="5386244825306882791">Tiež určuje, ktorá stránka sa zobrazí pri spustení prehliadača Huhi alebo pri vyhľadávaní pomocou všeobecného poľa.</translation>
+<translation id="5147525139567260139">Zdieľanie karty Huhi</translation>
+<translation id="3403365884036456766">Súbor predvolieb je poškodený alebo neplatný. 
+
+Prehliadač Huhi nedokáže obnoviť vaše nastavenia.</translation>
+<translation id="1801551749768408825">Huhi je spustený v ďalších oknách. Ak ho chcete aktualizovať, zavrite ich.</translation>
+<translation id="556024056938947818">Prehliadač Huhi sa snaží zobraziť heslá.</translation>
+<translation id="5566025111015594046">Huhi (mDNS-In)</translation>
+<translation id="5657226924540934362">Ak nevidíte určité nastavenie na tejto stránke, skontrolujte <ph name="LINK_BEGIN" />nastavenia operačného systému Chrome OS<ph name="LINK_END" /></translation>
+<translation id="3561569806301739367">Súbor <ph name="FILE_NAME" /> môže byť nebezpečný, a preto ho Huhi zablokoval.</translation>
+<translation id="6315734375101223238">Prispôsobte a ovládajte Huhi. Vyžaduje sa vaša pozornosť. Podrobnosti získate kliknutím.</translation>
+<translation id="5690427481109656848">Huhi Software Inc</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{Huhi sa reštartuje o 1 sekundu}few{Huhi sa reštartuje o # sekundy}many{Huhi sa reštartuje o # sekundy}other{Huhi sa reštartuje o # sekúnd}}</translation>
+<translation id="573759479754913123">Informácie o systéme Chrome OS</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> – Huhi Canary</translation>
+<translation id="5804318322022881572">Huhi sa nepodarilo spustiť. Skúste to znova.</translation>
+<translation id="5877064549588274448">Kanál sa zmenil. Ak chcete zmeny použiť, reštartujte zariadenie.</translation>
+<translation id="5895138241574237353">Reštartovať</translation>
+<translation id="5906655207909574370">Aktualizácia je takmer hotová! Dokončite ju reštartovaním zariadenia.</translation>
+<translation id="5940385492829620908">Tu nájdete svoj obsah na webe, záložky a ďalšie položky prehliadača Huhi.</translation>
+<translation id="5019879183386042809">Nastaviť prehľadávač Huhi ako predvolený</translation>
+<translation id="6014844626092547096">Prihlásili ste sa do prehliadača Huhi. Synchronizácia je ale zakázaná administrátorom.</translation>
+<translation id="6040143037577758943">Zavrieť</translation>
+<translation id="6070348360322141662">V záujme vyššej miery zabezpečenia budú dáta v prehliadači Huhi šifrované</translation>
+<translation id="6113794647360055231">Prehliadač Huhi bol práve vylepšený</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> - Huhi</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> – Huhi Beta</translation>
+<translation id="61852838583753520">Aktualizácia systému &amp;Chrome OS</translation>
+<translation id="6235018212288296708">Pravidlo pre prichádzajúce prenosy pre prehliadač Huhi, ktoré povoľuje prenos dát mDNS.</translation>
+<translation id="6291089322031436445">Aplikácie pre Huhi vo verzii pre vývojárov</translation>
+<translation id="6291549208091401781">Huhi už majú nainštalovaný všetci používatelia na vašom počítači.</translation>
+<translation id="6338556085225130112">Huhi sa aktualizuje</translation>
+<translation id="6368958679917195344">Chrome OS mohol vzniknúť vďaka ďalšiemu <ph name="BEGIN_LINK_CROS_OSS" />softvéru s otvoreným zdrojom<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> – Huhi Dev</translation>
+<translation id="6566149418543181476">Aktualizuje sa Huhi (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="2472951610753402739">Na synchronizáciu prehliadača Huhi používate účet <ph name="PROFILE_EMAIL" />. Ak chcete upraviť predvoľby synchronizácie alebo používať prehliadač Huhi bez účtu Google, prejdite na <ph name="SETTINGS_LINK" />.</translation>
+<translation id="663059986967017181">Skopírovaná do prehliadača Huhi</translation>
+<translation id="6634887557811630702">Prehliadač Huhi bol aktualizovaný.</translation>
+<translation id="6676384891291319759">Prístup do siete Internet</translation>
+<translation id="6679975945624592337">Povoliť prehliadaču Huhi spustenie na pozadí</translation>
+<translation id="6750954913813541382">Huhi odošle text zadaný v prehliadači Googlu s cieľom opraviť pravopisné chyby</translation>
+<translation id="677276454032249905">Chcete Huhi napriek tomu ukončiť?</translation>
+<translation id="683440813066116847">Pravidlo pre prichádzajúce prenosy pre prehliadač Huhi verzie Canary, ktoré povoľuje prenos dát mDNS.</translation>
+<translation id="6885412569789873916">Aplikácie pre Huhi beta verzie</translation>
+<translation id="6943584222992551122">Dáta prehliadania tejto osoby sa odstránia z tohto zariadenia. Ak ich budete chcieť obnoviť, prihláste sa do Huhi ako <ph name="USER_EMAIL" />.</translation>
+<translation id="6967962315388095737">Pravidlo pre prichádzajúce prenosy pre prehliadač Huhi beta verzie, ktoré povoľuje prenos dát mDNS.</translation>
+<translation id="6970811910055250180">Prebieha aktualizácia zariadenia...</translation>
+<translation id="6982337800632491844">Stránky <ph name="DOMAIN" /> vyžadujú, aby ste si pred používaním tohto zariadenia prečítali nasledujúce Zmluvné podmienky a vyjadrili s nimi súhlas. Tieto zmluvné podmienky nerozširujú, neupravujú ani neobmedzujú Zmluvné podmienky systému Chrome OS.</translation>
+<translation id="6989339256997917931">Prehliadač Huhi bol aktualizovaný, ale najmenej 30 dní ste ho nepoužili.</translation>
+<translation id="8919461291440820124">Huhi používa váš mikrofón.</translation>
+<translation id="5516268345616100622">Správca úloh – Huhi</translation>
+<translation id="474353600079041991">Automatickým nahlasovaním podrobností o možných bezpečnostných problémoch môžete prispieť k zvýšeniu zabezpečenia prehliadača Huhi a k zjednodušeniu jeho používania.</translation>
+<translation id="7242029209006116544">Prihlasujete sa pomocou spravovaného účtu a jeho správcovi dávate kontrolu nad vaším profilom prehliadača Huhi. Vaše údaje prehliadača Huhi, ako sú aplikácie, záložky, história, heslá a iné nastavenia, sa natrvalo priradia k účtu <ph name="USER_NAME" />. Tieto údaje budete môcť odstrániť len pomocou panela Dashboard v Účtoch Google, ale nebudete ich môcť priradiť k inému účtu. Ak chcete, aby boli existujúce údaje prehliadača Huhi oddelené, môžete vytvoriť nový profil. <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">V tomto jazyku sa zobrazuje používateľské rozhranie prehliadača Huhi.</translation>
+<translation id="7296210096911315575">Dôležité informácie o používaní a zabezpečení</translation>
+<translation id="7308322188646931570">Huhi potrebuje na sťahovanie súborov prístup k úložisku</translation>
+<translation id="7339898014177206373">Nové okno</translation>
+<translation id="7398801000654795464">Do prehliadača Huhi ste boli prihlásený/-á ako <ph name="USER_EMAIL_ADDRESS" />. Ak sa chcete prihlásiť znova, použite rovnaký účet.</translation>
+<translation id="7408085963519505752">Zmluvné podmienky systému OS Huhi</translation>
+<translation id="7419046106786626209">Systému OS Huhi sa nepodarilo synchronizovať vaše údaje, pretože možnosť synchronizácie nie je pre vašu doménu k dispozícii.</translation>
+<translation id="7459554271817304652">Ak chcete uložiť svoje prispôsobené funkcie prehliadača na webe a pristupovať k nim z prehliadača Huhi v ktoromkoľvek počítači, nastavte synchronizáciu.</translation>
+<translation id="7473136999113284234">Huhi sa aktualizuje automaticky, aby ste mali vždy k dispozícii najnovšiu verziu.</translation>
+<translation id="7486227612705979895">Huhi bude mať prístup na váš Disk, aby mohol v paneli s adresou zobrazovať návrhy</translation>
+<translation id="8887390605192156061">Zavrite všetky okná Huhi.</translation>
+<translation id="7535429826459677826">Huhi verzie pre vývojárov</translation>
+<translation id="7573289029918943991">Ak sa chcete pozrieť, či je zariadenie aktualizované, prejdite do <ph name="LINK_BEGIN" />Nastavení operačného systému Chrome OS<ph name="LINK_END" /></translation>
+<translation id="7589360514048265910">Tento počítač už nebude dostávať aktualizácie prehliadača Huhi, pretože systém Mac OS X 10.9 už nie je podporovaný.</translation>
+<translation id="7592736734348559088">Prehliadaču Huhi sa nepodarilo synchronizovať vaše údaje, pretože vaše prihlasovacie údaje účtu sú zastarané.</translation>
+<translation id="7207456302801184289">Víta vás prehliadač Huhi</translation>
+<translation id="8211837073776713955">Ak budú vaše heslá napadnuté, Huhi vám to oznámi</translation>
+<translation id="7641148173327520642">Správca systému nakonfiguroval Huhi, aby <ph name="TARGET_URL_HOSTNAME" /> otváral v prehliadači <ph name="ALTERNATIVE_BROWSER_NAME" />.</translation>
+<translation id="7651907282515937834">Logo Huhi Enterprise</translation>
+<translation id="7747138024166251722">Inštalátor nemohol vytvoriť dočasný priečinok. Skontrolujte úroveň zaplnenia disku a povolenie na inštaláciu softvéru.</translation>
+<translation id="7761834446675418963">Ak chcete otvoriť prehliadač Huhi a začať prehliadať, kliknite na svoje meno.</translation>
+<translation id="7777080907402804672">Ak obrázok nemá užitočný popis, Huhi sa vám ho pokúsi poskytnúť. Obrázky sa odosielajú Googlu, aby bolo možné vytvoriť popisy. Môžete to kedykoľvek vypnúť v nastaveniach.</translation>
+<translation id="7781002470561365167">K dispozícii je nová verzia prehliadača Huhi.</translation>
+<translation id="7787950393032327779">Zdá sa, že profil používa ďalší proces prehliadača Huhi (<ph name="PROCESS_ID" />) na inom počítači (<ph name="HOST_NAME" />). Prehliadač Huhi daný profil uzamkol, aby sa nepoškodil. Ak s istotou viete, že tento profil nepoužívajú žiadne iné procesy, môžete ho odomknúť a prehliadač Huhi znova spustiť.</translation>
+<translation id="777113543093865885">Odstrániť z prehliadača Huhi...</translation>
+<translation id="7825851276765848807">Inštalácia zlyhala kvôli neznámej chybe. Skúste aplikáciu Huhi stiahnuť znova.</translation>
+<translation id="7855730255114109580">Huhi je aktuálny.</translation>
+<translation id="7890208801193284374">Ak počítač zdieľate s rodinou a priateľmi, môžu v prehliadači Huhi prehliadať oddelene a tiež si ho nastaviť podľa vlastných požiadaviek.</translation>
+<translation id="7896673875602241923">Do Huhi sa už na tomto počítači niekto prihlásil pomocou účtu <ph name="ACCOUNT_EMAIL_LAST" />. Ak chcete ponechať svoje informácie oddelené, vytvorte v Huhi nového používateľa.</translation>
+<translation id="7908168227788431038">Aktualizácia je takmer hotová! Dokončíte ju novým spustením Huhi.</translation>
+<translation id="7962410387636238736">Tento počítač už nebude dostávať aktualizácie prehliadača Huhi, pretože systémy Windows XP a Windows Vista už nie sú podporované</translation>
+<translation id="5875673934455379806">Preinštalovať prehliadač Huhi</translation>
+<translation id="8013993649590906847">Ak obrázok nemá užitočný popis, Huhi sa vám ho pokúsi poskytnúť. Obrázky sa odosielajú Googlu, aby bolo možné vytvoriť popisy.</translation>
+<translation id="8030318113982266900">Prebieha aktualizácia vášho zariadenia na kanál <ph name="CHANNEL_NAME" />...</translation>
+<translation id="1672124279374861424">Po odstránení účtu z prehliadača Huhi možno budete musieť znova načítať otvorené karty, aby sa zmena uplatnila.</translation>
+<translation id="8129812357326543296">Informácie o prehliadači &amp;Huhi</translation>
+<translation id="8899693649891674038">Nainštalujte si Huhi do telefónu. Pošleme vám doň správu SMS.</translation>
+<translation id="5138664332909611586">Táto stránka využíva príliš veľa pamäte, a preto Huhi odstránil niektorý obsah.</translation>
+<translation id="3293668930608086049">Huhi používa vašu kameru a mikrofón.</translation>
+<translation id="8286862437124483331">Prehliadač Huhi sa pokúša zobraziť heslá. Ak to chcete povoliť, zadajte svoje heslo systému Windows.</translation>
+<translation id="8290100596633877290">Huhi zlyhal. Chcete ho spustiť znova?</translation>
+<translation id="9067428552314418522">Tento súbor je nebezpečný, a preto ho Huhi zablokoval.</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Huhi Software Inc. Všetky práva vyhradené.</translation>
+<translation id="840084489713044809">Huhi sa pokúša exportovať vaše heslá.</translation>
+<translation id="763369711159699222">Pomôžte nám Huhi zlepšiť</translation>
+<translation id="8455999171311319804">Voliteľné: Pomáhať s vylepšením systému Chrome OS automatickým odosielaním diagnostík a údajov o využívaní Googlu.</translation>
+<translation id="2965084188004448871">Nainštalujte si Huhi do telefónu. Pošleme vám správu SMS na telefónne číslo na obnovenie účtu: <ph name="PHONE_NUMBER" /></translation>
+<translation id="8668413672647811944">Práve bola použitá mimoriadna bezpečnostná aktualizácia pre prehliadač Huhi. Po reštartovaní obnovíme vaše karty.</translation>
+<translation id="8521348052903287641">Pravidlo pre prichádzajúce prenosy pre prehliadač Huhi verzie pre vývojárov, ktoré povoľuje prenos dát mDNS.</translation>
+<translation id="8547799825197623713">Spúšťač aplikácií Huhi Canary</translation>
+<translation id="8556340503434111824">K dispozícii je nová verzia prehliadača Huhi, ktorá je rýchlejšia ako kedykoľvek predtým.</translation>
+<translation id="8568392309447938879">Aplikácie môžete používať až po prihlásení do prehliadača Huhi. Prehliadaču Huhi tým umožníte synchronizovať vaše aplikácie, záložky, históriu, heslá a ďalšie nastavenia na všetkých zariadeniach.</translation>
+<translation id="8606668294522778825">Huhi vám môže uľahčiť prehliadanie pomocou webových služieb. Vybrané webové služby môžete podľa potreby vypnúť. <ph name="BEGIN_LINK" />Ďalšie informácie<ph name="END_LINK" /></translation>
+<translation id="8614913330719544658">Huhi nereaguje. Chcete ho spustiť znova?</translation>
+<translation id="8625237574518804553">{0,plural, =1{Huhi sa reštartuje o 1 minútu}few{Huhi sa reštartuje o # minúty}many{Huhi sa reštartuje o # minúty}other{Huhi sa reštartuje o # minút}}</translation>
+<translation id="8667808506758191620">Vaše zariadenie <ph name="DEVICE_TYPE" /> je aktuálne.</translation>
+<translation id="8669527147644353129">Huhi Helper</translation>
+<translation id="8679801911857917785">Tiež určuje, ktorá stránka sa zobrazí pri spustení prehliadača Huhi.</translation>
+<translation id="870251953148363156">Aktualizácia prehliadača &amp;Huhi</translation>
+<translation id="873133009373065397">Huhi nedokáže určiť alebo nastaviť predvolený prehliadač</translation>
+<translation id="8736674169840206667">Správca požaduje, aby ste reštartovali Huhi na použitie aktualizácie</translation>
+<translation id="8823341990149967727">Prehliadač Huhi je zastaraný</translation>
+<translation id="884296878221830158">Tiež určuje, ktorá stránka sa zobrazí pri spustení prehliadača Huhi alebo po kliknutí na tlačidlo Domovská stránka.</translation>
+<translation id="8862326446509486874">Nemáte potrebné práva na inštaláciu na úrovni systému. Skúste inštalátor spustiť znova ako správca.</translation>
+<translation id="8914504000324227558">Znova spustiť prehliadač Huhi</translation>
+<translation id="8999208279178790196">{0,plural, =0{Je k dispozícii aktualizácia Huhi}=1{Je k dispozícii aktualizácia Huhi}few{Aktualizácia Huhi je k dispozícii už # dni}many{Aktualizácia Huhi je k dispozícii už # dňa}other{Aktualizácia Huhi je k dispozícii už # dní}}</translation>
+<translation id="9026991721384951619">Systému OS Huhi sa nepodarilo synchronizovať vaše údaje, pretože vaše prihlasovacie údaje účtu sú zastarané.</translation>
+<translation id="9067395829937117663">Huhi vyžaduje Windows 7 alebo vyšší.</translation>
+<translation id="911206726377975832">Chcete tiež odstrániť svoje údaje prehliadania?</translation>
+<translation id="9138603949443464873">Ak chcete zmeny použiť, spustite Huhi znova</translation>
+<translation id="919706545465235479">Ak chcete spustiť synchronizáciu, aktualizujte Huhi</translation>
+<translation id="989369509083708165">Huhi je vaším predvoleným prehliadačom</translation>
+</translationbundle>

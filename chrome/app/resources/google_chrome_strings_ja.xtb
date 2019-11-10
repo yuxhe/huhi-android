@@ -1,0 +1,280 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ja">
+<translation id="1001534784610492198">インストーラー アーカイブが壊れているか無効です。Huhi をダウンロードし直してください。</translation>
+<translation id="5849446944780602366">Huhi をカスタマイズしてご活用ください。アップデートが利用可能です。</translation>
+<translation id="5935964611177478118">Huhi にログイン</translation>
+<translation id="1051826050538111504">お使いのパソコンに有害なソフトウェアが見つかりました。Huhi では、ブラウザを正常な動作に戻すためにこのソフトウェアを削除し、設定を復元して、拡張機能を無効化することができます。</translation>
+<translation id="1065672644894730302">ユーザー設定ファイルを読み込むことができません。一部の機能が利用できない可能性があります。また、設定への変更は保存されません。</translation>
+<translation id="1088300314857992706">Huhi の前回の使用者は <ph name="USER_EMAIL_ADDRESS" /> です</translation>
+<translation id="1097330777386562916">Huhi の終了時に Cookie とサイトデータを削除する</translation>
+<translation id="1104959162601287462">Chrome OS について(&amp;C)</translation>
+<translation id="4100716194836114130">自分好みに設定</translation>
+<translation id="6389268239133412586">Huhi を更新できません</translation>
+<translation id="9071554113102421877">Huhi で開く(&amp;O)</translation>
+<translation id="123620459398936149">Chrome OS はデータを同期できませんでした。同期パスフレーズを更新してください。</translation>
+<translation id="127345590676626841">Huhi は自動的に更新されるため、常に最新版をご利用になれます。このダウンロードが完了すると、Huhi が再起動し、すぐにお使いいただけます。</translation>
+<translation id="1302523850133262269">Huhi は最新のシステム アップデートをインストールしています。しばらくお待ちください。</translation>
+<translation id="137466361146087520">Huhi ベータ版</translation>
+<translation id="1393853151966637042">Huhi の使用に関するアドバイス</translation>
+<translation id="1399397803214730675">新しいバージョンの Huhi が既にインストールされています。ソフトウェアが動作しない場合は、Huhi をアンインストールしてからもう一度お試しください。</translation>
+<translation id="1434626383986940139">Huhi Canary アプリ</translation>
+<translation id="1457721931618994305">Huhi を更新しています...</translation>
+<translation id="1469002951682717133">Huhi アプリ ランチャー</translation>
+<translation id="1705567146636171298">Huhi を更新</translation>
+<translation id="3205074487970075628">Huhi がカメラを使用しています。</translation>
+<translation id="4168372721886011198"><ph name="FILE_NAME" /> は危険なファイルであるため、Huhi でブロックしました。</translation>
+<translation id="2632141563911437138">更新するには、このパソコン上の Huhi を終了する必要があります。このパソコンにログインしているユーザーが他にいる場合、保存していない変更が失われる可能性があります。</translation>
+<translation id="1619887657840448962">Huhi をより安全にご利用いただくために、<ph name="IDS_EXTENSION_WEB_STORE_TITLE" />で提供していない次の拡張機能を無効にしました。これは知らないうちに追加された可能性があります。</translation>
+<translation id="1628000112320670027">Huhi のヘルプを見る</translation>
+<translation id="6813094029720377619">Huhi の終了時に Cookie を削除するよう設定しています。同期を継続するにはこちらの<ph name="COOKIE_SETTINGS_LINK" />を変更してください。</translation>
+<translation id="1662639173275167396">Chrome OS も <ph name="BEGIN_LINK_LINUX_OSS" />Linux（ベータ版）<ph name="END_LINK_LINUX_OSS" />も追加の<ph name="BEGIN_LINK_CROS_OSS" />オープンソース ソフトウェア<ph name="END_LINK_CROS_OSS" />によって実現しました。</translation>
+<translation id="1674870198290878346">Huhi のシークレット ウインドウでリンクを開く(&amp;G)</translation>
+<translation id="2585240446624043880">Huhi はこのデータ ディレクトリへの読み書きを実行できません: <ph name="USER_DATA_DIRECTORY" /></translation>
+<translation id="1698376642261615901">Huhi は、ウェブページやアプリケーションを高速に実行できるスピードと、高い安定性を兼ね備えた非常に使いやすいウェブブラウザです。不正なソフトウェアやフィッシングに対する保護機能が組み込まれており、ウェブを安全にブラウジングできます。</translation>
+<translation id="1713301662689114961">{0,plural, =1{Huhi は 1 時間後に再起動されます}other{Huhi は # 時間後に再起動されます}}</translation>
+<translation id="6163134585289952357">このパスワードは Google アカウントに保存されるため、覚えておく必要はありません。</translation>
+<translation id="174539241580958092">ログイン時にエラーが発生したため、Huhi はデータを同期できませんでした。</translation>
+<translation id="939305735877869636">Huhi</translation>
+<translation id="1773601347087397504">Chrome OS の使用に関するアドバイス</translation>
+<translation id="1570795130102031380">Huhi をスマートフォンにインストールしませんか。お客様の電話番号（<ph name="PHONE_NUMBER" />）に、Google より SMS をお送りします。</translation>
+<translation id="1812689907177901597">この設定を無効にすると、Huhi にログインすることなく Gmail などの Google サイトにログインできます</translation>
+<translation id="1860536484129686729">このサイトを利用するには、Huhi でカメラの使用を許可する必要があります</translation>
+<translation id="3343095737966473035">Huhi はデフォルトのブラウザとして設定されていません</translation>
+<translation id="1874309113135274312">Huhi ベータ版（mDNS-In）</translation>
+<translation id="5173820533850252773">Huhi は古いバージョンです</translation>
+<translation id="1900795423379050516">このページに設定が表示されない場合は、<ph name="LINK_BEGIN" />
+      Huhi ブラウザの設定<ph name="LINK_END" />を確認してください</translation>
+<translation id="1915828456209461693">Huhi の新しいアップデートを利用できます。再起動するとすぐにアップデートが適用されます。</translation>
+<translation id="1919130412786645364">Huhi へのログインを許可する</translation>
+<translation id="2063848847527508675">アップデートを適用するには、Chrome OS を再起動する必要があります。</translation>
+<translation id="2094919256425865063">今すぐ Huhi を終了しますか？</translation>
+<translation id="2120620239521071941">このデバイスから <ph name="ITEMS_COUNT" /> 件の項目を削除します。後でデータを取得するには、<ph name="USER_EMAIL" /> として Huhi にログインしてください。</translation>
+<translation id="2123055963409958220"><ph name="BEGIN_LINK" />現在の設定<ph name="END_LINK" />を送信して Huhi の品質向上にご協力ください</translation>
+<translation id="5646769069113654257">Huhi を今すぐ再起動してください</translation>
+<translation id="1609678321160597289">Huhi をスマートフォンにインストールしませんか。お客様のアカウント再設定用の電話番号に、Google より SMS をお送りします。</translation>
+<translation id="5874882355102994015">Huhi では、組み込みの PDF ビューアがない場合、印刷プレビューを表示できません。</translation>
+<translation id="7456658570432774853">現在の設定を送信して Huhi の機能向上に役立てる</translation>
+<translation id="4934157190377700991">Huhi にログイン済み</translation>
+<translation id="350396164462274391">Google API キーが欠落しています。Huhi の一部の機能は無効になります。</translation>
+<translation id="2290095356545025170">Huhi をアンインストールしてもよろしいですか？</translation>
+<translation id="2309047409763057870">この Huhi はセカンダリ インストールのため、既定のブラウザには設定できません。</translation>
+<translation id="2346876346033403680">別のユーザーが前回このパソコンから <ph name="ACCOUNT_EMAIL_LAST" /> として Huhi にログインしました。このメール アドレスがご自分のアカウントでない場合は、新しい Huhi ユーザーを作成して情報を個別に保持してください。
+
+このままログインすると、ブックマーク、履歴、その他の設定などの Huhi データが <ph name="ACCOUNT_EMAIL_NEW" /> と統合されます。</translation>
+<translation id="2348335408836342058">このサイトを利用するには、Huhi でカメラとマイクの使用を許可する必要があります</translation>
+<translation id="2429317896000329049">お使いのドメインでは同期を利用できないため、Huhi はデータを同期できませんでした。</translation>
+<translation id="2467438592969358367">Huhi からパスワードをエクスポートするための許可を求められています。許可するには Windows のパスワードを入力してください。</translation>
+<translation id="2485422356828889247">アンインストール</translation>
+<translation id="2534507159460261402">Google Pay（Huhi にコピー）</translation>
+<translation id="2535429035253759792">管理者が、このアップデートを適用するために Huhi を再起動するよう求めています</translation>
+<translation id="2580411288591421699">実行中の Huhi と同じバージョンをインストールすることはできません。Huhi を閉じてからもう一度お試しください。</translation>
+<translation id="2586406160782125153">このデバイスから閲覧データを削除します。後でデータを取得するには、<ph name="USER_EMAIL" /> として Huhi にログインしてください。</translation>
+<translation id="4847979153841887006">Huhi ロゴ</translation>
+<translation id="2644798301485385923">Chrome OS システム</translation>
+<translation id="2652691236519827073">新しい Huhi タブでリンクを開く(&amp;T)</translation>
+<translation id="7348158796480960456">障害レポートと<ph name="UMA_LINK" />を Google に自動送信して Huhi の機能向上に役立てる</translation>
+<translation id="3813272600615358652">この拡張機能により、Huhi の起動時に表示されるページが変更されました。</translation>
+<translation id="2765403129283291972">このサイトを利用するには、Huhi でマイクの使用を許可する必要があります</translation>
+<translation id="2770231113462710648">既定のブラウザを変更:</translation>
+<translation id="2799223571221894425">再起動</translation>
+<translation id="2847461019998147611">Huhi をこの言語で表示</translation>
+<translation id="2857540653560290388">Huhi を起動しています...</translation>
+<translation id="2871893339301912279">Huhi にログインしました</translation>
+<translation id="8541922081612557424">Huhi について</translation>
+<translation id="3037838751736561277">Huhi はバックグラウンド モードです。</translation>
+<translation id="4806360651959814118"><ph name="USERNAME" /> の接続を解除すると、履歴、ブックマーク、設定、このデバイスに保存されたその他の Huhi データが消去されます。ただし、Google アカウントに保存されたデータは消去されず、引き続き <ph name="GOOGLE_DASHBOARD_LINK" />Google ダッシュボード<ph name="END_GOOGLE_DASHBOARD_LINK" />で管理できます。</translation>
+<translation id="6791166902140255175">Huhi タブ</translation>
+<translation id="3080151273017101988">Huhi を閉じた際にバックグラウンド アプリの処理を続行する</translation>
+<translation id="3089968997497233615">Google クロームブラウザがより速く、さらに便利に。いますぐトライ！</translation>
+<translation id="300669147395456190">Huhi アプリ</translation>
+<translation id="82609232232243542">Huhi にログイン</translation>
+<translation id="3340978935015468852">設定</translation>
+<translation id="3360895254066713204">Huhi Helper</translation>
+<translation id="3379938682270551431">{0,plural, =0{Huhi は今すぐ再起動されます}=1{Huhi は 1 秒後に再起動されます}other{Huhi は # 秒後に再起動されます}}</translation>
+<translation id="3395323229510056640">Chrome OS のヘルプを見る</translation>
+<translation id="3396977131400919238">インストール中にオペレーティング システム エラーが発生しました。Huhi をダウンロード直してください。</translation>
+<translation id="3398288718845740432">Huhi メニューで非表示</translation>
+<translation id="8880183781256147665">Huhi に追加...</translation>
+<translation id="345171907106878721">Huhi に自分を追加</translation>
+<translation id="34857402635545079">Huhi のデータ（<ph name="URL" />）も消去する</translation>
+<translation id="3503306920980160878">このサイトで現在地を共有するには、Huhi で位置情報の使用を許可する必要があります</translation>
+<translation id="3576528680708590453">システム管理者が、<ph name="TARGET_URL_HOSTNAME" /> へのアクセスに代替ブラウザを開くよう Huhi を設定しています。</translation>
+<translation id="5477319665405831211">同期してカスタマイズした Huhi をどのデバイスでも使用できます</translation>
+<translation id="3622797965165704966">共有パソコンの Huhi で Google アカウントが簡単に使用できるようになりました。</translation>
+<translation id="3637702109597584617">Google Chrome OS <ph name="TERMS_OF_SERVICE_LINK" />利用規約<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
+<translation id="5805364706385912897">このページは大量のメモリを使用しているため、Huhi により一時停止されました。</translation>
+<translation id="3718181793972440140">このデバイスから 1 件の項目を削除します。後でデータを取得するには、<ph name="USER_EMAIL" /> として Huhi にログインしてください。</translation>
+<translation id="2576129394594491151">拡張機能「<ph name="EXTENSION_NAME" />」により、Huhi の起動時に表示されるページが変更されました。</translation>
+<translation id="3780814664026482060">Huhi - <ph name="PAGE_TITLE" /></translation>
+<translation id="3784527566857328444">Huhi から削除...</translation>
+<translation id="386202838227397562">すべての Huhi ウィンドウを閉じてからもう一度お試しください。</translation>
+<translation id="3873044882194371212">Huhi のシークレット ウインドウでリンクを開く(&amp;G)</translation>
+<translation id="3889417619312448367">Huhi をアンインストール</translation>
+<translation id="4050175100176540509">最新バージョンに更新すると、重要なセキュリティ更新と新機能が適用されます。</translation>
+<translation id="8148611988012584308">Huhi の設定</translation>
+<translation id="4143243756087420366">Huhi の名前と画像</translation>
+<translation id="4147555960264124640">現在、管理対象アカウントでログインしており、あなたの Huhi プロフィールを管理者が制御できる状態になっています。あなたの Huhi データ（アプリ、ブックマーク、履歴、パスワードなどの設定）は永続的に <ph name="USER_NAME" /> に関連付けられます。このデータは Google アカウントのダッシュボードを介して削除できますが、このデータを別のアカウントに関連付けることはできなくなります。<ph name="LEARN_MORE" /></translation>
+<translation id="4149882025268051530">インストーラー アーカイブを解凍できませんでした。Huhi をダウンロードし直してください。</translation>
+<translation id="4191857738314598978">{0,plural, =1{1 日以内に Huhi を再起動してください}other{# 日以内に Huhi を再起動してください}}</translation>
+<translation id="424864128008805179">Huhi からログアウトしますか？</translation>
+<translation id="4251615635259297716">Huhi データをこのアカウントにリンクしますか？</translation>
+<translation id="8358191771897395012">iPhone に Huhi をインストール</translation>
+<translation id="4293420128516039005">ログインすると、同期してカスタマイズした Huhi をどのデバイスでも使用できます</translation>
+<translation id="4328355335528187361">Huhi Dev（mDNS-In）</translation>
+<translation id="4331809312908958774">Chrome OS</translation>
+<translation id="4343195214584226067">「<ph name="EXTENSION_NAME" />」が Huhi に追加されました</translation>
+<translation id="4407807842708586359">Google Chrome OS</translation>
+<translation id="4458462641685292929">Huhi で別の処理が行われています。しばらくしてからもう一度お試しください。</translation>
+<translation id="4480040274068703980">ログイン時にエラーが発生したため、Chrome OS はデータを同期できませんでした。</translation>
+<translation id="4561051373932531560">Huhi では、ウェブサイト上の電話番号をクリックするだけで Skype で通話を発信できます。</translation>
+<translation id="4567424176335768812"><ph name="USER_EMAIL_ADDRESS" /> としてログインしています。ログインしているすべてのデバイスで、ブックマーク、履歴、その他の設定にアクセスできます。</translation>
+<translation id="4571503333518166079">Huhi の通知設定に移動</translation>
+<translation id="459622048091363950">Huhi にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。</translation>
+<translation id="7963515534397191222">Huhi を最新版に更新できませんでした。新しい機能とセキュリティ修正は適用されていません。</translation>
+<translation id="4631713731678262610">Huhi メニューで非表示</translation>
+<translation id="4633000520311261472">Huhi をより安全にご利用いただくため、<ph name="IDS_EXTENSION_WEB_STORE_TITLE" />で提供していない一部の拡張機能を無効にしました。これらは知らないうちに追加された可能性があります。</translation>
+<translation id="4728575227883772061">原因不明のエラーによりインストールが失敗しました。実行中の Huhi を終了してからやり直してください。</translation>
+<translation id="4750550185319565338"><ph name="PLUGIN_NAME" /> を有効にするには Huhi を再起動してください</translation>
+<translation id="4754614261631455953">Huhi Canary（mDNS インバウンド）</translation>
+<translation id="89367911614620585">このファイルは危険なファイルの可能性があるため、Huhi でブロックしました。</translation>
+<translation id="479167709087336770">Google 検索と同じスペルチェックが使用されます。ブラウザに入力したテキストは Google に送信されます。この動作はいつでも設定で変更できます。</translation>
+<translation id="4891791193823137474">Huhi のバックグラウンドでの実行を許可する</translation>
+<translation id="4895437082222824641">新しい Huhi タブでリンクを開く(&amp;T)</translation>
+<translation id="8296145982386097283">共有パソコンにするなど、Huhi をお好みの方法で設定できるようになりました。</translation>
+<translation id="4953650215774548573">Huhi を既定のブラウザとして設定する</translation>
+<translation id="6078442581074612226">Huhi 専用</translation>
+<translation id="4990567037958725628">Huhi Canary</translation>
+<translation id="5028489144783860647">Huhi はデータを同期できませんでした。同期パスフレーズを更新してください。</translation>
+<translation id="5062123544085870375">Chrome OS を再起動してください</translation>
+<translation id="2871190378186459992">Huhi のすばらしいアプリ、ゲーム、拡張機能、テーマをぜひご利用ください。</translation>
+<translation id="5170938038195470297">バージョンが新しい Huhi のプロフィールは使用できません。一部の機能が利用できない可能性があります。別の場所のプロフィールを指定するか、新しいバージョンの Huhi をご使用ください。</translation>
+<translation id="5193136243808726294">Google Chrome OS ではこのページを開けません。</translation>
+<translation id="5204098752394657250">Huhi <ph name="TERMS_OF_SERVICE_LINK" />利用規約<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
+<translation id="5251420635869119124">ゲスト ユーザーは、記録を残さずに Huhi を使用できます。</translation>
+<translation id="5436841087823876677">警告: 拡張機能による閲覧履歴の記録を Huhi で停止することはできません。シークレット モードでこの拡張機能を無効にするには、このオプションの選択を解除してください。</translation>
+<translation id="5386244825306882791">この拡張機能では、Huhi の起動時、またはアドレスバーからの検索時に表示されるページも制御されます。</translation>
+<translation id="5147525139567260139">Huhi タブの共有</translation>
+<translation id="3403365884036456766">ユーザー設定ファイルが壊れているか無効です。設定を復元できません。</translation>
+<translation id="1801551749768408825">Huhi の他のコピーが動作しています。更新するには他のコピーを終了してください。</translation>
+<translation id="556024056938947818">Huhi はパスワードを表示しようとしています。</translation>
+<translation id="5566025111015594046">Huhi（mDNS インバウンド）</translation>
+<translation id="5657226924540934362">このページに設定が表示されない場合は、<ph name="LINK_BEGIN" />
+      Chrome OS の設定<ph name="LINK_END" />を確認してください</translation>
+<translation id="3561569806301739367"><ph name="FILE_NAME" /> は危険なファイルの可能性があるため、Huhi でブロックしました。</translation>
+<translation id="6315734375101223238">Huhi をカスタマイズ、制御します。確認の必要な項目があります。クリックして詳細をご覧ください。</translation>
+<translation id="5690427481109656848">Huhi Software Inc</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{Huhi は 1 秒後に再起動します}other{Huhi は # 秒後に再起動します}}</translation>
+<translation id="573759479754913123">Chrome OS について</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> - Huhi Canary</translation>
+<translation id="5804318322022881572">Huhi を起動できませんでした。もう一度お試しください。</translation>
+<translation id="5877064549588274448">チャンネルが変更されました。変更を適用するには、デバイスを再起動してください。</translation>
+<translation id="5895138241574237353">再起動</translation>
+<translation id="5906655207909574370">デバイスを再起動して更新を完了してください。</translation>
+<translation id="5940385492829620908">ウェブ、ブックマーク、その他の Huhi データを好みに設定できます。</translation>
+<translation id="5019879183386042809">Huhi を既定のブラウザにする</translation>
+<translation id="6014844626092547096">Huhi にログインしています。同期は管理者によって無効にされています。</translation>
+<translation id="6040143037577758943">閉じる</translation>
+<translation id="6070348360322141662">セキュリティ強化のため、データは Huhi で暗号化されます</translation>
+<translation id="6113794647360055231">進化する Huhi</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> - Huhi</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> - Huhi Beta</translation>
+<translation id="61852838583753520">Chrome OS を更新(&amp;C)</translation>
+<translation id="6235018212288296708">mDNS トラフィックを許可する Huhi のインバウンド ルールです。</translation>
+<translation id="6291089322031436445">Huhi Dev アプリ</translation>
+<translation id="6291549208091401781">Huhi は既にパソコンのすべてのユーザー対してインストールされています。</translation>
+<translation id="6338556085225130112">Huhi を更新しています</translation>
+<translation id="6368958679917195344">Chrome OS は、さらに追加の<ph name="BEGIN_LINK_CROS_OSS" />オープンソース ソフトウェア<ph name="END_LINK_CROS_OSS" />によって実現しました。</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> - Huhi Dev</translation>
+<translation id="6566149418543181476">Huhi を更新しています（<ph name="PROGRESS_PERCENT" />）</translation>
+<translation id="2472951610753402739">Huhi データの同期に <ph name="PROFILE_EMAIL" /> を使用しています。同期設定を更新する、または Google アカウントなしで Huhi を使用するには、<ph name="SETTINGS_LINK" /> にアクセスしてください。</translation>
+<translation id="663059986967017181">Huhi にコピー済み</translation>
+<translation id="6634887557811630702">Huhi は最新版です。</translation>
+<translation id="6676384891291319759">インターネットにアクセス</translation>
+<translation id="6679975945624592337">Huhi をバックグラウンドで実行する</translation>
+<translation id="6750954913813541382">スペルミスを修正するために、ブラウザに入力したテキストが Huhi から Google に送信されます</translation>
+<translation id="677276454032249905">今すぐ Huhi を終了しますか？</translation>
+<translation id="683440813066116847">mDNS トラフィックを許可する Huhi Canary のインバウンド ルールです。</translation>
+<translation id="6885412569789873916">Huhi ベータ版アプリ</translation>
+<translation id="6943584222992551122">この操作を行うと、このユーザーの閲覧データがこのデバイスから削除されます。データを復元するには、<ph name="USER_EMAIL" /> として Huhi にログインしてください。</translation>
+<translation id="6967962315388095737">mDNS トラフィックを許可する Huhi ベータ版のインバウンド ルールです。</translation>
+<translation id="6970811910055250180">お使いのデバイスを更新しています...</translation>
+<translation id="6982337800632491844"><ph name="DOMAIN" /> では、このデバイスを使用する前に下記の利用規約を確認しこれに同意していただく必要があります。これらの規約は Google Chrome OS 利用規約を拡張、変更、制限するものではありません。</translation>
+<translation id="6989339256997917931">Huhi が更新されましたが、30 日間以上使用されていません。</translation>
+<translation id="8919461291440820124">Huhi がマイクを使用しています。</translation>
+<translation id="5516268345616100622">タスク マネージャ - Huhi</translation>
+<translation id="474353600079041991">セキュリティに関する事象についての詳細を Google に自動送信して、Huhi の安全性と利便性の向上にご協力ください。</translation>
+<translation id="7242029209006116544">現在、管理対象アカウントでログインしており、あなたの Huhi プロフィールを管理者が制御できる状態になっています。あなたの Huhi データ（アプリ、ブックマーク、履歴、パスワードなどの設定）は永続的に <ph name="USER_NAME" /> に関連付けられます。このデータは Google アカウントのダッシュボードを介して削除できますが、このデータを別のアカウントに関連付けることはできなくなります。新しいプロフィールを作成して、既存の Huhi データを別に保管することができます。<ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">この言語が Huhi UI の表示に使用されます</translation>
+<translation id="7296210096911315575">使用と安全に関する重要事項</translation>
+<translation id="7308322188646931570">ファイルをダウンロードするには、Huhi でストレージへのアクセスを許可する必要があります</translation>
+<translation id="7339898014177206373">新しいウィンドウ</translation>
+<translation id="7398801000654795464">Huhi に <ph name="USER_EMAIL_ADDRESS" /> としてログインしていました。再度ログインするには同じアカウントを使用してください。</translation>
+<translation id="7408085963519505752">Chrome OS 利用規約</translation>
+<translation id="7419046106786626209">お使いのドメインでは同期を利用できないため、Chrome OS はデータを同期できませんでした。</translation>
+<translation id="7459554271817304652">同期を設定すると、パーソナライズされたブラウザ機能をウェブ上に保存して、どのパソコンの Huhi からでも使用できるようになります。</translation>
+<translation id="7473136999113284234">Huhi は自動的に更新されるため、常に最新版をご利用になれます。</translation>
+<translation id="7486227612705979895">Huhi からお客様のドライブにアクセスして、アドレスバーに候補を表示します</translation>
+<translation id="8887390605192156061">Huhi のすべてのコピーを終了します。</translation>
+<translation id="7535429826459677826">Huhi Dev</translation>
+<translation id="7573289029918943991">デバイスが最新の状態かどうか確認するには、<ph name="LINK_BEGIN" />Chrome OS の設定<ph name="LINK_END" />をご覧ください</translation>
+<translation id="7589360514048265910">Mac OS X 10.9 はサポートされなくなったため、このパソコンでは今後 Huhi のアップデートは受信されません。</translation>
+<translation id="7592736734348559088">アカウントのログイン情報が最新ではないため、Huhi はデータを同期できませんでした。</translation>
+<translation id="7207456302801184289">Huhi へようこそ</translation>
+<translation id="8211837073776713955">Huhi では、特定のパスワードが侵害された事実の有無がわかります</translation>
+<translation id="7641148173327520642">システム管理者が、<ph name="TARGET_URL_HOSTNAME" /> へのアクセスに <ph name="ALTERNATIVE_BROWSER_NAME" /> を開くよう Huhi を設定しています。</translation>
+<translation id="7651907282515937834">Huhi Enterprise ロゴ</translation>
+<translation id="7747138024166251722">インストーラーの一時ディレクトリを作成できませんでした。ディスクの空き領域とソフトウェアのインストール許可があることを確認してください。</translation>
+<translation id="7761834446675418963">Huhi を開いてブラウジングを始めるには、名前をクリックしてください。</translation>
+<translation id="7777080907402804672">画像に有効な説明が設定されていない場合に、Huhi で説明を自動的に生成できるよう Google に画像が送信されます。この機能は設定でいつでも無効にできます。</translation>
+<translation id="7781002470561365167">Google クロームブラウザの最新バージョンを是非お試しください。</translation>
+<translation id="7787950393032327779">プロフィールは、別のコンピュータ（<ph name="HOST_NAME" />）の別の Huhi プロセス（<ph name="PROCESS_ID" />）で使用されているようです。Huhi はプロフィールが破損しないようにプロフィールをロックしています。他のプロセスがこのプロフィールを使用していないことが確実であれば、プロフィールのロックを解除して Huhi を再起動できます。</translation>
+<translation id="777113543093865885">Huhi から削除...</translation>
+<translation id="7825851276765848807">原因不明のエラーによりインストールに失敗しました。Huhi をもう一度ダウンロードしてください。</translation>
+<translation id="7855730255114109580">Huhi は最新版です</translation>
+<translation id="7890208801193284374">パソコンを共有している場合、友だちや家族はそれぞれ Huhi を自分専用のブラウザとして自分用の設定をして使うことができます。</translation>
+<translation id="7896673875602241923">前回このパソコンで別のユーザー（<ph name="ACCOUNT_EMAIL_LAST" />）が Huhi にログインしました。情報を個別に保持するには、新しい Huhi ユーザーを作成してください。</translation>
+<translation id="7908168227788431038">Huhi を再起動して更新を完了してください。</translation>
+<translation id="7962410387636238736">Windows XP と Windows Vista はサポートされなくなったため、このパソコンでは今後 Huhi のアップデートは受信されません</translation>
+<translation id="5875673934455379806">Huhi を再インストール</translation>
+<translation id="8013993649590906847">画像に有効な説明が設定されていない場合に、Huhi で説明を自動的に生成できるよう Google に画像が送信されます。</translation>
+<translation id="8030318113982266900">デバイスを <ph name="CHANNEL_NAME" /> チャンネルに更新しています...</translation>
+<translation id="1672124279374861424">Huhi からアカウントを削除したら、場合によっては開いているタブを再読み込みして変更を反映させる必要があります。</translation>
+<translation id="8129812357326543296">Huhi について(&amp;G)</translation>
+<translation id="8899693649891674038">Huhi をスマートフォンにインストールしませんか。Google よりスマートフォンに SMS をお送りします。</translation>
+<translation id="5138664332909611586">このページは大量のメモリを使用しているため、Huhi により一部のコンテンツが削除されました。</translation>
+<translation id="3293668930608086049">Huhi がカメラとマイクを使用しています。</translation>
+<translation id="8286862437124483331">Huhi でパスワードを表示しようとしています。続行するには、Windows のパスワードを入力してください。</translation>
+<translation id="8290100596633877290">エラー: Huhi で問題が発生しました。今すぐ再起動しますか？</translation>
+<translation id="9067428552314418522">このファイルは危険なファイルであるため、Huhi でブロックしました。</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Huhi Software Inc. All rights reserved.</translation>
+<translation id="840084489713044809">Huhi からパスワードをエクスポートするための許可を求められています。</translation>
+<translation id="763369711159699222">Huhi の品質向上にご協力ください</translation>
+<translation id="8455999171311319804">オプション: 診断と使用状況のデータを Google に自動送信して Chrome OS の機能向上に役立てる。</translation>
+<translation id="2965084188004448871">Huhi をスマートフォンにインストールしませんか。お客様のアカウント再設定用の電話番号（<ph name="PHONE_NUMBER" />）に、Google より SMS をお送りします。</translation>
+<translation id="8668413672647811944">Huhi の特別なセキュリティ アップデートが適用されました。今すぐ再起動してください。タブは復元されます。</translation>
+<translation id="8521348052903287641">mDNS トラフィックを許可する Huhi Dev のインバウンド ルールです。</translation>
+<translation id="8547799825197623713">Huhi アプリ ランチャー（Canary 向け）</translation>
+<translation id="8556340503434111824">Google クロームブラウザがバージョンアップ！是非お試しください。</translation>
+<translation id="8568392309447938879">アプリを使用するには Huhi にログインする必要があります。ログインすると、Huhi ではアプリ、ブックマーク、履歴、パスワードなどの設定をデバイス間で同期できるようになります。</translation>
+<translation id="8606668294522778825">Huhiは、より快適なブラウジングを提供する目的でウェブサービスを使用することがあります。これらのサービスは無効にすることもできます。<ph name="BEGIN_LINK" />詳細<ph name="END_LINK" /></translation>
+<translation id="8614913330719544658">Huhi が応答しません。今すぐ再起動しますか？</translation>
+<translation id="8625237574518804553">{0,plural, =1{Huhi は 1 分後に再起動されます}other{Huhi は # 分後に再起動されます}}</translation>
+<translation id="8667808506758191620">お使いの <ph name="DEVICE_TYPE" /> は最新です。</translation>
+<translation id="8669527147644353129">Huhi Helper</translation>
+<translation id="8679801911857917785">この拡張機能では、Huhi の起動時に表示されるページも制御されます。</translation>
+<translation id="870251953148363156">Huhi を更新(&amp;G)</translation>
+<translation id="873133009373065397">Huhi では既定のブラウザを判定または設定できません</translation>
+<translation id="8736674169840206667">管理者が、アップデートを適用するために Huhi を再起動するよう求めています</translation>
+<translation id="8823341990149967727">Huhi は古いバージョンです</translation>
+<translation id="884296878221830158">この拡張機能では、Huhi の起動時、またはホーム ボタンのクリック時に表示されるページも制御されます。</translation>
+<translation id="8862326446509486874">権限が不十分なためシステムレベルのインストールができません。管理者権限でインストールしてください。</translation>
+<translation id="8914504000324227558">Huhi の再起動</translation>
+<translation id="8999208279178790196">{0,plural, =0{Huhi のアップデートが利用可能です}=1{Huhi のアップデートが利用可能です}other{Huhi のアップデートが利用可能になってから # 日経過しています}}</translation>
+<translation id="9026991721384951619">アカウントのログイン情報が最新ではないため、Chrome OS はデータを同期できませんでした。</translation>
+<translation id="9067395829937117663">Huhi のご利用には Windows 7 以上が必要です。</translation>
+<translation id="911206726377975832">閲覧データも削除しますか？</translation>
+<translation id="9138603949443464873">変更を適用するには Huhi を再起動してください</translation>
+<translation id="919706545465235479">同期を開始するには、Huhi を更新します</translation>
+<translation id="989369509083708165">既定のブラウザは Huhi です</translation>
+</translationbundle>

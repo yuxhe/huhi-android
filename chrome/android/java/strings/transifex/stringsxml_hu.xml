@@ -1,0 +1,318 @@
+<resources>
+
+    <string name="huhi_settings_title">Huhi site shield beállítások ehhez</string>
+    <string name="huhi_shields_down">Le</string>
+    <string name="huhi_shields_up">Fel</string>
+    <string name="huhi_shields_ads_trackers">Reklámok és követések blokkolva</string>
+    <string name="huhi_shields_https_upgrades">HTTPS használata</string>
+    <string name="huhi_shields_scripts_blocked">Szkriptek blokkolva</string>
+    <string name="huhi_shields_ads_tracking_switch">Blokkolja a reklámokat és a követést</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS mindenhol</string>
+    <string name="huhi_shields_blocks_scripts_switch">Blokkolja a szkripteket</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Huhi Pajzsok engedélyezése/letiltása</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Huhi jutalmak kezelése</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">3. fél sütijeinek blokkolása</string>
+
+    <string name="httpse_summary">A támogatott oldalakat lehetőség szerint HTTP helyett HTTPS protokollal nyitja meg</string>
+    <string name="ad_block_title">Reklám blokkolás</string>
+    <string name="ad_block_summary">Megakadályozza a reklám betöltődését</string>
+
+    <string name="fingerprinting_protection_title">Ujjlenyomat alapú védelem</string>
+    <string name="fingerprinting_protection_summary">Megakadályozza a böngészőben az ujjlenyomatot</string>
+    <string name="huhi_shields_fingerprints_blocked">Ujjlenyomat alapú módszerek letiltva</string>
+    <string name="huhi_shields_block_fingerprints_switch">Ujjlenyomat alapú védelem</string>
+
+    <string name="ad_block_regional_title">Területi Reklám Blokkolás</string>
+    <string name="ad_block_regional_summary">Megakadályozza, hogy területi reklámok töltődjenek be</string>
+
+    <string name="ad_block_regional_summary_no_list">További listák nincsenek az Ön területéhez</string>
+
+    <string name="menu_exit">Kilépés</string>
+
+    <string name="huhi_sync">Huhi szinkronizálás (béta)</string>
+    <string name="sync_settings_add_device_name_title">Eszköznév hozzáadása</string>
+    <string name="sync_settings_add_device_name_label">Adjon egy elfogadható nevet ennek az eszköznek</string>
+    <string name="sync_example_device_name">Android eszköz</string>
+    <string name="enter_code_words_sync">Kódszavak hozzáadása</string>
+    <string name="sync_device">Eszköz szinkronizálása</string>
+    <string name="sync_device_failure">A szinkronizálást nem lehetett beállítani</string>
+    <string name="sync_requires_correct_time">Lehet, hogy számítógéped órája rosszul van beállítva, vagy más időzónát mutat. Ellenőrizd az óra beállításait.</string>
+
+    <string name="huhi_stats_text_ads">Reklámok és nyomkövetők
+Blokkolva</string>
+    <string name="huhi_stats_text_https">HTTPS
+használata</string>
+    <string name="huhi_stats_text_time">Becsült megspórolt
+idő</string>
+
+    <string name="send_metrics_title">Mutatók küldése</string>
+
+    <string name="desktop_mode_title">Asztal mód</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Részesítse előnyben az oldalak asztali verzióit</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Részesítse előnyben az oldalak mobil verzióit</string>
+    <string name="website_settings_category_desktop_view_enabled">Asztali nézet engedélyezése az új lapok számára</string>
+    <string name="website_settings_category_desktop_view_disabled">Az új lapokhoz használja az oldalak mobil verzióját (ajánlott)</string>
+
+    <string name="huhi_shields_first_group_title">Blokkolási ellenőrzés</string>
+    <string name="huhi_shields_second_group_title">Egyéni irányítás</string>
+    <string name="huhi_shields">Pajzsok</string>
+    <string name="huhi_shields_ads_and_trackers">Reklámok és követések</string>
+    <string name="huhi_shields_fingerprint_methods">Ujjlenyomat-módszerek</string>
+    <string name="huhi_shields_block_phishing_switch">Adathalászat blokkolása</string>
+
+    <string name="play_video_in_background_title">Videólejátszás a háttérben</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Engedélyezve</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Letiltva</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Kísérleti. Lehetővé teszi egy videó hangjának lejátszását a háttérben, ha a fül nem aktív, vagy a készülék képernyője ki van kapcsolva. Próbálj átváltani asztali módra, ha ez a funkció nem működik.</string>
+    <string name="settings_require_relaunch_notice">A végzett változtatások a Huhi következő indításakor lépnek érvénybe.</string>
+    <string name="settings_require_relaunch_now">ÚJRAINDÍTÁS MOST</string>
+    <string name="settings_require_relaunch_later">KÉSŐBB</string>
+
+    <string name="play_yt_video_in_browser_title">Videólejátszás a Huhi-ben</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Engedélyezve</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Letiltva</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Engedélyezése esetén a videókat a kapcsolódó alkalmazás helyett a Huhi fogja lejátszani.</string>
+
+    <string name="close_tabs_on_exit_title">Lapok bezárása kilépéskor</string>
+    <string name="close_tabs_on_exit_summary">Ne tartsa fent a füleket a böngészési szessziók közt</string>
+
+    <string name="open_pages_in_custom_tabs_title">Fülek nyitása Egyedi Fülekben</string>
+    <string name="open_pages_in_custom_tabs_summary">Ajánlat fülek megnyitására az Egyedi Fülekben</string>
+
+    <string name="ddg_offer_title">Privát keresés a DuckGoGo-val?</string>
+    <string name="ddg_offer_text">Privát kereséssel a Huhi a DuckGoGo segítségével szolgáltat választ kereséseidre, miközben ezt a privát fület használod. A DuckGoGo egy olyan keresőmotor, amely nem követi keresési előzményeidet, lehetővé téve, hogy titokban végezz kereséseket.</string>
+    <string name="ddg_offer_positive">Igen</string>
+    <string name="ddg_offer_negative">Nem</string>
+    <string name="ddg_offer_link">Tudj meg többet a privát keresésről a DuckGoGo-val</string>
+    <string name="prefs_standard_search_engine">Szabványos fül</string>
+    <string name="prefs_private_search_engine">Privát Fül</string>
+
+    <string name="huhi_open_in_private_tab">Megnyitás privát fülben</string>
+    <string name="huhi_close_all_private_tabs">Privát fülek bezárása</string>
+    <string name="huhi_new_private_tab">Új privát fül</string>
+    <string name="huhi_new_tab_private_header">Ez egy Privát Fül</string>
+    <string name="huhi_new_tab_private_message">Bár a privát fülekben felkeresett oldalak helyileg nem mentődnek el, nem garantálják a névtelenséget vagy láthatatlanságot ISP-d, alkalmazód vagy a felkeresett oldalak előtt.</string>
+    <string name="update_notification_title">Huhi frissítés</string>
+    <string name="update_notification_text">Az új Huhi böngésző 22%-kal gyorsabb</string>
+    <string name="prefs_sync">Szinkonizálás (béta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Huhi hirdetések itt!</string>
+    <string name="huhi_ads_new_user_offer_title">Huhi jutalmak engedélyezése</string>
+    <string name="huhi_ads_offer_text">Szerezz Alap Figyelem tokent adatvédelmet tiszteletben tartó hirdetések megtekintésével a Huhi Jutalamakban.</string>
+    <string name="huhi_ads_offer_positive">Benne vagyok!</string>
+    <string name="huhi_sync_description_page_1_part_1">A Huhi Sync segítségével privát szinkronizálhatja különböző eszközeinek könyvjelzőadatait Huhi böngészőiben.</string>
+    <string name="huhi_sync_description_page_1_part_2">Csak olvassa be a kódot a szinkronizálási láncból, amelyet az egyik eszközén létrehozott. Vagy kezdjen új szinkronizálási láncot.</string>
+    <string name="huhi_sync_scan_chain_code">Olvassa be vagy adja meg a szinkronizálási kódot</string>
+    <string name="huhi_sync_start_new_chain">Új szinkronizálási lánc kezdése</string>
+    <string name="huhi_sync_qrcode_message_v2">Már szinkronizált eszköz segítségével nyissa meg a Huhi beállításokat és kövesse a Beállítások > Szinkronizálás útvonalat. Válassza az \"Eszköz hozzáadása\" lehetőséget és olvassa be a képernyőn megjelenő QR-kódot.</string>
+    <string name="huhi_sync_codewords_message">Már szinkronizált eszköz segítségével nyissa meg a Huhi beállításokat és kövesse a Beállítások > Szinkronizálás útvonalat. Válassza az \"Eszköz hozzáadása\" lehetőséget és a \"Kód megjelenítése\" lehetőséget.</string>
+    <string name="huhi_sync_btn_mobile">Mobileszköz hozzáadása</string>
+    <string name="huhi_sync_btn_laptop">Számítógép hozzáadása</string>
+    <string name="huhi_sync_scan_sync_code">Szinkronizációs kód beolvasása</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Második telefon vagy tablet használatakor kövesse a Beállítások > Szinkronizálás > Beolvasás útvonalat.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">Mobilkészülékeden navigálj a Huhi szinkronizálásra a menüpanelben, majd kattints \"Szinkronizálási kód beolvasása\" pontra. Kameráddal olvasd be az alábbi QR-kódot.</string>
+    <string name="huhi_sync_btn_done">Kész</string>
+    <string name="huhi_sync_tabs_text">Fülek</string>
+    <string name="huhi_sync_history_text">Előzmények</string>
+    <string name="huhi_sync_autofill_passwords_text">Automatikus kitöltés/jelszavak</string>
+    <string name="huhi_sync_payment_settings_text">Huhi fizetési beállítások</string>
+    <string name="huhi_sync_settings_title">SZINKRONIZÁLÁS EZEN AZ ESZKÖZÖN</string>
+    <string name="huhi_sync_settings_description">A beállítások módosítása csak azon adatokat érinti, amelyeket ez az eszköz oszt meg másokkal.</string>
+    <string name="huhi_sync_devices_title">A LÁNC EGYÉB ESZKÖZEI</string>
+    <string name="huhi_sync_loading_devices_title">ESZKÖZÖK BETÖLTÉSE...</string>
+    <string name="huhi_sync_add_device_text">Másik eszköz hozzáadása</string>
+    <string name="huhi_sync_remove_device_text">Eszköz eltávolítása</string>
+    <string name="huhi_sync_code_words_title">Párosítás</string>
+    <string name="huhi_sync_add_laptop_text_title">Szinkronizálási lánc kódjának megadása</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Számítógépén kövesse a Huhi beállítások > Szinkronizálás útvonalat. Válassza a \"Szinkronizálási lánc kódjának megadása\" lehetőséget.</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Adja meg a fenti kódszavakat, a szóközökkel együtt.</string>
+    <string name="huhi_sync_delete_device">Biztosan törli \'<ph name=\"DEVICE_NAME\">%1$s</ph>\' eszközt?</string>
+    <string name="huhi_sync_delete_sent">A törlési kérés elküldve. Az eszközt hamarosan eltávolítjuk.</string>
+    <string name="huhi_sync_loading_data_title">Adatok betöltése...</string>
+    <string name="huhi_sync_time_out_message">Hiba történt, úgy tűnik a kérése lejárt.</string>
+    <string name="huhi_sync_use_camera_text">Használom a fényképezőt...</string>
+    <string name="huhi_sync_confirm_code_words_text">Megerősítés</string>
+    <string name="huhi_sync_word_count_text">Szószám: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">A szavak száma helytelen</string>
+    <string name="huhi_sync_qr_code">QR-kód</string>
+    <string name="huhi_sync_code_words">Kódszavak</string>
+    <string name="huhi_sync_copy_button_text">Másolás vágólapra</string>
+    <string name="huhi_sync_copied_text">Másolva a vágólapra</string>
+    <string name="huhi_sync_this_device_text">(ez az eszköz)</string>
+
+    <string name="huhi_already_set_as_default_browser">A Huhi már az Ön
+alapértelmezett böngészőjeként van beállítva.</string>
+    <string name="huhi_default_browser_go_to_settings">Ön már beállított alapértelmezett böngészőt.
+Az alapértelmezett böngészőt az alkalmazás beállításaiban módosíthatja.</string>
+    <string name="huhi_default_browser_notification_body">Spórolj az akkumulátorral, és töltsd be gyorsabban a weboldalakat. Legyen a Huhi alapértelmezett böngésződ. A Huhi menüben koppints a „Beállítás alapértelmezett böngészőként\" pontra.</string>
+    <string name="huhi_set_default_browser">Beállítás alapértelmezett böngészőként</string>
+    <string name="huhi_set_default_browser_dialog_text">Válaszd ki a Huhi-et a listáról és koppints a „Mindig\"-re.</string>
+    <string name="huhi_default_browser_existing_notification_body">Állítsa be a Huhi-et alapértelmezett webes böngészőnek
+Kímélje az akkumulátort és töltsön be weboldalakat gyorsabban</string>
+
+    <string name="huhi_ui_welcome_header_two">Készüljön fel
+a következő internet megtapasztalására.</string>
+    <string name="huhi_ui_welcome_desc_two">Mostantól jutalompontokat kaphat
+a magánszférát tiszteletben tartó hirdetések megtekintéséért.</string>
+    <string name="huhi_ui_welcome_button_text_two">CSATLAKOZZON A REWARDSHOZ</string>
+    <string name="huhi_ui_welcome_footer_text_two">TOVÁBBI INFORMÁCIÓ</string>
+    <string name="huhi_ui_rewards_creating_text">Pénztárca létrehozása</string>
+    <string name="huhi_ui_your_wallet">Az Ön pénztárcája</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Pénz hozzáadása</string>
+    <string name="huhi_ui_settings">Beállítások</string>
+    <string name="huhi_ui_rewards_summary">A REWARDS ÖSSZEFOGLALÁSA</string>
+    <string name="huhi_ui_site_banner_welcome">Köszönjük, hogy benézett hozzánk!</string>
+    <string name="huhi_ui_rewards_banner_text1">Weblapunkat borravaló küldésével támogathatja. Ezzel köszönheti meg a remek tartalmat. A hitelesített tartalomkészítők a borravaló alapján kapnak díjazást minden naptári hónap első hetében.</string>
+    <string name="huhi_ui_rewards_banner_text2">Havi borravaló beállításával folyamatos támogatást is nyújthat az oldalnak.</string>
+    <string name="huhi_ui_donation_amount">Borravaló összege</string>
+    <string name="huhi_ui_wallet_balance">pénztárca egyenlege:</string>
+    <string name="huhi_ui_make_monthly">Legyen havi borravaló</string>
+    <string name="huhi_ui_send_tip">borravaló elküldése</string>
+    <string name="huhi_ui_do_monthly">havi borravaló beállítása</string>
+    <string name="huhi_ui_not_enough_tokens">nincs elég jutalompontja</string>
+    <string name="huhi_ui_site_banner_notice_text">MEGJEGYZÉS: Ez a szerző még nem regisztrált, hogy hozzájárulásokat kaphasson a Huhi felhasználóitól. Tovább próbálkozunk a hozzájárulás elküldésével, amíg a szerző nem hitelesíti magát, vagy el nem telik 90 nap.</string>
+    <string name="huhi_ui_please">kérjük</string>
+    <string name="huhi_ui_add_funds">adjon hozzá pénzt</string>
+    <string name="huhi_ui_thank_you">Köszönjük!</string>
+    <string name="huhi_ui_error_init_wallet">Próbálja újra később.</string>
+    <string name="huhi_ui_month_jan">JANUÁR</string>
+    <string name="huhi_ui_month_feb">FEBRUÁR</string>
+    <string name="huhi_ui_month_mar">MÁRCIUS</string>
+    <string name="huhi_ui_month_apr">ÁPRILIS</string>
+    <string name="huhi_ui_month_may">MÁJUS</string>
+    <string name="huhi_ui_month_jun">JÚNIUS</string>
+    <string name="huhi_ui_month_jul">JÚLIUS</string>
+    <string name="huhi_ui_month_aug">AUGUSZTUS</string>
+    <string name="huhi_ui_month_sep">SZEPTEMBER</string>
+    <string name="huhi_ui_month_oct">OKTÓBER</string>
+    <string name="huhi_ui_month_nov">NOVEMBER</string>
+    <string name="huhi_ui_month_dec">DECEMBER</string>
+    <string name="huhi_ui_month_year"><ph name=\"YEAR\">%2$s<ex>2018.</ex></ph> <ph name=\"MONTH\">%1$s<ex>DECEMBER</ex></ph> </string>
+    <string name="huhi_ui_rewards_contribute_attention">Figyelem</string>
+    <string name="huhi_ui_include_in_auto">Felvétel az Automatikus hozzájárulások közé</string>
+    <string name="huhi_ui_donate_now">Borravaló küldése...</string>
+    <string name="huhi_ui_no_activity">Ebben a hónapban még nem volt
+tevékenység...</string>
+    <string name="huhi_ui_token_grant_claimed">Igényelt jutalompontok</string>
+    <string name="huhi_ui_earnings_ads">Bevételek hirdetésekből</string>
+    <string name="huhi_ui_rewards_contribute">Automatikus hozzájárulás</string>
+    <string name="huhi_ui_rewards_contribute_description">Az Ön hozzájárulása <ph name=\"BAT_VALUE\">%1$s<ex>50 </ex></ph>BAT. </string>
+    <string name="huhi_ui_one_time_donation">Egyszeri borravalók</string>
+    <string name="huhi_ui_recurring_donation">Havi borravalók</string>
+    <string name="huhi_ui_verified_publisher">A Huhi által hitelesített szerző</string>
+    <string name="huhi_ui_not_verified_publisher">Még nincs hitelesítve</string>
+    <string name="huhi_ui_not_verified_publisher_description">Ez a szerző még nem regisztrált, hogy hozzájárulásokat kaphasson a Huhi felhasználóitól.
+A neki küldött borravaló az Ön pénztárcájában marad, amíg nem hitelesíti magát.</string>
+    <string name="huhi_ui_on_youtube">a YouTube-on</string>
+    <string name="huhi_ui_on_twitch">a Twitch-en</string>
+    <string name="huhi_ui_new_grant">Ingyenes jutalompont áll rendelkezésre.</string>
+    <string name="huhi_ui_new_token_grant">Ingyenes jutalompont</string>
+    <string name="huhi_ui_claim">Igénylés</string>
+    <string name="huhi_ui_reserved_amount_text">Ön <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph>BAT hozzájárulást küldött olyan szerzőknek,
+akik még nem regisztráltak, hogy hozzájárulásokat kaphassanak. Az Ön böngészője továbbra is megpróbálja elküldeni a hozzájárulást,
+amíg nem hitelesíttetik magukat vagy el nem telik 90 nap.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Az ütemezett havi fizetés az automatikus közreműködéshez és a havi tippekhez nem hajtható végre elégtelen forrás miatt. Megpróbáljuk újra 30 nap múlva.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Nem sikerült feldolgozni a borravalót, próbálja meg újra.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Nem sikerült feldolgozni a hozzájárulását.</string>
+    <string name="huhi_rewards_local_uh_oh">Ajjaj!</string>
+    <string name="huhi_rewards_local_server_not_responding">A Huhi Rewards kiszolgálója nem válaszol. A lehető leggyorsabban elhárítjuk a hibát.</string>
+    <string name="huhi_ui_grants">Jutalom</string>
+    <string name="huhi_ui_expires_on">lejárat: <ph name=\"DATE\">%1$s<ex>2019. 04. 14.</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Nincs elég hozzáadott pénz</string>
+    <string name="huhi_ui_insufficient_funds_desc">Az Ön Huhi Rewards-fiókja pénzhozzáadásra vár.</string>
+    <string name="huhi_ui_backup_wallet_msg">Pénztárca mentése</string>
+    <string name="huhi_ui_backup_wallet_desc">Kérjük, mentse a Huhi pénztárcáját.</string>
+    <string name="huhi_ui_huhi_rewards">Huhi Rewards</string>
+    <string name="huhi_ui_welcome_back_message">Örülünk, hogy újra látjuk!</string>
+    <string name="huhi_ui_get_rewarded">Nálunk jutalmat kaphat a böngészésért.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Keressen pénzt úgy, hogy a magánszférát tiszteletben tartó
+hirdetéseket néz, és küldje tovább az Ön által kedvelt
+tartalomkészítők támogatására.</string>
+    <string name="huhi_welcome_page_rewards_title">A HUHI REWARDS ENGEDÉLYEZÉSE</string>
+    <string name="huhi_ui_first_tip_text">Az első havi borravalód ekkor lesz elküldve:</string>
+    <string name="huhi_ui_tip_text">Borravalót küldtél ide:</string>
+    <string name="huhi_ui_auto_tip_text">Automatikusan borravalód küldesz ide:</string>
+    <string name="huhi_ui_monthly_text">Havonta</string>
+    <string name="bottom_toolbar_enable">Alsó eszköztár engedélyezése</string>
+    <string name="bottom_toolbar_disable">Alsó eszköztár letiltása</string>
+    <string name="search_or_url">Keresés vagy URL </string>
+    <string name="accessibility_toolbar_btn_bookmark">Könyvjelző készítése</string>
+    <string name="huhi_ui_donate_monthly">Adj borravalót havonta ennek az oldalnak</string>
+
+    <string name="huhi_rewards_not_available">Sajnáljuk, úgy tűnik a Huhi Jutalmak nem elérhető készülékedről.</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Az összes fül bezárásával bezárod a Huhi-et</string>
+    <string name="prefs_section_display">Megjelenítés</string>
+    <string name="prefs_section_controls">Irányítás</string>
+    <string name="prefs_appearance">Megjelenés</string>
+    <string name="hide_huhi_rewards_icon_title">Huhi Jutalmak ikon elrejtése</string>
+    <string name="hide_huhi_rewards_icon_description">Elrejti a Huhi Jutalmak ikont, ha a Huhi Jutalmak nincs engedélyezve.</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Hirdetések megjelenítése, ha a Huhi nincs használatban</string>
+    <string name="reset_huhi_rewards_option">Huhi Jutalmak újraállítása</string>
+    <string name="reset_huhi_rewards_option_description">Ezzel törlődik Huhi tárcád és alaphelyzetbe áll minden Huhi Jutalmak adatod.</string>
+    <string name="reset_huhi_rewards_error_title">Újraállítási hiba</string>
+    <string name="reset_huhi_rewards_error_description">Hiba történt a Huhi Jutalmak újraállítása során. Kérünk, indítsd újra a Huhi-et, majd próbáld újra.</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">A célszámítógépén, a beállításokban navigáljon a Huhi Sync részhez, majd kattintson a \"Szinkronizációs kódom van\" gombra.\nAdja meg az alább látható szinkronizációs lánc kódszavakat.</string>
+
+    <string name="huhi_sync_official">Huhi szinkronizálás</string>
+    <string name="prefs_sync_official">Szinkronizálás</string>
+
+    <string name="huhi_sync_code_warning">Tekintsen erre a kódra úgy, mint egy jelszóra. Ha valaki hozzájut, akkor olvashatja és módosíthatja a szinkronizált adatait. </string>
+
+    <string name="notification_category_group_huhi_ads">Huhi hirdetések</string>
+    <string name="huhi_ads_you_earned">Szerzeményed</string>
+
+    <string name="huhi_default_browser_title">A Huhi villámgyors</string>
+    <string name="huhi_default_browser_body">Tedd a Huhi-et alapértelmezett böngésződnek!</string>
+    <string name="huhi_make_default_text">Tedd alapértelmezetté</string>
+    <string name="huhi_ui_ads_earnings">reklámokból származó bevétel</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Kihagyás</string>
+
+    <string name="search_engine_onboarding">Keresőmotor-előkészítés</string>
+    <string name="troubleshooting_onboarding">Hibaelhárítás-előkészítés</string>
+
+    <string name="welcome_to_huhi_browser">Üdvözöl a Huhi böngésző</string>
+    <string name="select_your_default_search_engine">Válaszd ki alapértelmezett keresőmotorodat</string>
+
+    <string name="block">Tiltás</string>
+    <string name="huhi_shields_onboarding_title">Huhi Pajzsok</string>
+    <string name="huhi_shields_onboarding_text">magánéletet sértő hirdetések és nyomkövetők, hogy ne lehessen követni webes böngészésedet.</string>
+
+    <string name="earn_tokens">Szerezz tokeneket</string>
+    <string name="huhi_rewards_onboarding_title">Huhi Jutalmak</string>
+    <string name="huhi_rewards_onboarding_text">magánéletet tiszteletben tartó hirdetések megtekintésével. Ezeket használhatod kedvenc oldalaid és alkotóid támogatására.</string>
+    <string name="huhi_rewards_onboarding_text2">magánéletet tiszteletben tartó hirdetések megtekintésével.</string>
+
+    <string name="terms_title">Fogadd el a Huhi Jutalmak használati feltételeit</string>
+    <string name="terms_text">Elfogadom a Huhi Jutalmak feltételeit</string>
+    <string name="terms_of_service">Szolgáltatási feltételek</string>
+
+    <string name="agree">Elfogadom</string>
+    <string name="join">Csatlakozás</string>
+
+     <string name="start_browsing">Kezdj el böngészni</string>
+    <string name="i_didnt_see">Nem láttam hirdetést</string>
+
+    <string name="huhi_ads_onboarding_title">A Huhi mutatja első hirdetésedet: </string>
+    <string name="huhi_ads_onboarding_text">Engedélyezd, hogy a Huhi értesítéseket mutasson, ha Huhi Jutalmak hirdetéseket szeretnél látni.</string>
+
+    <string name="this_is_your_first_ad">Ez az első Huhi hirdetésed. Koppints, ha szeretnél többet megtudni.</string>
+
+    <string name="turn_on">Bekapcsolás</string>
+
+    <string name="no_thanks">Köszönöm, nem</string>
+    <string name="do_not_agree">Nem értek egyet</string>
+
+    <string name="prefs_welcome_tour">Bemutatás</string>
+    <string name="welcome_tour_dialog_text">A bemutatkozás újraindítása nem lesz hatással semmilyen beállításra</string>
+    <string name="finish">Befejezés</string>
+    
+    <string name="clear_download_title">Letöltési előzmények</string>
+
+    <string name="settings_exit">Beállítások kilépés</string>
+
+</resources>

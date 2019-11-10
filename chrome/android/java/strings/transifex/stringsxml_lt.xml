@@ -1,0 +1,307 @@
+<resources>
+
+    <string name="huhi_settings_title">„Huhi“ svetainės skydo nustatymai, skirti</string>
+    <string name="huhi_shields_down">Išjungta</string>
+    <string name="huhi_shields_up">Įjungta</string>
+    <string name="huhi_shields_ads_trackers">Užblokuota reklamų ir seklių</string>
+    <string name="huhi_shields_https_upgrades">HTTPS naujinimų</string>
+    <string name="huhi_shields_scripts_blocked">Užblokuota scenarijų</string>
+    <string name="huhi_shields_ads_tracking_switch">Blokuoti reklamas ir seklius</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Everywhere</string>
+    <string name="huhi_shields_blocks_scripts_switch">Blokuoti scenarijus</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Įjungti / išjungti „Huhi“ skydus</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Blokuoti trečiųjų šalių slapukus</string>
+
+    <string name="httpse_summary">Kai įmanoma, atveria palaikomas svetaines naudojant HTTPS, o ne HTTP</string>
+    <string name="ad_block_title">Reklamos blokavimas</string>
+    <string name="ad_block_summary">Neleidžia įkelti reklamų</string>
+
+    <string name="fingerprinting_protection_title">Apsauga nuo būdingų bruožų atpažinimo</string>
+    <string name="fingerprinting_protection_summary">Neleidžia naršyklei atpažinti jums būdingus bruožus</string>
+    <string name="huhi_shields_fingerprints_blocked">Pirštų atspaudų metodai blokuoti</string>
+    <string name="huhi_shields_block_fingerprints_switch">Apsauga nuo būdingų bruožų atpažinimo</string>
+
+    <string name="ad_block_regional_title">Regioninės reklamos blokavimas</string>
+    <string name="ad_block_regional_summary">Neleidžia įkelti regioninių reklamų</string>
+
+    <string name="ad_block_regional_summary_no_list">Jūsų lokalei nėra jokių papildomų sąrašų</string>
+
+    <string name="menu_exit">Išeiti</string>
+
+    <string name="sync_settings_add_device_name_title">Įrašykite įrenginio pavadinimą</string>
+    <string name="sync_settings_add_device_name_label">Įveskite pasirinktinį šio įrenginio pavadinimą</string>
+    <string name="sync_example_device_name">„Android“ įrenginys</string>
+    <string name="enter_code_words_sync">Įveskite žodinį kodą</string>
+    <string name="sync_device">Sinchronizuoti įrenginį</string>
+    <string name="sync_device_failure">Nepavyko nustatyti sinchronizavimo</string>
+    <string name="sync_requires_correct_time">Gali būti, kad jūsų kompiuterio laikas arba laiko juosta nustatyti neteisingai. Patikrinkite laikrodžio nuostatas</string>
+
+    <string name="huhi_stats_text_ads">Reklamos ir sekliai
+Užblokuoti</string>
+    <string name="huhi_stats_text_https">HTTPS
+atnaujinimų</string>
+    <string name="huhi_stats_text_time">Sutaupyta
+maždaug laiko</string>
+
+    <string name="send_metrics_title">Siųsti metriką</string>
+
+    <string name="desktop_mode_title">Darbalaukio veiksena</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Teikti pirmenybę svetainių darbalaukio versijai</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Teikti pirmenybę svetainių mobiliajai versijai</string>
+    <string name="website_settings_category_desktop_view_enabled">Naujoms kortelėms įjungti darbalaukio rodinį</string>
+    <string name="website_settings_category_desktop_view_disabled">Naujoms kortelėms naudoti mobiliąsias svetainių versijas (rekomenduojama)</string>
+
+    <string name="huhi_shields_first_group_title">Blokavimo monitorius</string>
+    <string name="huhi_shields_second_group_title">Atskiri valdikliai</string>
+    <string name="huhi_shields">Skydai</string>
+    <string name="huhi_shields_ads_and_trackers">Reklamos ir sekliai</string>
+    <string name="huhi_shields_fingerprint_methods">Pirštų atspaudų metodai</string>
+    <string name="huhi_shields_block_phishing_switch">Blokuoti sukčiavimą</string>
+
+    <string name="play_video_in_background_title">Foninis vaizdo atkūrimas</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Įjungta</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Išjungta</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Eksperimentinė funkcija. Suteikia galimybę leisti foninio vaizdo įrašo garsą, kai kortelė nėra aktyvi arba įrenginio ekranas išjungtas. Jei ši funkcija neveikia, pabandykite perjungti į darbalaukio režimą.</string>
+    <string name="settings_require_relaunch_notice">Pakeitimai įsigalios, kai kitą kartą paleisite Huhi</string>
+    <string name="settings_require_relaunch_now">PALEISTI IŠ NAUJO DABAR</string>
+    <string name="settings_require_relaunch_later">VĖLIAU</string>
+
+    <string name="play_yt_video_in_browser_title">Vaizdo įrašų atkūrimas naršyklėje „Huhi“</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Įjungta</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Išjungta</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Jei įjungta, vaizdo įrašai bus leidžiami naršyklėje „Huhi“, o ne atitinkamoje programoje</string>
+
+    <string name="close_tabs_on_exit_title">Išeinant, užverti korteles</string>
+    <string name="close_tabs_on_exit_summary">Neišlaikyti kortelių per naršymo seansus</string>
+
+    <string name="open_pages_in_custom_tabs_title">Atverti korteles pritaikytų kortelių rodinyje</string>
+    <string name="open_pages_in_custom_tabs_summary">Pasiūlyti atverti korteles pritaikytų kortelių rodinyje</string>
+
+    <string name="ddg_offer_title">Privati paieška, naudojant DuckDuckGo?</string>
+    <string name="ddg_offer_text">Vykdant privačią paiešką, jūsų paieškos užklausoms „Huhi“ naudos „DuckDuckGo“, kol būsite šioje privačioje kortelėje. „DuckDuckGo“ yra paieškos modulis, kuris neseka jūsų paieškos istorijos, todėl galite ieškoti privačiai.</string>
+    <string name="ddg_offer_positive">Taip</string>
+    <string name="ddg_offer_negative">Ne</string>
+    <string name="ddg_offer_link">Sužinokite apie privačią paiešką, naudojant DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Standartinė kortelė</string>
+    <string name="prefs_private_search_engine">Privati kortelė</string>
+
+    <string name="huhi_open_in_private_tab">Atverti privačioje kortelėje</string>
+    <string name="huhi_close_all_private_tabs">Užverti privačias korteles</string>
+    <string name="huhi_new_private_tab">Nauja privati kortelė</string>
+    <string name="huhi_new_tab_private_header">Tai yra privati kortelė</string>
+    <string name="huhi_new_tab_private_message">Net jei svetainės, kuriose lankotės per privačias korteles, nėra įrašomos vietiniame įrenginyje, jos nepadaro jūsų nežinomo ar nematomo jūsų interneto paslaugų teikėjui, jūsų darbdaviui ar svetainėms, kuriose lankotės.</string>
+    <string name="update_notification_title">„Huhi“ naujinimas</string>
+    <string name="update_notification_text">Naujoji naršyklė „Huhi“ yra 22 % spartesnė</string>
+    <string name="prefs_sync">„Sync“  (beta versija)</string>
+    <string name="huhi_ads_existing_user_offer_title">„Huhi“ reklamos jau čia!</string>
+    <string name="huhi_ads_new_user_offer_title">Įjungti „Huhi“ atlygį</string>
+    <string name="huhi_ads_offer_text">Gaukite dėmesio žetonų už tai, kad peržiūrite privatumą gerbiančią reklamą per „Huhi“ atlygį.</string>
+    <string name="huhi_ads_offer_positive">Sutinku!</string>
+    <string name="huhi_sync_description_page_1_part_1">„Huhi Sync“ suteikia galimybę privačiai sinchronizuoti adresyno įrašus tarp „Huhi“ naršyklių įvairiuose jūsų įrenginiuose.</string>
+    <string name="huhi_sync_description_page_1_part_2">Tiesiog nuskaitykite kodą sinchronizavimo grandinėje, kurią sukūrėte kitame įrenginyje. Taip pat galite pradėti naują grandinę.</string>
+    <string name="huhi_sync_scan_chain_code">Nuskaitykite arba įveskite sinchronizavimo kodą</string>
+    <string name="huhi_sync_start_new_chain">Pradėti naują sinchronizavimo grandinę</string>
+    <string name="huhi_sync_qrcode_message_v2">Sinchronizuotame įrenginyje atverkite „Huhi“ Settings“ („Huhi“ nustatymai), ten eikite į Settings > Sync (nustatymai > „Sync“). Pasirinkite „Add Device“ (pridėti įrenginį) ir nuskaitykite ekrane rodomą QR kodą.</string>
+    <string name="huhi_sync_codewords_message">Sinchronizuotame įrenginyje atverkite „Huhi“ Settings“ („Huhi“ nustatymai), ten eikite į Settings > Sync (nustatymai > „Sync“). Pasirinkite „Add Device“ (pridėti įrenginį) ir „Display code words instead“ (rodyti žodinį kodą).</string>
+    <string name="huhi_sync_btn_mobile">Pridėti mobilųjį įrenginį</string>
+    <string name="huhi_sync_btn_laptop">Pridėti kompiuterį</string>
+    <string name="huhi_sync_scan_sync_code">Nuskaityti šį sinchronizavimo kodą</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Antrame telefone ar planšetėje nueikite į „Huhi“ Settings > Sync > Scan („Huhi“ nustatymai > „Sync“ > nuskaityti).</string>
+    <string name="huhi_sync_btn_done">Atlikta</string>
+    <string name="huhi_sync_tabs_text">Kortelės</string>
+    <string name="huhi_sync_history_text">Istorija</string>
+    <string name="huhi_sync_autofill_passwords_text">Automatinis užpildymas / slaptažodžiai</string>
+    <string name="huhi_sync_payment_settings_text">„Huhi Payment“ nustatymai</string>
+    <string name="huhi_sync_settings_title">SINCHRONIZUOTI ŠIAME ĮRENGINYJE</string>
+    <string name="huhi_sync_settings_description">Nustatymų pakeitimas turės įtakos tik tiems duomenims, kuriuos šis įrenginys bendrina kitiems.</string>
+    <string name="huhi_sync_devices_title">KITI GRANDINĖS ĮRENGINIAI</string>
+    <string name="huhi_sync_loading_devices_title">ĮKELIAMI ĮRENGINIAI...</string>
+    <string name="huhi_sync_add_device_text">Pridėti kitą įrenginį</string>
+    <string name="huhi_sync_remove_device_text">Šalinti šį įrenginį</string>
+    <string name="huhi_sync_code_words_title">Suporuoti</string>
+    <string name="huhi_sync_add_laptop_text_title">Įvesti sinchronizavimo grandinės kodą</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Kompiuteryje nueikite į „Huhi“ Settings > Sync („Huhi“ nustatymai > „Sync“). Pasirinkite „Enter a Sync Chain Code“ (įvesti sinchronizavimo grandinės kodą).</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Viršuje įveskite žodinį kodą su tarpeliais.</string>
+    <string name="huhi_sync_delete_device">Ar tikrai norite pašalinti įrenginį „<ph name=\"DEVICE_NAME\">%1$s</ph>“?</string>
+    <string name="huhi_sync_delete_sent">Prašymas pašalinti išsiųstas. Įrenginys netrukus bus pašalintas.</string>
+    <string name="huhi_sync_loading_data_title">Įkeliami duomenys...</string>
+    <string name="huhi_sync_time_out_message">Kažkas nutiko, atrodo, kad pasibaigė jūsų užklausos laikas.</string>
+    <string name="huhi_sync_use_camera_text">Aš naudosiu savo kamerą...</string>
+    <string name="huhi_sync_confirm_code_words_text">Patvirtinti</string>
+    <string name="huhi_sync_word_count_text">Žodžių skaičius: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Netikslus žodžių skaičius</string>
+    <string name="huhi_sync_qr_code">QR kodas</string>
+    <string name="huhi_sync_code_words">Žodinis kodas</string>
+    <string name="huhi_sync_copy_button_text">Kopijuoti į iškarpinę</string>
+    <string name="huhi_sync_copied_text">Nukopijuota į iškarpinę</string>
+    <string name="huhi_sync_this_device_text">(šis įrenginys)</string>
+
+    <string name="huhi_already_set_as_default_browser">„Huhi“ jau nustatyta
+numatytąja naršykle.</string>
+    <string name="huhi_default_browser_go_to_settings">Numatytąją naršyklę jau nustatėte.
+Numatytąją naršyklę galima pakeisti programos nuostatų skiltyje.</string>
+    <string name="huhi_set_default_browser">Nustatyti kaip numatytąją naršyklę</string>
+    <string name="huhi_default_browser_existing_notification_body">Nustatykite „Huhi“ numatytąja interneto naršykle
+Taupykite akumuliatoriaus energiją ir negaiškite laukdami, kol puslapiai bus įkelti</string>
+
+    <string name="huhi_ui_welcome_header_two">Pasiruoškite internete
+naršyti kitaip.</string>
+    <string name="huhi_ui_welcome_desc_two">Dabar žiūrėdami privatumo nepažeidžiančias
+reklamas galite užsidirbti žetonų.</string>
+    <string name="huhi_ui_welcome_button_text_two">DALYVAUTI ATLYGIO PROGRAMOJE</string>
+    <string name="huhi_ui_welcome_footer_text_two">DAUGIAU INFORMACIJOS</string>
+    <string name="huhi_ui_rewards_creating_text">Piniginės kūrimas</string>
+    <string name="huhi_ui_your_wallet">Jūsų piniginė</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Įdėti pinigų</string>
+    <string name="huhi_ui_settings">Nustatymai</string>
+    <string name="huhi_ui_rewards_summary">ATLYGIO SUVESTINĖ</string>
+    <string name="huhi_ui_site_banner_welcome">Ačiū, kad susidomėjote!</string>
+    <string name="huhi_ui_rewards_banner_text1">Šią svetainę galite paremti nusiųsdami arbatpinigių. Taip galėsite padėkoti jos kūrėjams už puikų turinį. Patikrinti kūrėjai išmokas už savo arbatpinigius gauna per pirmąją kiekvieno kalendorinio mėnesio savaitę.</string>
+    <string name="huhi_ui_rewards_banner_text2">Jei šią svetainę norite remti nuolat, galite pasirinkti mėnesinių arbatpinigių planą.</string>
+    <string name="huhi_ui_donation_amount">Arbatpinigių suma</string>
+    <string name="huhi_ui_wallet_balance">piniginės likutis:</string>
+    <string name="huhi_ui_make_monthly">Padaryti juos mėnesiniais</string>
+    <string name="huhi_ui_send_tip">siųsti mano arbatpinigius</string>
+    <string name="huhi_ui_do_monthly">nustatyti mėnesinius arbatpinigius</string>
+    <string name="huhi_ui_not_enough_tokens">trūksta žetonų</string>
+    <string name="huhi_ui_site_banner_notice_text">PASTABA. Šis kūrėjas kol kas neužsiregistravo dotacijoms iš „Huhi“ naudotojų gauti. Mes bandysime jiems dotuoti, kol jie patvirtins arba kol sueis 90 dienų terminas.</string>
+    <string name="huhi_ui_please">prašome</string>
+    <string name="huhi_ui_add_funds">įdėti pinigų</string>
+    <string name="huhi_ui_thank_you">Dėkojame!</string>
+    <string name="huhi_ui_error_init_wallet">Vėliau bandykite dar kartą.</string>
+    <string name="huhi_ui_month_jan">SAUSIS</string>
+    <string name="huhi_ui_month_feb">VASARIS</string>
+    <string name="huhi_ui_month_mar">KOVAS</string>
+    <string name="huhi_ui_month_apr">BALANDIS</string>
+    <string name="huhi_ui_month_may">GEGUŽĖ</string>
+    <string name="huhi_ui_month_jun">BIRŽELIS</string>
+    <string name="huhi_ui_month_jul">LIEPA</string>
+    <string name="huhi_ui_month_aug">RUGPJŪTIS</string>
+    <string name="huhi_ui_month_sep">RUGSĖJIS</string>
+    <string name="huhi_ui_month_oct">SPALIS</string>
+    <string name="huhi_ui_month_nov">LAPKRITIS</string>
+    <string name="huhi_ui_month_dec">GRUODIS</string>
+    <string name="huhi_ui_month_year"><ph name=\"YEAR\">%2$s<ex>2018 M.</ex></ph> <ph name=\"MONTH\">%1$s<ex>GRUODIS</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Dėmėsio</string>
+    <string name="huhi_ui_include_in_auto">Įtraukti į automatinio mokėjimo programą</string>
+    <string name="huhi_ui_donate_now">Siųsti arbatpinigių...</string>
+    <string name="huhi_ui_no_activity">Jokios veiklos per šį
+mėnesį...</string>
+    <string name="huhi_ui_token_grant_claimed">Atsiimta dovanotų žetonų</string>
+    <string name="huhi_ui_earnings_ads">Uždarbis iš reklamų</string>
+    <string name="huhi_ui_rewards_contribute">Automatinis dotavimas</string>
+    <string name="huhi_ui_rewards_contribute_description">Jūs dotavote <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
+    <string name="huhi_ui_one_time_donation">Vienkartiniai arbatpinigiai</string>
+    <string name="huhi_ui_recurring_donation">Mėnesiniai arbatpinigiai</string>
+    <string name="huhi_ui_verified_publisher">„Huhi“ patvirtintas kūrėjas</string>
+    <string name="huhi_ui_not_verified_publisher">Dar nepatvirtintas</string>
+    <string name="huhi_ui_not_verified_publisher_description">Šis kūrėjas kol kas neužsiregistravo įmokoms iš „Huhi“ naudotojų gauti.
+ Visi arbatpinigiai liks jūsų piniginėje, kol jis neptavirtins.</string>
+    <string name="huhi_ui_on_youtube">svetainėje „YouTube“</string>
+    <string name="huhi_ui_on_twitch">svetainėje „Twitch“</string>
+    <string name="huhi_ui_new_grant">Turime nemokamą žetoną dovanų.</string>
+    <string name="huhi_ui_new_token_grant">Nemokamas žetonas dovanų</string>
+    <string name="huhi_ui_claim">Atsiimti</string>
+    <string name="huhi_ui_reserved_amount_text">Jūsų skyrėte <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT kūrėjams, kurie
+dar neužsiregistravo dotacijoms gauti. Jūsų naršyklė bandys jiems dotuoti,
+kol jie patvirtins arba kol sueis 90 dienų terminas.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Apdorojant jūsų arbatpinigių operaciją įvyko klaida. Pabandykite dar kartą.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Apdorojant jūsų dotaciją įvyko klaida. </string>
+    <string name="huhi_rewards_local_uh_oh">O, ne!</string>
+    <string name="huhi_rewards_local_server_not_responding">Jūsų „Huhi“ atlygio serveris neatsako. Šią problemą kuo skubiau pašalinsime.</string>
+    <string name="huhi_ui_grants">Dovanos</string>
+    <string name="huhi_ui_expires_on">galioja iki <ph name=\"DATE\">%1$s<ex>2019-04-14</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Nepakanka pinigų</string>
+    <string name="huhi_ui_insufficient_funds_desc">Laukiama įnašo į jūsų „Huhi“ atlygio sąskaitą.</string>
+    <string name="huhi_ui_backup_wallet_msg">Kurti atsarginę piniginės kopiją</string>
+    <string name="huhi_ui_backup_wallet_desc">Sukurkite atsarginę savo piniginės kopiją.</string>
+    <string name="huhi_ui_huhi_rewards">„Huhi“ atlygis</string>
+    <string name="huhi_ui_welcome_back_message">Sveiki sugrįžę!</string>
+    <string name="huhi_ui_get_rewarded">Gaukite atlygį už naršymą.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Uždirbkite žiūrėdami privatumo
+nepažeidžiančias reklamas ir skirkite
+savo uždarbį mėgstamiems turinio kūrėjams.</string>
+    <string name="huhi_welcome_page_rewards_title">ĮJUNGTI „HUHI“ ATLYGIO FUNKCIJĄ</string>
+    <string name="huhi_ui_first_tip_text">Jūsų pirmieji mėnesio arbatpinigiai bus nusiųsti:</string>
+    <string name="huhi_ui_tip_text">Ką tik nusiuntėte arbatpinigių:</string>
+    <string name="huhi_ui_auto_tip_text">Automatiškai siunčiate arbatpinigius:</string>
+    <string name="huhi_ui_monthly_text">Kas mėnesį</string>
+    <string name="bottom_toolbar_enable">Įgalinti apatinę įrankių juostą</string>
+    <string name="bottom_toolbar_disable">Išjungti apatinę įrankių juostą</string>
+    <string name="search_or_url">Ieškoti arba įvesti URL adresą</string>
+    <string name="accessibility_toolbar_btn_bookmark">Kurti žymę</string>
+    <string name="huhi_ui_donate_monthly">Kas mėnesį skirti arbatpinigių šiai svetainei</string>
+
+    <string name="huhi_rewards_not_available">Apgailestaujame, bet atrodo, kad jūsų įrenginyje „Huhi“ atlygis negalimas</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">„Huhi“ uždaroma užveriant visas korteles</string>
+    <string name="prefs_section_display">Rodinys</string>
+    <string name="prefs_section_controls">Valdikliai</string>
+    <string name="prefs_appearance">Išvaizda</string>
+    <string name="hide_huhi_rewards_icon_title">Slėpti „Huhi“ atlygio piktogramą</string>
+    <string name="hide_huhi_rewards_icon_description">Kai „Huhi“ atlygis išjungtas, „Huhi“ atlygio piktograma paslepiama</string>
+    <string name="reset_huhi_rewards_option">Iš naujo nustatyti „Huhi“ atlygį</string>
+    <string name="reset_huhi_rewards_option_description">Taip jūsų „Huhi“ piniginė bus panaikinta, o visi jūsų „Huhi“ atlygio duomenys bus nustatyti iš naujo</string>
+    <string name="reset_huhi_rewards_error_title">Nustatymo iš naujo klaida</string>
+    <string name="reset_huhi_rewards_error_description">Iš naujo nustatant „Huhi“ atlygį, vyko klaida. Iš naujo paleiskite „Huhi“ ir bandykite dar kartą</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Paskirties vietos kompiuterio nuostatų dalyje nueikite į „Huhi Sync“ ir spustelėkite mygtuką „I have a Sync Code“ (turiu sinchronizavimo kodą).\nĮveskite toliau parodytus sinchronizavimo grandinės kodo žodžius.</string>
+
+    <string name="huhi_sync_official">„Huhi Sync“</string>
+    <string name="prefs_sync_official">Sinchronizavimas</string>
+
+    <string name="huhi_sync_code_warning">Su šiuo kodu elkitės kaip su slaptažodžiu. Jei kas nors jį sužinos, galės perskaityti ir keisti jūsų sinchronizuotus duomenis.</string>
+
+    <string name="notification_category_group_huhi_ads">„Huhi“ reklamos</string>
+    <string name="huhi_ads_you_earned">Pelnėte</string>
+
+    <string name="huhi_default_browser_title">„Huhi“ veikia žaibo greičiu</string>
+    <string name="huhi_default_browser_body">Padarykite „Huhi“ savo numatytąja naršykle!</string>
+    <string name="huhi_make_default_text">Nustatyti kaip numatytąją</string>
+    <string name="huhi_ui_ads_earnings">pelnyta iš reklamos</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Praleisti</string>
+
+    <string name="search_engine_onboarding">Prisijungimo paieškos modulis</string>
+    <string name="troubleshooting_onboarding">Prisijungimo trikčių šalinimas</string>
+
+    <string name="welcome_to_huhi_browser">Jus sveikina naršyklė „Huhi“</string>
+    <string name="select_your_default_search_engine">Pasirinkite savo numatytąjį paieškos modulį</string>
+
+    <string name="block">Blokuoti</string>
+    <string name="huhi_shields_onboarding_title">„Huhi“ apsaugo</string>
+    <string name="huhi_shields_onboarding_text">nuo privatumą pažeidžiančios reklamos, todėl galite naršyti žiniatinklyje nesekami.</string>
+
+    <string name="earn_tokens">Pelnykite žetonų</string>
+    <string name="huhi_rewards_onboarding_title">„Huhi“ atlygina</string>
+    <string name="huhi_rewards_onboarding_text">už privatumo nepažeidžiančių reklamų peržiūrą. Uždarbiu paremkite mėgstamas svetaines ir kūrėjus.</string>
+    <string name="huhi_rewards_onboarding_text2">už privatumo nepažeidžiančių reklamų peržiūrą.</string>
+
+    <string name="terms_title">Sutinku su „Huhi“ atlygio naudojimosi sąlygomis</string>
+    <string name="terms_text">Sutinku su „Huhi“ atlygiu</string>
+    <string name="terms_of_service">Paslaugos teikimo sąlygos</string>
+
+    <string name="agree">Sutinku</string>
+    <string name="join">Prisijungti</string>
+
+     <string name="start_browsing">Pradėti naršyti</string>
+    <string name="i_didnt_see">Nemačiau reklamos</string>
+
+    <string name="huhi_ads_onboarding_title">„Huhi“ pirmąją reklamą parodys po</string>
+    <string name="huhi_ads_onboarding_text">Jei norite matyti „Huhi“ atlygio reklamas, įsitikinkite, kad „Huhi“ leidžiama jums rodyti pranešimus.</string>
+
+    <string name="this_is_your_first_ad">Tai jūsų pirmoji „Huhi“ reklama. Bakstelėkite, jei norite sužinoti daugiau.</string>
+
+    <string name="turn_on">Įjungti</string>
+
+    <string name="no_thanks">Ne, ačiū</string>
+    <string name="do_not_agree">Nesutinku</string>
+
+    <string name="prefs_welcome_tour">Pristatymas</string>
+    <string name="welcome_tour_dialog_text">Jei pristatymą paleisite iš naujo, tai neturės įtakos esamoms nuostatoms.</string>
+    <string name="finish">Užbaigti</string>
+    
+    </resources>

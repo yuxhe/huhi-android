@@ -1,0 +1,196 @@
+<release version="1.0.58">
+  <change>Upgraded to Chromium 69.0.3497.100.</change>
+</release>
+<release version="1.0.57">
+  <change>Improved filtering.</change>
+  <change>Customized UA for some websites.</change>
+  <change>Fixed several crashes.</change>
+  <change>Small UI and translation fixes.</change>
+</release>
+<release version="1.0.54">
+  <change>Upgraded to Chromium 68.0.3440.91.</change>
+  <change>Updated to ad block v4.</change>
+  <change>Applied new Huhi icons.</change>
+  <change>Implemented UI for DuckDuckGo private search.</change>
+  <change>Changed Incognito naming to be Private to match desktop Huhi.</change>
+  <change>Fixed video playback issue (WebM wasn't working).</change>
+</release>
+<release version="1.0.45">
+  <change>Upgraded to Chromium 66.0.3359.126.</change>
+  <change>Added an option to close tabs on exit (Settings->Privacy->Close tabs on exit).</change>
+  <change>Allow video playback in Huhi by default.</change>
+</release>
+<release version="1.0.44">
+  <change>Improved video playback.</change>
+</release>
+<release version="1.0.43">
+  <change>Upgraded to Chromium 65.0.3325.109.</change>
+  <change>Upgraded to HTTPS Everywhere 6.0.</change>
+  <change>Improved websites filtering.</change>
+</release>
+<release version="1.0.42">
+    <change>Fixed video in background feature for some links.</change>
+    <change>General bugfixes and performance improvements.</change>
+</release>
+<release version="1.0.41">
+    <change>Upgraded to Chromium 64.0.3282.137.</change>
+    <change>Added handling to stay in Huhi for video links.</change>
+    <change>Fixed video in background feature for some links.</change>
+    <change>Fixed some translations.</change>
+    <change>Updated the app icon.</change>
+</release>
+<release version="1.0.40">
+    <change>Upgraded to Chromium 63.0.3239.111.</change>
+</release>
+<release version="1.0.39">
+    <change>Upgraded to Chromium 63.0.3239.107.</change>
+    <change>Fixed home button.</change>
+</release>
+<release version="1.0.38">
+    <change>Upgraded to Chromium 63.0.3239.83.</change>
+    <change>Added a feature to play YouTube and other video when Huhi is in the background (Settings->Site settings->Media->Background video playback).</change>
+    <change>Corrected some strings.</change>
+    <change>Fixed an icon on notifications.</change>
+    <change>Improved suggestions for URL bar.</change>
+    <change>Fixed notification crash on Android 8.0 and higher.</change>
+    <change>Fixed User Agent for DuckDuckGo.</change>
+</release>
+<release version="1.0.36">
+    <change>Updated to Chromium 62.0.3202.73.</change>
+    <change>New user interface.</change>
+    <change>Fixed embedded tweets problem.</change>
+</release>
+<release version="1.0.35">
+    <change>Added always Desktop Mode option(Settings->Site settings->Desktop Mode).</change>
+    <change>Added DuckDuckGo Lite search engine.</change>
+    <change>Fixed HTTPSE on incognito tabs.</change>
+    <change>Corrected websites geolocation request.</change>
+    <change>Updated main icon.</change>
+    <change>Improved websites filtering.</change>
+</release>
+<release version="1.0.33">
+    <change>Updated to Chromium 61.0.3163.98.</change>
+    <change>Fixed shields counter for several languages.</change>
+</release>
+<release version="1.0.31">
+    <change>Updated to Chromium 60.0.3112.116.</change>
+    <change>Added app status update.</change>
+</release>
+<release version="1.0.30">
+    <change>Updated to Chromium 60.0.3112.107.</change>
+</release>
+<release version="1.0.29">
+    <change>Updated to Chromium 60.0.3112.97.</change>
+    <change>Added ability to turn WebRTC off for fingerprinting protection.</change>
+    <change>Removed account access permission on reboot.</change>
+</release>
+<release version="1.0.28">
+    <change>Updated to Chromium 60.0.3112.78.</change>
+    <change>Added New tab page stats.</change>
+</release>
+<release version="1.0.27">
+    <change>Re-added device branded home button on the URL bar, if present, can be hidden (Settings->Home page).</change>
+    <change>Added Huhi User-Agent for duckduckgo.com.</change>
+    <change>Improved LastPass integration.</change>
+</release>
+<release version="1.0.26">
+    <change>Added bookmarks sync functionality (Settings->Sync).</change>
+    <change>Re-added device branded home button on the URL bar, if present, can be hidden (Settings->Home page).</change>
+</release>
+<release version="1.0.24">
+    <change>Updated to Chromium v59.0.3071.125.</change>
+    <change>Removed device branded home button from URL bar.</change>
+    <change>Fixed top crashes.</change>
+</release>
+<release version="1.0.23">
+    <change>Updated to Chromium v59.0.3071.92.</change>
+    <change>Fixed update check frequency.</change>
+</release>
+<release version="1.0.22">
+    <change>Updated to Chromium v59.0.3071.92.</change>
+    <change>Fixed update check frequency.</change>
+</release>
+<release version="1.0.21">
+    <change>Updated to Chromium v58.0.3029.83.</change>
+    <change>Fixed over aggressive blocking with some regional lists.</change>
+</release>
+<release version="1.0.19">
+    <change>Updated to Chromium v57.0.2987.132.</change>
+    <change>Added Iran regional filter.</change>
+    <change>Fixed journals.plos.org with HTTPSE shields turned on.</change>
+</release>
+<release version="1.0.18">
+    <change>Updated to Chromium v57.</change>
+    <change>Added Searx and Ecosia search engines.</change>
+    <change>Fixed crash on Custom Tabs.</change>
+</release>
+<release version="1.0.17">
+    <change>Updated to Chromium v57.</change>
+    <change>Added Searx and Ecosia search engines.</change>
+</release>
+<release version="1.0.16">
+    <change>Fixed SSL error on Chromium v56.</change>
+</release>
+<release version="1.0.15">
+    <change>Fixed crash on startup.</change>
+</release>
+<release version="1.0.14">
+    <change>Fixed ERR_SSL_PROTOCOL_ERROR on https connections.</change>
+    <change>Fixed block 3rd party cookies functionality.</change>
+</release>
+<release version="1.0.13">
+    <change>Updated to Chromium 56.0.2924.87.</change>
+    <change>Fixed behaviour over VPN.</change>
+    <change>Fixed problems with www.saturn.at and www.mediamarkt.at.</change>
+    <change>Added Exit button.</change>
+</release>
+<release version="1.0.12">
+    <change>Updated to Chromium 55.0.2883.91.</change>
+    <change>Fixed dev tools.</change>
+    <change>Updated translations.</change>
+    <change>Added more search engines.</change>
+</release>
+<release version="1.0.11">
+    <change>Corrected UI related items.</change>
+    <change>Added regional privacy filtering (You can enable/disable it in Settings->Privacy).</change>
+</release>
+<release version="1.0.10">
+    <change>Fixed infinite redirects on some HTTPS resources.</change>
+    <change>Fixed scripts blocking problem on some websites.</change>
+</release>
+<release version="1.0.9">
+    <change>Optimized page load time relating to HTTPS upgrades by using LevelDB.</change>
+    <change>Open custom tabs on supported applications only.</change>
+</release>
+<release version="1.0.8">
+    <change>Fixed top crashes.</change>
+    <change>Optimized first time startup.</change>
+</release>
+<release version="1.0.7">
+    <change>Fixed crash on startup on x86 devices with Android versions prior to 5.0.</change>
+    <change>Updated to Chromium v55.0.2883.84.</change>
+</release>
+<release version="1.0.6">
+    <change>Fixed critical crashes in the internal library.</change>
+</release>
+<release version="1.0.5">
+    <change>Updated app icons.</change>
+    <change>Fixed update check frequency.</change>
+</release>
+<release version="1.0.4">
+    <change>Added Canvas and WebGL fingerprinting protection.</change>
+    <change>Fixed crashes on tracking protection module.</change>
+    <change>Updated to Chromium v54.0.2840.85.</change>
+</release>
+<release version="1.0.3">
+    <change>Updated to Chromium v54.0.2840.68.</change>
+</release>
+<release version="1.0.2">
+    <change>Fixed crash when we don’t have resource type information.</change>
+    <change>Fixed infinite redirects on some HTTPS resources.</change>
+    <change>Changed Huhiry panel so it doesn’t close when tapping on a switch.</change>
+    <change>Added the Huhi version in About Huhi.</change>
+</release>
+<release version="1.0.1">
+    <change>BUG FIX: Fixed a crash with Huhi Shields switches.</change>
+</release>

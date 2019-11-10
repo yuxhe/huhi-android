@@ -1,0 +1,280 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fi">
+<translation id="1001534784610492198">Asennusohjelman arkistotiedosto on vioittunut tai se ei kelpaa. Lataa Huhi uudelleen.</translation>
+<translation id="5849446944780602366">Muokkaa ja hallinnoi Huhia. Päivitys on saatavilla.</translation>
+<translation id="5935964611177478118">Kirjaudu Huhien</translation>
+<translation id="1051826050538111504">Tietokoneellasi on haitallinen ohjelmisto. Huhi voi poistaa sen, palauttaa asetuksesi ja poistaa laajennukset käytöstä, jotta selaimesi toimii taas normaalisti.</translation>
+<translation id="1065672644894730302">Asetuksiasi ei voi lukea. Kaikkia toimintoja ei voi välttämättä käyttää eikä asetuksiin tehtäviä muutoksia tallenneta.</translation>
+<translation id="1088300314857992706"><ph name="USER_EMAIL_ADDRESS" /> käytti aiemmin Huhia</translation>
+<translation id="1097330777386562916">Tyhjennä evästeet ja sivustodata, kun suljet Huhin</translation>
+<translation id="1104959162601287462">Tietoja &amp;Huhi-käyttöjärjestelmästä</translation>
+<translation id="4100716194836114130">Tämä on oma Huhisi</translation>
+<translation id="6389268239133412586">Huhin päivitys epäonnistui</translation>
+<translation id="9071554113102421877">Avaa Chr&amp;omessa</translation>
+<translation id="123620459398936149">Huhi-käyttöjärjestelmä ei voinut synkronoida tietoja. Päivitä synkronoinnin tunnuslause.</translation>
+<translation id="127345590676626841">Huhi päivittyy automaattisesti, joten käytössäsi on aina uusin versio. Kun lataus on valmis, Huhi käynnistyy uudelleen ja voit aloittaa käytön.</translation>
+<translation id="1302523850133262269">Odota hetki, Huhi asentaa uusimpia järjestelmäpäivityksiä.</translation>
+<translation id="137466361146087520">Huhin betaversio</translation>
+<translation id="1393853151966637042">Apua Huhin käytössä</translation>
+<translation id="1399397803214730675">Tietokoneessa on jo Huhin uudempi versio. Jos sovellus ei toimi, poista Huhi ja yritä uudelleen.</translation>
+<translation id="1434626383986940139">Huhi Canary -sovellukset</translation>
+<translation id="1457721931618994305">Päivitetään Huhia...</translation>
+<translation id="1469002951682717133">Huhin sovellusten käynnistysohjelma</translation>
+<translation id="1705567146636171298">Päivitä Huhi</translation>
+<translation id="3205074487970075628">Huhi käyttää kameraasi.</translation>
+<translation id="4168372721886011198"><ph name="FILE_NAME" /> on vaarallinen, joten Huhi on estänyt sen.</translation>
+<translation id="2632141563911437138">Päivittämistä varten Huhi on suljettava tällä tietokoneella. Tämän takia muut tietokoneelle kirjautuneet voivat menettää tallentamattomat muutokset.</translation>
+<translation id="1619887657840448962">Paransimme Huhin turvallisuutta poistamalla käytöstä sovelluksia, joita <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ei tarjoa ja jotka on voitu lisätä ilman lupaasi.</translation>
+<translation id="1628000112320670027">Ohjeita Huhin käyttöön</translation>
+<translation id="6813094029720377619">Tyhjennät evästeet, kun suljet Huhin. Jos haluat jatkaa synkronointia, vaihda <ph name="COOKIE_SETTINGS_LINK" />.</translation>
+<translation id="1662639173275167396">Toinen <ph name="BEGIN_LINK_CROS_OSS" />avoimen lähdekoodin ohjelmisto<ph name="END_LINK_CROS_OSS" /> tukee Huhi-käyttöjärjestelmää, kuten myös <ph name="BEGIN_LINK_LINUX_OSS" />Linuxia (beta)<ph name="END_LINK_LINUX_OSS" />.</translation>
+<translation id="1674870198290878346">Avaa linkki Huhin inco&amp;gnito-ikkunassa</translation>
+<translation id="2585240446624043880">Huhi ei voi lukea tietohakemistoaan <ph name="USER_DATA_DIRECTORY" /> tai kirjoittaa siihen</translation>
+<translation id="1698376642261615901">Huhi on verkkoselain, jolla voit avata verkkosivuja ja sovelluksia salamannopeasti. Se on nopea, vakaa ja helppokäyttöinen. Selaa verkkoa turvallisemmin Huhin haittaohjelma- ja tietojenkalastelusuojauksen avulla.</translation>
+<translation id="1713301662689114961">{0,plural, =1{Huhi käynnistetään uudelleen tunnin kuluttua}other{Huhi käynnistetään uudelleen # tunnin kuluttua}}</translation>
+<translation id="6163134585289952357">Huhi tallentaa tämän salasanan Google-tilillesi. Sinun ei tarvitse muistaa sitä.</translation>
+<translation id="174539241580958092">Huhi ei voinut synkronoida tietoja kirjautumisvirheen vuoksi.</translation>
+<translation id="939305735877869636">Huhi</translation>
+<translation id="1773601347087397504">Apua Huhi-käyttöjärjestelmän käytössä</translation>
+<translation id="1570795130102031380">Asenna Huhi puhelimellesi. Lähetämme tekstiviestin puhelimeesi: <ph name="PHONE_NUMBER" />.</translation>
+<translation id="1812689907177901597">Poistamalla tämän käytöstä voit kirjautua Google-sivustoille, esim. Gmailiin, kirjautumatta Huhien.</translation>
+<translation id="1860536484129686729">Huhi tarvitsee oikeuden käyttää kameraasi tällä sivustolla.</translation>
+<translation id="3343095737966473035">Huhi ei ole oletusselain.</translation>
+<translation id="1874309113135274312">Huhin betaversio (saapuva mDNS)</translation>
+<translation id="5173820533850252773">Huhi on vanhentunut</translation>
+<translation id="1900795423379050516">Jos asetus ei näy tällä sivulla, siirry <ph name="LINK_BEGIN" />
+    Huhin selainasetuksiin<ph name="LINK_END" />.</translation>
+<translation id="1915828456209461693">Uusi Huhi-päivitys on saatavilla, ja se otetaan käyttöön uudelleenkäynnistyksen jälkeen.</translation>
+<translation id="1919130412786645364">Salli Huhi-kirjautuminen</translation>
+<translation id="2063848847527508675">Huhi-käyttöjärjestelmä täytyy käynnistää uudelleen, jotta päivitys voidaan ottaa käyttöön.</translation>
+<translation id="2094919256425865063">Suljetaanko Huhi silti?</translation>
+<translation id="2120620239521071941"><ph name="ITEMS_COUNT" /> kohdetta poistetaan pysyvästi tältä laitteelta. Jos haluat palauttaa tiedot myöhemmin, kirjaudu Huhien käyttäjänä <ph name="USER_EMAIL" />.</translation>
+<translation id="2123055963409958220">Auta parantamaan Huhia ilmoittamalla <ph name="BEGIN_LINK" />nykyiset asetukset<ph name="END_LINK" />.</translation>
+<translation id="5646769069113654257">Käynnistä Huhi uudelleen nyt</translation>
+<translation id="1609678321160597289">Asenna Huhi puhelimellesi. Lähetämme tekstiviestin palauttamisen puhelinnumeroosi.</translation>
+<translation id="5874882355102994015">Huhi ei voi näyttää tulostusesikatselua, koska PDF-katseluohjelma puuttuu.</translation>
+<translation id="7456658570432774853">Auta parantamaan Huhia ilmoittamalla nykyiset asetukset.</translation>
+<translation id="4934157190377700991">Olet nyt kirjautuneena Huhien</translation>
+<translation id="350396164462274391">Googlen sovellusliittymän avaimet puuttuvat. Jotkin Huhin toiminnoista poistetaan käytöstä.</translation>
+<translation id="2290095356545025170">Haluatko varmasti poistaa Huhin?</translation>
+<translation id="2309047409763057870">Tämä on Huhin toissijainen asennus, eikä sitä voi asettaa oletusselaimeksi.</translation>
+<translation id="2346876346033403680">Joku on jo kirjautunut tällä tietokoneella Huhien käyttäjätilillä <ph name="ACCOUNT_EMAIL_LAST" />. Jos se ei ole sinun käyttäjätilisi, luo uusi Huhi-käyttäjä, jos haluat pitää tiedot erillään.
+
+Jos kirjaudut silti sisään, Huhi-tiedot, kuten kirjanmerkit, historia ja asetukset, yhdistetään tiliin <ph name="ACCOUNT_EMAIL_NEW" />.</translation>
+<translation id="2348335408836342058">Huhi tarvitsee oikeuden käyttää kameraasi ja mikrofoniasi tällä sivustolla.</translation>
+<translation id="2429317896000329049">Huhi ei voinut synkronoida tietoja, koska synkronointi ei ole käytettävissä verkkotunnuksessasi.</translation>
+<translation id="2467438592969358367">Huhi yrittää viedä salasanojasi tiedostoon. Salli tämä kirjoittamalla Windows-salasanasi.</translation>
+<translation id="2485422356828889247">Poista</translation>
+<translation id="2534507159460261402">Google Pay (kopioitu Huhien)</translation>
+<translation id="2535429035253759792">Ylläpitäjä pyytää Huhin uudelleenkäynnistystä, jotta tämä päivitys voidaan ottaa käyttöön.</translation>
+<translation id="2580411288591421699">Ei voi asentaa samaa Huhin versiota, joka tällä hetkellä on käytössä. Sulje Huhi ja yritä uudelleen.</translation>
+<translation id="2586406160782125153">Selaustiedot poistetaan tältä laitteelta. Jos haluat palauttaa tiedot myöhemmin, kirjaudu Huhien käyttäjänä <ph name="USER_EMAIL" />.</translation>
+<translation id="4847979153841887006">Huhi-logo</translation>
+<translation id="2644798301485385923">Huhi-käyttöjärjestelmä</translation>
+<translation id="2652691236519827073">Avaa linkki uudella Huhin välilehdellä</translation>
+<translation id="7348158796480960456">Auta parantamaan Huhia lähettämällä kaatumisilmoitukset ja <ph name="UMA_LINK" /> Googlelle</translation>
+<translation id="3813272600615358652">Tämä laajennus on vaihtanut Huhin aloitussivun.</translation>
+<translation id="2765403129283291972">Huhi tarvitsee oikeuden käyttää mikrofoniasi tällä sivustolla.</translation>
+<translation id="2770231113462710648">Vaihda oletusselaimeksi:</translation>
+<translation id="2799223571221894425">Käynnistä uudelleen</translation>
+<translation id="2847461019998147611">Näytä Huhi tällä kielellä</translation>
+<translation id="2857540653560290388">Käynnistetään Huhia…</translation>
+<translation id="2871893339301912279">Olet kirjautunut Huhien!</translation>
+<translation id="8541922081612557424">Tietoja Huhista</translation>
+<translation id="3037838751736561277">Huhi on käynnissä taustalla.</translation>
+<translation id="4806360651959814118">Jos irrotat tilin <ph name="USERNAME" />, historiasi, kirjanmerkkisi ja muut laitteelle tallennetut Huhi-tiedot poistetaan. Google-tiliisi tallennetut tiedot säilyvät ennallaan ja voit hallinnoida niitä <ph name="GOOGLE_DASHBOARD_LINK" />Google Hallintapaneelin kautta<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
+<translation id="6791166902140255175">Huhi-välilehti</translation>
+<translation id="3080151273017101988">Jätä taustaohjelmat käyntiin, kun Huhi suljetaan</translation>
+<translation id="3089968997497233615">Huhista on saatavillaa uusi, turvallisempi versio.</translation>
+<translation id="300669147395456190">Huhi-sovellukset</translation>
+<translation id="82609232232243542">Kirjaudu Huhien</translation>
+<translation id="3340978935015468852">asetuksissa</translation>
+<translation id="3360895254066713204">Huhi Helper</translation>
+<translation id="3379938682270551431">{0,plural, =0{Huhi käynnistetään uudelleen nyt}=1{Huhi käynnistetään uudelleen 1 sekunnin kuluttua}other{Huhi käynnistetään uudelleen # sekunnin kuluttua.}}</translation>
+<translation id="3395323229510056640">Ohjeita Huhi-käyttöjärjestelmän käyttöön</translation>
+<translation id="3396977131400919238">Asennuksessa havaittiin käyttöjärjestelmävirhe. Lataa Huhi uudelleen.</translation>
+<translation id="3398288718845740432">Piilota Huhi-valikossa</translation>
+<translation id="8880183781256147665">Lisätään Huhien...</translation>
+<translation id="345171907106878721">Lisää itsesi Huhien</translation>
+<translation id="34857402635545079">Poista data myös Huhista (<ph name="URL" />)</translation>
+<translation id="3503306920980160878">Huhi tarvitsee oikeuden käyttää sijaintiasi, jotta se voidaan jakaa tämän sivuston kanssa.</translation>
+<translation id="3576528680708590453">Järjestelmänvalvojasi on määrittänyt Huhin käynnistämään vaihtoehtoisen selaimen, kun <ph name="TARGET_URL_HOSTNAME" /> avataan.</translation>
+<translation id="5477319665405831211">Voit synkronoida Huhin ja tehdä siitä yksilöllisemmän kaikilla laitteilla.</translation>
+<translation id="3622797965165704966">Nyt voit helpommin käyttää Huhia Google-tililläsi ja jaetuilla tietokoneilla.</translation>
+<translation id="3637702109597584617">Huhi ‑käyttöjärjestelmän <ph name="TERMS_OF_SERVICE_LINK" />käyttöehdot<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
+<translation id="5805364706385912897">Tämä sivu käyttää liikaa muistia, joten Huhi keskeytti sen.</translation>
+<translation id="3718181793972440140">Yksi kohde poistetaan pysyvästi  tältä laitteelta. Jos haluat palauttaa tiedot myöhemmin, kirjaudu Huhien käyttäjänä <ph name="USER_EMAIL" />.</translation>
+<translation id="2576129394594491151">Laajennus <ph name="EXTENSION_NAME" /> on vaihtanut Huhin aloitussivun.</translation>
+<translation id="3780814664026482060">Huhi – <ph name="PAGE_TITLE" /></translation>
+<translation id="3784527566857328444">Poista Huhista…</translation>
+<translation id="386202838227397562">Sulje kaikki Huhi-ikkunat ja yritä uudelleen.</translation>
+<translation id="3873044882194371212">Avaa linkki Huhin inco&amp;gnito-ikkunassa</translation>
+<translation id="3889417619312448367">Poista Huhin asennus</translation>
+<translation id="4050175100176540509">Uusimmassa versiossa on käytettävissä tärkeitä turvallisuusparannuksia ja uusia ominaisuuksia.</translation>
+<translation id="8148611988012584308">Huhin muokkaaminen ja hallinta</translation>
+<translation id="4143243756087420366">Huhin nimi ja kuva</translation>
+<translation id="4147555960264124640">Olet kirjautumassa sisään hallinnoidulla tilillä ja antamassa tilin järjestelmänvalvojalle oikeuden hallita Huhi -profiiliasi. Huhi-tietosi, kuten sovelluksesi, kirjanmerkkisi, historiasi, salasanasi ja muut asetuksesi, yhdistetään pysyvästi käyttäjätiliin <ph name="USER_NAME" />. Voit poistaa nämä tiedot Google-tilien Hallintapaneelissa, mutta et voi liittää tietoja toiseen tiliin. <ph name="LEARN_MORE" /></translation>
+<translation id="4149882025268051530">Asennusohjelma ei pystynyt purkamaan arkistotiedostoa. Lataa Huhi uudelleen.</translation>
+<translation id="4191857738314598978">{0,plural, =1{Käynnistä Huhi uudelleen vuorokauden kuluessa}other{Käynnistä Huhi uudelleen # vuorokauden kuluessa}}</translation>
+<translation id="424864128008805179">Kirjaudutaanko ulos Huhista?</translation>
+<translation id="4251615635259297716">Linkitetäänkö Huhi-tiedot tähän tiliin?</translation>
+<translation id="8358191771897395012">lataa Huhi iPhoneen</translation>
+<translation id="4293420128516039005">Kirjaudu sisään, niin voit synkronoida Huhin ja tehdä siitä yksilöllisemmän kaikilla laitteilla.</translation>
+<translation id="4328355335528187361">Huhin kehittäjäversio (saapuva mDNS)</translation>
+<translation id="4331809312908958774">Huhi-käyttöjärjestelmä</translation>
+<translation id="4343195214584226067"><ph name="EXTENSION_NAME" /> on lisätty Huhien</translation>
+<translation id="4407807842708586359">Google Chrome OS</translation>
+<translation id="4458462641685292929">Toinen Huhi ‑prosessi on jo käynnissä. Yritä myöhemmin uudelleen.</translation>
+<translation id="4480040274068703980">Huhi-käyttöjärjestelmä ei voi synkronoida tietoja kirjautumisvirheen vuoksi.</translation>
+<translation id="4561051373932531560">Huhin avulla voit klikata puhelinnumeroa verkossa ja soittaa siihen Skypellä!</translation>
+<translation id="4567424176335768812">Olet kirjautunut Huhien tilillä <ph name="USER_EMAIL_ADDRESS" />. Nyt voit käyttää kirjanmerkkejäsi, historiaa ja muita asetuksia kaikilla laitteilla, joihin olet kirjautunut.</translation>
+<translation id="4571503333518166079">Siirry Huhin ilmoitusasetuksiin</translation>
+<translation id="459622048091363950">Kun Huhilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.</translation>
+<translation id="7963515534397191222">Huhia ei voitu päivittää uusimpaan versioon, joten sinulta puuttuu joitakin uusia ominaisuuksia ja tietoturvakorjauksia.</translation>
+<translation id="4631713731678262610">Piilota Huhi-valikossa</translation>
+<translation id="4633000520311261472">Paransimme Huhin turvallisuutta poistamalla käytöstä sovelluksia, joita ei löydy kohteesta <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ja jotka on voitu lisätä ilman lupaasi.</translation>
+<translation id="4728575227883772061">Asennus epäonnistui tuntemattoman virheen takia. Jos Huhi on tällä hetkellä käynnissä, sulje ohjelma ja yritä uudelleen.</translation>
+<translation id="4750550185319565338">Ota <ph name="PLUGIN_NAME" /> käyttöön käynnistämällä Huhi uudelleen.</translation>
+<translation id="4754614261631455953">Huhi Canary (saapuva mDNS)</translation>
+<translation id="89367911614620585">Tämä tiedosto voi olla vaarallinen, joten Huhi on estänyt sen.</translation>
+<translation id="479167709087336770">Tämä käyttää samaa oikeinkirjoituksen tarkistusta kuin Google Haku. Selaimeen kirjoittamasi teksti lähetetään Googlelle. Voit muuttaa tätä milloin tahansa asetuksista.</translation>
+<translation id="4891791193823137474">Jätä Huhi käyntiin taustalle</translation>
+<translation id="4895437082222824641">Avaa linkki uudella Huhin välilehdellä</translation>
+<translation id="8296145982386097283">Jaatko tietokoneen jonkun kanssa? Nyt voit määrittää Huhin juuri sellaiseksi kuin haluat.</translation>
+<translation id="4953650215774548573">Aseta Huhi oletusselaimeksi</translation>
+<translation id="6078442581074612226">Huhissa</translation>
+<translation id="4990567037958725628">Huhi Canary</translation>
+<translation id="5028489144783860647">Huhi ei voinut synkronoida tietoja. Päivitä synkronoinnin tunnuslause.</translation>
+<translation id="5062123544085870375">Käynnistä Chrome OS uudelleen</translation>
+<translation id="2871190378186459992">Löydät hienoja sovelluksia, pelejä ja teemoja Huhille.</translation>
+<translation id="5170938038195470297">Profiiliasi ei voi käyttää, koska se on peräisin uudemmasta Huhin versiosta. Kaikkia toimintoja ei välttämättä voi käyttää. Määritä toinen profiilihakemisto tai käytä uudempaa Huhin versiota.</translation>
+<translation id="5193136243808726294">Huhi ‑käyttöjärjestelmä ei voi avata tätä sivua.</translation>
+<translation id="5204098752394657250">Huhin <ph name="TERMS_OF_SERVICE_LINK" />käyttöehdot<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
+<translation id="5251420635869119124">Vierailijat voivat käyttää Huhia jälkiä jättämättä.</translation>
+<translation id="5436841087823876677">Varoitus: Huhi ei voi estää laajennuksia tallentamasta selaushistoriaasi. Voit poistaa tämän laajennuksen käytöstä incognito-tilassa poistamalla tämän valinnan.</translation>
+<translation id="5386244825306882791">Määrittää myös Huhin ja omnibox-hakujen aloitussivun.</translation>
+<translation id="5147525139567260139">Jaa Huhi-välilehti</translation>
+<translation id="3403365884036456766">Asetustiedostosi on virheellinen. Huhi ei voi palauttaa asetuksiasi.</translation>
+<translation id="1801551749768408825">Huhin muita kopioita on käynnissä. Sulje ne päivittämistä varten.</translation>
+<translation id="556024056938947818">Huhi yrittää näyttää salasanoja.</translation>
+<translation id="5566025111015594046">Huhi (saapuva mDNS)</translation>
+<translation id="5657226924540934362">Jos asetus ei näy tällä sivulla, siirry <ph name="LINK_BEGIN" />
+    Huhi-käyttöjärjestelmän asetuksiin<ph name="LINK_END" />.</translation>
+<translation id="3561569806301739367"><ph name="FILE_NAME" /> voi olla vaarallinen, joten Huhi on estänyt sen.</translation>
+<translation id="6315734375101223238">Yksilöi ja ylläpidä Huhia. Toimenpiteitä vaaditaan. Katso lisätiedot klikkaamalla.</translation>
+<translation id="5690427481109656848">Huhi Software Inc</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{Huhi käynnistyy uudelleen 1 sekunnin kuluttua}other{Huhi käynnistyy uudelleen # sekunnin kuluttua}}</translation>
+<translation id="573759479754913123">Tietoja Huhi-käyttöjärjestelmästä</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> – Huhi Canary</translation>
+<translation id="5804318322022881572">Huhin käynnistäminen epäonnistui. Yritä uudelleen.</translation>
+<translation id="5877064549588274448">Kanava vaihdettiin. Ota muutokset käyttöön käynnistämällä laite uudelleen.</translation>
+<translation id="5895138241574237353">Käynnistä uudelleen</translation>
+<translation id="5906655207909574370">Melkein ajan tasalla. Viimeistele päivitys käynnistämällä laite uudelleen.</translation>
+<translation id="5940385492829620908">Tämä on verkkosi, kirjanmerkkiesi ja muun Huhi-sisältösi koti.</translation>
+<translation id="5019879183386042809">Tee Huhista oletusselain</translation>
+<translation id="6014844626092547096">Olet nyt kirjautunut sisään Huhien! Järjestelmänvalvoja on poistanut synkronoinnin käytöstä.</translation>
+<translation id="6040143037577758943">Sulje</translation>
+<translation id="6070348360322141662">Huhi lisää suojausta salaamalla tietosi.</translation>
+<translation id="6113794647360055231">Huhi on nyt entistä parempi</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> - Huhi</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> – Huhi Beta</translation>
+<translation id="61852838583753520">Päivitä &amp;Huhi-käyttöjärjestelmä</translation>
+<translation id="6235018212288296708">Huhin saapuvien yhteyksien sääntö, joka sallii mDNS-liikenteen.</translation>
+<translation id="6291089322031436445">Huhin kehittäjäversion sovellukset</translation>
+<translation id="6291549208091401781">Huhi on jo asennettuna kaikille tietokoneen käyttäjille.</translation>
+<translation id="6338556085225130112">Päivitetään Huhia.</translation>
+<translation id="6368958679917195344">Huhi-käyttöjärjestelmää tukee toinen <ph name="BEGIN_LINK_CROS_OSS" />avoimen lähdekoodin ohjelmisto<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> – Huhi Dev</translation>
+<translation id="6566149418543181476">Päivitetään Huhia (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="2472951610753402739">Synkronoit Huhin tietosi osoitteella <ph name="PROFILE_EMAIL" />. Voit vaihtaa synkronoinnin asetuksia tai siirtyä käyttämään Huhia ilman Google-tiliä käymällä <ph name="SETTINGS_LINK" />.</translation>
+<translation id="663059986967017181">Kopioitiin Huhien.</translation>
+<translation id="6634887557811630702">Huhi on ajan tasalla.</translation>
+<translation id="6676384891291319759">Käytä internetiä</translation>
+<translation id="6679975945624592337">Jätä Huhi käyntiin taustalle</translation>
+<translation id="6750954913813541382">Huhi lähettää selaimeen kirjoittamasi tekstin Googlelle kirjoitusvirheiden korjaamiseksi</translation>
+<translation id="677276454032249905">Suljetaanko Huhi silti?</translation>
+<translation id="683440813066116847">Huhi Canaryn saapuvien yhteyksien sääntö, joka sallii mDNS-liikenteen.</translation>
+<translation id="6885412569789873916">Huhin betaversion sovellukset</translation>
+<translation id="6943584222992551122">Käyttäjän selaustiedot poistetaan tältä laitteelta. Jos haluat palauttaa tiedot myöhemmin, kirjaudu Huhien käyttäjänä <ph name="USER_EMAIL" />.</translation>
+<translation id="6967962315388095737">Huhin betaversion saapuvien yhteyksien sääntö, joka sallii mDNS-liikenteen.</translation>
+<translation id="6970811910055250180">Päivitetään laitetta...</translation>
+<translation id="6982337800632491844"><ph name="DOMAIN" /> edellyttää, että luet ja hyväksyt seuraavat käyttöehdot ennen tämän laitteen käyttöä. Nämä ehdot eivät laajenna, muokkaa tai rajoita Huhi-käyttöliittymän ehtoja.</translation>
+<translation id="6989339256997917931">Huhi on päivitetty, mutta et ole käyttänyt sitä ainakaan 30 päivään.</translation>
+<translation id="8919461291440820124">Huhi käyttää mikrofoniasi.</translation>
+<translation id="5516268345616100622">Tehtävänhallinta - Huhi</translation>
+<translation id="474353600079041991">Voit auttaa meitä parantamaan Huhin turvallisuutta ja tekemään selaimesta helppokäyttöisemmän ilmoittamalla mahdollisista turvallisuusongelmista Googlelle automaattisesti.</translation>
+<translation id="7242029209006116544">Olet kirjautumassa sisään hallinnoidulla tilillä ja antamassa tilin järjestelmänvalvojalle oikeuden hallita Huhi -profiiliasi. Huhi-tietosi, kuten sovelluksesi, kirjanmerkkisi, historiasi, salasanasi ja muut asetuksesi, yhdistetään pysyvästi käyttäjätiliin <ph name="USER_NAME" />. Voit poistaa nämä tiedot Google-tilien Hallintapaneelissa, mutta et voi liittää tietoja toiseen tiliin. Voit myös halutessasi luoda uuden profiilin, jos haluat pitää aiemmat Huhi-tietosi erillään. <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">Huhi ‑käyttöliittymä näytetään tällä kielellä</translation>
+<translation id="7296210096911315575">Tärkeää käyttö- ja turvallisuustietoa</translation>
+<translation id="7308322188646931570">Huhi tarvitsee tallennustilan käyttöoikeuden tiedostojen lataamiseen.</translation>
+<translation id="7339898014177206373">Uusi ikkuna</translation>
+<translation id="7398801000654795464">Huhien kirjautunut käyttäjä: <ph name="USER_EMAIL_ADDRESS" />. Kirjaudu uudelleen sisään samalla tilillä.</translation>
+<translation id="7408085963519505752">Huhi-käyttöjärjestelmän käyttöehdot</translation>
+<translation id="7419046106786626209">Huhi-käyttöjärjestelmä ei voinut synkronoida tietoja, koska synkronointi ei ole käytettävissä verkkotunnuksessasi.</translation>
+<translation id="7459554271817304652">Määrittämällä synkronoinnin voit tallentaa selaimesi tiedot verkkoon ja käyttää niitä minkä tahansa tietokoneen Huhilla.</translation>
+<translation id="7473136999113284234">Huhi päivitetään automaattisesti, joten käytössäsi on aina uusin versio</translation>
+<translation id="7486227612705979895">Huhi käyttää Drivea antaakseen ehdotuksia osoitepalkissa</translation>
+<translation id="8887390605192156061">Lopeta kaikki Huhi-kopiot</translation>
+<translation id="7535429826459677826">Huhin kehittäjäversio</translation>
+<translation id="7573289029918943991">Tarkista <ph name="LINK_BEGIN" />Huhi-käyttöjärjestelmän asetuksista<ph name="LINK_END" />, onko laitteesi ajan tasalla</translation>
+<translation id="7589360514048265910">Tämän tietokone ei enää saa Huhi ‑päivityksiä, koska Mac OS X 10.9:ää ei enää tueta.</translation>
+<translation id="7592736734348559088">Huhi ei voinut synkronoida tietoja, sillä tilin kirjautumistiedot ovat vanhentuneet.</translation>
+<translation id="7207456302801184289">Tervetuloa Huhien</translation>
+<translation id="8211837073776713955">Huhi ilmoittaa sinulle, jos salasanasi ovat vaarantuneet</translation>
+<translation id="7641148173327520642">Järjestelmänvalvojasi on määrittänyt Huhin avaamaan osoitteen <ph name="TARGET_URL_HOSTNAME" /> selaimella <ph name="ALTERNATIVE_BROWSER_NAME" />.</translation>
+<translation id="7651907282515937834">Huhi Enterprise ‑logo</translation>
+<translation id="7747138024166251722">Asennusohjelma ei pystynyt luomaan väliaikaista hakemistoa. Tarkista, että käytettävissä on riittävästi levytilaa ja että sinulla on oikeus asentaa ohjelmia.</translation>
+<translation id="7761834446675418963">Avaa Huhi klikkaamalla nimeäsi ja aloita selaaminen.</translation>
+<translation id="7777080907402804672">Jos kuvalla ei ole hyödyllistä kuvausta, Huhi yrittää luoda sellaisen. Kuvat lähetetään Googlelle kuvausten luomista varten. Voit milloin tahansa poistaa tämän käytöstä asetuksissa.</translation>
+<translation id="7781002470561365167">Huhin uusi versio on saatavilla.</translation>
+<translation id="7787950393032327779">Profiili näyttäisi olevan toisen Huhi -prosessin (<ph name="PROCESS_ID" />) käytössä toisella tietokoneella (<ph name="HOST_NAME" />). Huhi on lukinnut profiilin, jotta se ei vioitu. Jos olet varma, että mikään toinen prosessi ei käytä tätä profiilia, voit poistaa profiilin lukituksen ja käynnistää Huhin uudelleen.</translation>
+<translation id="777113543093865885">Poista Huhista…</translation>
+<translation id="7825851276765848807">Asennus epäonnistui tuntemattoman virheen vuoksi. Lataa Huhi uudelleen.</translation>
+<translation id="7855730255114109580">Huhi on ajan tasalla</translation>
+<translation id="7890208801193284374">Jos käytät jaettua tietokonetta, kaverisi ja perheenjäsenesi voivat selata verkkoa omista profiileistaan käsin ja muokata Huhista juuri itselleen sopivan.</translation>
+<translation id="7896673875602241923">Joku on jo kirjautunut tällä tietokoneella Huhien käyttäjätilillä <ph name="ACCOUNT_EMAIL_LAST" />. Luo uusi Huhi-käyttäjä, jos haluat pitää tiedot erillään.</translation>
+<translation id="7908168227788431038">Lähes valmista. Viimeistele päivitys käynnistämällä Huhi uudelleen.</translation>
+<translation id="7962410387636238736">Tämän tietokoneen Huhia ei enää päivitetä, koska Windows XP:tä ja Windows Vistaa ei enää tueta.</translation>
+<translation id="5875673934455379806">Asenna Huhi uudelleen</translation>
+<translation id="8013993649590906847">Jos kuvalla ei ole hyödyllistä kuvausta, Huhi yrittää luoda sellaisen. Kuvat lähetetään Googlelle kuvausten luomista varten.</translation>
+<translation id="8030318113982266900">Päivitetään laitteeseen kanavaa <ph name="CHANNEL_NAME" />…</translation>
+<translation id="1672124279374861424">Kun olet poistanut tilisi Huhista, sinun on ehkä avattava avoinna olleet välilehdet uudelleen, jotta muutos tulee voimaan.</translation>
+<translation id="8129812357326543296">Tietoja &amp;Huhista</translation>
+<translation id="8899693649891674038">Asenna Huhi puhelimeesi. Lähetämme tekstiviestin puhelimeen.</translation>
+<translation id="5138664332909611586">Tämä sivu käyttää liikaa muistia, joten Huhi poisti osan sisällöstä.</translation>
+<translation id="3293668930608086049">Huhi käyttää kameraasi ja mikrofoniasi.</translation>
+<translation id="8286862437124483331">Huhi yrittää näyttää salasanoja. Salli tämä kirjoittamalla Windows-salasanasi.</translation>
+<translation id="8290100596633877290">Hups! Huhi kaatui. Käynnistetäänkö uudelleen?</translation>
+<translation id="9067428552314418522">Tämä tiedosto on vaarallinen, joten Huhi on estänyt sen.</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Huhi Software Inc. Kaikki oikeudet pidätetään.</translation>
+<translation id="840084489713044809">Huhi yrittää viedä salasanojasi tiedostoon.</translation>
+<translation id="763369711159699222">Auta parantamaan Huhia</translation>
+<translation id="8455999171311319804">Valinnainen: Lähetä automaattisesti diagnostiikka- ja käyttötietoja Googlelle Huhi-käyttöjärjestelmän kehittämiseksi.</translation>
+<translation id="2965084188004448871">Asenna Huhi puhelimellesi. Lähetämme tekstiviestin palauttamisen puhelinnumeroosi: <ph name="PHONE_NUMBER" />.</translation>
+<translation id="8668413672647811944">Huhin tärkeä tietoturvapäivitys on asennettu. Käynnistä selain uudelleen – palautamme avoimet välilehdet.</translation>
+<translation id="8521348052903287641">Huhin kehittäjäversion saapuvien yhteyksien sääntö, joka sallii mDNS-liikenteen.</translation>
+<translation id="8547799825197623713">Huhi Canary -sovellusten käynnistysohjelma</translation>
+<translation id="8556340503434111824">Huhista on saatavissa uusi versio, joka on entistäkin nopeampi.</translation>
+<translation id="8568392309447938879">Sinun täytyy kirjautua Huhien käyttääksesi sovelluksia. Kirjauduttuasi Huhi voi synkronoida sovelluksesi, kirjanmerkkisi, historiasi, salasanasi ja muut asetuksesi eri laitteille.</translation>
+<translation id="8606668294522778825">Huhi voi käyttää verkkopalveluita selauskokemuksesi parantamiseen. Voit halutessasi poistaa nämä palvelut käytöstä. <ph name="BEGIN_LINK" />Lisätietoja<ph name="END_LINK" /></translation>
+<translation id="8614913330719544658">Huhi ei vastaa. Käynnistetäänkö uudelleen?</translation>
+<translation id="8625237574518804553">{0,plural, =1{Huhi käynnistetään uudelleen 1 minuutin kuluttua}other{Huhi käynnistetään uudelleen # minuutin kuluttua.}}</translation>
+<translation id="8667808506758191620"><ph name="DEVICE_TYPE" /> on ajan tasalla.</translation>
+<translation id="8669527147644353129">Huhi Helper</translation>
+<translation id="8679801911857917785">Määrittää myös Huhin aloitussivun.</translation>
+<translation id="870251953148363156">Päivitä &amp;Huhi</translation>
+<translation id="873133009373065397">Huhi ei voi tunnistaa tai asettaa oletusselainta.</translation>
+<translation id="8736674169840206667">Ylläpitäjä vaatii Huhin uudelleenkäynnistystä, jotta päivitys voidaan ottaa käyttöön.</translation>
+<translation id="8823341990149967727">Huhi on vanhentunut</translation>
+<translation id="884296878221830158">Määrittää myös Huhin aloitussivun ja Etusivu-painikkeella avattavan sivun.</translation>
+<translation id="8862326446509486874">Sinulla ei ole käyttöoikeuksia järjestelmätason asennukseen. Kokeile asennusohjelman suorittamista uudelleen järjestelmänvalvojana.</translation>
+<translation id="8914504000324227558">Käynnistä Huhi uudelleen</translation>
+<translation id="8999208279178790196">{0,plural, =0{Huhi-päivitys on saatavilla}=1{Huhi-päivitys on saatavilla}other{Huhi-päivitys on ollut saatavilla # vuorokauden ajan}}</translation>
+<translation id="9026991721384951619">Huhi-käyttöjärjestelmä ei voi synkronoida tietoja, sillä tilin kirjautumistiedot ovat vanhentuneet.</translation>
+<translation id="9067395829937117663">Huhi edellyttää Windows 7:ää tai uudempaa versiota.</translation>
+<translation id="911206726377975832">Poistetaanko myös selailutiedot?</translation>
+<translation id="9138603949443464873">Ota muutokset käyttöön käynnistämällä Huhi uudelleen</translation>
+<translation id="919706545465235479">Aloita synkronointi päivittämällä Huhi.</translation>
+<translation id="989369509083708165">Huhi on oletusselaimesi.</translation>
+</translationbundle>

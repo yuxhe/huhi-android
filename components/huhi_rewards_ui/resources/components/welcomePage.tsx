@@ -1,0 +1,1 @@
+export { WelcomePage as default } from 'huhi-ui/src/features/rewards'

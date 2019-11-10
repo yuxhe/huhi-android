@@ -1,0 +1,313 @@
+<resources>
+
+    <string name="huhi_settings_title">Rregullime mburoje Huhi sajti për</string>
+    <string name="huhi_shields_down">Poshtë</string>
+    <string name="huhi_shields_up">Sipër</string>
+    <string name="huhi_shields_ads_trackers">Reklama dhe Gjurmues të Bllokuar</string>
+    <string name="huhi_shields_https_upgrades">Përmirësime HTTPS</string>
+    <string name="huhi_shields_scripts_blocked">Programthe të Bllokuar</string>
+    <string name="huhi_shields_ads_tracking_switch">Bllokoni Reklama dhe Gjurmues</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Everywhere</string>
+    <string name="huhi_shields_blocks_scripts_switch">Bllokoni Skripte</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Aktivizoni/Çaktivizoni Mburoja Huhi</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Administroni Shpërblime Huhi</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Blloko cookies palësh të treta</string>
+
+    <string name="httpse_summary">Sajtet që e mbulojnë këtë akt, i hap duke përdorur HTTPS, në vend se HTTP, kur kjo është e mundur</string>
+    <string name="ad_block_title">Bllokim Reklamash</string>
+    <string name="ad_block_summary">Pengon ngarkim reklamash</string>
+
+    <string name="fingerprinting_protection_title">Mbrojtje Nga Fingerprinting</string>
+    <string name="fingerprinting_protection_summary">Pengoji shfletuesit të kryejnë fingerprinting</string>
+    <string name="huhi_shields_fingerprints_blocked">U bllokuan Metoda Fingerprinting-u</string>
+    <string name="huhi_shields_block_fingerprints_switch">Mbrojtje Nga Fingerprinting</string>
+
+    <string name="ad_block_regional_title">Bllokim Reklamash Rajonale</string>
+    <string name="ad_block_regional_summary">Pengon ngarkimin e reklamave rajonale</string>
+
+    <string name="ad_block_regional_summary_no_list">S\’ka lista shtesë të gatshme për vendoren tuaj</string>
+
+    <string name="menu_exit">Dilni</string>
+
+    <string name="huhi_sync">Huhi Sync (beta)</string>
+    <string name="sync_settings_add_device_name_title">Shtoni emër pajisjeje</string>
+    <string name="sync_settings_add_device_name_label">Jepni një emër opsional për këtë pajisje</string>
+    <string name="sync_example_device_name">Pajisje Android</string>
+    <string name="enter_code_words_sync">Jepni fjalë kod</string>
+    <string name="sync_device">Njëkohësoni pajisje</string>
+    <string name="sync_device_failure">S\’u rregullua dot njëkohësim</string>
+    <string name="sync_requires_correct_time">Ora e kompjuterit tuaj, ose zona kohore për të, mund të jetë caktuar gabim. Ju lutemi, kontrolloni rregullimet tuaja për orën.</string>
+
+    <string name="huhi_stats_text_ads">Reklama dhe Gjurmues
+të Bllokuar</string>
+    <string name="huhi_stats_text_https">Përmirësime
+HTTPS-je</string>
+    <string name="huhi_stats_text_time">Kohë e Kursyes
+Afërsisht</string>
+
+    <string name="send_metrics_title">Dërgo matje</string>
+
+    <string name="desktop_mode_title">Mënyra Desktop</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Parapëlqe version të sajtit për desktop</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Parapëlqe version të sajtit për celular</string>
+    <string name="website_settings_category_desktop_view_enabled">Për skeda të reja aktivizo Pamjen Desktop</string>
+    <string name="website_settings_category_desktop_view_disabled">Për skeda të reja përdor versione sajti për celular (e këshilluar)</string>
+
+    <string name="huhi_shields_first_group_title">Bllokim Monitori</string>
+    <string name="huhi_shields_second_group_title">Kontrolle Individuale</string>
+    <string name="huhi_shields">Mburoja</string>
+    <string name="huhi_shields_ads_and_trackers">Reklama dhe Gjurmues</string>
+    <string name="huhi_shields_fingerprint_methods">Metoda Fingerprinting-u</string>
+    <string name="huhi_shields_block_phishing_switch">Blloko Karremëzim</string>
+
+    <string name="play_video_in_background_title">Luajtje videosh në prapaskenë</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">E aktivizuar</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">E çaktivizuar</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Eksperimentale. Bën të mundur luajtje audioje prej videosh në prapaskenë, kur skeda s\’është aktive ose kur ekrani i pajisjes është i fikur. Nëse kjo veçori nuk funksionon, provoni të kaloni te desktopi.</string>
+    <string name="settings_require_relaunch_notice">Ndryshimet tuaja do të hyjnë në fuqi herës tjetër që do të rinisni Huhi-in</string>
+    <string name="settings_require_relaunch_now">RINISENI TANI</string>
+    <string name="settings_require_relaunch_later">MË VONË</string>
+
+    <string name="play_yt_video_in_browser_title">Luajtje videosh në Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">E aktivizuar</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">E çaktivizuar</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Në u aktivizoftë, videot do të luhen në huhi, në vend se te aplikacioni përkatës</string>
+
+    <string name="close_tabs_on_exit_title">Mbylli skeda gjatë daljes</string>
+    <string name="close_tabs_on_exit_summary">Mos mbaj skeda të dikurshme mes sesionesh shfletimi</string>
+
+    <string name="open_pages_in_custom_tabs_title">Skedat hapi në Skeda Vetjake</string>
+    <string name="open_pages_in_custom_tabs_summary">Ofro hapjen e skedave në Skeda Vetjake</string>
+
+    <string name="ddg_offer_title">Kërkim privat me DuckDuckGo?</string>
+    <string name="ddg_offer_text">Nën kërkim privat, Huhi-i do të përdorë DuckDuckGo për t\’iu përgjigjur kërkimeve tuaja, teksa gjendeni në këtë skedë private. DuckDuckGo është një motor kërkimesh që nuk e ndjek historikun e kërkimeve tuaja, duke bërë kështu të mundur të kërkoni privatisht.</string>
+    <string name="ddg_offer_positive">Po</string>
+    <string name="ddg_offer_negative">Jo</string>
+    <string name="ddg_offer_link">Mësoni rreth kërkimit privat me DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Skedë Standarde</string>
+    <string name="prefs_private_search_engine">Skedë Private</string>
+
+    <string name="huhi_open_in_private_tab">Hape në skedë private</string>
+    <string name="huhi_close_all_private_tabs">Mbylli skedat private</string>
+    <string name="huhi_new_private_tab">Skedë e re private</string>
+    <string name="huhi_new_tab_private_header">Kjo është një Skedë Private</string>
+    <string name="huhi_new_tab_private_message">Edhe pse sajtet që vizitoni në skeda private nuk ruhen lokalisht, këto nuk ju bëjnë anonim apo të padukshëm për ISP-në tuaj, për punëdhënësin tuaj, apo për sajtet që vizitoni.</string>
+    <string name="update_notification_title">Përditësim Huhi-i</string>
+    <string name="update_notification_text">Shfletuesi i ri Huhi është 22% më i shpejtë</string>
+    <string name="prefs_sync">Njëkohësim (beta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Mbërritën Reklamat Huhi!</string>
+    <string name="huhi_ads_new_user_offer_title">Aktivizo Shpërblime Huhi</string>
+    <string name="huhi_ads_offer_text">Fitoni Basic Attention Token nga parja reklamash që ruajnë privatësinë, tek Shpërblime Huhi.</string>
+    <string name="huhi_ads_offer_positive">Dua dhe unë!</string>
+    <string name="huhi_sync_description_page_1_part_1">Huhi Sync ju lejon të njëkohësoni privatisht të dhëna faqerojtësish mes Shfletuesve tuaj Huhi në pajisje të ndryshme.</string>
+    <string name="huhi_sync_description_page_1_part_2">Thjesht skanoni kodin prej zinxhirit tuaj të njëkohësimit që keni krijuar në pajisje tjetër. Ose nisni një zinxhir të ri.</string>
+    <string name="huhi_sync_scan_chain_code">Skanoni ose jepni kod njëkohësimi</string>
+    <string name="huhi_sync_start_new_chain">Nisni një zinxhir të ri njëkohësimi</string>
+    <string name="huhi_sync_qrcode_message_v2">Duke përdorur një pajisje ekzistuese të njëkohësuar, hapni Rregullime Huhi-i dhe kaloni te Rregullime > Njëkohësim. Zgjidhni \"Shtoni Pajisje\" dhe skanoni kodin QR të shfaqur në ekran.</string>
+    <string name="huhi_sync_codewords_message">Duke përdorur një pajisje ekzistuese të njëkohësuar, hapni Rregullime Huhi-i dhe kaloni te Rregullime > Njëkohësim. Zgjidhni \"Shtoni Pajisje\", mandej \"Shfaq fjalë kodi, më mirë\".</string>
+    <string name="huhi_sync_btn_mobile">Shtoni një Pajisje Celulare</string>
+    <string name="huhi_sync_btn_laptop">Shtoni një Kompjuter</string>
+    <string name="huhi_sync_scan_sync_code">Skanoni këtë kod njëkohësimi</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Duke përdorur një telefon apo tablet të dytë, kaloni te Rregullime Huhi-i > Njëkohësim > Skanim.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">Te pajisja juaj celulare, kaloni te Huhi Sync te paneli Rregullime dhe klikoni mbi butonin \"Skano Kod Sync-u\". Përdorni kamerën tuaj që të skanoni Kodin QR më poshtë.</string>
+    <string name="huhi_sync_btn_done">U bë</string>
+    <string name="huhi_sync_tabs_text">Skeda</string>
+    <string name="huhi_sync_history_text">Historik</string>
+    <string name="huhi_sync_autofill_passwords_text">Vetëplotësim/Fjalëkalime</string>
+    <string name="huhi_sync_payment_settings_text">Rregullime Pagesash Huhi</string>
+    <string name="huhi_sync_settings_title">NJËKOHËSO NË KËTË PAJISJE</string>
+    <string name="huhi_sync_settings_description">Ndryshimi i rregullimeve do të prekë vetëm të dhëna që kjo pajisje i ndan me të tjerët.</string>
+    <string name="huhi_sync_devices_title">TË TJERA PAJISJE NË ZINXHIR</string>
+    <string name="huhi_sync_loading_devices_title">PO NGARKOHEN PAJISJE…</string>
+    <string name="huhi_sync_add_device_text">Shtoni pajisje tjetër</string>
+    <string name="huhi_sync_remove_device_text">Hiqe këtë pajisje</string>
+    <string name="huhi_sync_code_words_title">Çiftoje</string>
+    <string name="huhi_sync_add_laptop_text_title">Jepni kodin e njëkohësimit të zinxhirit</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Në kompjuterin tuaj, kaloni te Rregullime Huhi-i > Njëkohësime. Zgjidhni \"Jepni një Kod Njëkohësimi Zinxhiri\".</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Jepni fjalët e kodit më sipër, përfshi hapësira.</string>
+    <string name="huhi_sync_delete_device">Jeni i sigurt se doni të fshihet pajisja \'<ph name="DEVICE_NAME">%1$s</ph>\'?</string>
+    <string name="huhi_sync_delete_sent">Kërkesa për fshirje u dërgua. Pajisja do të hiqet së shpejti.</string>
+    <string name="huhi_sync_loading_data_title">Po ngarkohen të dhëna…</string>
+    <string name="huhi_sync_time_out_message">Diç shkoi ters, duket sikur kërkesës tuaj i mbaroi koha.</string>
+    <string name="huhi_sync_use_camera_text">Do të përdor kamerën time…</string>
+    <string name="huhi_sync_confirm_code_words_text">Ripohojeni</string>
+    <string name="huhi_sync_word_count_text">Numër fjalësh: <ph name="WORD_COUNT">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Numër  fjalësh i pasaktë</string>
+    <string name="huhi_sync_qr_code">Kod QR</string>
+    <string name="huhi_sync_code_words">Fjalë Kodi</string>
+    <string name="huhi_sync_copy_button_text">Kopjoje në Të papastër</string>
+    <string name="huhi_sync_copied_text">U kopjua në Të papastër</string>
+    <string name="huhi_sync_this_device_text">(këtë pajisje)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi-i është tashmë i caktuar
+si shfletuesi juaj parazgjedhje.</string>
+    <string name="huhi_default_browser_go_to_settings">E keni caktuar tashmë një shfletues parazgjedhje.
+Shfletuesin parazgjedhje mund ta ndryshoni te rregullimet tuaja për aplikacionin.</string>
+    <string name="huhi_default_browser_notification_body">Kurseni baterinë dhe ngarkojini faqet web më shpejt. Bëjeni Huhi-in Shfletuesin tuaj parazgjedhje. Që nga menuja e Huhi-it, prekni “Caktojeni si shfletues parazgjedhje”</string>
+    <string name="huhi_set_default_browser">Vëre si shfletues parazgjedhje</string>
+    <string name="huhi_set_default_browser_dialog_text">Përzgjidhni Huhi-in prej listës dhe prekni “Përherë”</string>
+    <string name="huhi_default_browser_existing_notification_body">Bëjeni Huhi-in shfletuesin tuaj parazgjedhje
+Kurseni baterinë dhe ngarkojini faqet web më shpejt</string>
+
+    <string name="huhi_ui_welcome_header_two">Bëhuni gati të shijoni
+Internetin e ardhshëm.</string>
+    <string name="huhi_ui_welcome_desc_two">Tani mund të fitoni pikë nga
+shikim reklamash që respektojnë privatësinë.</string>
+    <string name="huhi_ui_welcome_button_text_two">MERRNI PJESË TE SHPËRBLIME</string>
+    <string name="huhi_ui_welcome_footer_text_two">MËSONI MË TEPËR</string>
+    <string name="huhi_ui_rewards_creating_text">Krijim portofoli</string>
+    <string name="huhi_ui_your_wallet">Portofoli juaj</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name="VALUE">%1$s<ex>0.0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Shtoni Fonde</string>
+    <string name="huhi_ui_settings">Rregullime</string>
+    <string name="huhi_ui_rewards_summary">PËRMBLEDHJE SHPËRBLIMESH</string>
+    <string name="huhi_ui_site_banner_welcome">Falemnderit për ndalesën!</string>
+    <string name="huhi_ui_rewards_banner_text1">Mund ta përkrahni këtë sajt duke dërguar një bakshish. Është një mënyrë për t\’i falënderuar për krijim lënde të mirë. Krijuesve të verifikuar të lëndës u paguhen bakshishet gjatë javës së parë të çdo muaji kalendarik.</string>
+    <string name="huhi_ui_rewards_banner_text2">Nëse dëshironi, mund të planifikoni bakshishe të përmuajshëm, në përkrahje të vazhdueshme të këtij sajti.</string>
+    <string name="huhi_ui_donation_amount">Sasi bakshishi</string>
+    <string name="huhi_ui_wallet_balance">gjendje portofoli:</string>
+    <string name="huhi_ui_make_monthly">Bëje të përmuajshëm</string>
+    <string name="huhi_ui_send_tip">dërgo bakshishin tim</string>
+    <string name="huhi_ui_do_monthly">caktoni bakshish të përmuajshëm</string>
+    <string name="huhi_ui_not_enough_tokens">pikë të pamjaftueshme</string>
+    <string name="huhi_ui_site_banner_notice_text">SHËNIM: Ky krijues s\’është regjistruar ende për të marrë kontribute nga përdorues të Huhi-it. Do të provojmë ta japim kontributin derisa të verifikohen, ose derisa të kenë kaluar 90 ditë.</string>
+    <string name="huhi_ui_please">ju lutemi</string>
+    <string name="huhi_ui_add_funds">shtoni fonde</string>
+    <string name="huhi_ui_thank_you">Faleminderit!</string>
+    <string name="huhi_ui_error_init_wallet">Ju lutemi, riprovoni më vonë.</string>
+    <string name="huhi_ui_month_jan">JANAR</string>
+    <string name="huhi_ui_month_feb">SHKURT</string>
+    <string name="huhi_ui_month_mar">MARS</string>
+    <string name="huhi_ui_month_apr">PRILL</string>
+    <string name="huhi_ui_month_may">MAJ</string>
+    <string name="huhi_ui_month_jun">QERSHOR</string>
+    <string name="huhi_ui_month_jul">KORRIK</string>
+    <string name="huhi_ui_month_aug">GUSHT</string>
+    <string name="huhi_ui_month_sep">SHTATOR</string>
+    <string name="huhi_ui_month_oct">TETOR</string>
+    <string name="huhi_ui_month_nov">NËNTOR</string>
+    <string name="huhi_ui_month_dec">DHJETOR</string>
+    <string name="huhi_ui_month_year"><ph name="MONTH">%1$s<ex>DHJETOR</ex></ph> <ph name="YEAR">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Kujdes</string>
+    <string name="huhi_ui_include_in_auto">Përfshije në Vetëkontribut</string>
+    <string name="huhi_ui_donate_now">Dërgoni një bakshish…</string>
+    <string name="huhi_ui_no_activity">Ende pa veprimtari këtë
+muaj…</string>
+    <string name="huhi_ui_earnings_ads">Fitim nga Reklama</string>
+    <string name="huhi_ui_rewards_contribute">Vetëkontribut</string>
+    <string name="huhi_ui_rewards_contribute_description">Keni kontribuar <ph name="BAT_VALUE">%1$s<ex>50</ex></ph> BAT.</string>
+    <string name="huhi_ui_one_time_donation">Bakshishe të Një here</string>
+    <string name="huhi_ui_recurring_donation">Bakshishe të Përmuajshëm</string>
+    <string name="huhi_ui_verified_publisher">Botues Huhi i Verifikuar</string>
+    <string name="huhi_ui_not_verified_publisher">Ende i paverifikuar</string>
+    <string name="huhi_ui_not_verified_publisher_description">Ky krijues s\’është regjistruar ende për të marrë kontribute nga përdorues të Huhi-it.
+Çfarëdo bakshishi që dërgoni do të mbetet në portofolin tuaj derisa të verifikohen.</string>
+    <string name="huhi_ui_on_youtube">në YouTube</string>
+    <string name="huhi_ui_on_twitch">në Twitch</string>
+    <string name="huhi_ui_reserved_amount_text">Keni caktuar <ph name="BAT_VALUE">%1$s<ex>50</ex></ph> BAT për krijues që s’janë
+regjistruar ende për të marrë kontributet për ta. Shfletuesi juaj do të provojë
+të japë kontributet derisa të bëjnë verifikim, ose derisa të kenë kaluar 90 ditë.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Pagesa juaj e planifikuar e përmuajshme për Vetëkontribut dhe bakshishe të përmuajshëm s\’u plotësua dot, për shkak fondesh të pamjaftueshme. Do të riprovojmë pas 30 ditësh.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Pati një problem me përpunimin e bakshishit tuaj, ju lutemi, riprovoni.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Pati një problem me përpunimin e kontributit tuaj.</string>
+    <string name="huhi_rewards_local_uh_oh">Hëm!</string>
+    <string name="huhi_rewards_local_server_not_responding">Shërbyesi i Shpërblimeve Huhi nuk po përgjigjet. Do ta ndreqim sa më shpejt të jetë e mundur.</string>
+    <string name="huhi_ui_grants">Grante</string>
+    <string name="huhi_ui_expires_on">skadon më <ph name="DATE">%1$s<ex>4/14/2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Fonde të Pamjaftueshëm</string>
+    <string name="huhi_ui_insufficient_funds_desc">Llogaria jua Shpërblime Huhi po pret për një depozitim.</string>
+    <string name="huhi_ui_backup_wallet_msg">Kopjeruaje Portofolin</string>
+    <string name="huhi_ui_backup_wallet_desc">Ju lutemi, kopjeruani portofolin tuaj.</string>
+    <string name="huhi_ui_huhi_rewards">Shpërblime Huhi</string>
+    <string name="huhi_ui_welcome_back_message">Mirë se u kthyet!</string>
+    <string name="huhi_ui_get_rewarded">Shpërblehuni për shfletim.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Fitoni duke parë reklama që respektojnë
+privatësinë, dhe paguani paraprakisht në
+përkrahje të krijuesve të lëndës që doni.</string>
+    <string name="huhi_welcome_page_rewards_title">AKTIVIZO SHPËRBLIME HUHI</string>
+    <string name="huhi_ui_first_tip_text">Bakshishi juaj i parë i përmuajshëm do të dërgohet më:</string>
+    <string name="huhi_ui_tip_text">Sapo dërguat një bakshish për:</string>
+    <string name="huhi_ui_auto_tip_text">Po dërgoni automatikisht një bakshish për:</string>
+    <string name="huhi_ui_monthly_text">Çdo muaj</string>
+    <string name="bottom_toolbar_enable">Aktivizo panel të poshtëm</string>
+    <string name="bottom_toolbar_disable">Çaktivizo panel të poshtëm</string>
+    <string name="search_or_url">Kërkim ose URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Krijoni një shenjë referimi</string>
+    <string name="huhi_ui_donate_monthly">Jepini bakshish këtij uebsajti çdo muaj</string>
+
+    <string name="huhi_rewards_not_available">Na ndjeni, duket se Shpërblimet Huhi s’janë të gatshme në pajisjen tuaj</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Mbyllja e krejt skedave mbyll Huhi-in</string>
+    <string name="prefs_section_display">Shfaqni</string>
+    <string name="prefs_section_controls">Kontrolle</string>
+    <string name="prefs_appearance">Pamja</string>
+    <string name="hide_huhi_rewards_icon_title">Fshihni Ikonën e Huhi Rewards</string>
+    <string name="hide_huhi_rewards_icon_description">Fsheh Ikonën e Huhi Rewards kur Huhi Rewards nuk është i aktivizuar</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Shfaq Reklama kur Huhi s’është në përdorim</string>
+    <string name="reset_huhi_rewards_option">Rivendosni Huhi Rewards</string>
+    <string name="reset_huhi_rewards_option_description">Kjo do të fshijë portofolin tuaj Huhi dhe do të rivendosë të gjitha të dhënat tuaja të Huhi Rewards</string>
+    <string name="reset_huhi_rewards_error_title">Gabim i rivendosjes</string>
+    <string name="reset_huhi_rewards_error_description">Pati një gabim në rivendosjen e Huhi Rewards. Ju lutemi të rilëshoni Huhi dhe të provoni përsëri</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Te kompjuteri i synuar, kaloni te Huhi Sync, te rregullimet dhe klikoni butonin \"Lam një Kod Sync-u\".\nJepni vargun e fjalëve të kodit sync të shfaqur më poshtë.</string>
+
+    <string name="huhi_sync_official">Huhi Sync</string>
+    <string name="prefs_sync_official">Sync</string>
+
+    <string name="huhi_sync_code_warning">Trajtojeni këtë kod si një fjalëkalim. Nëse dikush e shite në dorë, ai mund të lexojë dhe modifikojë të dhënat tuaja të njëkohësuara.</string>
+
+    <string name="notification_category_group_huhi_ads">Reklama Huhi</string>
+    <string name="huhi_ads_you_earned">Keni fituar</string>
+
+    <string name="huhi_default_browser_title">Huhi është i shpejtë si rrufe</string>
+    <string name="huhi_default_browser_body">Bëjeni Huhi-in shfletuesin tuaj parazgjedhje!</string>
+    <string name="huhi_make_default_text">Bëje parazgjedhje</string>
+    <string name="huhi_ui_ads_earnings">fituar nga reklama</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Anashkaloje</string>
+
+    <string name="search_engine_onboarding">Njohje me motorët e kërkimeve</string>
+    <string name="troubleshooting_onboarding">Njohje me diagnostikimin</string>
+
+    <string name="welcome_to_huhi_browser">Mirë se vini te Shfletuesi Huhi</string>
+    <string name="select_your_default_search_engine">Përzgjidhni motorin tuaj parazgjedhje të kërkimeve</string>
+
+    <string name="block">Bllokoje</string>
+    <string name="huhi_shields_onboarding_title">Mburoja Huhi</string>
+    <string name="huhi_shields_onboarding_text">reklama dhe gjurmues që cenojnë privatësinë, që kështu të mund të shfletoni pa u ndjekur nëpër web.</string>
+
+    <string name="huhi_rewards_onboarding_title">Shpërblime Huhi</string>
+    <string name="huhi_rewards_onboarding_text">për parje reklamash që respektojnë privatësinë. Përdorini për të përkrahur sajtet dhe krijuesit tuaj të parapëlqyer.</string>
+    <string name="huhi_rewards_onboarding_text2">për parje reklamash që respektojnë privatësinë.</string>
+
+    <string name="terms_title">Që të përdorni Shpërblimet Huhi, pajtohuni me Kushtet</string>
+    <string name="terms_text">Pajtohem me Shpërblimet Huhi</string>
+    <string name="terms_of_service">Kushte Shërbimi</string>
+
+    <string name="agree">Pajtohem</string>
+    <string name="join">Bëhuni Pjesë</string>
+
+     <string name="start_browsing">Filloni të shfletoni</string>
+    <string name="i_didnt_see">S\’pashë ndonjë reklamë</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi-i do t\’ju shfaqë reklamën e parë për</string>
+    <string name="huhi_ads_onboarding_text">Që të shihni reklama nga Shpërblime Huhi, sigurohuni se Huhi-i lejohet t’ju shfaqë njoftime. </string>
+
+    <string name="this_is_your_first_ad">Kjo është reklama juaj e parë Huhi. Prekeni, që të mësoni më tepër.</string>
+
+    <string name="turn_on">Aktivizoji</string>
+
+    <string name="no_thanks">Jo, faleminderit</string>
+    <string name="do_not_agree">Nuk pajtohem</string>
+
+    <string name="prefs_welcome_tour">Tur Mirëseardhjeje</string>
+    <string name="welcome_tour_dialog_text">Rinisja e Turit të Mirëseardhjes s’do të prekë ndonjë nga rregullimet ekzistuese.</string>
+    <string name="finish">Përfundoje</string>
+    
+    <string name="clear_download_title">Historik shkarkimesh</string>
+
+    <string name="settings_exit">Dalje nga Rregullimet</string>
+
+</resources>

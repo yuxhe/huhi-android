@@ -1,0 +1,71 @@
+<resources>
+
+    <string name="huhi_settings_title">Nastavení ochranného štítu Huhi pro stránku</string>
+    <string name="huhi_shields_down">Dolů</string>
+    <string name="huhi_shields_up">Nahoru</string>
+    <string name="huhi_shields_ads_trackers">Reklamy a trackery zablokovány</string>
+    <string name="huhi_shields_https_upgrades">HTTPS aktualizace</string>
+    <string name="huhi_shields_scripts_blocked">Skripty zablokovány</string>
+    <string name="huhi_shields_ads_tracking_switch">Blokovat reklamy a tracking</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS všude</string>
+    <string name="huhi_shields_blocks_scripts_switch">Blokovat skripty</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Zapnout/Vypnout ochranné štíty Huhi</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Blokovat soubory cookie třetích stran</string>
+
+    <string name="httpse_summary">Otevírá podporované stránky s využitím protokolu HTTPS namísto HTTP, je-li to možné</string>
+    <string name="tracking_protection_title">Režim ochrany proti sledování</string>
+    <string name="tracking_protection_summary">Zamezuje načítání zdrojů, které vás sledují</string>
+    <string name="ad_block_title">Blokování reklam</string>
+    <string name="ad_block_summary">Zamezuje načítání reklam</string>
+
+    <string name="fingerprinting_protection_title">Ochrana proti otisku prohlížeče</string>
+    <string name="fingerprinting_protection_summary">Zamezuje otisku prohlížeče</string>
+    <string name="huhi_shields_fingerprints_blocked">Metody otisku prohlížeče jsou blokované</string>
+    <string name="huhi_shields_block_fingerprints_switch">Ochrana proti otisku prohlížeče</string>
+
+    <string name="ad_block_regional_title">Blokování regionálních reklam</string>
+    <string name="ad_block_regional_summary">Zamezuje načítání regionálních reklam</string>
+
+    <string name="ad_block_regional_summary_no_list">Žádné další seznamy nejsou dostupné pro vaše místní nastavení</string>
+
+    <string name="menu_exit">Výstup</string>
+
+    <string name="sync_settings_add_device_name_title">Přidat název zařízení</string>
+    <string name="sync_settings_add_device_name_label">Zadejte volitelný název pro toto zařízení</string>
+    <string name="sync_example_device_name">Zařízení Android</string>
+    <string name="enter_code_words_sync">Zadejte kódová slova</string>
+    <string name="sync_device">Synchronizovat zařízení</string>
+    <string name="sync_device_failure">Synchronizaci nelze nastavit</string>
+
+    <string name="huhi_stats_text_trackers">Trackery
+zablokovány</string>
+    <string name="huhi_stats_text_ads">Reklamy
+zablokovány</string>
+    <string name="huhi_stats_text_https">HTTPS
+aktualizace</string>
+    <string name="huhi_stats_text_time">Zal. Čas
+Uloženo</string>
+
+    <string name="send_metrics_title">Zaslat metriky</string>
+
+    <string name="desktop_mode_title">Desktopový režim</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Preferovat desktopovou verzi stránek</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Preferovat mobilní verzi stránek</string>
+    <string name="website_settings_category_desktop_view_enabled">U nových záložek aktivovat desktopové zobrazení</string>
+    <string name="website_settings_category_desktop_view_disabled">U nových záložek používat mobilní verze stránek (doporučeno)</string>
+
+    <string name="huhi_shields_first_group_title">Blokování monitoru</string>
+    <string name="huhi_shields_second_group_title">Vlastní ovládání</string>
+    <string name="huhi_shields">Štíty</string>
+    <string name="huhi_shields_ads_and_trackers">Reklamy a trackery</string>
+    <string name="huhi_shields_fingerprint_methods">Metody sběru otisků prstů</string>
+    <string name="huhi_shields_block_phishing_switch">Zablokovat phishing</string>
+
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Zapnuto</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Vypnuto</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Experimentální. Umožňuje, aby zvuk z videa hrál na pozadí, když panel není aktivní nebo je vypnutá obrazovka zařízení. Pokud tato funkce nefunguje, zkuste přepnout na desktopový mód.</string>
+    <string name="settings_require_relaunch_notice">Vaše změny začnou platit, až znovu spustíte Huhi.</string>
+    <string name="settings_require_relaunch_now">ZNOVU SPUSTIT NYNÍ</string>
+    <string name="settings_require_relaunch_later">POZDĚJI</string>
+
+    </resources>

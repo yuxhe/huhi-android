@@ -1,0 +1,318 @@
+<resources>
+
+    <string name="huhi_settings_title">הגדרות מגן אתר Huhi עבור</string>
+    <string name="huhi_shields_down">למטה</string>
+    <string name="huhi_shields_up">למעלה</string>
+    <string name="huhi_shields_ads_trackers">מודעות ושרתי מעקב שנחסמו</string>
+    <string name="huhi_shields_https_upgrades">שדרוגי HTTPS</string>
+    <string name="huhi_shields_scripts_blocked">קובצי תסריט שנחסמו</string>
+    <string name="huhi_shields_ads_tracking_switch">חסימת מודעות ומעקב</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS בכל מקום</string>
+    <string name="huhi_shields_blocks_scripts_switch">לחסום קובצי תסריט</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">הפעלה/השבתה של מגני Huhi</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">ניהול תגמולי Huhi </string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">לחסום עוגיות צד שלישי</string>
+
+    <string name="httpse_summary">פתיחת אתרים נתמכים באמצעות HTTPS במקום HTTP כשאפשר</string>
+    <string name="ad_block_title">לחסום פרסומות</string>
+    <string name="ad_block_summary">מניעת טעינה של פרסומות</string>
+
+    <string name="fingerprinting_protection_title">להגן מפני תקיפת טביעת אצבע</string>
+    <string name="fingerprinting_protection_summary">מניעת הדפדפן מלקיחת טביעות אצבעות</string>
+    <string name="huhi_shields_fingerprints_blocked">שיטות לקיחת טביעת אצבע חסומות</string>
+    <string name="huhi_shields_block_fingerprints_switch">הגנה מפני תקיפת טביעת אצבע</string>
+
+    <string name="ad_block_regional_title">לחסום פרסומות אזוריות</string>
+    <string name="ad_block_regional_summary">מניעת טעינה של פרסומות אזוריות</string>
+
+    <string name="ad_block_regional_summary_no_list">אין רשימות נוספות זמינות עבור האזור שלך</string>
+
+    <string name="menu_exit">יציאה</string>
+
+    <string name="huhi_sync">סנכרון Huhi (בטא)</string>
+    <string name="sync_settings_add_device_name_title">נא להוסיף שם מכשיר</string>
+    <string name="sync_settings_add_device_name_label">נא להזין שם אופציונלי עבור מכשיר זה</string>
+    <string name="sync_example_device_name">מכשיר אנדרואיד</string>
+    <string name="enter_code_words_sync">נא להזין מילות קוד</string>
+    <string name="sync_device">לסנכרן מכשיר</string>
+    <string name="sync_device_failure">לא ניתן להגדיר את הסנכרון</string>
+    <string name="sync_requires_correct_time">ייתכן ששעון המחשב שלך מוגדר לשעה שגויה או לאזור זמן שגוי. נא לבדוק את הגדרות השעון</string>
+
+    <string name="huhi_stats_text_ads">פרסומות ומעקבים
+חסומים</string>
+    <string name="huhi_stats_text_https">שדרוגי
+HTTPS</string>
+    <string name="huhi_stats_text_time">הזמן המשוער
+שנחסך</string>
+
+    <string name="send_metrics_title">לשלוח מדדים</string>
+
+    <string name="desktop_mode_title">מצב שולחן עבודה</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">להעדיף את גרסאות האתרים לשולחן עבודה</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">להעדיף את גרסאות האתרים למכשירים ניידים</string>
+    <string name="website_settings_category_desktop_view_enabled">להפעיל תצוגת שולחן עבודה לכרטיסיות חדשות</string>
+    <string name="website_settings_category_desktop_view_disabled">להשתמש בגרסאות האתרים למכשירים ניידים בכרטיסיות חדשות (מומלץ)</string>
+
+    <string name="huhi_shields_first_group_title">צג חסימות</string>
+    <string name="huhi_shields_second_group_title">פקדים פרטניים</string>
+    <string name="huhi_shields">מגנים</string>
+    <string name="huhi_shields_ads_and_trackers">פרסומות וכלי מעקב</string>
+    <string name="huhi_shields_fingerprint_methods">שיטות לקיחת טביעת אצבע</string>
+    <string name="huhi_shields_block_phishing_switch">חסימת דיוג</string>
+
+    <string name="play_video_in_background_title">נגינת סרטים ברקע</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">מופעל</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">כבוי</string>
+    <string name="website_settings_category_play_video_in_background_enabled">ניסיוני. מאפשר הפעלת צליל מווידאו ברקע כשכרטיסיות אינן פעילות או כשמסך המכשיר מכובה. נא לנסות לעבור למצב שולחן עבודה אם תכונה זו אינה פועלת.</string>
+    <string name="settings_require_relaunch_notice">השינויים שלך ייכנסו לתוקף בפעם הבאה ש־Huhi יופעל מחדש</string>
+    <string name="settings_require_relaunch_now">להפעיל מחדש עכשיו</string>
+    <string name="settings_require_relaunch_later">מאוחר יותר</string>
+
+    <string name="play_yt_video_in_browser_title">הצגת סרטים ב־Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">מופעל</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">כבוי</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">אם זה מופעל, הסרטים יוצגו ב־Huhi במקום באפליקציה המשויכת</string>
+
+    <string name="close_tabs_on_exit_title">סגור כרטיסיות ביציאה</string>
+    <string name="close_tabs_on_exit_summary">אין להחזיק כרטיסיות בין זמני עיון שונים</string>
+
+    <string name="open_pages_in_custom_tabs_title">פתח לשוניות ב׳לשוניות מותאמות׳</string>
+    <string name="open_pages_in_custom_tabs_summary">הצעה לפתוח לשוניות ב׳לשוניות מותאמות׳</string>
+
+    <string name="ddg_offer_title">חיפוש אישי בעזרת DuckDuckGo?</string>
+    <string name="ddg_offer_text">בחיפוש הפרטי, Huhi ישתמש ב-DuckDuckGo כדי לענות על החיפושים שלכם בזמן שתהיו בלשונית פרטית זו. DuckDuckGo הוא מנוע חיפוש שאינו עוקב אחרי היסטוריית החיפושים שלכם, ובכך הוא מאפשר לכם לבצע חיפושים באופן פרטי.</string>
+    <string name="ddg_offer_positive">כן</string>
+    <string name="ddg_offer_negative">לא</string>
+    <string name="ddg_offer_link">למדו אודות חיפוש פרטי בעזרת DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">לשונית סטנדרטית</string>
+    <string name="prefs_private_search_engine">לשונית פרטית</string>
+
+    <string name="huhi_open_in_private_tab">פתחו בלשונית פרטית</string>
+    <string name="huhi_close_all_private_tabs">סגרו את הלשוניות הפרטיות</string>
+    <string name="huhi_new_private_tab">לשונית פרטית חדשה</string>
+    <string name="huhi_new_tab_private_header">זו לשונית פרטית</string>
+    <string name="huhi_new_tab_private_message">למרות שאתרים שבהם ביקרתם בעזרת לשונית פרטית אינם נשמרים במחשב שלכם, הם אינם הופכים אתכם לאנונימיים או לבלתי נראים בפני ספק שירות האינטרנט שלכם, המעביד שלכם או האתרים שבהם אתם מבקרים.</string>
+    <string name="update_notification_title">עדכון Huhi</string>
+    <string name="update_notification_text">דפדפן ה-Huhi החדש מהיר יותר ב-22%</string>
+    <string name="prefs_sync">סנכרון (beta)</string>
+    <string name="huhi_ads_existing_user_offer_title">הפרסומות של Huhi הגיעו!</string>
+    <string name="huhi_ads_new_user_offer_title">אפשר/י את Huhi Rewards</string>
+    <string name="huhi_ads_offer_text">זכו באסימון תשומת לב בסיסי על צפייה בפרסומות השומרות על הפרטיות בHuhi Rewards.</string>
+    <string name="huhi_ads_offer_positive">אני בעניין!</string>
+    <string name="huhi_sync_description_page_1_part_1">Huhi Sync מאפשר לסנכרן נתוני סימניות בפרטיות בין Huhi Browsers במכשירים השונים שלך.</string>
+    <string name="huhi_sync_description_page_1_part_2">פשוט סרוק את הקוד משרשרת הסנכרון שיצרת במכשיר אחר. או התחל שרשרת סנכרון חדשה.</string>
+    <string name="huhi_sync_scan_chain_code">סרוק או הזן קוד סנכרון</string>
+    <string name="huhi_sync_start_new_chain">התחל שרשרת סנכרון חדשה</string>
+    <string name="huhi_sync_qrcode_message_v2">באמצעות מכשיר מסונכרן קיים, פתח את הגדרות Huhi ונווט אל  הגדרות > סנכרון. הקש על \"הוסף מכשיר\" וסרוק את קוד ה-QR המוצג על המסך.</string>
+    <string name="huhi_sync_codewords_message">באמצעות מכשיר מסונכרן קיים, פתח את הגדרות Huhi ונווט אל  הגדרות > סנכרון. הקש על \"הוסף מכשיר\" ואז \"הצג מילות קוד במקום\".</string>
+    <string name="huhi_sync_btn_mobile">הוסף מכשיר נייד</string>
+    <string name="huhi_sync_btn_laptop">הוסף מחשב</string>
+    <string name="huhi_sync_scan_sync_code">סרוק את קוד הסנכרון</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">באמצעות מכשיר טלפון שני או טאבלט, נווט אל הגדרות Huhi> סנכרון > סריקה.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">במכשיר הנייד שלך, נווט/י אל סנכרון Huhi בחלונית ההגדרות ולחצ/י על הכפתור \"סרוק קוד סנכרון\". השתמש/י במצלמה שלך כדי לסרוק את קוד ה-QR למטה.</string>
+    <string name="huhi_sync_btn_done">סיום</string>
+    <string name="huhi_sync_tabs_text">כרטיסיות</string>
+    <string name="huhi_sync_history_text">היסטוריה</string>
+    <string name="huhi_sync_autofill_passwords_text">מילוי אוטומטי/סיסמה</string>
+    <string name="huhi_sync_payment_settings_text">הגדרות תשלום של Huhi</string>
+    <string name="huhi_sync_settings_title">סנכרן במכשיר זה</string>
+    <string name="huhi_sync_settings_description">שינוי הגדרות ישפיע אך ורק על נתונים שמכשיר זה משתף עם אחרים.</string>
+    <string name="huhi_sync_devices_title">מכשירים אחרים בשרשרת</string>
+    <string name="huhi_sync_loading_devices_title">טוען מכשירים...</string>
+    <string name="huhi_sync_add_device_text">הוסף מכשיר אחר</string>
+    <string name="huhi_sync_remove_device_text">הסר את מכשיר זה</string>
+    <string name="huhi_sync_code_words_title">צימוד</string>
+    <string name="huhi_sync_add_laptop_text_title">הזן קוד שרשרת סנכרון</string>
+    <string name="huhi_sync_add_laptop_text_part_1">במחשב שלך, נווט אל הגדרות Huhi > סנכרון. בחר \"הזן קוד שרשרת סנכרון\".</string>
+    <string name="huhi_sync_add_laptop_text_part_2">הזן את מילות הקוד המופיעות מעלה, כולל רווחים.</string>
+    <string name="huhi_sync_delete_device">האם ברצונך למחוק את המכשיר \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'?</string>
+    <string name="huhi_sync_delete_sent">בקשת מחיקה נשלחה. המכשיר יוסר במהרה.</string>
+    <string name="huhi_sync_loading_data_title">טוען נתונים...</string>
+    <string name="huhi_sync_time_out_message">משהו השתבש, נראה כי הזמן לבקשתך תם.</string>
+    <string name="huhi_sync_use_camera_text">אני אשתמש במצלמה שלי...</string>
+    <string name="huhi_sync_confirm_code_words_text">אשר</string>
+    <string name="huhi_sync_word_count_text">מספר מילים: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">מספר שגוי של מילים</string>
+    <string name="huhi_sync_qr_code">קוד QR</string>
+    <string name="huhi_sync_code_words">מילות קוד</string>
+    <string name="huhi_sync_copy_button_text">העתק ל-Clipboard</string>
+    <string name="huhi_sync_copied_text">בוצעה העתקה ל-Clipboard</string>
+    <string name="huhi_sync_this_device_text">(מכשיר זה)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi כבר מוגדר
+כדפדפן ברירת המחדל שלך.</string>
+    <string name="huhi_default_browser_go_to_settings">הגדרת כבר דפדפן ברירת מחדל.
+באפשרותך להחליף את דפדפן ברירת המחדל בהגדרות האפליקציה.</string>
+    <string name="huhi_default_browser_notification_body">באפשרותך לחסוך סוללה ולהטעין דפי אינטרנט מהר יותר. הפוך/הפכי את Huhi לדפדפן ברירת המחדל שלך. מתפריט Huhi הקש/י על \"הגדר כברירת מחדל\".</string>
+    <string name="huhi_set_default_browser">הגדירו כדפדפן ברירת המחדל</string>
+    <string name="huhi_set_default_browser_dialog_text">בחר/י ב-Huhi מתוך הרשימה והקש/י על \"תמיד\"</string>
+    <string name="huhi_default_browser_existing_notification_body">הפכו את Huhi לדפדפן ברירת המחדל
+חסכו סוללה וטענו דפי רשת במהירות</string>
+
+    <string name="huhi_ui_welcome_header_two">תתכונן לחוויית
+האינטרנט הבא.</string>
+    <string name="huhi_ui_welcome_desc_two">באפשרותך להרוויח אסימונים
+על צפייה בפרסומות מכבדות פרטיות.</string>
+    <string name="huhi_ui_welcome_button_text_two">הצטרף לגמול כספי</string>
+    <string name="huhi_ui_welcome_footer_text_two">למידע נוסף</string>
+    <string name="huhi_ui_rewards_creating_text">יצירת ארנק</string>
+    <string name="huhi_ui_your_wallet">הארנק שלך</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0.0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">הוסף כסף</string>
+    <string name="huhi_ui_settings">הגדרות</string>
+    <string name="huhi_ui_rewards_summary">סיכום הגמול הכספי</string>
+    <string name="huhi_ui_site_banner_welcome">תודה שקפצת לבקר!</string>
+    <string name="huhi_ui_rewards_banner_text1">ניתן לתמוך באתר זה באמצעות שליחת טיפ. זוהי דרך להודות להם על התוכן נהדר. יוצרי תוכן מאומתים מקבלים תשלום עבור הטיפים שלהם במהלך השבוע הראשון של כל חודש קלנדרי.</string>
+    <string name="huhi_ui_rewards_banner_text2">אם תרצה, תוכל לתזמן טיפים חודשיים לתמיכה באתר זה באופן קבוע.</string>
+    <string name="huhi_ui_donation_amount">כמות טיפים</string>
+    <string name="huhi_ui_wallet_balance">הסכום בארנק:</string>
+    <string name="huhi_ui_make_monthly">הפוך לחודשי</string>
+    <string name="huhi_ui_send_tip">שלח את הטיפ שלי</string>
+    <string name="huhi_ui_do_monthly">הגדר טיפ חודשי</string>
+    <string name="huhi_ui_not_enough_tokens">אין מספיק אסימונים</string>
+    <string name="huhi_ui_site_banner_notice_text">הערה: יוצר זה עדיין לא נרשם לקבלת תרומות ממשתמשי Huhi. אנו נמשיך לנסות לתרום עד שהוא יאמת, או עד שיחלפו 90 יום.</string>
+    <string name="huhi_ui_please">בבקשה</string>
+    <string name="huhi_ui_add_funds">הוסף כסף</string>
+    <string name="huhi_ui_thank_you">תודה!</string>
+    <string name="huhi_ui_error_init_wallet">נסה שוב מאוחר יותר.</string>
+    <string name="huhi_ui_month_jan">ינואר</string>
+    <string name="huhi_ui_month_feb">פברואר</string>
+    <string name="huhi_ui_month_mar">מרץ</string>
+    <string name="huhi_ui_month_apr">אפריל</string>
+    <string name="huhi_ui_month_may">מאי</string>
+    <string name="huhi_ui_month_jun">יוני</string>
+    <string name="huhi_ui_month_jul">יולי</string>
+    <string name="huhi_ui_month_aug">אוגוסט</string>
+    <string name="huhi_ui_month_sep">ספטמבר</string>
+    <string name="huhi_ui_month_oct">אוקטובר</string>
+    <string name="huhi_ui_month_nov">נובמבר</string>
+    <string name="huhi_ui_month_dec">דצמבר</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>דצמבר</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">לתשומת לבך</string>
+    <string name="huhi_ui_include_in_auto">כלול בתרומה אוטומטית</string>
+    <string name="huhi_ui_donate_now">שלח טיפ...</string>
+    <string name="huhi_ui_no_activity">אין עדיין פעילויות
+החודש...</string>
+    <string name="huhi_ui_token_grant_claimed">מימוש מענק אסימונים</string>
+    <string name="huhi_ui_earnings_ads">להרוויח מצפייה בפרסומות</string>
+    <string name="huhi_ui_rewards_contribute">תרומה אוטומטית</string>
+    <string name="huhi_ui_rewards_contribute_description">תרמת <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
+    <string name="huhi_ui_one_time_donation">תרומת טיפ חד פעמית</string>
+    <string name="huhi_ui_recurring_donation">טיפים חודשיים</string>
+    <string name="huhi_ui_verified_publisher">מפרסם מאומת של Huhi</string>
+    <string name="huhi_ui_not_verified_publisher">לא אומת עדיין</string>
+    <string name="huhi_ui_not_verified_publisher_description">הערה: יוצר זה עדיין לא נרשם לקבלת תרומות ממשתמשי Huhi.
+ כל טיפ שתשלח ישאר בארנק שלך עד לאימות.</string>
+    <string name="huhi_ui_on_youtube">ב-YouTube</string>
+    <string name="huhi_ui_on_twitch">ב-Twitch</string>
+    <string name="huhi_ui_new_grant">מענק אסימונים חינם זמין.</string>
+    <string name="huhi_ui_new_token_grant">מענק אסימונים חינם</string>
+    <string name="huhi_ui_claim">מימוש</string>
+    <string name="huhi_ui_reserved_amount_text">ייעדת <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT ליוצרים שלא
+ נרשמו עדיין לקבלת תרומות. הדפדפן שלך ימשיך לנסות לתרום
+עד שהם יאשרו, או עד שיחלפו 90 יום.</string>
+    <string name="huhi_ui_notification_desc_no_funds">לא ניתן היה להשלים את התשלום החודשי המתוכנן שלך עבור תרומה אוטומטית וטיפים חודשיים בגלל חוסר בכספים. אנו ננסה שוב בעוד 30 יום.</string>
+    <string name="huhi_ui_notification_desc_tip_error">חלה בעיה בעיבוד הטיפ שלך, אנא נסה שנית.</string>
+    <string name="huhi_ui_notification_desc_contr_error">חלה בעיה בעיבוד התרומה שלך.</string>
+    <string name="huhi_rewards_local_uh_oh">אוי לא!</string>
+    <string name="huhi_rewards_local_server_not_responding">שרת גמול כספי של Huhi אינו מגיב. נתקן זאת בהקדם האפשרי.</string>
+    <string name="huhi_ui_grants">מענקים</string>
+    <string name="huhi_ui_expires_on">תקף עד <ph name=\"DATE\">%1$s<ex>4/14/2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">סכום הכסף אינו מספיק</string>
+    <string name="huhi_ui_insufficient_funds_desc">חשבון הגמול הכספי של Huhi שלך ממתין להפקדה.</string>
+    <string name="huhi_ui_backup_wallet_msg">ארנק גיבוי</string>
+    <string name="huhi_ui_backup_wallet_desc">יש לגבות את ארנק Huhi.</string>
+    <string name="huhi_ui_huhi_rewards">גמול כספי של Huhi</string>
+    <string name="huhi_ui_welcome_back_message">יופי שחזרת!</string>
+    <string name="huhi_ui_get_rewarded">קבל פרסים על גלישה.</string>
+    <string name="huhi_ui_huhi_rewards_desc">בוא להרוויח מצפייה בפרסומות מכבדות פרטיות
+ולהעביר את הפרס הלאה כדי לתמוך
+ביוצרי התוכן המועדפים עליך.</string>
+    <string name="huhi_welcome_page_rewards_title">הפעל אפשרות גמול כספי של HUHI</string>
+    <string name="huhi_ui_first_tip_text">הטיפ החודשי הראשון שלך יישלח ב-</string>
+    <string name="huhi_ui_tip_text">שלחת טיפ אל:</string>
+    <string name="huhi_ui_auto_tip_text">את/ה שולח/ת טיפ באופן אוטומטי אל:</string>
+    <string name="huhi_ui_monthly_text">חודשי</string>
+    <string name="bottom_toolbar_enable">הפוך סרגל כלים תחתון לזמין</string>
+    <string name="bottom_toolbar_disable">הפוך סרגל כלים תחתון ללא זמין</string>
+    <string name="search_or_url">חיפוש או URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">יצירת סימניה</string>
+    <string name="huhi_ui_donate_monthly">תן/י לאתר זה טיפ אחת לחודש</string>
+
+    <string name="huhi_rewards_not_available">אנו  מצטערים, נראה ש-Huhi Rewards אינו זמין במכשיר שלך</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">סגירת כל הכרטיסיות סוגרת את Huhi</string>
+    <string name="prefs_section_display">תצוגה</string>
+    <string name="prefs_section_controls">פקדים</string>
+    <string name="prefs_appearance">מראה</string>
+    <string name="hide_huhi_rewards_icon_title">מסתיר את אייקון Huhi Rewards</string>
+    <string name="hide_huhi_rewards_icon_description">מסתיר את אייקון Huhi Rewards כש-Huhi Rewards אינו זמין</string>
+    <string name="show_ads_when_huhi_is_not_in_use">הצג מודעות כאשר Huhi אינו בשימוש</string>
+    <string name="reset_huhi_rewards_option">איפוס Huhi Rewards</string>
+    <string name="reset_huhi_rewards_option_description">זה ימחק את ארנק Huhi שלך ויאפס את כל הנתונים של Huhi Rewards שלך</string>
+    <string name="reset_huhi_rewards_error_title">איפוס שגיאה</string>
+    <string name="reset_huhi_rewards_error_description">אירעה שגיאה באיפוס Huhi Rewards. נא להפעיל מחדש את Huhi ולנסות שוב</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">במחשב היעד, נווט/י ל-Huhi Sync בהגדרות ולחץ/י על הכפתור \"יש לי קוד סינק.\nהכנס/י את המילים של שרשרת קוד הסינק המוצגות למטה.</string>
+
+    <string name="huhi_sync_official">Huhi Sync</string>
+    <string name="prefs_sync_official">סנכרון</string>
+
+    <string name="huhi_sync_code_warning">יש להתייחס לקוד זה כאל סיסמה. אם מישהו ישיג אותה, הוא יוכל לקרוא ולשנות את הנתונים המסונכרנים שלך.</string>
+
+    <string name="notification_category_group_huhi_ads">פרסומות של Huhi </string>
+    <string name="huhi_ads_you_earned">זכית</string>
+
+    <string name="huhi_default_browser_title">Huhi הוא מהיר במיוחד</string>
+    <string name="huhi_default_browser_body">הפכו את Huhi לדפדפן ברירת המחדל שלכם!</string>
+    <string name="huhi_make_default_text">הפכו לברירת מחדל</string>
+    <string name="huhi_ui_ads_earnings">רווחים שהתקבלו מפרסומות</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">דלג</string>
+
+    <string name="search_engine_onboarding">צירוף מנוע חיפוש</string>
+    <string name="troubleshooting_onboarding">צירוף פתרון בעיות</string>
+
+    <string name="welcome_to_huhi_browser">ברוכים הבאים לדפדפן Huhi </string>
+    <string name="select_your_default_search_engine">בחר/י את מנוע החיפוש ברירת המחדל שלך</string>
+
+    <string name="block">חסימה</string>
+    <string name="huhi_shields_onboarding_title">Huhi Shields </string>
+    <string name="huhi_shields_onboarding_text">פרסומות ואפליקציות מעקב שפולשות לפרטיות כדי שתוכל/י לדפדף בלי שיעקבו  אחריך ברחבי הרשת.</string>
+
+    <string name="earn_tokens">זכייה באסימונים</string>
+    <string name="huhi_rewards_onboarding_title">Huhi Rewards</string>
+    <string name="huhi_rewards_onboarding_text">לצפייה בפרסומות שמכבדות את הפרטיות. השתמש/י בהן לתמיכה באתרים וביוצרים החביבים עליך.</string>
+    <string name="huhi_rewards_onboarding_text2">לצפייה בפרסומות שמכבדות את הפרטיות.</string>
+
+    <string name="terms_title">נא להסכים לתנאים כדי להשתמש ב-Huhi Rewards</string>
+    <string name="terms_text">אני מסכים/ה ל-Huhi Rewards</string>
+    <string name="terms_of_service">תנאי שירות</string>
+
+    <string name="agree">מסכים/ה</string>
+    <string name="join">הצטרפות</string>
+
+     <string name="start_browsing">התחל דפדוף</string>
+    <string name="i_didnt_see">לא ראיתי פרסומת</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi יציג לך את הפרסומת הראשונה שלך בעוד</string>
+    <string name="huhi_ads_onboarding_text">כדי לראות פרסומות של Huhi Rewards, נא לוודא ש-Huhi זמין להציג לך התראות.</string>
+
+    <string name="this_is_your_first_ad">זו פרסומת Huhi הראשונה שלך. נא להקיש לקבלת מידע נוסף.</string>
+
+    <string name="turn_on">הפעלה</string>
+
+    <string name="no_thanks">לא תודה</string>
+    <string name="do_not_agree">לא מסכים/ה</string>
+
+    <string name="prefs_welcome_tour">סיור קבלת פנים</string>
+    <string name="welcome_tour_dialog_text">הפעלה מחדש של סיור קבלת הפנים לא תשפיע על הגדרות קיימות.</string>
+    <string name="finish">סיום</string>
+    
+    <string name="clear_download_title">היסטוריית הורדות</string>
+
+    <string name="settings_exit">יציאה מההגדרות</string>
+
+</resources>

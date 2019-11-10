@@ -1,0 +1,319 @@
+<resources>
+
+    <string name="huhi_settings_title">Nastavenie webovej ochrany Huhi pre:</string>
+    <string name="huhi_shields_down">Dole</string>
+    <string name="huhi_shields_up">Hore</string>
+    <string name="huhi_shields_ads_trackers">Reklamy a sledovanie zablokované</string>
+    <string name="huhi_shields_https_upgrades">Upgrady HTTPS</string>
+    <string name="huhi_shields_scripts_blocked">Skripty zablokované</string>
+    <string name="huhi_shields_ads_tracking_switch">Zablokovať reklamy a sledovanie</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS všade</string>
+    <string name="huhi_shields_blocks_scripts_switch">Zablokovať skripty</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Aktivovať/deaktivovať ochrany Huhi</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Správa odmien Huhi</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Blokovať súbory cookie tretích strán</string>
+
+    <string name="httpse_summary">Otvára podporované stránky prostredníctvom HTTPS namiesto HTTP vždy, keď je to možné</string>
+    <string name="ad_block_title">Blokovanie reklamy</string>
+    <string name="ad_block_summary">Zabraňuje načítaniu reklám</string>
+
+    <string name="fingerprinting_protection_title">Ochrana proti otisku prehliadača</string>
+    <string name="fingerprinting_protection_summary">Zamedzuje otisku prehliadača</string>
+    <string name="huhi_shields_fingerprints_blocked">Metódy otisku prehliadača sú blokované</string>
+    <string name="huhi_shields_block_fingerprints_switch">Ochrana proti otisku prehliadača</string>
+
+    <string name="ad_block_regional_title">Blokovanie regionálnych reklám</string>
+    <string name="ad_block_regional_summary">Zamedzuje načítaniu regionálnych reklám</string>
+
+    <string name="ad_block_regional_summary_no_list">Žiadne ďalšie zoznamy nie sú dostupné pre vaše miestne nastavenie</string>
+
+    <string name="menu_exit">Východ</string>
+
+    <string name="huhi_sync">Synchronizácia Huhi (beta)</string>
+    <string name="sync_settings_add_device_name_title">Pridajte názov zariadenia</string>
+    <string name="sync_settings_add_device_name_label">Zadajte nepovinný názov pre toto zariadenie</string>
+    <string name="sync_example_device_name">Android zariadenie</string>
+    <string name="enter_code_words_sync">Zadajte kódové slová</string>
+    <string name="sync_device">Synchronizované zariadenie</string>
+    <string name="sync_device_failure">Synchronizáciu nie je možné nastaviť</string>
+    <string name="sync_requires_correct_time">Hodiny vo vašom počítači majú možno nastavený nesprávny čas alebo časovú zónu. Skontrolujte nastavenia hodín</string>
+
+    <string name="huhi_stats_text_ads">Reklamy a sledovače
+Blokované</string>
+    <string name="huhi_stats_text_https">Upgrady
+HTTPS</string>
+    <string name="huhi_stats_text_time">Odhad.
+ušetrený čas</string>
+
+    <string name="send_metrics_title">Odoslať metriky</string>
+
+    <string name="desktop_mode_title">Desktopový režim</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Uprednostňujte desktopovú verziu stránok</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Uprednostňujte mobilnú verziu stránok</string>
+    <string name="website_settings_category_desktop_view_enabled">Povoľte desktopové zobrazenie pre nové karty</string>
+    <string name="website_settings_category_desktop_view_disabled">Používajte mobilné verzie stránok pre nové karty (odporúčané)</string>
+
+    <string name="huhi_shields_first_group_title">Monitorovanie blokovania</string>
+    <string name="huhi_shields_second_group_title">Individuálne nastavenia</string>
+    <string name="huhi_shields">Štíty</string>
+    <string name="huhi_shields_ads_and_trackers">Reklama a sledovanie</string>
+    <string name="huhi_shields_fingerprint_methods">Spôsoby identifikácie</string>
+    <string name="huhi_shields_block_phishing_switch">Blokovanie phishingu</string>
+
+    <string name="play_video_in_background_title">Prehrávanie videa na pozadí</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Aktivované</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Deaktivované</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Experimentálne. Umožňuje prehrávať zvuk z videa v pozadí, keď karta nie je aktívna alebo je obrazovka zariadenia vypnutá. Ak táto funkcia nefunguje, skúste prepnúť do režimu pracovnej plochy.</string>
+    <string name="settings_require_relaunch_notice">Vaše zmeny sa prejavia pri ďalšom spustení Huhi</string>
+    <string name="settings_require_relaunch_now">SPUSTIŤ ZNOVA</string>
+    <string name="settings_require_relaunch_later">NESKÔR</string>
+
+    <string name="play_yt_video_in_browser_title">Prehrávanie videa cez Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Povolené</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Zakázané</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Ak je to povolené, videá sa budú prehrávať cez Huhi namiesto zodpovedajúcej aplikácie</string>
+
+    <string name="close_tabs_on_exit_title">Pri odchode zatvoriť karty</string>
+    <string name="close_tabs_on_exit_summary">Neuchovávať karty medzi reláciami</string>
+
+    <string name="open_pages_in_custom_tabs_title">Otvárať karty v položke Vlastné karty</string>
+    <string name="open_pages_in_custom_tabs_summary">Ponuka otvárať karty v položke Vlastné karty</string>
+
+    <string name="ddg_offer_title">Prejsť na súkromné vyhľadávanie cez DuckDuckGo?</string>
+    <string name="ddg_offer_text">Kým ste na tejto súkromnej karte, Huhi použije pre Vaše vyhľadávania DuckDuckGo. DuckDuckGo je vyhľadávací nástroj, ktorý nesleduje Vašu históriu vyhľadávania, a umožňuje Vám tak vyhľadávať v súkromí.</string>
+    <string name="ddg_offer_positive">Áno</string>
+    <string name="ddg_offer_negative">Nie</string>
+    <string name="ddg_offer_link">Zistite viac o súkromnom vyhľadávaní cez DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Štandardná karta</string>
+    <string name="prefs_private_search_engine">Súkromná karta</string>
+
+    <string name="huhi_open_in_private_tab">Otvoriť na súkromnej karte</string>
+    <string name="huhi_close_all_private_tabs">Zavrieť súkromné karty</string>
+    <string name="huhi_new_private_tab">Nová súkromná karta</string>
+    <string name="huhi_new_tab_private_header">Toto je súkromná karta</string>
+    <string name="huhi_new_tab_private_message">Aj napriek tomu, že stránky, ktoré navštevujete na súkromných kartách, sa lokálne neukladajú, Vaša aktivita je stále viditeľná pre Vášho zamestnávateľa, poskytovateľa internetového pripojenia alebo vlastníkov navštevovaných stránok.</string>
+    <string name="update_notification_title">Aktualizácia prehliadača Huhi</string>
+    <string name="update_notification_text">Nový prehliadač Huhi je o 22 % rýchlejší</string>
+    <string name="prefs_sync">Sync (beta verzia)</string>
+    <string name="huhi_ads_existing_user_offer_title">Reklamy Huhi sú tu!</string>
+    <string name="huhi_ads_new_user_offer_title">Aktivovať odmeny Huhi</string>
+    <string name="huhi_ads_offer_text">Získajte v odmenách Huhi token základnej pozornosti na prezeranie reklám zameraných na ochranu súkromia.</string>
+    <string name="huhi_ads_offer_positive">Som tam!</string>
+    <string name="huhi_sync_description_page_1_part_1">Aplikácia Huhi Sync vám umožňuje súkromne synchronizovať údaje záložiek medzi prehliadačmi Huhi na rôznych zariadeniach.</string>
+    <string name="huhi_sync_description_page_1_part_2">Jednoducho naskenujte kód zo synchronizačného reťazca, ktorý ste vytvorili na inom zariadení. Alebo začnite nový synchronizačný reťazec.</string>
+    <string name="huhi_sync_scan_chain_code">Naskenujte alebo zadajte synchronizačný kód</string>
+    <string name="huhi_sync_start_new_chain">Začať nový synchronizačný reťazec</string>
+    <string name="huhi_sync_qrcode_message_v2">Pomocou existujúceho synchronizovaného zariadenia otvorte položku Huhi Settings (Nastavenia Huhi) a prejdite na položku Settings (Nastavenia) > Sync (Synchronizácia). Vyberte položku „Add Device“ (Pridať zariadenie) a naskenujte QR kód zobrazený na obrazovke.</string>
+    <string name="huhi_sync_codewords_message">Pomocou existujúceho synchronizovaného zariadenia otvorte položku Huhi Settings (Nastavenia Huhi) a prejdite na položku Settings (Nastavenia) > Sync (Synchronizácia). Vyberte položku „Add Device“ (Pridať zariadenie) a následne položku „Display code words instead“ (Zobraziť slová kódu).</string>
+    <string name="huhi_sync_btn_mobile">Pridať mobilné zariadenie</string>
+    <string name="huhi_sync_btn_laptop">Pridať počítač</string>
+    <string name="huhi_sync_scan_sync_code">Naskenovať tento synchronizačný kód</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Pomocou druhého telefónu alebo tabletu prejdite na položku Huhi Settings (Nastavenia Huhi) > Sync (Synchronizácia) > Scan (Skenovať).</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">V paneli nastavení vášho mobilného zariadenia vojdite do synchronizácie Huhi a stlačte tlačidlo \"Sken synchronizačného kódu\". Na oskenovanie QR kódu nižšie použite svoj fotoaparát.</string>
+    <string name="huhi_sync_btn_done">Hotovo</string>
+    <string name="huhi_sync_tabs_text">Karty</string>
+    <string name="huhi_sync_history_text">História</string>
+    <string name="huhi_sync_autofill_passwords_text">Automaticky vyplniť/heslá</string>
+    <string name="huhi_sync_payment_settings_text">Nastavenia platieb Huhi</string>
+    <string name="huhi_sync_settings_title">SYNCHRONIZOVAŤ NA TOMTO ZARIADENÍ</string>
+    <string name="huhi_sync_settings_description">Zmena nastavení ovplyvní iba údaje, ktoré toto zariadenie zdieľa s inými zariadeniami.</string>
+    <string name="huhi_sync_devices_title">ĎALŠIE ZARIADENIA V REŤAZCI</string>
+    <string name="huhi_sync_loading_devices_title">PREBIEHA NAČÍTANIE ZARIADENÍ...</string>
+    <string name="huhi_sync_add_device_text">Pridať ďalšie zariadenie</string>
+    <string name="huhi_sync_remove_device_text">Odstrániť toto zariadenie</string>
+    <string name="huhi_sync_code_words_title">Spárovať</string>
+    <string name="huhi_sync_add_laptop_text_title">Zadať kód synchronizačného reťazca</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Na počítači prejdite na položku Huhi Settings (Nastavenia Huhi) > Sync (Synchronizácia). Vyberte položku „Enter a Sync Chain Code“ (Zadať kód synchronizačného reťazca).</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Zadajte vyššie uvedené slová kódu vrátane medzier.</string>
+    <string name="huhi_sync_delete_device">Naozaj chcete odstrániť zariadenie „<ph name=\"DEVICE_NAME\">%1$s</ph>“?</string>
+    <string name="huhi_sync_delete_sent">Žiadosť o odstránenie sa odoslala. Zariadenie sa čoskoro odstráni.</string>
+    <string name="huhi_sync_loading_data_title">Prebieha načítanie údajov...</string>
+    <string name="huhi_sync_time_out_message">Došlo k chybe, zdá sa, že skončila platnosť vašej žiadosti.</string>
+    <string name="huhi_sync_use_camera_text">Použijem svoju kameru...</string>
+    <string name="huhi_sync_confirm_code_words_text">Potvrdiť</string>
+    <string name="huhi_sync_word_count_text">Počet slov: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Nesprávny počet slov</string>
+    <string name="huhi_sync_qr_code">QR kód</string>
+    <string name="huhi_sync_code_words">Slová kódu</string>
+    <string name="huhi_sync_copy_button_text">Skopírovať do schránky</string>
+    <string name="huhi_sync_copied_text">Skopírované do schránky</string>
+    <string name="huhi_sync_this_device_text">(toto zariadenie)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi je už nastavený ako
+váš predvolený prehliadač.</string>
+    <string name="huhi_default_browser_go_to_settings">Už ste nastavili predvolený prehliadač.
+Váš predvolený prehliadač môžete zmeniť v nastaveniach aplikácie.</string>
+    <string name="huhi_default_browser_notification_body">Šetrite batériu a načítavajte webové stránky rýchlejšie. Dajte si Huhi za svoj predvolený prehliadač. V ponuke Huhi klepnite na \"Nastaviť ako predvolený prehliadač\"</string>
+    <string name="huhi_set_default_browser">Nastaviť ako predvolený prehliadač</string>
+    <string name="huhi_set_default_browser_dialog_text">Vyberte zo zoznamu položku Huhi a klepnite na položku \"Vždy\"
+</string>
+    <string name="huhi_default_browser_existing_notification_body">Nastavte si Huhi ako svoj predvolený prehliadač
+Šetrite batériu a načítavajte webové stránky rýchlejšie</string>
+
+    <string name="huhi_ui_welcome_header_two">Pripravte sa na zážitok z
+nového internetu.</string>
+    <string name="huhi_ui_welcome_desc_two">Teraz môžete získať tokeny za
+za sledovanie reklám, ktoré rešpektujú súkromie.</string>
+    <string name="huhi_ui_welcome_button_text_two">PRIPOJIŤ SA DO PROGRAMU ODMIEN</string>
+    <string name="huhi_ui_welcome_footer_text_two">ĎALŠIE INFORMÁCIE</string>
+    <string name="huhi_ui_rewards_creating_text">Vytvára sa peňaženka</string>
+    <string name="huhi_ui_your_wallet">Vaša peňaženka</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Pridať finančné prostriedky</string>
+    <string name="huhi_ui_settings">Nastavenia</string>
+    <string name="huhi_ui_rewards_summary">ZHRNUTIE ODMIEN</string>
+    <string name="huhi_ui_site_banner_welcome">Ďakujeme za návštevu!</string>
+    <string name="huhi_ui_rewards_banner_text1">Túto stránku môžete podporiť tým, že pošlete sprepitné. Je to spôsob ako poďakovať autorom za vytvorenie skvelého obsahu. Overeným autorom obsahu sa sprepitné vypláca prvý týždeň každého kalendárneho mesiaca.</string>
+    <string name="huhi_ui_rewards_banner_text2">Ak chcete, môžete si naplánovať mesačné sprepitné na pravidelnú podporu tejto stránky.</string>
+    <string name="huhi_ui_donation_amount">Výška sprepitného</string>
+    <string name="huhi_ui_wallet_balance">zostatok v peňaženke:</string>
+    <string name="huhi_ui_make_monthly">Platiť mesačne</string>
+    <string name="huhi_ui_send_tip">poslať moje sprepitné</string>
+    <string name="huhi_ui_do_monthly">nastaviť mesačné sprepitné</string>
+    <string name="huhi_ui_not_enough_tokens">nedostatok tokenov</string>
+    <string name="huhi_ui_site_banner_notice_text">POZNÁMKA: Tento autor sa zatiaľ nezaregistroval, aby mohol získavať príspevky od používateľov prehliadača Huhi. Budeme sa snažiť prispievať, kým neoverí svoj účet, alebo kým neuplynie 90 dní.</string>
+    <string name="huhi_ui_please">prosím</string>
+    <string name="huhi_ui_add_funds">pridať finančné prostriedky</string>
+    <string name="huhi_ui_thank_you">Ďakujeme!</string>
+    <string name="huhi_ui_error_init_wallet">Skúste to znova neskôr.</string>
+    <string name="huhi_ui_month_jan">JANUÁR</string>
+    <string name="huhi_ui_month_feb">FEBRUÁR</string>
+    <string name="huhi_ui_month_mar">MAREC</string>
+    <string name="huhi_ui_month_apr">APRÍL</string>
+    <string name="huhi_ui_month_may">MÁJ</string>
+    <string name="huhi_ui_month_jun">JÚN</string>
+    <string name="huhi_ui_month_jul">JÚL</string>
+    <string name="huhi_ui_month_aug">AUGUST</string>
+    <string name="huhi_ui_month_sep">SEPTEMBER</string>
+    <string name="huhi_ui_month_oct">OKTÓBER</string>
+    <string name="huhi_ui_month_nov">NOVEMBER</string>
+    <string name="huhi_ui_month_dec">DECEMBER</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>DECEMBER</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Upozornenie</string>
+    <string name="huhi_ui_include_in_auto">Zahrnúť do automatického prispievania</string>
+    <string name="huhi_ui_donate_now">Poslať sprepitné...</string>
+    <string name="huhi_ui_no_activity">Tento mesiac zatiaľ nedošlo k
+žiadnej aktivite...</string>
+    <string name="huhi_ui_token_grant_claimed">Získané darčekové tokeny</string>
+    <string name="huhi_ui_earnings_ads">Výnosy z reklám</string>
+    <string name="huhi_ui_rewards_contribute">Automatické prispievanie</string>
+    <string name="huhi_ui_rewards_contribute_description">Prispeli ste <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
+    <string name="huhi_ui_one_time_donation">Jednorazové sprepitné</string>
+    <string name="huhi_ui_recurring_donation">Mesačné sprepitné</string>
+    <string name="huhi_ui_verified_publisher">Autor overený spoločnosťou Huhi</string>
+    <string name="huhi_ui_not_verified_publisher">Zatiaľ neoverené</string>
+    <string name="huhi_ui_not_verified_publisher_description">Tento autor sa zatiaľ nezaregistroval, aby mohol získavať príspevky od používateľov prehliadača Huhi.
+        Akékoľvek poslané sprepitné zostane vo vašej peňaženke, kým autor neoverí svoj účet.</string>
+    <string name="huhi_ui_on_youtube">v službe YouTube</string>
+    <string name="huhi_ui_on_twitch">v službe Twitch</string>
+    <string name="huhi_ui_new_grant">K dispozícii je bezplatný darčekový token.</string>
+    <string name="huhi_ui_new_token_grant">Bezplatný darčekový token</string>
+    <string name="huhi_ui_claim">Získať</string>
+    <string name="huhi_ui_reserved_amount_text">Vyhradili ste <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT pre autorov, ktorí
+sa zatiaľ nezaregistrovali na získavanie príspevkov. Váš prehliadač sa bude pokúšať
+prispievať, kým autori neoveria svoj účet, alebo kým neuplynie 90 dní.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Z dôvodu nedostatočných prostriedkov sa vaša plánovaná mesačná platba za Auto-Contribute a mesačné príspevky nedali dokončiť . Pokus zopakujeme znova o 30 dní.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Pri spracovaní vášho sprepitného došlo k chybe. Skúste to znova.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Pri spracovaní vášho príspevku došlo k chybe.</string>
+    <string name="huhi_rewards_local_uh_oh">Ale nie!</string>
+    <string name="huhi_rewards_local_server_not_responding">Server odmien Huhi neodpovedá. Opravíme to čo najskôr.</string>
+    <string name="huhi_ui_grants">Darčeky</string>
+    <string name="huhi_ui_expires_on">vyprší <ph name=\"DATE\">%1$s<ex>14.4.2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Nedostatok finančných prostriedkov</string>
+    <string name="huhi_ui_insufficient_funds_desc">Váš účet odmien Huhi čaká na vklad.</string>
+    <string name="huhi_ui_backup_wallet_msg">Zálohovať peňaženku</string>
+    <string name="huhi_ui_backup_wallet_desc">Zálohujte svoju peňaženku Huhi.</string>
+    <string name="huhi_ui_huhi_rewards">Odmeny Huhi</string>
+    <string name="huhi_ui_welcome_back_message">Vitajte späť!</string>
+    <string name="huhi_ui_get_rewarded">Dostávajte odmeny za prehliadanie.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Zarábajte sledovaním reklám, ktoré
+rešpektujú súkromie, a odmeňujte
+tvorcov obsahu, ktorých máte radi.</string>
+    <string name="huhi_welcome_page_rewards_title">POVOLIŤ ODMENY HUHI</string>
+    <string name="huhi_ui_first_tip_text">Váš prvý mesačný tip bude poslaný:</string>
+    <string name="huhi_ui_tip_text">Práve ste poslali tip na:</string>
+    <string name="huhi_ui_auto_tip_text">Automaticky posielate tip na:</string>
+    <string name="huhi_ui_monthly_text">Mesačne</string>
+    <string name="bottom_toolbar_enable">Aktivovať spodný panel s nástrojmi</string>
+    <string name="bottom_toolbar_disable">Vypnúť spodnú lištu nástrojov</string>
+    <string name="search_or_url">Vyhľadávanie alebo URL adresa</string>
+    <string name="accessibility_toolbar_btn_bookmark">Vytvoriť záložku</string>
+    <string name="huhi_ui_donate_monthly">Kliknite na túto stránku mesačne</string>
+
+    <string name="huhi_rewards_not_available">Ľutujeme, ale Odmeny Huhi vo vašom zariadení nie sú  k dispozícii</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Zatvorením všetkých kariet sa Huhi zatvorí</string>
+    <string name="prefs_section_display">Zobraziť</string>
+    <string name="prefs_section_controls">Ovládacie prvky</string>
+    <string name="prefs_appearance">Vzhľad</string>
+    <string name="hide_huhi_rewards_icon_title">Skryť ikonu Odmeny Huhi</string>
+    <string name="hide_huhi_rewards_icon_description">Skryť ikonu Odmeny Huhi, keď Odmeny Huhi nie sú povolené</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Zobrazovať reklamy, keď sa Huhi nepoužíva</string>
+    <string name="reset_huhi_rewards_option">Obnoviť Odmeny Huhi</string>
+    <string name="reset_huhi_rewards_option_description">Týmto vymažete svoju peňaženku Huhi a obnovíte všetky svoje dáta  Odmeny Huhi</string>
+    <string name="reset_huhi_rewards_error_title">Chyba obnovenia</string>
+    <string name="reset_huhi_rewards_error_description">Pri resetovaní Odmeny Huhi sa vyskytla chyba. Znova spustite Huhi a skúste to znova</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">V cieľovom počítači prejdite na položku Huhi Sync v nastaveniach a kliknite na tlačidlo „Mám synchronizačný kód“ .\nZadajte nižšie uvedené kódové slová synchrónneho reťazca.</string>
+
+    <string name="huhi_sync_official">Huhi synchronizácia</string>
+    <string name="prefs_sync_official">Synchronizovať</string>
+
+    <string name="huhi_sync_code_warning">S týmto kódom zaobchádzajte ako s heslom. Ak sa ho niekto zmocní, môže čítať a upravovať vaše synchronizované údaje.</string>
+
+    <string name="notification_category_group_huhi_ads">Reklamy Huhi</string>
+    <string name="huhi_ads_you_earned">Zarobili ste</string>
+
+    <string name="huhi_default_browser_title">Huhi je bleskurýchly</string>
+    <string name="huhi_default_browser_body">Premeňte Huhi na svoj predvolený prehliadač</string>
+    <string name="huhi_make_default_text">Predvolené</string>
+    <string name="huhi_ui_ads_earnings">zarobené na reklamách</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Preskočiť</string>
+
+    <string name="search_engine_onboarding">Vyhľadávací nástroj na palube</string>
+    <string name="troubleshooting_onboarding">Riešenie problémov na palube</string>
+
+    <string name="welcome_to_huhi_browser">Vitajte v prehliadači Huhi</string>
+    <string name="select_your_default_search_engine">Vyberte si svoj predvolený vyhľadávací nástroj</string>
+
+    <string name="block">Blokovať</string>
+    <string name="huhi_shields_onboarding_title">Huhi Shields</string>
+    <string name="huhi_shields_onboarding_text">reklamy a sledovače, ktoré napádajú súkromie, takže môžete prehliadať stránky bez toho, aby ste sa museli riadiť webom.</string>
+
+    <string name="earn_tokens">Získať tokeny</string>
+    <string name="huhi_rewards_onboarding_title">Huhi Rewards</string>
+    <string name="huhi_rewards_onboarding_text">na zobrazovanie reklám rešpektujúcich súkromie. Použite ich na podporu svojich obľúbených stránok a tvorcov.</string>
+    <string name="huhi_rewards_onboarding_text2">na zobrazovanie reklám rešpektujúcich súkromie.</string>
+
+    <string name="terms_title">Súhlas s podmienkami používania Huhi Rewards</string>
+    <string name="terms_text">Súhlasím s Huhi Rewards</string>
+    <string name="terms_of_service">Podmienky služby</string>
+
+    <string name="agree">Súhlasiť</string>
+    <string name="join">Pridať sa</string>
+
+     <string name="start_browsing">Spustiť prehliadanie</string>
+    <string name="i_didnt_see">Reklamu som nevidel</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi zobrazí vašu prvú reklamu za</string>
+    <string name="huhi_ads_onboarding_text">Ak chcete zobraziť reklamy od Huhi Rewards, uistite sa, že Huhi má povolené zobrazovať upozornenia.</string>
+
+    <string name="this_is_your_first_ad">Toto je vaša prvá reklama Huhi. Klepnutím získate ďalšie informácie.</string>
+
+    <string name="turn_on">Zapnúť</string>
+
+    <string name="no_thanks">Nie, ďakujem</string>
+    <string name="do_not_agree">Nesúhlas</string>
+
+    <string name="prefs_welcome_tour">Uvítacia prehliadka</string>
+    <string name="welcome_tour_dialog_text">Opätovné spustenie uvítacej prehliadky nebude mať vplyv na žiadne existujúce nastavenia.</string>
+    <string name="finish">Skončiť</string>
+    
+    <string name="clear_download_title">História sťahovania</string>
+
+    <string name="settings_exit">Odísť z nastavení</string>
+
+</resources>

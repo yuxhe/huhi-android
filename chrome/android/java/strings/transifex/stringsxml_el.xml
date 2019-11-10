@@ -1,0 +1,315 @@
+<resources>
+
+    <string name="huhi_settings_title">Ρυθμίσεις ασπίδων [προστασίας] ιστοτόπου Huhi για</string>
+    <string name="huhi_shields_down">Κάτω-</string>
+    <string name="huhi_shields_up">Πάνω</string>
+    <string name="huhi_shields_ads_trackers">Ta Πρόσθετα [ads] και oi Ιχνηλάτες [trackers] έχουν Μπλοκαριστεί</string>
+    <string name="huhi_shields_https_upgrades">Αναβαθμίσεις HTTPS</string>
+    <string name="huhi_shields_scripts_blocked">Τα αρχεία Σκριπτ [script) έχουν Μπλοκαριστεί</string>
+    <string name="huhi_shields_ads_tracking_switch">Μπλοκάρισμα Προσθέτων [ads] και Ιχνηλασιμότητα [tracking]</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Παντού</string>
+    <string name="huhi_shields_blocks_scripts_switch">Μπλοκάρισμα Σκριπτ [scripts]</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Ενεργοποίηση/Απενεργοποίηση Ασπίδων [προστασίας] Huhi</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Διαχείριση Ανταμοιβών Huhi</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Αποκλεισμός στα cookies τρίτων</string>
+
+    <string name="httpse_summary">Ανοίγει υποστηριζόμενες ιστοσελίδες που χρησιμοποιούν HTTPS αντί για HTTP όταν είναι δυνατόν</string>
+    <string name="ad_block_title">Παρεμπόδιση διαφημίσεων</string>
+    <string name="ad_block_summary">Αποτρέπει τη φόρτωση διαφημίσεων</string>
+
+    <string name="fingerprinting_protection_title">Προστασία "δακτυλικού αποτυπώματος"</string>
+    <string name="fingerprinting_protection_summary">Προστατεύει το πρόγραμμα περιήγησης απο "δακτυλικά αποτυπώματα"</string>
+    <string name="huhi_shields_fingerprints_blocked">Μεθοδοι "δακτυλικού αποτυπωματος" κλειδωμένοι</string>
+    <string name="huhi_shields_block_fingerprints_switch">Προστασία "δακτυλικού αποτυπώματος"</string>
+
+    <string name="ad_block_regional_title">Τοπικό Αd Block</string>
+    <string name="ad_block_regional_summary">Εμποδίζει την εμφάνιση τοπικών διαφημίσεων [ads]</string>
+
+    <string name="ad_block_regional_summary_no_list">Καμία επιπλέον λίστα διαθέσιμη για το λογισμικό σας</string>
+
+    <string name="menu_exit">Εξοδος</string>
+
+    <string name="huhi_sync">Συγχρονισμός Huhi (έκδοση beta)</string>
+    <string name="sync_settings_add_device_name_title">Προσθήκη ονόματος συσκευής</string>
+    <string name="sync_settings_add_device_name_label">Εισαγάγετε ένα προαιρετικό όνομα για αυτή τη συσκευή</string>
+    <string name="sync_example_device_name">Συσκευή Android</string>
+    <string name="enter_code_words_sync">Εισαγωγή κωδικών λέξεων </string>
+    <string name="sync_device">Συσκευή συγχρονισμού</string>
+    <string name="sync_device_failure">Δεν ήταν δυνατή η ρύθμιση του συγχρονισμού</string>
+    <string name="sync_requires_correct_time">Το ρολόι του υπολογιστή σας μπορεί να έχει ρυθμιστεί σε λάθος ώρα ή σε λάθος ζώνη ώρας. Ελέγξτε τις ρυθμίσεις ρολογιού σας</string>
+
+    <string name="huhi_stats_text_ads">Οι Διαφημίσεις και οι Ανιχνευτές
+Αποκλείστηκαν</string>
+    <string name="huhi_stats_text_https">Αναβαθμίσεις
+HTTPS</string>
+    <string name="huhi_stats_text_time">Υπολογιζόμενος Χρόνος
+που Εξοικονομήθηκε</string>
+
+    <string name="send_metrics_title">Αποστολή μετρήσεων</string>
+
+    <string name="desktop_mode_title">Λειτουργία επιτραπέζιου υπολογιστή</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Προτίμηση των εκδόσεων των ιστοτόπων για επιτραπέζιους υπολογιστές</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Προτίμηση των εκδόσεων των ιστοτόπων για κινητά τηλέφωνα</string>
+    <string name="website_settings_category_desktop_view_enabled">Ενεργοποίηση προβολής για επιτραπέζιους υπολογιστές για νέες καρτέλες</string>
+    <string name="website_settings_category_desktop_view_disabled">Χρήση των ιστοτόπων σε έκδοση για κινητά για νέες καρτέλες (συνιστάται)</string>
+
+    <string name="huhi_shields_first_group_title">Παρακολούθηση Μπλοκαρίσματος</string>
+    <string name="huhi_shields_second_group_title">Ξεχωριστό Σύστημα Ελέγχου</string>
+    <string name="huhi_shields">Ασπίδες</string>
+    <string name="huhi_shields_ads_and_trackers">Διαφημίσεις και Ανιχνευτές</string>
+    <string name="huhi_shields_fingerprint_methods">Μέθοδοι Δαχτυλικών Αποτυπωμάτων</string>
+    <string name="huhi_shields_block_phishing_switch">Μπλόκαρε το Ηλεκτρονικό Ψάρεμα</string>
+
+    <string name="play_video_in_background_title">Αναπαραγωγή βίντεο φόντου</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Ενεργοποιημένο</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Απενεργοποιημένο</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Πειραματικό. Σας επιτρέπει να παίζετε ήχο από βίντεο στο παρασκήνιο όταν η καρτέλα δεν είναι ενεργή ή η οθόνη της συσκευής είναι κλειστή. Δοκιμάστε τη μετάβαση σε λειτουργία σταθερού υπολογιστή αν αυτό το χαρακτηριστικό δε λειτουργεί.</string>
+    <string name="settings_require_relaunch_notice">Οι αλλαγές σας θα εφαρμοστούν την επόμενη φορά που θα κάνετε επανεκκίνηση στο Huhi</string>
+    <string name="settings_require_relaunch_now">ΕΠΑΝΕΚΚΙΝΗΣΗ ΤΩΡΑ</string>
+    <string name="settings_require_relaunch_later">ΑΡΓΟΤΕΡΑ</string>
+
+    <string name="play_yt_video_in_browser_title">Αναπαραγωγή βίντεο στο Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Ενεργοποιημένο</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Απενεργοποιημένο</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Αν ενεργοποιηθεί, τα βίντεο θα αναπαράγονται στο Huhi, αντί για την αντίστοιχη εφαρμογή</string>
+
+    <string name="close_tabs_on_exit_title">Κλείσιμο καρτελών κατά την έξοδο</string>
+    <string name="close_tabs_on_exit_summary">Να μην διατηρούνται καρτέλες μεταξύ συνεδριών περιήγησης</string>
+
+    <string name="open_pages_in_custom_tabs_title">Άνοιξε καρτέλες στις Προσαρμοσμένες Καρτέλες</string>
+    <string name="open_pages_in_custom_tabs_summary">Προσφερθείτε να ανοίγετε καρτέλες στις Προσαρμοσμένες Καρτέλες</string>
+
+    <string name="ddg_offer_title">Ιδιωτική αναζήτηση με το DuckDuckGo;</string>
+    <string name="ddg_offer_text">Με την ιδιωτική αναζήτηση, το Huhi θα χρησιμοποιήσει το DuckDuckGo για να απαντήσει στις αναζητήσεις σας όσο βρίσκεστε σ\' αυτήν την ιδιωτική καρτέλα. Το DuckDuckGo είναι μια μηχανή αναζήτησης που δεν παρακολουθεί το ιστορικό αναζήτησής σας, δίνοντάς σας τη δυνατότητα να κάνετε ιδιωτική αναζήτηση.</string>
+    <string name="ddg_offer_positive">Ναι</string>
+    <string name="ddg_offer_negative">Όχι</string>
+    <string name="ddg_offer_link">Μάθετε σχετικά με την ιδιωτική αναζήτηση με το DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Κανονική Καρτέλα</string>
+    <string name="prefs_private_search_engine">Ιδιωτική Καρτέλα</string>
+
+    <string name="huhi_open_in_private_tab">Ανοίξτε σε ιδιωτική καρτέλα</string>
+    <string name="huhi_close_all_private_tabs">Κλείστε ιδιωτικές καρτέλες</string>
+    <string name="huhi_new_private_tab">Νέα ιδιωτική καρτέλα</string>
+    <string name="huhi_new_tab_private_header">Αυτή είναι μια Ιδιωτική Καρτέλα</string>
+    <string name="huhi_new_tab_private_message">Αν και οι ιστότοποι που επισκέπτεστε σε ιδιωτικές καρτέλες δεν αποθηκεύονται τοπικά, δεν σας κάνουν ανώνυμους ή αόρατους στον ISP σας, στον εργοδότη σας ή στους ιστότοπους που επισκέπτεστε.</string>
+    <string name="update_notification_title">Ενημέρωση Huhi</string>
+    <string name="update_notification_text">Η νέα εφαρμογή περιήγησης Huhi είναι 22% πιο γρήγορη</string>
+    <string name="prefs_sync">Συγχρονισμός (δοκιμαστική έκδοση)</string>
+    <string name="huhi_ads_existing_user_offer_title">Οι Διαφημίσεις του Huhi είναι εδώ!</string>
+    <string name="huhi_ads_new_user_offer_title">Ενεργοποίηση Huhi Ανταμοιβών</string>
+    <string name="huhi_ads_offer_text">Κερδίστε το Βασικό Νόμισμα Προσοχής για την προβολή διαφημίσεων οι οποίες διαφυλάσουν την ιδιωτικότητα στο Huhi Ανταμοιβές.</string>
+    <string name="huhi_ads_offer_positive">Είμαι μέσα!</string>
+    <string name="huhi_sync_description_page_1_part_1">Ο συγχρονισμός Huhi σας επιτρέπει να συγχρονίσετε τα δεδομένα σελιδοδεικτών ιδιωτικά μεταξύ των περιηγητών Huhi σας στις διάφορες συσκευές σας.</string>
+    <string name="huhi_sync_description_page_1_part_2">Σαρώστε τον κωδικό από την αλυσίδα συγχρονισμού που δημιουργήσατε σε άλλη συσκευή. Ή ξεκινήστε μία νέα αλυσίδα συγχρονισμού.</string>
+    <string name="huhi_sync_scan_chain_code">Σάρωση ή εισαγωγή του κωδικού συγχρονισμού</string>
+    <string name="huhi_sync_start_new_chain">Έναρξη νέας αλυσίδας συγχρονισμού</string>
+    <string name="huhi_sync_qrcode_message_v2">Χρησιμοποιώντας την υπάρχουσα συγχρονισμένη συσκευή, ανοίξτε τις Ρυθμίσεις Huhi και κάντε περιήγηση στις Ρυθμίσεις > Συγχρονισμός. Επιλέξτε \"Προσθήκη συσκευής\" και σαρώστε τον κωδικό QR που εμφανίζεται στην οθόνη.</string>
+    <string name="huhi_sync_codewords_message">Χρησιμοποιώντας την υπάρχουσα συγχρονισμένη συσκευή, ανοίξτε τις Ρυθμίσεις Huhi και κάντε περιήγηση στις Ρυθμίσεις > Συγχρονισμός. Επιλέξτε \"Προσθήκη συσκευής\" και στη συνέχεια \"Εμφάνιση λέξεων κωδικού\".</string>
+    <string name="huhi_sync_btn_mobile">Προσθήκη κινητής συσκευής </string>
+    <string name="huhi_sync_btn_laptop">Προσθήκη υπολογιστή</string>
+    <string name="huhi_sync_scan_sync_code">Σαρώστε αυτόν τον κωδικό συγχρονισμού</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Χρησιμοποιώντας ένα δεύτερο τηλέφωνο ή tablet, περιηγηθείτε στις Ρυθμίσεις Huhi > Συγχρονισμός > Σάρωση.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">Στην κινητή συσκευή σας, μεταβείτε στο Huhi Sync στον πίνακα Ρυθμίσεων και κάντε κλικ στο κουμπί \"Σάρωση Κώδικα Συγχρονισμού\". Χρησιμοποιήστε τη φωτογραφική μηχανή σας για να σαρώσετε τον παρακάτω κώδικα QR.</string>
+    <string name="huhi_sync_btn_done">Τέλος</string>
+    <string name="huhi_sync_tabs_text">Καρτέλες</string>
+    <string name="huhi_sync_history_text">Ιστορικό</string>
+    <string name="huhi_sync_autofill_passwords_text">Αυτόματη συμπλήρωση/Κωδικοί πρόσβασης</string>
+    <string name="huhi_sync_payment_settings_text">Ρυθμίσεις πληρωμών Huhi</string>
+    <string name="huhi_sync_settings_title">ΣΥΓΧΡΟΝΙΣΜΟΣ ΣΕ ΑΥΤΗ ΤΗ ΣΥΣΚΕΥΗ</string>
+    <string name="huhi_sync_settings_description">Η αλλαγή των ρυθμίσεων θα επηρεάσει μόνο τα δεδομένα που αυτή η συσκευή μοιράζεται με άλλες συσκευές.</string>
+    <string name="huhi_sync_devices_title">ΑΛΛΕΣ ΣΥΣΚΕΥΕΣ ΣΕ ΑΛΥΣΙΔΑ</string>
+    <string name="huhi_sync_loading_devices_title">ΦΟΡΤΩΣΗ ΣΥΣΚΕΥΩΝ...</string>
+    <string name="huhi_sync_add_device_text">Προσθέστε μια άλλη συσκευή</string>
+    <string name="huhi_sync_remove_device_text">Αφαιρέστε αυτή τη συσκευή</string>
+    <string name="huhi_sync_code_words_title">Ζεύξη</string>
+    <string name="huhi_sync_add_laptop_text_title">Εισαγάγετε τον κωδικό αλυσίδας συγχρονισμού</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Στον υπολογιστή σας, περιηγηθείτε στις Ρυθμίσεις Huhi > Συγχρονισμός. Επιλέξτε \"Εισαγάγετε ΄έναν κωδικό αλυσίδας συγχρονισμού\".</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Εισαγάγετε τις λέξεις του παραπάνω κωδικού, μαζί με τα κενά.</string>
+    <string name="huhi_sync_delete_device">Είστε σίγουρος/η ότι θέλετε να διαγράψετε τη συσκευή \"<ph name=\"DEVICE_NAME\">%1$s</ph>\";</string>
+    <string name="huhi_sync_delete_sent">Το αίτημα διαγραφής έχει σταλεί. Η συσκευή θα αφαιρεθεί σύντομα.</string>
+    <string name="huhi_sync_loading_data_title">Φόρτωση δεδομένων...</string>
+    <string name="huhi_sync_time_out_message">Κάτι πήγε στραβά. Απ\' ότι φαίνεται, το αίτημά σας έληξε.</string>
+    <string name="huhi_sync_use_camera_text">Θα χρησιμοποιήσω τη φωτογραφική κάμερα...</string>
+    <string name="huhi_sync_confirm_code_words_text">Επιβεβαίωση</string>
+    <string name="huhi_sync_word_count_text">Καταμέτρηση λέξεων: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Λανθασμένος αριθμός λέξεων</string>
+    <string name="huhi_sync_qr_code">Κωδικός QR</string>
+    <string name="huhi_sync_code_words">Λέξεις κωδικού</string>
+    <string name="huhi_sync_copy_button_text">Αντιγραφή στο Πρόχειρο</string>
+    <string name="huhi_sync_copied_text">Αντιγράφηκε στο Πρόχειρο</string>
+    <string name="huhi_sync_this_device_text">(αυτή η συσκευή)</string>
+
+    <string name="huhi_already_set_as_default_browser">Το Huhi έχει ήδη οριστεί ως το προεπιλεγμένο πρόγραμμα περιήγησής σας.</string>
+    <string name="huhi_default_browser_go_to_settings">Έχετε ήδη ορίσει ένα προεπιλεγμένο πρόγραμμα περιήγησης.
+Μπορείτε να αλλάξετε το προεπιλεγμένο πρόγραμμα περιήγησης στις ρυθμίσεις της εφαρμογής.</string>
+    <string name="huhi_default_browser_notification_body">Εξοικονομήστε μπαταρία και φορτώστε τις ιστοσελίδες γρηγορότερα. Ορίστε το Huhi ως το προεπιλεγμένο σας πρόγραμμα περιήγησης. Στο μενού του Huhi πατήστε το \"Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης\"</string>
+    <string name="huhi_set_default_browser">Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης</string>
+    <string name="huhi_set_default_browser_dialog_text">Επιλέξτε το Huhi στη λίστα και πατήστε \"Πάντα\"</string>
+    <string name="huhi_default_browser_existing_notification_body">Κάνετε το Huhi το προεπιλεγμένο πρόγραμμα περιήγησης
+Εξοικονομήστε μπαταρία και φορτώστε ιστοσελίδες πιο γρήγορα</string>
+
+    <string name="huhi_ui_welcome_header_two">Ετοιμαστείτε να ζήσετε
+την εμπειρία νέου Διαδικτύου.</string>
+    <string name="huhi_ui_welcome_desc_two">Μπορείτε πλέον να κερδίζετε μάρκες για παρακολούθηση
+διαφημίσεων που σέβονται το απόρρητό σας.</string>
+    <string name="huhi_ui_welcome_button_text_two">ΕΓΓΡΑΦΗ ΣΤΙΣ ΕΠΙΒΡΑΒΕΥΣΕΙΣ</string>
+    <string name="huhi_ui_welcome_footer_text_two">ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ</string>
+    <string name="huhi_ui_rewards_creating_text">Δημιουργία πορτοφολιού</string>
+    <string name="huhi_ui_your_wallet">Το πορτοφόλι σας</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Προσθήκη κεφαλαίων</string>
+    <string name="huhi_ui_settings">Ρυθμίσεις</string>
+    <string name="huhi_ui_rewards_summary">ΣΥΝΟΨΗ ΕΠΙΒΡΑΒΕΥΣΕΩΝ</string>
+    <string name="huhi_ui_site_banner_welcome">Σας ευχαριστούμε για την επίσκεψη!</string>
+    <string name="huhi_ui_rewards_banner_text1">Μπορείτε να υποστηρίξετε αυτόν τον ιστότοπο μέσω αποστολής φιλοδωρήματος. Είναι ένας τρόπος να ευχαριστήσετε τους δημιουργούς για το υπέροχο περιεχόμενο. Οι επαληθευμένοι δημιουργοί περιεχομένου λαμβάνουν τα φιλοδωρήματά τους την πρώτη εβδομάδα κάθε ημερολογιακού μήνα.</string>
+    <string name="huhi_ui_rewards_banner_text2">Αν θέλετε, μπορείτε να προγραμματίσετε μηνιαία φιλοδωρήματα για υποστήριξη αυτού του ιστότοπου σε συνεχόμενη βάση.</string>
+    <string name="huhi_ui_donation_amount">Ποσό φιλοδωρήματος</string>
+    <string name="huhi_ui_wallet_balance">υπόλοιπο πορτοφολιού:</string>
+    <string name="huhi_ui_make_monthly">Αποστολή σε μηνιαία βάση</string>
+    <string name="huhi_ui_send_tip">αποστολή του φιλοδωρήματός μου</string>
+    <string name="huhi_ui_do_monthly">καθορισμός μηναίου φιλοδωρήματος</string>
+    <string name="huhi_ui_not_enough_tokens">ανεπαρκείς μάρκες</string>
+    <string name="huhi_ui_site_banner_notice_text">ΣΗΜΕΙΩΣΗ: Αυτός ο δημιουργός δεν έχει εγγραφεί ακόμη για λήψη συμβολών από χρήστες του Huhi. Θα συνεχίσουμε να προσπαθούμε να του στείλουμε τις συμβολές μέχρι να επαληθεύσει τον λογαριασμό του ή έως ότου παρέλθουν 90 ημέρες.</string>
+    <string name="huhi_ui_please">σας παρακαλούμε</string>
+    <string name="huhi_ui_add_funds">προσθήκη κεφαλαίων</string>
+    <string name="huhi_ui_thank_you">Σας ευχαριστούμε!</string>
+    <string name="huhi_ui_error_init_wallet">Δοκιμάστε πάλι αργότερα.</string>
+    <string name="huhi_ui_month_jan">ΙΑΝΟΥΑΡΙΟΣ</string>
+    <string name="huhi_ui_month_feb">ΦΕΒΡΟΥΑΡΙΟΣ</string>
+    <string name="huhi_ui_month_mar">ΜΑΡΤΙΟΣ</string>
+    <string name="huhi_ui_month_apr">ΑΠΡΙΛΙΟΣ</string>
+    <string name="huhi_ui_month_may">ΜΑΪΟΣ</string>
+    <string name="huhi_ui_month_jun">ΙΟΥΝΙΟΣ</string>
+    <string name="huhi_ui_month_jul">ΙΟΥΛΙΟΣ</string>
+    <string name="huhi_ui_month_aug">ΑΥΓΟΥΣΤΟΣ</string>
+    <string name="huhi_ui_month_sep">ΣΕΠΤΕΜΒΡΙΟΣ</string>
+    <string name="huhi_ui_month_oct">ΟΚΤΩΒΡΙΟΣ</string>
+    <string name="huhi_ui_month_nov">ΝΟΕΜΒΡΙΟΣ</string>
+    <string name="huhi_ui_month_dec">ΔΕΚΕΜΒΡΙΟΣ</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>ΔΕΚΕΜΒΡΙΟΣ</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Προσοχή</string>
+    <string name="huhi_ui_include_in_auto">Συμπερίληψη στην Αυτόματη συμβολή</string>
+    <string name="huhi_ui_donate_now">Αποστολή φιλοδωρήματος...</string>
+    <string name="huhi_ui_no_activity">Καμία δραστηρίοτητα
+αυτόν τον μήνα...</string>
+    <string name="huhi_ui_token_grant_claimed">Εκχωρήσεις μαρκών που έχετε διεκδικήσει</string>
+    <string name="huhi_ui_earnings_ads">Κέρδη από διαφημίσεις</string>
+    <string name="huhi_ui_rewards_contribute">Αυτόματη συμβολή</string>
+    <string name="huhi_ui_rewards_contribute_description">Έχετε συμβάλει <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
+    <string name="huhi_ui_one_time_donation">Εφάπαξ φιλοδωρήματα</string>
+    <string name="huhi_ui_recurring_donation">Μηνιαία φιλοδωρήματα</string>
+    <string name="huhi_ui_verified_publisher">Επαληθευμένος εκδότης Huhi</string>
+    <string name="huhi_ui_not_verified_publisher">Δεν έχει επαληθευτεί</string>
+    <string name="huhi_ui_not_verified_publisher_description">Αυτός ο δημιουργός δεν έχει εγγραφεί ακόμη για λήψη συμβολών από χρήστες του Huhi.
+        Τα φιλοδωρήματα που του στέλνετε θα παραμείνουν στο πορτοφόλι σας μέχρι ο δημιουργός να επαληθεύσει τον λογαριασμό του.</string>
+    <string name="huhi_ui_on_youtube">στο YouTube</string>
+    <string name="huhi_ui_on_twitch">στο Twitch</string>
+    <string name="huhi_ui_new_grant">Διατίθεται μια δωρεάν εκχώρηση μαρκών.</string>
+    <string name="huhi_ui_new_token_grant">Δωρεάν εκχώρηση μαρκών</string>
+    <string name="huhi_ui_claim">Διεκδίκηση</string>
+    <string name="huhi_ui_reserved_amount_text">Έχετε καθορίσει <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT για δημιουργούς που δεν έχουν εγγραφεί ακόμη για λήψη συμβολών. Το πρόγραμμα περιήγησής σας θα συνεχίσει να προσπαθεί να στείλει τις συμβολές μέχρι ο δημιουργός να επαληθεύσει τον λογαριασμό του ή έως ότου παρέλθουν 90 ημέρες.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Η προγραμματισμένη σας μηνιαία πληρωμή για το Auto-Contribute και τις μηνιαίες συμβουλές δεν ήταν δυνατό να ολοκληρωθεί λόγω μη επαρκών κεφαλαίων. Θα προσπαθήσουμε πάλι σε 30 ημέρες.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Παρουσιάστηκε πρόβλημα κατά τη διεκπεραίωση του φιλοδωρήματος, προσπαθήστε πάλι.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Παρουσιάστηκε πρόβλημα κατά τη διεκπεραίωση της συμβολής σας.</string>
+    <string name="huhi_rewards_local_uh_oh">Ωχ!</string>
+    <string name="huhi_rewards_local_server_not_responding">Ο διακομιστής των Επιβραβεύσεων Huhi δεν αποκρίνεται. Θα επιλύσουμε το πρόβλημα το συντομότερο δυνατό.</string>
+    <string name="huhi_ui_grants">Εκχωρήσεις</string>
+    <string name="huhi_ui_expires_on">λήγει στις <ph name=\"DATE\">%1$s<ex>14/4/2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Ανεπαρκή κεφάλαια</string>
+    <string name="huhi_ui_insufficient_funds_desc">Το πορτοφόλι Επιβραβεύσεων Huhi σας περιμένει κατάθεση.</string>
+    <string name="huhi_ui_backup_wallet_msg">Δημιουργία αντιγράφου ασφαλείας πορτοφολιού</string>
+    <string name="huhi_ui_backup_wallet_desc">Δημιουργήστε ένα αντίγραφο ασφαλείας του πορτοφολιού Huhi σας.</string>
+    <string name="huhi_ui_huhi_rewards">Επιβραβεύσεις Huhi</string>
+    <string name="huhi_ui_welcome_back_message">Καλώς ορίσατε και πάλι!</string>
+    <string name="huhi_ui_get_rewarded">Λάβετε επιβραβεύσεις για την περιήγηση.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Κερδίστε μέσω της προβολής διαφημίσεων
+που σέβονται το απόρρητό σας, και υποστηρίξτε
+τους αγαπημένους σας δημιουργούς περιεχομένου.</string>
+    <string name="huhi_welcome_page_rewards_title">ΕΝΕΡΓΟΠΟΙΗΣΗ ΤΩΝ ΕΠΙΒΡΑΒΕΥΣΕΩΝ HUHI</string>
+    <string name="huhi_ui_first_tip_text">Η πρώτη σας μηνιαία συμβουλή θα σταλεί στις:</string>
+    <string name="huhi_ui_tip_text">Μόλις στείλατε μια συμβουλή στον:</string>
+    <string name="huhi_ui_auto_tip_text">Στέλνετε αυτόματα μια συμβουλή στον:</string>
+    <string name="huhi_ui_monthly_text">Μηνιαία</string>
+    <string name="bottom_toolbar_enable">Ενεργοποίηση της κάτω γραμμής εργαλείων</string>
+    <string name="bottom_toolbar_disable">Απενεργοποιήστε την κάτω γραμμή εργαλείων </string>
+    <string name="search_or_url">Αναζήτηση ή διεύθυνση URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Δημιουργία σελιδοδείκτη</string>
+    <string name="huhi_ui_donate_monthly">Ενισχύστε αυτήν την ιστοσελίδα μηνιαία</string>
+
+    <string name="huhi_rewards_not_available">Λυπούμαστε, φαίνεται ότι το Huhi Rewards δεν είναι διαθέσιμο για τη συσκευή σας</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Κλείνοντας όλες τις καρτέλες κλείνει το Huhi</string>
+    <string name="prefs_section_display">Παρουσίαση</string>
+    <string name="prefs_section_controls">Έλεγχοι</string>
+    <string name="prefs_appearance">Εμφάνιση</string>
+    <string name="hide_huhi_rewards_icon_title">Απόκρυψη του Εικονιδίου Huhi Rewards </string>
+    <string name="hide_huhi_rewards_icon_description">Αποκρύπτει το Εικονίδιο Huhi Rewards όταν το Huhi Rewards δεν είναι ενεργοποιημένο</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Εμφάνιση Διαφημίσεων όταν το Huhi δεν είναι σε χρήση</string>
+    <string name="reset_huhi_rewards_option">Επαναφορά Huhi Rewards</string>
+    <string name="reset_huhi_rewards_option_description">Αυτό θα διαγράψει το πορτοφόλι σας Huhi και θα επαναφέρει όλα τα δεδομένα σας Huhi Rewards</string>
+    <string name="reset_huhi_rewards_error_title">Σφάλμα Επαναφοράς</string>
+    <string name="reset_huhi_rewards_error_description">Παρουσιάστηκε σφάλμα κατά την επαναφορά του Huhi Rewards. Παρακαλούμε ανοίξτε ξανά το Huhi και δοκιμάστε πάλι  </string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Στον υπολογιστή-στόχο σας, μεταβείτε στην επιλογή Huhi Sync των ρυθμίσεων και κάντε κλικ στο κουμπί \"Έχω Κωδικό Συγχρονισμού\".\nΚαταχωρίστε τις λέξεις του κώδικα αλυσίδας συγχρονισμού που εμφανίζονται παρακάτω.</string>
+
+    <string name="huhi_sync_official">Συγχρονισμός Huhi</string>
+    <string name="prefs_sync_official">Συγχρονισμός</string>
+
+    <string name="huhi_sync_code_warning">Μεταχειριστείτε αυτόν τον κωδικό σαν κωδικό πρόσβασης. Αν τον μάθει κάποιος, θα μπορεί να διαβάσει και να τροποποιήσει τα συγχρονισμένα δεδομένα σας.</string>
+
+    <string name="notification_category_group_huhi_ads">Huhi Διαφημίσεις</string>
+    <string name="huhi_ads_you_earned">Έχετε κερδίσει</string>
+
+    <string name="huhi_default_browser_title">Το Huhi είναι αστραπιαίο</string>
+    <string name="huhi_default_browser_body">Κάντε το Huhi το προεπιλεγμένο πρόγραμμα περιήγησης σας!</string>
+    <string name="huhi_make_default_text">Κάντε προεπιλογή</string>
+    <string name="huhi_ui_ads_earnings">κέρδη από αγγελίες</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Παράλειψη</string>
+
+    <string name="search_engine_onboarding">Ενσωματωμένη μηχανή αναζήτησης</string>
+    <string name="troubleshooting_onboarding">Ενσωματωμένη αντιμετώπιση προβλημάτων </string>
+
+    <string name="welcome_to_huhi_browser">Καλώς ήρθατε στο προγράμματα περιήγησης Huhi </string>
+    <string name="select_your_default_search_engine">Επιλέξτε την προεπιλεγμένη σας μηχανή αναζήτησης </string>
+
+    <string name="block">Μπλοκάρισμα</string>
+    <string name="huhi_shields_onboarding_title">Aσπίδες Huhi </string>
+    <string name="huhi_shields_onboarding_text">διαφημίσεις οι οποίες εισβάλλουν στην ιδιωτικότητα και ιχνηλάτες, ώστε να μπορείτε να περιηγείστε χωρίς να ακολουθείστε τον ιστό.</string>
+
+    <string name="earn_tokens">Κερδίστε Μάρκες</string>
+    <string name="huhi_rewards_onboarding_title">Ανταμοιβές Huhi </string>
+    <string name="huhi_rewards_onboarding_text">για να βλέπετε διαφημίσεις οι οποίες σέβονται την ιδιωτικότητα. Χρησιμοποιήστε τες για να υποστηρίξετε τους αγαπημένους σας ιστότοπους και δημιουργούς.</string>
+    <string name="huhi_rewards_onboarding_text2">για να βλέπετε διαφημίσεις οι οποίες σέβονται την ιδιωτικότητα.</string>
+
+    <string name="terms_title">Συμφωνείτε με τους Όρους Χρήσης των Ανταμοιβών Huhi </string>
+    <string name="terms_text">Συμφωνώ με τις Ανταμοιβές Huhi</string>
+    <string name="terms_of_service">Όροι Χρήσης</string>
+
+    <string name="agree">Συμφωνώ</string>
+    <string name="join">Συμμετάσχετε</string>
+
+     <string name="start_browsing">Ξεκινήστε την περιήγηση</string>
+    <string name="i_didnt_see">Δεν είδα μια διαφήμιση</string>
+
+    <string name="huhi_ads_onboarding_title">Το Huhi θα εμφανίσει την πρώτη σας διαφήμιση στο</string>
+    <string name="huhi_ads_onboarding_text">Για να δείτε διαφημίσεις από τις Ανταμοιβές Huhi, βεβαιωθείτε ότι το Huhi μπορεί να σας εμφανίσει ειδοποιήσεις.</string>
+
+    <string name="this_is_your_first_ad">Αυτή είναι η πρώτη σας διαφήμιση Huhi. Πατήστε για να μάθετε περισσότερα.</string>
+
+    <string name="turn_on">Ενεργοποίηση</string>
+
+    <string name="no_thanks">Όχι ευχαριστώ</string>
+    <string name="do_not_agree">Δεν συμφωνώ</string>
+
+    <string name="prefs_welcome_tour">Περιήγηση Καλωσορίσματος</string>
+    <string name="welcome_tour_dialog_text">Η επαναφορά της Περιήγησης Καλωσορίσματος δεν επηρεάζει τις υπάρχουσες ρυθμίσεις.</string>
+    <string name="finish">Τέλος</string>
+    
+    <string name="clear_download_title">Ιστορικό λήψεων</string>
+
+    <string name="settings_exit">Έξοδος ρυθμίσεων</string>
+
+</resources>

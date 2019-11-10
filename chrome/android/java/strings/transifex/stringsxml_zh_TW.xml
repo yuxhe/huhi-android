@@ -1,0 +1,318 @@
+<resources>
+
+    <string name="huhi_settings_title">Huhi 網站防護設定</string>
+    <string name="huhi_shields_down">關閉</string>
+    <string name="huhi_shields_up">開啟</string>
+    <string name="huhi_shields_ads_trackers">廣告和追蹤器已阻擋</string>
+    <string name="huhi_shields_https_upgrades">HTTPS 升級</string>
+    <string name="huhi_shields_scripts_blocked">腳本已禁用</string>
+    <string name="huhi_shields_ads_tracking_switch">阻擋廣告和追蹤器</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS 無所不在</string>
+    <string name="huhi_shields_blocks_scripts_switch">禁用腳本</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">啟用/停用 Huhi 防護</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">管理 Huhi獎勵</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">封鎖第三方 Cookie</string>
+
+    <string name="httpse_summary">盡可能使用 HTTPS 而非 HTTP 開啟支援網站</string>
+    <string name="ad_block_title">廣告阻擋</string>
+    <string name="ad_block_summary">防止廣告載入</string>
+
+    <string name="fingerprinting_protection_title">指紋保護</string>
+    <string name="fingerprinting_protection_summary">防止網站紀錄瀏覽器指紋</string>
+    <string name="huhi_shields_fingerprints_blocked">指紋紀錄已阻擋</string>
+    <string name="huhi_shields_block_fingerprints_switch">指紋保護</string>
+
+    <string name="ad_block_regional_title">區域廣告阻擋</string>
+    <string name="ad_block_regional_summary">防止區域廣告載入</string>
+
+    <string name="ad_block_regional_summary_no_list">您所在的地區沒有可用的額外列表</string>
+
+    <string name="menu_exit">離開</string>
+
+    <string name="huhi_sync">Huhi 同步 (測試版)</string>
+    <string name="sync_settings_add_device_name_title">新增裝置名稱</string>
+    <string name="sync_settings_add_device_name_label">命名此裝置</string>
+    <string name="sync_example_device_name">Android 裝置</string>
+    <string name="enter_code_words_sync">輸入代碼</string>
+    <string name="sync_device">同步裝置</string>
+    <string name="sync_device_failure">無法建立同步</string>
+    <string name="sync_requires_correct_time">您的電腦時鐘可能時間設定不正確，或是被設定成不正確時區。請檢查您的時間設定</string>
+
+    <string name="huhi_stats_text_ads">廣告與追蹤器
+已封鎖</string>
+    <string name="huhi_stats_text_https">HTTPS
+升级</string>
+    <string name="huhi_stats_text_time">估計時間
+已節省</string>
+
+    <string name="send_metrics_title">傳送統計資料</string>
+
+    <string name="desktop_mode_title">桌面模式</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">偏好使用電腦版網頁</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">偏好使用行動版網頁</string>
+    <string name="website_settings_category_desktop_view_enabled">為新分頁啟用桌面檢視</string>
+    <string name="website_settings_category_desktop_view_disabled">為新分頁使用網站的行動版本 (推薦)</string>
+
+    <string name="huhi_shields_first_group_title">阻擋監視器</string>
+    <string name="huhi_shields_second_group_title">個別控制</string>
+    <string name="huhi_shields">防護</string>
+    <string name="huhi_shields_ads_and_trackers">廣告與追蹤器</string>
+    <string name="huhi_shields_fingerprint_methods">指紋方式</string>
+    <string name="huhi_shields_block_phishing_switch">阻擋網路釣魚</string>
+
+    <string name="play_video_in_background_title">背景影片播放</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">已啟用</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">已停用</string>
+    <string name="website_settings_category_play_video_in_background_enabled">實驗性功能。在分頁未使用或裝置螢幕關閉時於背景播放影片音效。若此功能無法運作，請嘗試切換到桌面模式。</string>
+    <string name="settings_require_relaunch_notice">您的變更將在下次重新開啟 Huhi 後生效</string>
+    <string name="settings_require_relaunch_now">立即重新開啟</string>
+    <string name="settings_require_relaunch_later">稍後</string>
+
+    <string name="play_yt_video_in_browser_title">在 Huhi 中播放影片</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">已啟用</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">已停用</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">若啟用，影片將在 Huhi 而不是相對應的 App 中播放</string>
+
+    <string name="close_tabs_on_exit_title">離開時關閉分頁</string>
+    <string name="close_tabs_on_exit_summary">不要在瀏覽階段作業之間保存分頁</string>
+
+    <string name="open_pages_in_custom_tabs_title">以「Custom Tabs」開啟分頁</string>
+    <string name="open_pages_in_custom_tabs_summary">提議以「Custom Tabs」開啟分頁</string>
+
+    <string name="ddg_offer_title">以 DuckDuckGo 進行隱私搜尋？</string>
+    <string name="ddg_offer_text">透過隱私搜尋，當您在此隱私分頁時，Huhi 將使用 DuckDuckGo 回答您的搜尋問題。DuckDuckGo 是一家不會追蹤您搜尋紀錄的搜尋引擎，讓您能夠搜尋而保持隱私。</string>
+    <string name="ddg_offer_positive">是</string>
+    <string name="ddg_offer_negative">否</string>
+    <string name="ddg_offer_link">了解透過 DuckDuckGo 進行隱私搜尋</string>
+    <string name="prefs_standard_search_engine">標準分頁</string>
+    <string name="prefs_private_search_engine">隱私分頁</string>
+
+    <string name="huhi_open_in_private_tab">在隱私分頁中開啟</string>
+    <string name="huhi_close_all_private_tabs">關閉隱私分頁</string>
+    <string name="huhi_new_private_tab">新隱私分頁</string>
+    <string name="huhi_new_tab_private_header">這是隱私分頁</string>
+    <string name="huhi_new_tab_private_message">雖然在隱私分頁中所到訪的網站不會儲存於本機，但不會讓您在您的 ISP、雇主或到訪的網站匿名或隱身。</string>
+    <string name="update_notification_title">Huhi 更新</string>
+    <string name="update_notification_text">新的 Huhi 瀏覽器快了 22%</string>
+    <string name="prefs_sync">同步 (測試版)</string>
+    <string name="huhi_ads_existing_user_offer_title">Huhi 廣告在此！</string>
+    <string name="huhi_ads_new_user_offer_title">啟用 Huhi 獎勵</string>
+    <string name="huhi_ads_offer_text">掙得基本注意代幣來檢視 Huhi 獎勵中的隱私權保留廣告。</string>
+    <string name="huhi_ads_offer_positive">我加入！</string>
+    <string name="huhi_sync_description_page_1_part_1">Huhi Sync 可讓您私下同步各種裝置上 Huhi 瀏覽器的書籤資料。</string>
+    <string name="huhi_sync_description_page_1_part_2">只要掃瞄您在其他裝置上建立的同步鏈代碼即可。或者，您也可以建立新的同步鏈。</string>
+    <string name="huhi_sync_scan_chain_code">掃描或輸入同步代碼</string>
+    <string name="huhi_sync_start_new_chain">建立新的同步鏈</string>
+    <string name="huhi_sync_qrcode_message_v2">使用現有的同步裝置開啟 Huhi 設定，並依序瀏覽至「設定 > 同步」。選擇「新增裝置」並掃描螢幕上顯示的 QR 碼。</string>
+    <string name="huhi_sync_codewords_message">使用現有的同步裝置開啟 Huhi 設定，並依序瀏覽至「設定 > 同步」。選擇「新增裝置」，然後選擇「改為顯示代碼」。</string>
+    <string name="huhi_sync_btn_mobile">新增行動裝置</string>
+    <string name="huhi_sync_btn_laptop">新增電腦</string>
+    <string name="huhi_sync_scan_sync_code">掃描此同步代碼</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">使用第二部手機或平板電腦，依序瀏覽至「Huhi 設定 > 同步 > 掃描」。</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">在您的行動裝置上，前往「設定」面板中的「Huhi 同步」，按一下按鈕「掃描同步代碼」。用您的相機掃描下方的 QR 碼。</string>
+    <string name="huhi_sync_btn_done">完成</string>
+    <string name="huhi_sync_tabs_text">分頁</string>
+    <string name="huhi_sync_history_text">記錄</string>
+    <string name="huhi_sync_autofill_passwords_text">自動填入/密碼</string>
+    <string name="huhi_sync_payment_settings_text">Huhi 付款設定</string>
+    <string name="huhi_sync_settings_title">在本裝置上同步</string>
+    <string name="huhi_sync_settings_description">變更設定只會影響本裝置與其他裝置共用的資料。</string>
+    <string name="huhi_sync_devices_title">同步鏈中的其他裝置</string>
+    <string name="huhi_sync_loading_devices_title">正在載入裝置...</string>
+    <string name="huhi_sync_add_device_text">新增其他裝置</string>
+    <string name="huhi_sync_remove_device_text">移除本裝置</string>
+    <string name="huhi_sync_code_words_title">配對</string>
+    <string name="huhi_sync_add_laptop_text_title">輸入同步鏈代碼</string>
+    <string name="huhi_sync_add_laptop_text_part_1">在電腦上依序瀏覽至「Huhi 設定 > 同步」，接著選擇「輸入同步鏈代碼」。 </string>
+    <string name="huhi_sync_add_laptop_text_part_2">輸入上方代碼，包括空格。</string>
+    <string name="huhi_sync_delete_device">確定要刪除裝置「<ph name=\"DEVICE_NAME\">%1$s</ph>」嗎？</string>
+    <string name="huhi_sync_delete_sent">刪除要求已送出，系統很快就會移除裝置。</string>
+    <string name="huhi_sync_loading_data_title">正在載入資料...</string>
+    <string name="huhi_sync_time_out_message">發生錯誤，您的要求似乎已逾時。</string>
+    <string name="huhi_sync_use_camera_text">我要使用我的相機...</string>
+    <string name="huhi_sync_confirm_code_words_text">確認</string>
+    <string name="huhi_sync_word_count_text">字數統計：<ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">字數不正確</string>
+    <string name="huhi_sync_qr_code">QR 碼</string>
+    <string name="huhi_sync_code_words">代碼</string>
+    <string name="huhi_sync_copy_button_text">複製到剪貼簿</string>
+    <string name="huhi_sync_copied_text">已複製到剪貼簿</string>
+    <string name="huhi_sync_this_device_text">(本裝置)</string>
+
+    <string name="huhi_already_set_as_default_browser">您的預設瀏覽器
+已設為 Huhi。</string>
+    <string name="huhi_default_browser_go_to_settings">您已經設定了預設瀏覽器。
+您可以在應用程式設定中變更預設瀏覽器。</string>
+    <string name="huhi_default_browser_notification_body">節省電池電力並加快網頁載入速度。將 Huhi 設為預設瀏覽器。從 Huhi 功能表中點選「設為預設瀏覽器」</string>
+    <string name="huhi_set_default_browser">設定為預設瀏覽器</string>
+    <string name="huhi_set_default_browser_dialog_text">從清單中選取 Huhi 並點選「Always」</string>
+    <string name="huhi_default_browser_existing_notification_body">將 Huhi 設定為您的預設網頁瀏覽器
+節省電池電力並加快網頁載入速度</string>
+
+    <string name="huhi_ui_welcome_header_two">準備體驗
+新一代網際網路。</string>
+    <string name="huhi_ui_welcome_desc_two">您現在可以透過觀看
+不會侵犯隱私的廣告，獲得代幣。</string>
+    <string name="huhi_ui_welcome_button_text_two">參加獎勵計畫</string>
+    <string name="huhi_ui_welcome_footer_text_two">深入瞭解</string>
+    <string name="huhi_ui_rewards_creating_text">正在建立錢包</string>
+    <string name="huhi_ui_your_wallet">您的錢包</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0.0</ex></ph> 美元</string>
+    <string name="huhi_rewards_local_panel_add_funds">新增資金</string>
+    <string name="huhi_ui_settings">設定</string>
+    <string name="huhi_ui_rewards_summary">獎勵摘要</string>
+    <string name="huhi_ui_site_banner_welcome">感謝您的來訪！</string>
+    <string name="huhi_ui_rewards_banner_text1">您可以給點小費來支持這個網站。這是向他們創作絕佳內容表達謝意的方法。通過驗證的內容創作者會在每個日曆月的第一週收到小費。</string>
+    <string name="huhi_ui_rewards_banner_text2">如果您想要的話，可以定期每月給小費來支持這個網站。</string>
+    <string name="huhi_ui_donation_amount">小費金額</string>
+    <string name="huhi_ui_wallet_balance">錢包餘額：</string>
+    <string name="huhi_ui_make_monthly">設為月付</string>
+    <string name="huhi_ui_send_tip">給出我的小費</string>
+    <string name="huhi_ui_do_monthly">設定每月小費</string>
+    <string name="huhi_ui_not_enough_tokens">代幣不足</string>
+    <string name="huhi_ui_site_banner_notice_text">注意：這位創作者尚未註冊，而未能收取 Huhi 使用者的捐獻。在創作者通過驗證或超過 90 天前，我們會持續試著捐獻。</string>
+    <string name="huhi_ui_please">請</string>
+    <string name="huhi_ui_add_funds">新增資金</string>
+    <string name="huhi_ui_thank_you">感謝您！</string>
+    <string name="huhi_ui_error_init_wallet">請稍後再試一次。</string>
+    <string name="huhi_ui_month_jan">1 月</string>
+    <string name="huhi_ui_month_feb">2 月</string>
+    <string name="huhi_ui_month_mar">3 月</string>
+    <string name="huhi_ui_month_apr">4 月</string>
+    <string name="huhi_ui_month_may">5 月</string>
+    <string name="huhi_ui_month_jun">6 月</string>
+    <string name="huhi_ui_month_jul">7 月</string>
+    <string name="huhi_ui_month_aug">8 月</string>
+    <string name="huhi_ui_month_sep">9 月</string>
+    <string name="huhi_ui_month_oct">10 月</string>
+    <string name="huhi_ui_month_nov">11 月</string>
+    <string name="huhi_ui_month_dec">12 月</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>12 月</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018 年</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">注意</string>
+    <string name="huhi_ui_include_in_auto">納入自動捐獻</string>
+    <string name="huhi_ui_donate_now">給出小費...</string>
+    <string name="huhi_ui_no_activity">這個月還沒有任何
+活動...</string>
+    <string name="huhi_ui_token_grant_claimed">已領取代幣</string>
+    <string name="huhi_ui_earnings_ads">廣告收入</string>
+    <string name="huhi_ui_rewards_contribute">自動捐獻</string>
+    <string name="huhi_ui_rewards_contribute_description">您已捐獻 <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT。</string>
+    <string name="huhi_ui_one_time_donation">單次小費</string>
+    <string name="huhi_ui_recurring_donation">每月小費</string>
+    <string name="huhi_ui_verified_publisher">經 Huhi 驗證的發佈商</string>
+    <string name="huhi_ui_not_verified_publisher">尚未驗證</string>
+    <string name="huhi_ui_not_verified_publisher_description">這位創作者尚未註冊，而未能收取 Huhi 使用者的捐獻。
+       在創作者通過驗證前，您給出所有小費會保留在您的錢包中。</string>
+    <string name="huhi_ui_on_youtube">在 YouTube 上</string>
+    <string name="huhi_ui_on_twitch">在 Twitch 上</string>
+    <string name="huhi_ui_new_grant">有免費代幣可用。</string>
+    <string name="huhi_ui_new_token_grant">免費代幣</string>
+    <string name="huhi_ui_claim">領取</string>
+    <string name="huhi_ui_reserved_amount_text">您已將 <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT 指定給尚未註冊而
+未能收取捐獻的創作者。在創作者通過驗證或超過 90 天前，
+瀏覽器會持續試著捐獻。</string>
+    <string name="huhi_ui_notification_desc_no_funds">因為資金不足，無法完成您排定的月繳自動捐助和打賞。我們會在 30 天後再試一次。</string>
+    <string name="huhi_ui_notification_desc_tip_error">處理您的小費時發生問題，請再試一次。</string>
+    <string name="huhi_ui_notification_desc_contr_error">處理您的捐獻時發生問題。</string>
+    <string name="huhi_rewards_local_uh_oh">糟糕！</string>
+    <string name="huhi_rewards_local_server_not_responding">Huhi 獎勵伺服器沒有回應。我們會盡快修復此問題。</string>
+    <string name="huhi_ui_grants">款項</string>
+    <string name="huhi_ui_expires_on"><ph name=\"DATE\">%1$s<ex>2019/4/14</ex></ph> 到期</string>
+    <string name="huhi_ui_insufficient_funds_msg">資金不足</string>
+    <string name="huhi_ui_insufficient_funds_desc">您的 Huhi 獎勵帳戶正在等待一筆存款。</string>
+    <string name="huhi_ui_backup_wallet_msg">備份錢包</string>
+    <string name="huhi_ui_backup_wallet_desc">請備份您的 Huhi 錢包。</string>
+    <string name="huhi_ui_huhi_rewards">Huhi 獎勵</string>
+    <string name="huhi_ui_welcome_back_message">歡迎回來！</string>
+    <string name="huhi_ui_get_rewarded">瀏覽即可獲得獎勵。</string>
+    <string name="huhi_ui_huhi_rewards_desc">觀看不會侵犯隱私的廣告即可
+獲得獎勵，並透過捐獻來支持
+您所喜愛的內容創作者。</string>
+    <string name="huhi_welcome_page_rewards_title">啟用 Huhi 獎勵</string>
+    <string name="huhi_ui_first_tip_text">您第一個月的小費將傳送於：</string>
+    <string name="huhi_ui_tip_text">您剛剛傳送小費給：</string>
+    <string name="huhi_ui_auto_tip_text">您正自動傳送小費給：</string>
+    <string name="huhi_ui_monthly_text">每月</string>
+    <string name="bottom_toolbar_enable">啟用底端工具列</string>
+    <string name="bottom_toolbar_disable">停用底端工具列</string>
+    <string name="search_or_url">搜尋或 URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">建立一個書籤</string>
+    <string name="huhi_ui_donate_monthly">每月固定給這個網站支持金</string>
+
+    <string name="huhi_rewards_not_available">我們很抱歉，看似您的裝置上沒有 Huhi Rewards 可用</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">關閉所有標籤會一併關閉 Huhi</string>
+    <string name="prefs_section_display">顯示</string>
+    <string name="prefs_section_controls">控制功能</string>
+    <string name="prefs_appearance">外觀</string>
+    <string name="hide_huhi_rewards_icon_title">隱藏 Huhi 獎勵圖標</string>
+    <string name="hide_huhi_rewards_icon_description">當 Huhi 獎勵未啟用時隱藏 Huhi 獎勵圖示</string>
+    <string name="show_ads_when_huhi_is_not_in_use">未使用 Huhi 時顯示廣告</string>
+    <string name="reset_huhi_rewards_option">重新設定 Huhi </string>
+    <string name="reset_huhi_rewards_option_description">這將會刪除你的 Huhi 錢包並重新設定你所有的 Huhi 獎勵之數據</string>
+    <string name="reset_huhi_rewards_error_title">重新設定發生錯誤</string>
+    <string name="reset_huhi_rewards_error_description">重新設定 Huhi 獎勵時發生錯誤。請重新啟動 Huhi 並再次嘗試</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">在您的目標電腦上，去到設定中的 Huhi Sync 並點擊「我有同步代碼」按鈕。\n輸入顯示於下方的同步鏈代碼字詞。</string>
+
+    <string name="huhi_sync_official">Huhi Sync</string>
+    <string name="prefs_sync_official">同步</string>
+
+    <string name="huhi_sync_code_warning">將這代碼視為密碼。如果被人知道，他們便能讀取和修改您同步過的資料。</string>
+
+    <string name="notification_category_group_huhi_ads">Huhi 廣告</string>
+    <string name="huhi_ads_you_earned">您已掙得</string>
+
+    <string name="huhi_default_browser_title">Huhi 快如閃電</string>
+    <string name="huhi_default_browser_body">將 Huhi 變成您的預設瀏覽器！</string>
+    <string name="huhi_make_default_text">變成預設</string>
+    <string name="huhi_ui_ads_earnings">從廣告賺得</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">略過</string>
+
+    <string name="search_engine_onboarding">搜尋引擎入門</string>
+    <string name="troubleshooting_onboarding">入門疑難解答</string>
+
+    <string name="welcome_to_huhi_browser">歡迎使用 Huhi 瀏覽器</string>
+    <string name="select_your_default_search_engine">選擇您的預設搜尋引擎</string>
+
+    <string name="block">封鎖</string>
+    <string name="huhi_shields_onboarding_title">Huhi 防護</string>
+    <string name="huhi_shields_onboarding_text">侵犯隱私的廣告與追蹤器，讓您在網路瀏覽時不會被跟蹤。</string>
+
+    <string name="earn_tokens">贏取令牌</string>
+    <string name="huhi_rewards_onboarding_title">Huhi Rewards</string>
+    <string name="huhi_rewards_onboarding_text">只看尊重隱私的廣告。使用它們來支持您喜愛的網站與創作者。</string>
+    <string name="huhi_rewards_onboarding_text2">只看尊重隱私的廣告。</string>
+
+    <string name="terms_title">同意條款以開始使用 Huhi Rewards</string>
+    <string name="terms_text">我同意 Huhi Rewards</string>
+    <string name="terms_of_service">服務條款</string>
+
+    <string name="agree">同意</string>
+    <string name="join">加入</string>
+
+     <string name="start_browsing">開始瀏覽</string>
+    <string name="i_didnt_see">我沒有看到廣告</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi 會顯示您的第一個廣告於</string>
+    <string name="huhi_ads_onboarding_text">欲觀看來自 Huhi Rewards 的廣告，請確定允許 Huhi 向您顯示通知。</string>
+
+    <string name="this_is_your_first_ad">這是您的第一個 Huhi 廣告。點擊以瞭解更多。</string>
+
+    <string name="turn_on">開啟</string>
+
+    <string name="no_thanks">謝謝不必</string>
+    <string name="do_not_agree">不同意</string>
+
+    <string name="prefs_welcome_tour">歡迎導覽</string>
+    <string name="welcome_tour_dialog_text">重新啟動「歡迎導覽」並不會影響到任何既有設定。</string>
+    <string name="finish">結束</string>
+    
+    <string name="clear_download_title">下載記錄</string>
+
+    <string name="settings_exit">離開設定</string>
+
+</resources>

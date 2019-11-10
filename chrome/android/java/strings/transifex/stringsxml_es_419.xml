@@ -1,0 +1,318 @@
+<resources>
+
+    <string name="huhi_settings_title">Configuración de protección de sitio de Huhi para</string>
+    <string name="huhi_shields_down">Abajo</string>
+    <string name="huhi_shields_up">Arriba</string>
+    <string name="huhi_shields_ads_trackers">Anuncios y rastreadores bloqueados</string>
+    <string name="huhi_shields_https_upgrades">Actualizaciones HTTPS</string>
+    <string name="huhi_shields_scripts_blocked">Secuencias de comandos bloqueadas</string>
+    <string name="huhi_shields_ads_tracking_switch">Bloquear anuncios y rastreadores</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Everywhere</string>
+    <string name="huhi_shields_blocks_scripts_switch">Bloquear scripts</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Habilitar/Deshabilitar protecciones de Huhi</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Administrar recompensas de Huhi</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Bloquear cookies de terceros</string>
+
+    <string name="httpse_summary">Abre los sitios compatibles utilizando HTTPS en lugar de HTTP, cuando sea posible</string>
+    <string name="ad_block_title">Bloqueador de publicidad</string>
+    <string name="ad_block_summary">Evita que carguen las publicidades</string>
+
+    <string name="fingerprinting_protection_title">Protección de huellas dactilares</string>
+    <string name="fingerprinting_protection_summary">Evita que el navegador obtenga las huellas dactilares</string>
+    <string name="huhi_shields_fingerprints_blocked">Huellas digitales bloqueadas</string>
+    <string name="huhi_shields_block_fingerprints_switch">Protección de huellas dactilares</string>
+
+    <string name="ad_block_regional_title">Bloqueo de publicidades regionales</string>
+    <string name="ad_block_regional_summary">Evita que carguen las publicidades regionales</string>
+
+    <string name="ad_block_regional_summary_no_list">No hay ninguna lista adicional para su ubicación</string>
+
+    <string name="menu_exit">Salida</string>
+
+    <string name="huhi_sync">Huhi Sync (beta)</string>
+    <string name="sync_settings_add_device_name_title">Añadir nombre de dispositivo</string>
+    <string name="sync_settings_add_device_name_label">Introducir un nombre opcional para este dispositivo</string>
+    <string name="sync_example_device_name">Dispositivo de Android</string>
+    <string name="enter_code_words_sync">Introducir palabras clave</string>
+    <string name="sync_device">Sincronizar dispositivo</string>
+    <string name="sync_device_failure">No se pudo establecer la sincronización</string>
+    <string name="sync_requires_correct_time">Es posible que el reloj de tu computadora esté configurado con la hora o la zona horaria incorrectas. Verifica los ajustes del reloj.</string>
+
+    <string name="huhi_stats_text_ads">Anuncios y rastreadores
+bloqueados</string>
+    <string name="huhi_stats_text_https">Actualizaciones
+HTTPS</string>
+    <string name="huhi_stats_text_time">Tiempo ahorrado
+estimado</string>
+
+    <string name="send_metrics_title">Enviar mediciones</string>
+
+    <string name="desktop_mode_title">Modo escritorio</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Preferir la versión de escritorio de los sitios</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Preferir la versión móvil de los sitios</string>
+    <string name="website_settings_category_desktop_view_enabled">Habilitar vista de escritorio para nuevas pestañas</string>
+    <string name="website_settings_category_desktop_view_disabled">Utilizar la versión móvil de los sitios para pestañas nuevas (recomendado) </string>
+
+    <string name="huhi_shields_first_group_title">Monitor de bloqueo</string>
+    <string name="huhi_shields_second_group_title">Controles individuales</string>
+    <string name="huhi_shields">Protecciones</string>
+    <string name="huhi_shields_ads_and_trackers">Anuncios y rastreadores</string>
+    <string name="huhi_shields_fingerprint_methods">Métodos de huellas dactilares </string>
+    <string name="huhi_shields_block_phishing_switch">Bloquear fraude electrónico</string>
+
+    <string name="play_video_in_background_title">Reproducción de vídeo en el fondo</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Habilitado</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Discapacitado </string>
+    <string name="website_settings_category_play_video_in_background_enabled">Experimental. Permite reproducir audio de vídeo en el fondo cuando la pestaña no está activa o la pantalla del dispositivo está apagada. Intente cambiar al modo de escritorio si esta característica no funciona.</string>
+    <string name="settings_require_relaunch_notice">Tus cambios tendrán efecto la próxima vez que relances Huhi</string>
+    <string name="settings_require_relaunch_now">RELANZAR AHORA</string>
+    <string name="settings_require_relaunch_later">LUEGO</string>
+
+    <string name="play_yt_video_in_browser_title">Reproducción de video en Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Habilitado </string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Discapacitado</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Si habilitado, los videos se reproducirán en Huhi en lugar de la aplicación correspondiente</string>
+
+    <string name="close_tabs_on_exit_title">Cerrar pestañas al salir</string>
+    <string name="close_tabs_on_exit_summary">No persistir las pestañas entre sesiones de navegación</string>
+
+    <string name="open_pages_in_custom_tabs_title">Abrir pestañas en pestañas personalizadas</string>
+    <string name="open_pages_in_custom_tabs_summary">Ofrecer abrir las pestañas en pestañas personalizadas</string>
+
+    <string name="ddg_offer_title">¿Deseas la búsqueda privada con DuckDuckGo?</string>
+    <string name="ddg_offer_text">Con la búsqueda privada, Huhi usará DuckDuckGo para respoender a tus búsquedas cuando usas una pestaña privada. DuckDuckGo es un motor de búsqueda que no realiza un seguimiento de tu historial de búsquedas, permitiéndote navegar privadamente.</string>
+    <string name="ddg_offer_positive">Sí</string>
+    <string name="ddg_offer_negative">No</string>
+    <string name="ddg_offer_link">Conoce más acerca de la búsqueda privada con DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Pestaña estándar</string>
+    <string name="prefs_private_search_engine">Pestaña privada</string>
+
+    <string name="huhi_open_in_private_tab">Abrir en pestaña privada</string>
+    <string name="huhi_close_all_private_tabs">Cerrar las pestañas privadas</string>
+    <string name="huhi_new_private_tab">Nueva pestaña privada</string>
+    <string name="huhi_new_tab_private_header">Esta es una pestaña privada</string>
+    <string name="huhi_new_tab_private_message">A pesar de que los sitios que visitas utilizando pestañas privadas no son guardados localmente, estos no te hacen anónimo o invicible a tu Proveedor de Internet, tu empleador, o a los sitios que visitas.</string>
+    <string name="update_notification_title">Actualización del navegador Huhi</string>
+    <string name="update_notification_text">El navegador nuevo Huhi es 22% más rápido</string>
+    <string name="prefs_sync">Sincronización (beta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Los anuncios de Huhi ya están aquí</string>
+    <string name="huhi_ads_new_user_offer_title">Activar Recompensas Huhi</string>
+    <string name="huhi_ads_offer_text">Consigue Basic Attention Token por mirar anuncios que protegen la privacidad en Recompensas Huhi.</string>
+    <string name="huhi_ads_offer_positive">¡Me apunto!</string>
+    <string name="huhi_sync_description_page_1_part_1">La Sincronización de Huhi te permite sincronizar de manera privada los datos de los marcadores entre tus navegadores Huhi en tus diferentes dispositivos.</string>
+    <string name="huhi_sync_description_page_1_part_2">Simplemente escanea el código de tu cadena de sincronización que creaste en otro dispositivo o inicia una cadena de sincronización nueva.</string>
+    <string name="huhi_sync_scan_chain_code">Escanear o introducir el código de sincronización</string>
+    <string name="huhi_sync_start_new_chain">Iniciar una cadena de sincronización nueva</string>
+    <string name="huhi_sync_qrcode_message_v2">Abre la configuración de Huhi desde un dispositivo ya sincronizado y navega hasta Configuración > Sincronización. Selecciona \"Añadir dispositivo\" y escanea el código QR que se muestra en la pantalla.</string>
+    <string name="huhi_sync_codewords_message">Abre la configuración de Huhi desde un dispositivo ya sincronizado y navega hasta Configuración > Sincronización. Selecciona \"Añadir dispositivo\" y luego \"Mostrar palabras del código en su lugar\".</string>
+    <string name="huhi_sync_btn_mobile">Añadir un dispositivo móvil</string>
+    <string name="huhi_sync_btn_laptop">Añadir una computadora</string>
+    <string name="huhi_sync_scan_sync_code">Escanear este código de sincronización</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Desde un segundo teléfono o tableta, navega hasta Configuración de Huhi > Sincronización > Escaneo.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">En su dispositivo móvil, navegue hasta Huhi Sync en el panel Configuración y haga clic en el botón \"Escanear código de sincronización\". Use su cámara para escanear el código QR a continuación.</string>
+    <string name="huhi_sync_btn_done">Listo</string>
+    <string name="huhi_sync_tabs_text">Pestañas</string>
+    <string name="huhi_sync_history_text">Historial</string>
+    <string name="huhi_sync_autofill_passwords_text">Opción de autocompletar/Contraseñas</string>
+    <string name="huhi_sync_payment_settings_text">Configuración de pago de Huhi</string>
+    <string name="huhi_sync_settings_title">SINCRONIZACIÓN EN ESTE DISPOSITIVO</string>
+    <string name="huhi_sync_settings_description">Al cambiar la configuración, solo se verán afectados los datos que este dispositivo comparta con otros.</string>
+    <string name="huhi_sync_devices_title">OTROS DISPOSITIVOS EN CADENA</string>
+    <string name="huhi_sync_loading_devices_title">CARGANDO DISPOSITIVOS...</string>
+    <string name="huhi_sync_add_device_text">Añadir otro dispositivo</string>
+    <string name="huhi_sync_remove_device_text">Eliminar este dispositivo</string>
+    <string name="huhi_sync_code_words_title">Par</string>
+    <string name="huhi_sync_add_laptop_text_title">Introducir el código de cadena de sincronización</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Desde tu computadora, navega hasta Configuración de Huhi > Sincronización. Elige \"Introducir un código de cadena de sincronización\".</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Introduce las palabras del código de arriba incluyendo los espacios.</string>
+    <string name="huhi_sync_delete_device">¿Estás seguro de que quieres eliminar el dispositivo \"<ph name=\"DEVICE_NAME\">%1$s</ph>\"?</string>
+    <string name="huhi_sync_delete_sent">Se envió la solicitud de eliminación. El dispositivo se eliminará a la brevedad.</string>
+    <string name="huhi_sync_loading_data_title">Cargando datos...</string>
+    <string name="huhi_sync_time_out_message">Se produjo un error: parece que tu solicitud ha caducado.</string>
+    <string name="huhi_sync_use_camera_text">Usaré mi cámara...</string>
+    <string name="huhi_sync_confirm_code_words_text">Confirmar</string>
+    <string name="huhi_sync_word_count_text">Cantidad de palabras: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">La cantidad de palabras es incorrecta.</string>
+    <string name="huhi_sync_qr_code">Código QR</string>
+    <string name="huhi_sync_code_words">Palabras del código</string>
+    <string name="huhi_sync_copy_button_text">Copiar al portapapeles</string>
+    <string name="huhi_sync_copied_text">Se copió al portapapeles.</string>
+    <string name="huhi_sync_this_device_text">(este dispositivo)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi ya es
+su navegador predeterminado.</string>
+    <string name="huhi_default_browser_go_to_settings">Ya ha establecido un navegador predeterminado.
+Puede cambiarlo en la configuración de su aplicación.</string>
+    <string name="huhi_default_browser_notification_body">Ahorra batería y carga páginas web más rápido. Haz de Huhi tu navegador predeterminado. En el menú Huhi, pulse \"Establecer como navegador predeterminado\".</string>
+    <string name="huhi_set_default_browser">Establecer como navegador predeterminado</string>
+    <string name="huhi_set_default_browser_dialog_text">Seleccione Huhi de la lista y toque en \"Siempre\"</string>
+    <string name="huhi_default_browser_existing_notification_body">Configura Huhi como navegador web predeterminado
+Ahorra batería y carga páginas web más rápido</string>
+
+    <string name="huhi_ui_welcome_header_two">Prepárate para disfrutar
+de la nueva Internet.</string>
+    <string name="huhi_ui_welcome_desc_two">Ahora puedes ganar tokens por
+mirar anuncios que respetan la privacidad.</string>
+    <string name="huhi_ui_welcome_button_text_two">QUIERO UNIRME</string>
+    <string name="huhi_ui_welcome_footer_text_two">MÁS INFORMACIÓN</string>
+    <string name="huhi_ui_rewards_creating_text">Creando billetera</string>
+    <string name="huhi_ui_your_wallet">Tu billetera</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Agregar fondos</string>
+    <string name="huhi_ui_settings">Configuración</string>
+    <string name="huhi_ui_rewards_summary">RESUMEN DE RECOMPENSAS</string>
+    <string name="huhi_ui_site_banner_welcome">¡Gracias por visitarnos!</string>
+    <string name="huhi_ui_rewards_banner_text1">Puedes colaborar con este sitio enviando una propina. Es una forma de agradecer el contenido increíble que tiene. Los creadores de contenido verificados reciben sus propinas durante la primera semana de cada mes calendario.</string>
+    <string name="huhi_ui_rewards_banner_text2">Si lo deseas, puedes configurar propinas mensuales para ayudar a este sitio de forma continua.</string>
+    <string name="huhi_ui_donation_amount">Monto de la propina</string>
+    <string name="huhi_ui_wallet_balance">Saldo de la billetera:</string>
+    <string name="huhi_ui_make_monthly">Quiero que sea mensual</string>
+    <string name="huhi_ui_send_tip">Enviar mi propina</string>
+    <string name="huhi_ui_do_monthly">Establecer propina mensual</string>
+    <string name="huhi_ui_not_enough_tokens">No tienes suficientes tokens</string>
+    <string name="huhi_ui_site_banner_notice_text">NOTA: Este creador aún no se ha registrado para recibir contribuciones de usuarios de Huhi. Seguiremos intentando hacer la contribución hasta que verifique su identidad o hasta que hayan transcurrido 90 días.</string>
+    <string name="huhi_ui_please">por favor</string>
+    <string name="huhi_ui_add_funds">agregar fondos</string>
+    <string name="huhi_ui_thank_you">¡Gracias!</string>
+    <string name="huhi_ui_error_init_wallet">Vuelve a intentarlo más tarde.</string>
+    <string name="huhi_ui_month_jan">ENERO</string>
+    <string name="huhi_ui_month_feb">FEBRERO</string>
+    <string name="huhi_ui_month_mar">MARZO</string>
+    <string name="huhi_ui_month_apr">ABRIL</string>
+    <string name="huhi_ui_month_may">MAYO</string>
+    <string name="huhi_ui_month_jun">JUNIO</string>
+    <string name="huhi_ui_month_jul">JULIO</string>
+    <string name="huhi_ui_month_aug">AGOSTO</string>
+    <string name="huhi_ui_month_sep">SEPTIEMBRE</string>
+    <string name="huhi_ui_month_oct">OCTUBRE</string>
+    <string name="huhi_ui_month_nov">NOVIEMBRE</string>
+    <string name="huhi_ui_month_dec">DICIEMBRE</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>DICIEMBRE</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Atención</string>
+    <string name="huhi_ui_include_in_auto">Incluir en Autocontribuir</string>
+    <string name="huhi_ui_donate_now">Enviar una propina...</string>
+    <string name="huhi_ui_no_activity">Todavía no hay actividades
+este mes...</string>
+    <string name="huhi_ui_token_grant_claimed">Donaciones de tokens aceptadas</string>
+    <string name="huhi_ui_earnings_ads">Ganancias de anuncios</string>
+    <string name="huhi_ui_rewards_contribute">Autocontribuir</string>
+    <string name="huhi_ui_rewards_contribute_description">Has contribuido <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
+    <string name="huhi_ui_one_time_donation">Propinas únicas</string>
+    <string name="huhi_ui_recurring_donation">Propinas mensuales</string>
+    <string name="huhi_ui_verified_publisher">Editor de Huhi verificado</string>
+    <string name="huhi_ui_not_verified_publisher">Sin verificar</string>
+    <string name="huhi_ui_not_verified_publisher_description">Este creador aún no se ha registrado para recibir contribuciones de usuarios de Huhi.
+Las propinas que envíes quedarán en tu billetera hasta que el creador verifique su identidad.</string>
+    <string name="huhi_ui_on_youtube">en YouTube</string>
+    <string name="huhi_ui_on_twitch">en Twitch</string>
+    <string name="huhi_ui_new_grant">Hay una donación de tokens disponible.</string>
+    <string name="huhi_ui_new_token_grant">Donación de tokens disponible</string>
+    <string name="huhi_ui_claim">Reclamar</string>
+    <string name="huhi_ui_reserved_amount_text">Has designado <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT para creadores que aún no se han
+registrado para recibir contribuciones. Tu navegador seguirá intentando hacer la contribución
+hasta que verifiquen su identidad o hasta que hayan transcurrido 90 días.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Su pago mensual programado por contribución automática y propinas mensuales no se pudo completar debido a la insuficiencia de fondos. Lo intentaremos de nuevo en 30 días.</string>
+    <string name="huhi_ui_notification_desc_tip_error">No pudimos procesar tu propina. Vuelve a intentarlo.</string>
+    <string name="huhi_ui_notification_desc_contr_error">No pudimos procesar tu contribución.</string>
+    <string name="huhi_rewards_local_uh_oh">Oh oh...</string>
+    <string name="huhi_rewards_local_server_not_responding">El servidor de Recompensas Huhi no está respondiendo. Solucionaremos esto lo antes posible.</string>
+    <string name="huhi_ui_grants">Donaciones</string>
+    <string name="huhi_ui_expires_on">vence el <ph name=\"DATE\">%1$s<ex>14/4/2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Fondos insuficientes</string>
+    <string name="huhi_ui_insufficient_funds_desc">Tu cuenta de Recompensas Huhi está esperando un depósito.</string>
+    <string name="huhi_ui_backup_wallet_msg">Copia de seguridad de la billetera</string>
+    <string name="huhi_ui_backup_wallet_desc">Haz una copia de seguridad de tu billetera de Huhi.</string>
+    <string name="huhi_ui_huhi_rewards">Recompensas Huhi</string>
+    <string name="huhi_ui_welcome_back_message">¡Hola de nuevo!</string>
+    <string name="huhi_ui_get_rewarded">Recibe recompensas por navegar.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Consigue tokens mirando anuncios que
+respetan tu privacidad y haz contribuciones para
+apoyar a los creadores de contenido que más te gustan.</string>
+    <string name="huhi_welcome_page_rewards_title">ACTIVAR RECOMPENSAS HUHI</string>
+    <string name="huhi_ui_first_tip_text">Su primer consejo mensual será enviado el:</string>
+    <string name="huhi_ui_tip_text">Acabas de enviar una consejo a:</string>
+    <string name="huhi_ui_auto_tip_text">Usted está enviando automáticamente un consejo a:</string>
+    <string name="huhi_ui_monthly_text">Mensualmente</string>
+    <string name="bottom_toolbar_enable">Habilitar barra de herramientas inferior</string>
+    <string name="bottom_toolbar_disable">Deshabilitar barra de herramientas inferior</string>
+    <string name="search_or_url">Búsqueda o URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Crea un marcador</string>
+    <string name="huhi_ui_donate_monthly">Envía una propina a este sitio todos los meses</string>
+
+    <string name="huhi_rewards_not_available">Parece que Recompensas Huhi no está disponible en tu dispositivo</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Si cierras todas las pestañas, Huhi se cerrará</string>
+    <string name="prefs_section_display">Mostrar</string>
+    <string name="prefs_section_controls">Controles</string>
+    <string name="prefs_appearance">Apariencia</string>
+    <string name="hide_huhi_rewards_icon_title">Ocultar el ícono de Recompensas Huhi</string>
+    <string name="hide_huhi_rewards_icon_description">Oculta el ícono de Recompensas Huhi cuando las recompensas no están activadas</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Mostrar anuncios cuando Huhi no esté en uso</string>
+    <string name="reset_huhi_rewards_option">Restablecer Recompensas Huhi</string>
+    <string name="reset_huhi_rewards_option_description">Esto eliminará tu billetera de Huhi y restablecerá todos los datos de tus Recompensas Huhi</string>
+    <string name="reset_huhi_rewards_error_title">Error de restablecimiento</string>
+    <string name="reset_huhi_rewards_error_description">Hubo un error al restablecer las Recompensas Huhi. Reinicia Huhi y vuelve a intentarlo.</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">En tu computadora, ve a la opción Sincronización en la configuración de Huhi y haz clic en el botón \"Tengo un código de sincronización\".\nEscribe el código de cadena de sincronización que aparece a continuación.</string>
+
+    <string name="huhi_sync_official">Sincronización de Huhi</string>
+    <string name="prefs_sync_official">Sincronización</string>
+
+    <string name="huhi_sync_code_warning">Este código es como una contraseña. Si alguien lo consigue, puede leer y modificar tus datos sincronizados.</string>
+
+    <string name="notification_category_group_huhi_ads">Anuncios Huhi</string>
+    <string name="huhi_ads_you_earned">Has ganado</string>
+
+    <string name="huhi_default_browser_title">Huhi es rapidísimo</string>
+    <string name="huhi_default_browser_body">¡Usa Huhi como tu navegador predeterminado!</string>
+    <string name="huhi_make_default_text">Establecer como predeterminado</string>
+    <string name="huhi_ui_ads_earnings">conseguido de anuncios</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Omitir</string>
+
+    <string name="search_engine_onboarding">Incorporación de motor de búsqueda</string>
+    <string name="troubleshooting_onboarding">Incorporación de solución de problemas</string>
+
+    <string name="welcome_to_huhi_browser">Te damos la bienvenida al navegador Huhi</string>
+    <string name="select_your_default_search_engine">Elige tu motor de búsqueda predeterminado</string>
+
+    <string name="block">Bloquea</string>
+    <string name="huhi_shields_onboarding_title">Escudos de Huhi</string>
+    <string name="huhi_shields_onboarding_text">anuncios y rastreadores que invaden la privacidad, y navega por la Web sin que te sigan.</string>
+
+    <string name="earn_tokens">Consigue tokens</string>
+    <string name="huhi_rewards_onboarding_title">Recompensas Huhi</string>
+    <string name="huhi_rewards_onboarding_text">mirando anuncios que respetan tu privacidad. Úsalos para apoyar a tus sitios y creadores favoritos.</string>
+    <string name="huhi_rewards_onboarding_text2">mirando anuncios que respetan la privacidad.</string>
+
+    <string name="terms_title">Tienes que aceptar las condiciones para usar Recompensas Huhi</string>
+    <string name="terms_text">Acepto las condiciones de servicio</string>
+    <string name="terms_of_service">de Recompensas Huhi</string>
+
+    <string name="agree">Acepto</string>
+    <string name="join">Unirme</string>
+
+     <string name="start_browsing">Empieza a navegar</string>
+    <string name="i_didnt_see">No vi ningún anuncio</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi te mostrará el primer anuncio en</string>
+    <string name="huhi_ads_onboarding_text">Para ver anuncios de Recompensas Huhi, comprueba si has permitido que Huhi te muestre notificaciones.</string>
+
+    <string name="this_is_your_first_ad">Este es tu primer anuncio de Huhi. Toca para ver más información.</string>
+
+    <string name="turn_on">Activar</string>
+
+    <string name="no_thanks">No, gracias</string>
+    <string name="do_not_agree">No acepto</string>
+
+    <string name="prefs_welcome_tour">Recorrido de bienvenida</string>
+    <string name="welcome_tour_dialog_text">Reiniciar el Recorrido de bienvenida no afectará los ajustes actuales.</string>
+    <string name="finish">Terminar</string>
+    
+    <string name="clear_download_title">Descargar historial</string>
+
+    <string name="settings_exit">Salir de la configuración</string>
+
+</resources>

@@ -1,0 +1,318 @@
+<resources>
+
+    <string name="huhi_settings_title">Huhi sitesi koruma ayarları:</string>
+    <string name="huhi_shields_down">Aşağı</string>
+    <string name="huhi_shields_up">Yukarı</string>
+    <string name="huhi_shields_ads_trackers">Reklam ve Takipçiler Engellendi</string>
+    <string name="huhi_shields_https_upgrades">HTTPS Yükseltmeleri</string>
+    <string name="huhi_shields_scripts_blocked">Betikler Engellendi</string>
+    <string name="huhi_shields_ads_tracking_switch">Reklam ve Takipçileri Engelle</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Her yerde</string>
+    <string name="huhi_shields_blocks_scripts_switch">Betikleri Engelle</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Huhi Korumalarını Aç/Kapat</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Huhi Ödüllerini Yönet</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Üçüncü kişi çerezlerini engelleyin</string>
+
+    <string name="httpse_summary">Desteklenen siteleri mümkün olduğunda HTTP yerine HTTPS kullanarak açar</string>
+    <string name="ad_block_title">Reklam Engelleme</string>
+    <string name="ad_block_summary">Reklamların yüklenmesini engeller</string>
+
+    <string name="fingerprinting_protection_title">Parmak izi koruması</string>
+    <string name="fingerprinting_protection_summary">Tarayıcının parmak izi bırakmasını önler</string>
+    <string name="huhi_shields_fingerprints_blocked">Parmak İzi Yöntemleri Engellendi</string>
+    <string name="huhi_shields_block_fingerprints_switch">Parmak izi koruması</string>
+
+    <string name="ad_block_regional_title">Bölgesel Reklam Engeli</string>
+    <string name="ad_block_regional_summary">Bölgesel reklamların yüklenmesini önler</string>
+
+    <string name="ad_block_regional_summary_no_list">Yerel ayarınız için ek listeler yok</string>
+
+    <string name="menu_exit">Çıkış</string>
+
+    <string name="huhi_sync">Huhi Senkronizasyonu (beta)</string>
+    <string name="sync_settings_add_device_name_title">Cihaz adı ekle</string>
+    <string name="sync_settings_add_device_name_label">Bu cihaz için isteğe bağlı bir ad girin</string>
+    <string name="sync_example_device_name">Android cihazı</string>
+    <string name="enter_code_words_sync">Kod kelimeleri ekle</string>
+    <string name="sync_device">Senkronizasyon cihazı</string>
+    <string name="sync_device_failure">Senk. sıfırlanamadı.</string>
+    <string name="sync_requires_correct_time">Bilgisayarınızın saati yanlış zamana veya yanlış zaman dilimine ayarlanmış olabilir. Saat ayarlarınızı kontrol edin</string>
+
+    <string name="huhi_stats_text_ads">Reklamlar ve İzleyiciler
+Engellendi</string>
+    <string name="huhi_stats_text_https">HTTPS
+Yükseltmeleri</string>
+    <string name="huhi_stats_text_time">Tahmini Zaman
+Kaydedildi</string>
+
+    <string name="send_metrics_title">Ölçümleri gönder</string>
+
+    <string name="desktop_mode_title">Masaüstü Modu</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Sitelerin masaüstü versiyonunu tercih et</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Sitelerin mobil versiyonunu tercih et</string>
+    <string name="website_settings_category_desktop_view_enabled">Yeni sekmeler için Masaüstü Görünümünü Etkinleştir</string>
+    <string name="website_settings_category_desktop_view_disabled">Yeni sekmeler için sitelerin mobil versiyonlarını kullanın (önerilir)</string>
+
+    <string name="huhi_shields_first_group_title">Ekranı Engelleme</string>
+    <string name="huhi_shields_second_group_title">Bireysel Kontroller</string>
+    <string name="huhi_shields">Kalkanlar</string>
+    <string name="huhi_shields_ads_and_trackers">Reklamlar ve Takipçiler</string>
+    <string name="huhi_shields_fingerprint_methods">Parmak İzi Yöntemleri</string>
+    <string name="huhi_shields_block_phishing_switch">Kimlik Avını Engelleyin</string>
+
+    <string name="play_video_in_background_title">Arka planda video oynatma</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Etkin</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Kapalı</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Deneme niteliğinde. Sekme etkin olmadığında veya cihaz ekranı kapalıyken arka plandaki videnun oynatma sesini etkinleştirir. Bu özellik çalışmıyorsa masaüstü moduna geçmeyi deneyin.</string>
+    <string name="settings_require_relaunch_notice">Değişiklikleriniz Huhi\'i bir sonraki yeniden başlattığınızda geçerli olacak</string>
+    <string name="settings_require_relaunch_now">ŞİMDİ YENİDEN BAŞLAT</string>
+    <string name="settings_require_relaunch_later">SONRA</string>
+
+    <string name="play_yt_video_in_browser_title">Huhi\'de video oynatma</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Etkin</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Devre Dışı</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Etkinleştirilmesi halinde videolar ilişkili uygulama yerine Huhi\'de oynatılacaktır</string>
+
+    <string name="close_tabs_on_exit_title">Çıkışta sekmeleri kapatın</string>
+    <string name="close_tabs_on_exit_summary">Tarama oturumları arasında sekmeleri sürdürmeyin</string>
+
+    <string name="open_pages_in_custom_tabs_title">Sekmeleri Özel Sekmelerde Açın</string>
+    <string name="open_pages_in_custom_tabs_summary">Sekmeleri Özel Sekmelerde açma teklifi</string>
+
+    <string name="ddg_offer_title">DuckDuckGo ile gizli arama yapılsın mı?</string>
+    <string name="ddg_offer_text">Gizli arama özelliği kullanıldığında Huhi, bu gizli sekmede yaptığınız aramaları yanıtlamak için DuckDuckGo\'yu kullanır. DuckDuckGo, arama geçmişinizi takip etmeyen ve gizli şekilde arama yapmanızı sağlayan bir arama motorudur.</string>
+    <string name="ddg_offer_positive">Evet</string>
+    <string name="ddg_offer_negative">Hayır</string>
+    <string name="ddg_offer_link">DuckDuckGo ile gizli arama yapma hakkında bilgi edinin</string>
+    <string name="prefs_standard_search_engine">Standart Sekme</string>
+    <string name="prefs_private_search_engine">Gizli Sekme</string>
+
+    <string name="huhi_open_in_private_tab">Gizli sekmede aç</string>
+    <string name="huhi_close_all_private_tabs">Gizli sekmeleri kapat</string>
+    <string name="huhi_new_private_tab">Yeni gizli sekme</string>
+    <string name="huhi_new_tab_private_header">Bu bir Gizli Sekme</string>
+    <string name="huhi_new_tab_private_message">Gizli sekmelerde ziyaret ettiğiniz siteler yerel olarak kaydedilmese de anonim olarak kalmazsınız ve bu siteler internet servis sağlayıcınız, işvereniniz veya ziyaret ettiğiniz siteler tarafından görülebilir.</string>
+    <string name="update_notification_title">Huhi güncellemesi</string>
+    <string name="update_notification_text">Yeni Huhi tarayıcı %22 daha hızlı</string>
+    <string name="prefs_sync">Senkronizasyon (beta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Huhi Reklamları burada! </string>
+    <string name="huhi_ads_new_user_offer_title">Huhi Ödüllerine İzin Ver</string>
+    <string name="huhi_ads_offer_text">Huhi Ödüllerindeki gizliliği koruyan reklamları görüntülediğin için Temel Dikkat Parası kazan. </string>
+    <string name="huhi_ads_offer_positive">Varım! </string>
+    <string name="huhi_sync_description_page_1_part_1">Huhi Sync, çeşitli cihazlarınızdaki Huhi Tarayıcılarınız arasında yer işareti verilerini gizli bir şekilde senkronize etmenize imkan verir.</string>
+    <string name="huhi_sync_description_page_1_part_2">Başka bir cihazda oluşturduğunuz senkronizasyon zincirinizden kodu taramanız veya yeni bir senkronizasyon zinciri başlatmanız yeterlidir.</string>
+    <string name="huhi_sync_scan_chain_code">Senkronizasyon kodu tara veya gir</string>
+    <string name="huhi_sync_start_new_chain">Yeni bir senkronizasyon zinciri başlat</string>
+    <string name="huhi_sync_qrcode_message_v2">Senkronize edilmiş mevcut cihazı kullanarak Huhi Ayarları\'nı açın ve Ayarlar > Senkronizasyon öğesine gidin. \"Cihaz Ekle\" öğesini seçin ve ekranda görüntülenen QR Kodunu tarayın.</string>
+    <string name="huhi_sync_codewords_message">Senkronize edilmiş mevcut cihazı kullanarak Huhi Ayarları\'nı açın ve Ayarlar > Senkronizasyon öğesine gidin. \"Cihaz Ekle\" öğesini ve ardından \"Bunun yerine kod kelimelerini görüntüle\" öğesini seçin.</string>
+    <string name="huhi_sync_btn_mobile">Mobil Cihaz Ekle</string>
+    <string name="huhi_sync_btn_laptop">Bilgisayar Ekle</string>
+    <string name="huhi_sync_scan_sync_code">Bu senkronizasyon kodunu tarayın</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">İkinci bir telefon veya tablet kullanarak Huhi Ayarları > Senkronizasyon > Tara öğesine gidin.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">Mobil cihazınızda, Ayarlar panosunda Huhi Sync\'e gidin ve \"Senkronizasyon Kodunu Tara\" butonuna tıklayın. Aşağıdaki QR Kodunu taramak için kameranızı kullanın.</string>
+    <string name="huhi_sync_btn_done">Bitti</string>
+    <string name="huhi_sync_tabs_text">Sekmeler</string>
+    <string name="huhi_sync_history_text">Geçmiş</string>
+    <string name="huhi_sync_autofill_passwords_text">Otomatik Doldurma/Parolalar</string>
+    <string name="huhi_sync_payment_settings_text">Huhi Ödeme Ayarları</string>
+    <string name="huhi_sync_settings_title">BU CİHAZDA SENKRONİZASYON</string>
+    <string name="huhi_sync_settings_description">Ayarların değiştirilmesi yalnızca bu cihazın diğerleriyle paylaştığı verileri etkileyecektir.</string>
+    <string name="huhi_sync_devices_title">ZİNCİRDEKİ DİĞER CİHAZLAR</string>
+    <string name="huhi_sync_loading_devices_title">CİHAZLAR YÜKLENİYOR...</string>
+    <string name="huhi_sync_add_device_text">Başka cihaz ekle</string>
+    <string name="huhi_sync_remove_device_text">Bu cihazı kaldır</string>
+    <string name="huhi_sync_code_words_title">Eşleştir</string>
+    <string name="huhi_sync_add_laptop_text_title">Senkronizasyon zinciri kodunu gir</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Bilgisayarınızda Huhi Ayarları > Senkronizasyon öğesine gidin. \"Senkronizasyon Zinciri Kodu Gir\" öğesini seçin.</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Yukarıdaki kod kelimelerini boşluklar dahil girin.</string>
+    <string name="huhi_sync_delete_device">\"<ph name=\"DEVICE_NAME\">%1$s</ph>\" cihazını silmek istediğinizden emin misiniz?</string>
+    <string name="huhi_sync_delete_sent">Silme talebi gönderildi. Cihaz kısa süre içinde kaldırılacak.</string>
+    <string name="huhi_sync_loading_data_title">Veri yükleniyor...</string>
+    <string name="huhi_sync_time_out_message">Bir hata oluştu, görünüşe göre talebiniz zaman aşımına uğradı.</string>
+    <string name="huhi_sync_use_camera_text">Kameramı kullanacağım...</string>
+    <string name="huhi_sync_confirm_code_words_text">Onayla</string>
+    <string name="huhi_sync_word_count_text">Kelime sayısı: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Yanlış kelime sayısı</string>
+    <string name="huhi_sync_qr_code">QR Kodu</string>
+    <string name="huhi_sync_code_words">Kod Kelimeleri</string>
+    <string name="huhi_sync_copy_button_text">Panoya Kopyala</string>
+    <string name="huhi_sync_copied_text">Panoya Kopyalandı</string>
+    <string name="huhi_sync_this_device_text">(bu cihaz)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi zaten varsayılan
+tarayıcınız olarak ayarlı.</string>
+    <string name="huhi_default_browser_go_to_settings">Zaten varsayılan bir tarayıcı ayarladınız.
+Varsayılan tarayıcıyı uygulama ayarlarınızdan değiştirebilirsiniz.</string>
+    <string name="huhi_default_browser_notification_body">Pili koruyun ve web sayfalarını daha hızlı yükleyin. Varsayılan Tarayıcınızı Huhi yapın. Huhi menüsünden \"Varsayılan tarayıcı olarak ayarla\"ya dokunun.</string>
+    <string name="huhi_set_default_browser">Varsayılan tarayıcı olarak ayarla</string>
+    <string name="huhi_set_default_browser_dialog_text">Listeden Huhi\'i seçip \"Her Zaman\" a dokunun</string>
+    <string name="huhi_default_browser_existing_notification_body">Huhi\'i varsayılan web tarayıcınız yapın
+Pilden tasarruf edin ve web sayfalarını daha hızlı yükleyin</string>
+
+    <string name="huhi_ui_welcome_header_two">İnternetin geleceğini
+deneyimlemeye hazır olun.</string>
+    <string name="huhi_ui_welcome_desc_two">Artık gizliliğe saygılı reklamlar
+izleme karşılığında kupon kazanabilirsiniz.</string>
+    <string name="huhi_ui_welcome_button_text_two">ÖDÜLLERE KATIL</string>
+    <string name="huhi_ui_welcome_footer_text_two">DAHA FAZLASINI ÖĞREN</string>
+    <string name="huhi_ui_rewards_creating_text">Cüzdan oluşturuluyor</string>
+    <string name="huhi_ui_your_wallet">Cüzdanınız</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Para Ekle</string>
+    <string name="huhi_ui_settings">Ayarlar</string>
+    <string name="huhi_ui_rewards_summary">ÖDÜLLER ÖZETİ</string>
+    <string name="huhi_ui_site_banner_welcome">Uğradığınız için teşekkür ederiz!</string>
+    <string name="huhi_ui_rewards_banner_text1">Bu siteyi bir bahşiş göndererek destekleyebilirsiniz. Bu, muhteşem içerik için kendilerine teşekkür etmenin bir yoludur. Onaylı içerik oluşturucular her takvim ayının ilk haftası içinde bahşişleri için ödeme alır.</string>
+    <string name="huhi_ui_rewards_banner_text2">İsterseniz bu siteyi devamlı olarak desteklemek için aylık bahşiş ödemeleri planlayabilirsiniz.</string>
+    <string name="huhi_ui_donation_amount">Bahşiş tutarı</string>
+    <string name="huhi_ui_wallet_balance">cüzdan bakiyesi:</string>
+    <string name="huhi_ui_make_monthly">Bunu aylık yap</string>
+    <string name="huhi_ui_send_tip">bahşişimi gönder</string>
+    <string name="huhi_ui_do_monthly">aylık bahşiş ayarla</string>
+    <string name="huhi_ui_not_enough_tokens">yeterli kupon yok</string>
+    <string name="huhi_ui_site_banner_notice_text">NOT: Bu oluşturucu henüz Huhi kullanıcılarından katkı almak için kaydolmamış. Onlar onaylayana veya 90 gün geçene kadar katkı yapmaya çalışacağız.</string>
+    <string name="huhi_ui_please">lütfen</string>
+    <string name="huhi_ui_add_funds">para ekleyin</string>
+    <string name="huhi_ui_thank_you">Teşekkür ederiz!</string>
+    <string name="huhi_ui_error_init_wallet">Lütfen daha sonra tekrar deneyin.</string>
+    <string name="huhi_ui_month_jan">OCAK</string>
+    <string name="huhi_ui_month_feb">ŞUBAT</string>
+    <string name="huhi_ui_month_mar">MART</string>
+    <string name="huhi_ui_month_apr">NİSAN</string>
+    <string name="huhi_ui_month_may">MAYIS</string>
+    <string name="huhi_ui_month_jun">HAZİRAN</string>
+    <string name="huhi_ui_month_jul">TEMMUZ</string>
+    <string name="huhi_ui_month_aug">AĞUSTOS</string>
+    <string name="huhi_ui_month_sep">EYLÜL</string>
+    <string name="huhi_ui_month_oct">EKİM</string>
+    <string name="huhi_ui_month_nov">KASIM</string>
+    <string name="huhi_ui_month_dec">ARALIK</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>ARALIK</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Dikkat</string>
+    <string name="huhi_ui_include_in_auto">Otomatik Katkıya Dahil Et</string>
+    <string name="huhi_ui_donate_now">Bir bahşiş gönder...</string>
+    <string name="huhi_ui_no_activity">Bu ay henüz aktivite
+yok...</string>
+    <string name="huhi_ui_token_grant_claimed">Alınan Kuponlar</string>
+    <string name="huhi_ui_earnings_ads">Reklam Gelirleri</string>
+    <string name="huhi_ui_rewards_contribute">Otomatik Katkı</string>
+    <string name="huhi_ui_rewards_contribute_description"><ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT katkıda bulundunuz.</string>
+    <string name="huhi_ui_one_time_donation">Tek Seferlik Bahşişler</string>
+    <string name="huhi_ui_recurring_donation">Aylık Bahşişler</string>
+    <string name="huhi_ui_verified_publisher">Huhi Onaylı Yayıncı</string>
+    <string name="huhi_ui_not_verified_publisher">Henüz onaylanmamış</string>
+    <string name="huhi_ui_not_verified_publisher_description">Bu oluşturucu henüz Huhi kullanıcılarından katkı almak için kaydolmamış.
+        Gönderdiğiniz tüm bahşişler onlar onaylayana kadar cüzdanınızda kalacaktır.</string>
+    <string name="huhi_ui_on_youtube">YouTube\'da</string>
+    <string name="huhi_ui_on_twitch">Twitch\'te</string>
+    <string name="huhi_ui_new_grant">Ücretsiz bir kupon mevcut.</string>
+    <string name="huhi_ui_new_token_grant">Ücretsiz Kupon Verme</string>
+    <string name="huhi_ui_claim">Al</string>
+    <string name="huhi_ui_reserved_amount_text">Henüz katkı almak amacıyla kaydolmamış oluşturucular için <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT
+ayırdınız. Tarayıcınız onlar onaylayana veya
+90 gün geçene kadar katkı yapmayı deneyecek.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Otomatik Bağış ve aylık ipuçları için planlanmış aylık ödemeniz yetersiz fon nedeniyle tamamlanamadı. 30 gün içinde tekrar deneyeceğiz.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Bahşişiniz işleme alınırken bir sorun oluştu, lütfen tekrar deneyin.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Katkınız işleme alınırken bir sorun oluştu.</string>
+    <string name="huhi_rewards_local_uh_oh">Tüh!</string>
+    <string name="huhi_rewards_local_server_not_responding">Huhi Ödülleri sunucusu yanıt vermiyor. Bunu en kısa zamanda düzelteceğiz.</string>
+    <string name="huhi_ui_grants">Verilenler</string>
+    <string name="huhi_ui_expires_on"><ph name=\"DATE\">%1$s<ex>14/4/2019</ex></ph> tarihinde süresi doluyor</string>
+    <string name="huhi_ui_insufficient_funds_msg">Yetersiz Tutar</string>
+    <string name="huhi_ui_insufficient_funds_desc">Huhi Ödülleri hesabınız para yatırılmasını bekliyor.</string>
+    <string name="huhi_ui_backup_wallet_msg">Cüzdanı Yedekle</string>
+    <string name="huhi_ui_backup_wallet_desc">Lütfen Huhi cüzdanınızı yedekleyin.</string>
+    <string name="huhi_ui_huhi_rewards">Huhi Ödülleri</string>
+    <string name="huhi_ui_welcome_back_message">Tekrar hoş geldiniz!</string>
+    <string name="huhi_ui_get_rewarded">İnternette gezinmek için ödül alın.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Gizliliğe saygılı reklamlar izleyerek
+para kazanın ve sevdiğiniz içerik
+üreticilerini desteklemek için bu parayla ödeme yapın.</string>
+    <string name="huhi_welcome_page_rewards_title">HUHI ÖDÜLLERİNİ ETKİNLEŞTİR</string>
+    <string name="huhi_ui_first_tip_text">İlk aylık ipucunuz gönderileceği zaman:</string>
+    <string name="huhi_ui_tip_text">Az önce şuna bir ipucu gönderdiniz:</string>
+    <string name="huhi_ui_auto_tip_text">Şuna otomatik olarak bir ipucu gönderiyorsunuz:</string>
+    <string name="huhi_ui_monthly_text">Aylık</string>
+    <string name="bottom_toolbar_enable">Alt araç çubuğunu etkinleştir</string>
+    <string name="bottom_toolbar_disable">Alt araç çubuğunu devre dışı bırak</string>
+    <string name="search_or_url">Arama veya URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Bir yer imi oluşturun</string>
+    <string name="huhi_ui_donate_monthly">Bu siteye aylık olarak bahşiş verin</string>
+
+    <string name="huhi_rewards_not_available">Üzgünüz, görünüşe bakılırsa Huhi Ödülleri cihazınızda kullanılamıyor</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Tüm sekmeleri kapatmak Huhi\'i kapatır</string>
+    <string name="prefs_section_display">Göster</string>
+    <string name="prefs_section_controls">Kontroller</string>
+    <string name="prefs_appearance">Görünüm</string>
+    <string name="hide_huhi_rewards_icon_title">Huhi Ödülleri Simgesini Gizle</string>
+    <string name="hide_huhi_rewards_icon_description">Huhi Ödülleri etkin olmadığında Huhi Ödülleri simgesini gizler</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Huhi kullanımda değilken Reklamları göster</string>
+    <string name="reset_huhi_rewards_option">Huhi Ödüllerini Sıfırla</string>
+    <string name="reset_huhi_rewards_option_description">Bu, Huhi cüzdanınızı siler ve tüm Huhi Ödülleri verilerinizi sıfırlar</string>
+    <string name="reset_huhi_rewards_error_title">Sıfırlama Hatası</string>
+    <string name="reset_huhi_rewards_error_description">Huhi Ödülleri sıfırlanırken bir hata oluştu. Lütfen Huhi\'i yeniden başlatın ve tekrar deneyin</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Hedef bilgisayarınızda, ayarlardaki Huhi Sync bölümüne gidip  \"Bir Sync Kodum Var\".\n butonuna tıklayın ve aşağıda gösterilen eşzamanlama zincir kodu sözcüklerini girin.</string>
+
+    <string name="huhi_sync_official">Huhi Eşitlemesi</string>
+    <string name="prefs_sync_official">Eşitle</string>
+
+    <string name="huhi_sync_code_warning">Bu kodu bir şifre gibi düşünün. Birinin eline geçerse eşzamanlanmış verilerinizi okuyabilir ve değiştirebilirler. </string>
+
+    <string name="notification_category_group_huhi_ads">Huhi Reklamları</string>
+    <string name="huhi_ads_you_earned">Kazandığın tutar</string>
+
+    <string name="huhi_default_browser_title">Huhi şimşek hızındadır</string>
+    <string name="huhi_default_browser_body">Huhi\'i varsayılan tarayıcı yap! </string>
+    <string name="huhi_make_default_text">Varsayılan yap</string>
+    <string name="huhi_ui_ads_earnings">reklamlardan kazanıldı</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Geç</string>
+
+    <string name="search_engine_onboarding">Arama motoru yerleştiriliyor</string>
+    <string name="troubleshooting_onboarding">Sorun giderme işleniyor</string>
+
+    <string name="welcome_to_huhi_browser">Huhi Browser\'a Hoş Geldiniz</string>
+    <string name="select_your_default_search_engine">Varsayılan arama moturunuzu seçin</string>
+
+    <string name="block">Engelle</string>
+    <string name="huhi_shields_onboarding_title">Huhi Kalkanları</string>
+    <string name="huhi_shields_onboarding_text">gizliliği ihlal eden reklamlar ve takipçiler, böylece internet üzerinde takip edilmeden dolaşabilirsiniz.</string>
+
+    <string name="earn_tokens">Token kazanın</string>
+    <string name="huhi_rewards_onboarding_title">Huhi Ödülleri</string>
+    <string name="huhi_rewards_onboarding_text">gizlilik uyumlu reklamları görmek için. Favori sitelerinizi ve oluşturucuları desteklemek için kullanın.</string>
+    <string name="huhi_rewards_onboarding_text2">gizlilik uyumlu reklamlar görmek için</string>
+
+    <string name="terms_title">Huhi Ödülleri\'ni kullanmak için Şartlar\'ı kabul edin</string>
+    <string name="terms_text">Huhi Ödülleri\'ni kabul ediyorum</string>
+    <string name="terms_of_service">Hizmet Şartları</string>
+
+    <string name="agree">Kabul</string>
+    <string name="join">Katıl</string>
+
+     <string name="start_browsing">Taramaya başla</string>
+    <string name="i_didnt_see">Bir reklam görmedim</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi ilk reklamınızı gösterecek</string>
+    <string name="huhi_ads_onboarding_text">Huhi Ödülleri reklamlarını görmek için, Huhi\'e bildirim izni verildiğinden emin olun.</string>
+
+    <string name="this_is_your_first_ad">Bu sizin ilk Huhi reklamınız. Daha fazlasını öğrenmek için dokunun.</string>
+
+    <string name="turn_on">Aç</string>
+
+    <string name="no_thanks">Hayır, teşekkürler</string>
+    <string name="do_not_agree">Kabul etmiyorum</string>
+
+    <string name="prefs_welcome_tour">Hoşgeldin Turu</string>
+    <string name="welcome_tour_dialog_text">Hoş Geldin Turu\'nu kapatmak mevcut ayarları etkilemeyecektir.</string>
+    <string name="finish">Bitir</string>
+    
+    <string name="clear_download_title">Geçmişi indir</string>
+
+    <string name="settings_exit">Ayarlardan çık</string>
+
+</resources>

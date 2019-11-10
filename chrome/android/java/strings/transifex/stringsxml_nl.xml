@@ -1,0 +1,318 @@
+<resources>
+
+    <string name="huhi_settings_title">Huhi site afscherming instellingen voor</string>
+    <string name="huhi_shields_down">Gedeactiveerd</string>
+    <string name="huhi_shields_up">Geactiveerd</string>
+    <string name="huhi_shields_ads_trackers">Ads en Trackers geblokkeerd</string>
+    <string name="huhi_shields_https_upgrades">HTTPS upgrades</string>
+    <string name="huhi_shields_scripts_blocked">Scripts geblokkeerd</string>
+    <string name="huhi_shields_ads_tracking_switch">Blokkeer Ads en Tracking</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS overal</string>
+    <string name="huhi_shields_blocks_scripts_switch">Blokkeer Scripts</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Activeer/inactiveer Huhi afschermingen</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Huhi Rewards beheren</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Blokkeer cookies van derden</string>
+
+    <string name="httpse_summary">Opent ondersteunde websites met HTTPS in plaats van HTTP indien mogelijk</string>
+    <string name="ad_block_title">Advertentieblokkeerder</string>
+    <string name="ad_block_summary">Voorkomt het laden van advertenties</string>
+
+    <string name="fingerprinting_protection_title">Vingerafdrukbescherming</string>
+    <string name="fingerprinting_protection_summary">Voorkomt dat de browser vingerafdrukken maakt</string>
+    <string name="huhi_shields_fingerprints_blocked">Vingerafdrukmethodes geblokkeerd</string>
+    <string name="huhi_shields_block_fingerprints_switch">Vingerafdrukbescherming</string>
+
+    <string name="ad_block_regional_title">Regionale blokkering van reclame</string>
+    <string name="ad_block_regional_summary">Voorkomt dat regionale reclame geladen wordt</string>
+
+    <string name="ad_block_regional_summary_no_list">Geen extra lijsten beschikbaar voor uw locatie</string>
+
+    <string name="menu_exit">Afsluiten</string>
+
+    <string name="huhi_sync">Huhi Sync (bèta)</string>
+    <string name="sync_settings_add_device_name_title">Voeg naam apparaat toe</string>
+    <string name="sync_settings_add_device_name_label">Voor een optionele naam voor dit apparaat in</string>
+    <string name="sync_example_device_name">Android-apparaat</string>
+    <string name="enter_code_words_sync">Voer codewoorden in</string>
+    <string name="sync_device">Synchroniseer apparaat</string>
+    <string name="sync_device_failure">Synchronisatie kon niet worden gestart</string>
+    <string name="sync_requires_correct_time">Mogelijk is de klok van uw computer ingesteld op de verkeerde tijd of tijdzone. Controleer uw klokinstellingen</string>
+
+    <string name="huhi_stats_text_ads">Reclames en Trackers
+Geblokkeerd</string>
+    <string name="huhi_stats_text_https">HTTPS
+upgrades</string>
+    <string name="huhi_stats_text_time">Gesch. tijd
+Bespaard</string>
+
+    <string name="send_metrics_title">Verstuur data</string>
+
+    <string name="desktop_mode_title">Desktopmodus</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Desktop versie van websites toepassen</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Mobiele versie van websites toepassen</string>
+    <string name="website_settings_category_desktop_view_enabled">Desktopmodus voor nieuwe tabs inschakelen</string>
+    <string name="website_settings_category_desktop_view_disabled">Gebruik mobiele versies van websites voor nieuwe tabs (aanbevolen)</string>
+
+    <string name="huhi_shields_first_group_title">Blokkeermonitor</string>
+    <string name="huhi_shields_second_group_title">Individuele instellingen</string>
+    <string name="huhi_shields">Afschermingen</string>
+    <string name="huhi_shields_ads_and_trackers">Advertenties en trackers</string>
+    <string name="huhi_shields_fingerprint_methods">Vingerafdrukmethoden</string>
+    <string name="huhi_shields_block_phishing_switch">Blokkeer phishing</string>
+
+    <string name="play_video_in_background_title">Video\'s afspelen op de achtergrond</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Ingeschakeld</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Uitgeschakeld</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Experimenteel. Schakelt de optie in om audio af te spelen van een video op de achtergrond, wanneer de tab niet actief is, of het scherm van het apparaat is uitgeschakeld. Probeer naar de desktopmodus te schakelen als deze functie niet werkt.</string>
+    <string name="settings_require_relaunch_notice">De wijzigingen worden van kracht de volgende keer dat je Huhi opnieuw opstart</string>
+    <string name="settings_require_relaunch_now">START NU OPNIEUW OP</string>
+    <string name="settings_require_relaunch_later">LATER</string>
+
+    <string name="play_yt_video_in_browser_title">Video\'s afspelen in Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Ingeschakeld</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Uitgeschakeld</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Indien ingeschakeld, worden video\'s afgespeeld in Huhi in plaats van in de betreffende app</string>
+
+    <string name="close_tabs_on_exit_title">Sluit tabs bij afsluiten</string>
+    <string name="close_tabs_on_exit_summary">Laat tabs tussen browsersessies niet openstaan</string>
+
+    <string name="open_pages_in_custom_tabs_title">Open tabbladen in Aangepaste tabbladen</string>
+    <string name="open_pages_in_custom_tabs_summary">Aanbieden om tabbladen in Aangepaste tabbladen te openen</string>
+
+    <string name="ddg_offer_title">Privé zoeken met DuckDuckGo?</string>
+    <string name="ddg_offer_text">Voor privézoekopdrachten maakt Huhi gebruik van DuckDuckGo om een antwoord op je zoekopdrachten te geven terwijl je je in het privétabblad bevindt. DuckDuckGo is een zoekmachine die je zoekgeschiedenis niet bijhoudt, waardoor je privé kunt zoeken.</string>
+    <string name="ddg_offer_positive">Ja</string>
+    <string name="ddg_offer_negative">Nee</string>
+    <string name="ddg_offer_link">Lees meer over privézoekopdrachten met DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">Standaardtabblad</string>
+    <string name="prefs_private_search_engine">Privétabblad</string>
+
+    <string name="huhi_open_in_private_tab">Openen in privétabblad</string>
+    <string name="huhi_close_all_private_tabs">Sluit privétabbladen</string>
+    <string name="huhi_new_private_tab">Nieuw privétabblad</string>
+    <string name="huhi_new_tab_private_header">Dit is een privétabblad</string>
+    <string name="huhi_new_tab_private_message">Alhoewel de websites die je via een privétabblad bezoekt niet lokaal worden opgeslagen, maken ze je niet anoniem of onzichtbaar voor je internetprovider, werkgever, of andere websites die je bezoekt.</string>
+    <string name="update_notification_title">Huhi-update</string>
+    <string name="update_notification_text">De nieuwe Huhi-browser is 22% sneller</string>
+    <string name="prefs_sync">Synchronisatie (bèta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Huhi Ads zijn hier!</string>
+    <string name="huhi_ads_new_user_offer_title">Schakel Huhi Rewards in</string>
+    <string name="huhi_ads_offer_text">Verdien Basic Attention Token voor het bekijken van privacybeschermende advertenties in Huhi Rewards.</string>
+    <string name="huhi_ads_offer_positive">Ik doe mee!</string>
+    <string name="huhi_sync_description_page_1_part_1">Met Huhi-synchronisatie kun je bladwijzergegevens privé synchroniseren tussen Huhi-browsers op verschillende apparaten.</string>
+    <string name="huhi_sync_description_page_1_part_2">Hiervoor scan je de code in de synchronisatieketen die je op een ander apparaat hebt gemaakt. Je kunt ook een nieuwe synchronisatieketen starten.</string>
+    <string name="huhi_sync_scan_chain_code">Synchronisatiecode scannen of invoeren</string>
+    <string name="huhi_sync_start_new_chain">Een nieuwe synchronisatieketen starten</string>
+    <string name="huhi_sync_qrcode_message_v2">Open de Huhi-instellingen op het huidige gesynchroniseerde apparaat en ga naar Instellingen > Synchronisatie. Kies \'Apparaat toevoegen\' en scan de QR-code die op het scherm wordt weergegeven.</string>
+    <string name="huhi_sync_codewords_message">Open de Huhi-instellingen op het huidige gesynchroniseerde apparaat en ga naar Instellingen > Synchronisatie. Kies \'Apparaat toevoegen\' en vervolgens \'Codewoorden weergeven\'.</string>
+    <string name="huhi_sync_btn_mobile">Een mobiel apparaat toevoegen</string>
+    <string name="huhi_sync_btn_laptop">Een computer toevoegen</string>
+    <string name="huhi_sync_scan_sync_code">Deze synchronisatiecode scannen</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Ga op een tweede telefoon of tablet naar Huhi-instellingen > Synchronisatie > Scannen.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">Navigeer naar Huhi Synchroniseren in het Instellingenpaneel op je mobiele apparaat, en klik op de knop \'Scan Sync Code.\' Gebruik je camera om onderstaande QR-code te scannen.</string>
+    <string name="huhi_sync_btn_done">Gereed</string>
+    <string name="huhi_sync_tabs_text">Tabbladen</string>
+    <string name="huhi_sync_history_text">Geschiedenis</string>
+    <string name="huhi_sync_autofill_passwords_text">Automatisch invullen/wachtwoorden</string>
+    <string name="huhi_sync_payment_settings_text">Huhi-betalingsinstellingen</string>
+    <string name="huhi_sync_settings_title">SYNCHRONISEREN OP DIT APPARAAT</string>
+    <string name="huhi_sync_settings_description">Het wijzigen van de instellingen heeft alleen invloed op gegevens die door dit apparaat worden gedeeld.</string>
+    <string name="huhi_sync_devices_title">OVERIGE APPARATEN IN DE KETEN</string>
+    <string name="huhi_sync_loading_devices_title">APPARATEN LADEN...</string>
+    <string name="huhi_sync_add_device_text">Nog een apparaat toevoegen</string>
+    <string name="huhi_sync_remove_device_text">Dit apparaat verwijderen</string>
+    <string name="huhi_sync_code_words_title">Koppelen</string>
+    <string name="huhi_sync_add_laptop_text_title">De synchronisatieketencode invoeren</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Ga op de computer naar Huhi-instellingen > Synchronisatie. Kies \'Een synchronisatieketencode invoeren\'.</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Voer de bovenstaande codewoorden in (inclusief spaties).</string>
+    <string name="huhi_sync_delete_device">Weet je zeker dat je het apparaat \'<ph name=\"DEVICE_NAME\">%1$s</ph>\' wilt verwijderen?</string>
+    <string name="huhi_sync_delete_sent">De aanvraag is verzonden. Het apparaat wordt spoedig verwijderd.</string>
+    <string name="huhi_sync_loading_data_title">Gegevens laden...</string>
+    <string name="huhi_sync_time_out_message">Er is iets misgegaan: er is een time-out voor de aanvraag opgetreden.</string>
+    <string name="huhi_sync_use_camera_text">Ik gebruik mijn camera...</string>
+    <string name="huhi_sync_confirm_code_words_text">Bevestigen</string>
+    <string name="huhi_sync_word_count_text">Aantal woorden: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Onjuist aantal woorden</string>
+    <string name="huhi_sync_qr_code">QR-code</string>
+    <string name="huhi_sync_code_words">Codewoorden</string>
+    <string name="huhi_sync_copy_button_text">Naar Klembord kopiëren</string>
+    <string name="huhi_sync_copied_text">Gekopieerd naar Klembord</string>
+    <string name="huhi_sync_this_device_text">(dit apparaat)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi is al ingesteld
+als je standaardbrowser.</string>
+    <string name="huhi_default_browser_go_to_settings">Je hebt al een standaardbrowser ingesteld.
+Je kunt je standaardbrowser wijzigen in de app-instellingen.</string>
+    <string name="huhi_default_browser_notification_body">Bespaar batterij en laad webpagina\'s sneller. Maak van Huhi uw standaard browser. Tik op \'Stel in als standaardbrowser\' in het Huhi-menu.</string>
+    <string name="huhi_set_default_browser">Instellen als standaardbrowser</string>
+    <string name="huhi_set_default_browser_dialog_text">Selecteer Huhi in de lijst en tik \'Altijd\'</string>
+    <string name="huhi_default_browser_existing_notification_body">Maak van Huhi je standaardinternetbrowser
+Verleng de gebruiksduur van de batterij en laad webpagina\'s sneller</string>
+
+    <string name="huhi_ui_welcome_header_two">Bereid je voor op
+het \'nieuwe internet\'.</string>
+    <string name="huhi_ui_welcome_desc_two">Je kunt nu tokens verdienen door
+advertenties te bekijken waarbij de privacy wordt gerespecteerd.</string>
+    <string name="huhi_ui_welcome_button_text_two">LID WORDEN VAN REWARDS</string>
+    <string name="huhi_ui_welcome_footer_text_two">MEER INFORMATIE</string>
+    <string name="huhi_ui_rewards_creating_text">Wallet maken</string>
+    <string name="huhi_ui_your_wallet">Je wallet</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,00</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">Geld toevoegen</string>
+    <string name="huhi_ui_settings">Instellingen</string>
+    <string name="huhi_ui_rewards_summary">REWARDS-OVERZICHT</string>
+    <string name="huhi_ui_site_banner_welcome">Bedankt voor je bezoek!</string>
+    <string name="huhi_ui_rewards_banner_text1">Je kunt deze site ondersteunen door een donatie te doen. Hiermee bedank je de makers voor hun fantastische inhoud. Geverifieerde makers van inhoud krijgen tijdens de eerste week van elke kalendermaand hun donaties uitbetaald.</string>
+    <string name="huhi_ui_rewards_banner_text2">Als je wilt, kun je structureel elke maand een donatie doen om de site doorlopend te blijven ondersteunen.</string>
+    <string name="huhi_ui_donation_amount">Donatiebedrag</string>
+    <string name="huhi_ui_wallet_balance">wallettegoed:</string>
+    <string name="huhi_ui_make_monthly">Maandelijks herhalen</string>
+    <string name="huhi_ui_send_tip">mijn donatie verzenden</string>
+    <string name="huhi_ui_do_monthly">maandelijkse donatie instellen</string>
+    <string name="huhi_ui_not_enough_tokens">niet voldoende tokens</string>
+    <string name="huhi_ui_site_banner_notice_text">OPMERKING: deze maker heeft zich nog niet geregistreerd voor het ontvangen van donaties van Huhi-gebruikers. We blijven proberen de donatie over te maken tot de maker zich registreert, of tot er 90 dagen zijn verstreken.</string>
+    <string name="huhi_ui_please">graag</string>
+    <string name="huhi_ui_add_funds">geld toevoegen</string>
+    <string name="huhi_ui_thank_you">Bedankt!</string>
+    <string name="huhi_ui_error_init_wallet">Probeer het later opnieuw.</string>
+    <string name="huhi_ui_month_jan">JANUARI</string>
+    <string name="huhi_ui_month_feb">FEBRUARI</string>
+    <string name="huhi_ui_month_mar">MAART</string>
+    <string name="huhi_ui_month_apr">APRIL</string>
+    <string name="huhi_ui_month_may">MEI</string>
+    <string name="huhi_ui_month_jun">JUNI</string>
+    <string name="huhi_ui_month_jul">JULI</string>
+    <string name="huhi_ui_month_aug">AUGUSTUS</string>
+    <string name="huhi_ui_month_sep">SEPTEMBER</string>
+    <string name="huhi_ui_month_oct">OKTOBER</string>
+    <string name="huhi_ui_month_nov">NOVEMBER</string>
+    <string name="huhi_ui_month_dec">DECEMBER</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>DECEMBER</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Let op</string>
+    <string name="huhi_ui_include_in_auto">Gebruiken voor automatisch doneren</string>
+    <string name="huhi_ui_donate_now">Doe een donatie...</string>
+    <string name="huhi_ui_no_activity">Nog geen activiteiten deze
+maand...</string>
+    <string name="huhi_ui_token_grant_claimed">Aantal geclaimde toegewezen tokens</string>
+    <string name="huhi_ui_earnings_ads">Inkomsten van advertenties</string>
+    <string name="huhi_ui_rewards_contribute">Automatisch doneren</string>
+    <string name="huhi_ui_rewards_contribute_description">Je hebt<ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT\'s gedoneerd.</string>
+    <string name="huhi_ui_one_time_donation">Eenmalige donaties</string>
+    <string name="huhi_ui_recurring_donation">Maandelijkse donaties</string>
+    <string name="huhi_ui_verified_publisher">Door Huhi geverifieerde uitgever</string>
+    <string name="huhi_ui_not_verified_publisher">Nog niet geverifieerd</string>
+    <string name="huhi_ui_not_verified_publisher_description">Deze maker heeft zich nog niet geregistreerd voor het ontvangen van donaties van Huhi-gebruikers.
+Alle donaties die je doet, blijven in je wallet staan tot de maker is geverifieerd.</string>
+    <string name="huhi_ui_on_youtube">op YouTube</string>
+    <string name="huhi_ui_on_twitch">op Twitch</string>
+    <string name="huhi_ui_new_grant">Er zijn gratis toegewezen tokens beschikbaar.</string>
+    <string name="huhi_ui_new_token_grant">Gratis toegewezen tokens</string>
+    <string name="huhi_ui_claim">Claimen</string>
+    <string name="huhi_ui_reserved_amount_text">Je hebt <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT\'s apart gezet voor makers die zich nog niet
+hebben geregistreerd voor het ontvangen van donaties. Je browser blijft proberen de donatie
+over te maken tot de maker zich registreert, of tot er 90 dagen zijn verstreken.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Uw geplande maandelijkse betaling voor Auto-Contribute en maandelijkse fooien kon niet worden voltooid vanwege een ontoereikend saldo. We proberen het over 30 dagen opnieuw.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Er is een probleem opgetreden bij het verwerken van je donatie. Probeer het opnieuw.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Er is een probleem opgetreden bij het verwerken van je donatie.</string>
+    <string name="huhi_rewards_local_uh_oh">Er is een probleem opgetreden.</string>
+    <string name="huhi_rewards_local_server_not_responding">De Huhi Rewards-server reageert niet. We proberen dit zo snel mogelijk op te lossen.</string>
+    <string name="huhi_ui_grants">Toewijzingen</string>
+    <string name="huhi_ui_expires_on">verloopt op <ph name=\"DATE\">%1$s<ex>14-04-2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Onvoldoende geld</string>
+    <string name="huhi_ui_insufficient_funds_desc">Er moet geld worden gestort naar je Huhi Rewards-account.</string>
+    <string name="huhi_ui_backup_wallet_msg">Back-up van wallet maken</string>
+    <string name="huhi_ui_backup_wallet_desc">Maak een back-up van je Huhi-wallet.</string>
+    <string name="huhi_ui_huhi_rewards">Huhi Rewards</string>
+    <string name="huhi_ui_welcome_back_message">Welkom terug!</string>
+    <string name="huhi_ui_get_rewarded">Word beloond voor browsen!</string>
+    <string name="huhi_ui_huhi_rewards_desc">Genereer inkomsten door advertenties te bekijken
+waarbij de privacy wordt gerespecteerd en laat
+anderen meegenieten door de inhoudmakers waar jij fan van bent te ondersteunen.</string>
+    <string name="huhi_welcome_page_rewards_title">HUHI REWARDS INSCHAKELEN</string>
+    <string name="huhi_ui_first_tip_text">Uw eerste maandelijkse fooi zal toegestuurd worden op:</string>
+    <string name="huhi_ui_tip_text">U heeft zojuist een fooi gestuurd naar:</string>
+    <string name="huhi_ui_auto_tip_text">U stuurt automatisch een fooi aan:</string>
+    <string name="huhi_ui_monthly_text">Maandelijks</string>
+    <string name="bottom_toolbar_enable">Zet onderste werkbalk aan</string>
+    <string name="bottom_toolbar_disable">Zet onderste werkbalk uit</string>
+    <string name="search_or_url">Zoekterm of URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Een bladwijzer maken</string>
+    <string name="huhi_ui_donate_monthly">Deze website maandelijks een fooi geven</string>
+
+    <string name="huhi_rewards_not_available">Het spijt ons, maar het lijkt erop dat Huhi Rewards niet beschikbaar is op uw apparaat</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Als je alle tabbladen sluit, wordt Huhi ook afgesloten</string>
+    <string name="prefs_section_display">Scherm</string>
+    <string name="prefs_section_controls">Bediening</string>
+    <string name="prefs_appearance">Uiterlijk</string>
+    <string name="hide_huhi_rewards_icon_title">Huhi Rewards-pictogram verbergen</string>
+    <string name="hide_huhi_rewards_icon_description">Verbergt het Huhi Rewards-pictogram wanneer Huhi Rewards niet is ingeschakeld</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Toon advertenties wanneer Huhi niet wordt gebruikt</string>
+    <string name="reset_huhi_rewards_option">Huhi Rewards resetten</string>
+    <string name="reset_huhi_rewards_option_description">Dit zal uw Huhi-portefeuille verwijderen en al uw Huhi Reward-gegevens resetten</string>
+    <string name="reset_huhi_rewards_error_title">Fout resetten</string>
+    <string name="reset_huhi_rewards_error_description">Er is een fout opgetreden bij het resetten van Huhi Rewards. Herstart Huhi opnieuw en probeer het opnieuw.</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Navigeer naar Huhi Synchroniseren in instellingen op je computer, en klik op de knop \'Ik heb een Sync Code.\' Voer de synchronsatie-codewoorden hieronder in.</string>
+
+    <string name="huhi_sync_official">Huhi Sync</string>
+    <string name="prefs_sync_official">Synchroniseren</string>
+
+    <string name="huhi_sync_code_warning">Behandel deze code als een wachtwoord. Wanneer iemand deze in handen krijgt, kan diegene jouw gesynchroniseerde gegevens lezen en bewerken.</string>
+
+    <string name="notification_category_group_huhi_ads">Huhi Ads</string>
+    <string name="huhi_ads_you_earned">Je hebt verdiend</string>
+
+    <string name="huhi_default_browser_title">Huhi is razendsnel</string>
+    <string name="huhi_default_browser_body">Maak Huhi je standaardbrowser!</string>
+    <string name="huhi_make_default_text">Maak standaard</string>
+    <string name="huhi_ui_ads_earnings">verdiend door advertenties</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Overslaan</string>
+
+    <string name="search_engine_onboarding">Ingebruikname van de zoekmachine</string>
+    <string name="troubleshooting_onboarding">Troubleshooten ingebruikname</string>
+
+    <string name="welcome_to_huhi_browser">Welkom in de Huhi-Browser</string>
+    <string name="select_your_default_search_engine">Selecteer je standaard zoekmachine</string>
+
+    <string name="block">Blokkeren</string>
+    <string name="huhi_shields_onboarding_title">Huhi Adblockers</string>
+    <string name="huhi_shields_onboarding_text">privacy-schendende advertenties en trackers, zodat je kunt browsen zonder gevolgd te worden.</string>
+
+    <string name="earn_tokens">Verdien tokens</string>
+    <string name="huhi_rewards_onboarding_title">Huhi Beloningen</string>
+    <string name="huhi_rewards_onboarding_text">om privacy-respecterende advertenties te zien. Gebruik ze om je favoriete sites en ontwikkelaars te ondersteunen.</string>
+    <string name="huhi_rewards_onboarding_text2">om privacy-respecterende advertenties te zien.</string>
+
+    <string name="terms_title">Ga akkoord met de Voorwaarden om Huhi Beloningen te gebruiken</string>
+    <string name="terms_text">Ik stem in met Huhi Beloningen</string>
+    <string name="terms_of_service">Voorwaarden</string>
+
+    <string name="agree">Accepteren</string>
+    <string name="join">Word lid</string>
+
+     <string name="start_browsing">Begin met browsen</string>
+    <string name="i_didnt_see">Ik heb geen advertentie gezien</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi zal je eerste advertentie tonen over</string>
+    <string name="huhi_ads_onboarding_text">Als je advertenties van Huhi Beloningen wilt zien, zorg dan dat Huhi toestemming heeft je notificaties te tonen.</string>
+
+    <string name="this_is_your_first_ad">Dit is je eerste Huhi-advertentie. Tik om meer te weten te komen.</string>
+
+    <string name="turn_on">Aanzetten</string>
+
+    <string name="no_thanks">Nee, bedankt</string>
+    <string name="do_not_agree">Ik ga niet akkoord</string>
+
+    <string name="prefs_welcome_tour">Welkomsttour</string>
+    <string name="welcome_tour_dialog_text">Het opnieuw starten van de welkomsttour heeft geen effect op bestaande instellingen.</string>
+    <string name="finish">Afronden</string>
+    
+    <string name="clear_download_title">Download geschiedenis</string>
+
+    <string name="settings_exit">Instellingen afsluiten</string>
+
+</resources>

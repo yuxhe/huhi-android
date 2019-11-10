@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grit latest_public_release="0" current_release="1" output_all_resource_defines="false">
+  <outputs>
+    <output filename="grit/components_resources.h" type="rc_header">
+      <emit emit_type='prepend'></emit>
+    </output>
+    <output filename="components_resources.pak" type="data_package" />
+  </outputs>
+  <release seq="1">
+    <includes>
+      <part file="autofill_and_password_manager_internals_resources.grdp" />
+      <part file="about_ui_resources.grdp" />
+      <part file="huhi_rewards_ui_resources.grdp" />
+      <part file="crash_resources.grdp" />
+      <part file="dom_distiller_resources.grdp" />
+      <part file="flags_ui_resources.grdp" />
+      <part file="gcm_driver_resources.grdp" />
+      <part file="net_log_resources.grdp" />
+      <part file="neterror_resources.grdp" />
+      <part file="ntp_tiles_resources.grdp" />
+      <part file="offline_pages_resources.grdp" />
+      <part file="printing_resources.grdp" />
+      <part file="safe_browsing_resources.grdp" />
+      <part file="security_interstitials_resources.grdp" />
+      <part file="signin_resources.grdp" />
+      <part file="sync_driver_resources.grdp" />
+      <part file="translate_resources.grdp" />
+      <part file="user_actions_ui_resources.grdp" />
+      <part file="version_ui_resources.grdp" />
+
+      <!-- WebUI rewards resources -->
+      <!-- TODO: remove in favor of webpack dynamic output as imported via JS -->
+      <!-- <include name="IDR_HUHI_REWARDS_IMG_ADS_DISABLED" file="../../huhi/components/huhi_rewards/resources/img/ads_disabled.svg" type="BINDATA" /> -->
+      <!-- <include name="IDR_HUHI_REWARDS_IMG_CONTRIBUTE_DISABLED" file="../../huhi/components/huhi_rewards/resources/img/contribute_disabled.svg" type="BINDATA" /> -->
+      <!-- <include name="IDR_HUHI_REWARDS_IMG_DONATE_DISABLED" file="../../huhi/components/huhi_rewards/resources/img/donate_disabled.svg" type="BINDATA" /> -->
+      <include name="IDR_HUHI_REWARDS_IMG_WALLET_BG" file="../../huhi/components/huhi_rewards/resources/page/img/wallet_bg.svg" type="BINDATA" />
+      <include name="IDR_HUHI_REWARDS_IMG_CAPTCHA_BAT" file="../../huhi/components/huhi_rewards/resources/page/img/captcha_bat.png" type="BINDATA" />
+      <include name="IDR_HUHI_REWARDS_IMG_WELCOME_BG" file="../../huhi/components/huhi_rewards/resources/page/img/welcome_bg.svg" type="BINDATA" />
+      <!-- <include name="IDR_HUHI_REWARDS_IMG_BART_TEMP" file="../../huhi/components/huhi_rewards/resources/img/temp/bartBaker.jpeg" type="BINDATA" /> -->
+      <!-- <include name="IDR_HUHI_REWARDS_IMG_BAT" file="../../huhi/components/huhi_rewards/resources/img/BAT.svg" type="BINDATA" /> -->
+      <!-- <include name="IDR_HUHI_REWARDS_IMG_BTC" file="../../huhi/components/huhi_rewards/resources/img/BTC.svg" type="BINDATA" /> -->
+      <!-- <include name="IDR_HUHI_REWARDS_IMG_ETH" file="../../huhi/components/huhi_rewards/resources/img/ETH.svg" type="BINDATA" /> -->
+      <!-- <include name="IDR_HUHI_REWARDS_IMG_LTC" file="../../huhi/components/huhi_rewards/resources/img/LTC.svg" type="BINDATA" /> -->
+      <!-- <include name="IDR_HUHI_DONATE_BG_1" file="../../huhi/components/huhi_rewards/resources/img/tip_bg_1.svg" type="BINDATA" /> -->
+      <!-- <include name="IDR_HUHI_DONATE_BG_2" file="../../huhi/components/huhi_rewards/resources/img/tip_bg_2.svg" type="BINDATA" /> -->
+      <include name="IDR_HUHI_REWARDS_NICEWARE_LIST" file="../../huhi/vendor/bat-native-ledger/niceware/wordlist" type="BINDATA" />
+    </includes>
+
+
+  </release>
+</grit>

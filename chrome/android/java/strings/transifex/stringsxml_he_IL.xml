@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="huhi_settings_title">הגדרות מגן אתר Huhi עבור</string>
+    <string name="huhi_shields_down">למטה</string>
+    <string name="huhi_shields_up">למעלה</string>
+    <string name="huhi_shields_ads_trackers">מודעות ושרתי Trackers שנחסמו</string>
+    <string name="huhi_shields_https_upgrades">שדרוגי HTTPS</string>
+    <string name="huhi_shields_scripts_blocked">קבצי Script שנחסמו</string>
+    <string name="huhi_shields_ads_tracking_switch">חסום מודעות ומעקב</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS בכל מקום</string>
+    <string name="huhi_shields_blocks_scripts_switch">חסום קבצי Script</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">הפעל/השבת מגן/י Huhi</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">חסום עוגיות צד שלישי</string>
+
+    <string name="httpse_summary">פתיחת אתרים נתמכים באמצעות HTTPS במקום HTTP, כאשר הדבר ניתן</string>
+    <string name="tracking_protection_title">מצב הגנה מפני מעקב</string>
+    <string name="tracking_protection_summary">מניעת טעינה של משאבים העוקבים אחריך</string>
+    <string name="ad_block_title">חסימת מודעות</string>
+    <string name="ad_block_summary">מניעת טעינה של מודעות</string>
+
+    <string name="fingerprinting_protection_title">הגנה באמצעות טביעות אצבעות</string>
+    <string name="fingerprinting_protection_summary">מניעת הדפדפן מלקיחת טביעות אצבעות</string>
+    <string name="huhi_shields_fingerprints_blocked">שיטות טביעות אצבעות חסומות</string>
+    <string name="huhi_shields_block_fingerprints_switch">הגנה באמצעות טביעות אצבעות</string>
+
+    <string name="ad_block_regional_title">חסימת מודעות אזוריות</string>
+    <string name="ad_block_regional_summary">מניעת טעינה של מודעות אזוריות</string>
+
+    <string name="ad_block_regional_summary_no_list">אין רשימות נוספות הזמינות עבור האזור שלך</string>
+
+    <string name="menu_exit">יְצִיאָה</string>
+
+    <string name="sync_settings_add_device_name_title">הוסף שם מכשיר</string>
+    <string name="sync_settings_add_device_name_label">הזן שם אופציונלי עבור מכשיר זה</string>
+    <string name="sync_example_device_name">מכשיר Android</string>
+    <string name="enter_code_words_sync">הזן מילות קוד</string>
+    <string name="sync_device">סנכרן מכשיר</string>
+    <string name="sync_device_failure">לא ניתן להגדיר את הסנכרון</string>
+
+    <string name="huhi_stats_text_trackers">כל מעקב
+שנחסמו</string>
+    <string name="huhi_stats_text_ads">פרסומות
+שנחסמו</string>
+    <string name="huhi_stats_text_https">שדרוגי
+HTTPS</string>
+    <string name="huhi_stats_text_time">הזמן המשוער
+שנחסך</string>
+
+    <string name="send_metrics_title">שלח מדדים</string>
+
+    <string name="desktop_mode_title">מצב שולחן עבודה</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">העדף/י את גרסאות האתרים לשולחן עבודה</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">העדף/י את גרסאות האתרים למכשירים ניידים</string>
+    <string name="website_settings_category_desktop_view_enabled">הפעל/י תצוגת שולחן עבודה לכרטיסיות חדשות</string>
+    <string name="website_settings_category_desktop_view_disabled">השתמש/י בגרסאות האתרים למכשירים ניידים בכרטיסיות חדשות (מומלץ)</string>
+
+    </resources>

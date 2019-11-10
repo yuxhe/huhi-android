@@ -1,0 +1,318 @@
+<resources>
+
+    <string name="huhi_settings_title">Huhi‘i lehe kaitse seaded</string>
+    <string name="huhi_shields_down">Alla</string>
+    <string name="huhi_shields_up">Üles</string>
+    <string name="huhi_shields_ads_trackers">Blokeeritud reklaamid ja jälitajad</string>
+    <string name="huhi_shields_https_upgrades">HTTPS uuendused</string>
+    <string name="huhi_shields_scripts_blocked">Blokeeritud skriptid</string>
+    <string name="huhi_shields_ads_tracking_switch">Blokeerige reklaame ja jälitajaid</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Everywhere</string>
+    <string name="huhi_shields_blocks_scripts_switch">Blokeerige skripte</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Luba/keela Huhi‘i kaitsed</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">Halda Huhi\'i boonuseid</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Blokeerige 3. osapoole küpsised</string>
+
+    <string name="httpse_summary">Võimalusel avab ühilduvaid lehti HTPPS-i kaudu HTTP asemel</string>
+    <string name="ad_block_title">Reklaami blokeerimine</string>
+    <string name="ad_block_summary">Takistab reklaamide laadimist</string>
+
+    <string name="fingerprinting_protection_title">Kaitse sõrmejäljega</string>
+    <string name="fingerprinting_protection_summary">Takistab veebilehitsejal lugeda sõrmejälgi</string>
+    <string name="huhi_shields_fingerprints_blocked">Sõrmejälje salvestamise meetodid blokeeritud</string>
+    <string name="huhi_shields_block_fingerprints_switch">Kaitse sõrmejäljega</string>
+
+    <string name="ad_block_regional_title">Kohalike reklaamide blokeerimine</string>
+    <string name="ad_block_regional_summary">Takistab kohalike reklaamide laadimist</string>
+
+    <string name="ad_block_regional_summary_no_list">Teie asukohale pole täiendavaid loendeid saadaval</string>
+
+    <string name="menu_exit">Välju</string>
+
+    <string name="huhi_sync">Huhi’i ajakohastamine (beeta)</string>
+    <string name="sync_settings_add_device_name_title">Lisa seadme nimi</string>
+    <string name="sync_settings_add_device_name_label">Sisesta sellele seadmele valikuline nimi</string>
+    <string name="sync_example_device_name">Android seade</string>
+    <string name="enter_code_words_sync">Sisesta salasõnad</string>
+    <string name="sync_device">Sünk seade</string>
+    <string name="sync_device_failure">Sünki seadistamine nurjus</string>
+    <string name="sync_requires_correct_time">Teie arvuti kell või ajavöönd võib olla vale. Kontrollige oma kella seadeid.</string>
+
+    <string name="huhi_stats_text_ads">Reklaamid ja jälitajad
+Blokeeritud</string>
+    <string name="huhi_stats_text_https">HTTPS
+Uuendused</string>
+    <string name="huhi_stats_text_time">Hin. aeg
+Salvestatud</string>
+
+    <string name="send_metrics_title">Saada statistika</string>
+
+    <string name="desktop_mode_title">Arvuti režiim</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Eelista arvutile mõeldud lehti</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Eelista mobiilile mõeldud lehti</string>
+    <string name="website_settings_category_desktop_view_enabled">Luba uusi kaarte näidata nagu arvutist</string>
+    <string name="website_settings_category_desktop_view_disabled">Luba uusi kaarte näidata nagu mobiililt (soovitatav)</string>
+
+    <string name="huhi_shields_first_group_title">Blokeerimise jälgija</string>
+    <string name="huhi_shields_second_group_title">Täpsed värvid</string>
+    <string name="huhi_shields">Kaitsed</string>
+    <string name="huhi_shields_ads_and_trackers">Reklaamid ja jälitajad</string>
+    <string name="huhi_shields_fingerprint_methods">Sõrmejälje meetodid</string>
+    <string name="huhi_shields_block_phishing_switch">Blokeeri andmepüük</string>
+
+    <string name="play_video_in_background_title">Video esitamine taustal</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Lubatud</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Keelatud</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Katsetamisjärgus. Võimaldab esitada taustal mängiva video heli, kui vahekaart pole ees või seadme ekraan on välja lülitatud. Kui see ei tööta, valige arvuti režiim.</string>
+    <string name="settings_require_relaunch_notice">Muudatused rakenduvad Huhi‘i järgmisel käivitamisel</string>
+    <string name="settings_require_relaunch_now">TAASKÄIVITA NÜÜD</string>
+    <string name="settings_require_relaunch_later">HILJEM</string>
+
+    <string name="play_yt_video_in_browser_title">Video taasesitamine Huhi‘s</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Lubatud</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Keelatud</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Lubamise korral esitatakse videoid Huhi‘i asemel vastavas rakenduses</string>
+
+    <string name="close_tabs_on_exit_title">Sulge vahekaardid väljumisel</string>
+    <string name="close_tabs_on_exit_summary">Ära säilita vahekaarte sirvimisseansside vahetamisel</string>
+
+    <string name="open_pages_in_custom_tabs_title">Ava vahekaardid kohandatud vahekaartidel</string>
+    <string name="open_pages_in_custom_tabs_summary">Paku vahekaartide avamist kohandatud vahekaartidel</string>
+
+    <string name="ddg_offer_title">Privaatne otsing DuckDuckGo-s?</string>
+    <string name="ddg_offer_text">Privaatse otsinguga vastab Huhi privaatses vahekaardis teie küsimustele DuckDuckGo abil. DuckDuckGo on otsingumootor, mis ei jälita teie otsinguajalugu, võimaldades otsida privaatselt.</string>
+    <string name="ddg_offer_positive">Jah</string>
+    <string name="ddg_offer_negative">Ei</string>
+    <string name="ddg_offer_link">Hankige lisateavet DuckDuckGo‘ga otsimise kohta</string>
+    <string name="prefs_standard_search_engine">Tavaline vahekaart</string>
+    <string name="prefs_private_search_engine">Privaatne vahekaart</string>
+
+    <string name="huhi_open_in_private_tab">Ava privaatses vahekaardis</string>
+    <string name="huhi_close_all_private_tabs">Sulge privaatsed vahekaardid</string>
+    <string name="huhi_new_private_tab">Uus privaatne vahekaart</string>
+    <string name="huhi_new_tab_private_header">See on privaatne vahekaart</string>
+    <string name="huhi_new_tab_private_message">Isegi, kui privaatsetes vahekaartides sirvitavaid lehti ei salvestata seadmesse, ei tee see teid anonüümseks ega nähtamatuks internetiteenuse pakkujale või tööandjale või külastatavatele lehtedele.</string>
+    <string name="update_notification_title">Huhi‘i uuendus</string>
+    <string name="update_notification_text">Uus Huhi‘i veebilehitseja on 22% kiirem</string>
+    <string name="prefs_sync">Sünk (beta)</string>
+    <string name="huhi_ads_existing_user_offer_title">Huhi’i reklaamid on kohal!</string>
+    <string name="huhi_ads_new_user_offer_title">Luba Huhi’i preemiad</string>
+    <string name="huhi_ads_offer_text">Teenige Basic Attention Token eraelu puutumatust säilitavate reklaamide vaatamise eest Huhi’i preemiates.</string>
+    <string name="huhi_ads_offer_positive">Osalen!</string>
+    <string name="huhi_sync_description_page_1_part_1">Huhi sünk võimaldab ajakohastada järjehoidjate andmeid privaatselt erinevates seadmetes olevate Huhi‘i veebilehitsejate vahel.</string>
+    <string name="huhi_sync_description_page_1_part_2">Lihtsalt skannige koodi, mille lõite teise seadme sünkromiseerimisahelas. Või looge uus sünkroniseerimisahel.</string>
+    <string name="huhi_sync_scan_chain_code">Skannige või sisestage sünkroniseerimiskood</string>
+    <string name="huhi_sync_start_new_chain">Alustage uut sünkroniseerimisahelat</string>
+    <string name="huhi_sync_qrcode_message_v2">Kasutage olemasolevat ajakohastatud seadet, avage Huhi‘i seaded ja minge „Seaded > Sünk“. Valige „Lisage seade“ ja skannige ekraanil näidatud QR-koodi.</string>
+    <string name="huhi_sync_codewords_message">Kasutage olemasolevat ajakohastatud seadet, avage Huhi‘i seaded ja minge „Seaded > Sünk“. Valige „Lisage seade“, siis „Näita selle asemel salasõnu“.</string>
+    <string name="huhi_sync_btn_mobile">Lisa mobiilseade</string>
+    <string name="huhi_sync_btn_laptop">Lisa arvuti</string>
+    <string name="huhi_sync_scan_sync_code">Skannige seda ajakohastamiskoodi</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">Minge teise telefoni või nuhvliga „Huhi‘i seaded > Sünk > Skanni“.</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">Avage mobiilseadmes seadete paneelil valik „Huhi’i ajakohastamine” ja klõpsake nuppu „Skanni ajakohastamiskood”. Kasutage kaamerat alloleva QR-koodi skannimiseks.</string>
+    <string name="huhi_sync_btn_done">Valmis</string>
+    <string name="huhi_sync_tabs_text">Vahekaardid</string>
+    <string name="huhi_sync_history_text">Ajalugu</string>
+    <string name="huhi_sync_autofill_passwords_text">Autotäide/paroolid</string>
+    <string name="huhi_sync_payment_settings_text">Huhi‘i makse seaded</string>
+    <string name="huhi_sync_settings_title">AJAKOHASTA SEDA SEADET</string>
+    <string name="huhi_sync_settings_description">Seadete muutmine mõjutab ainult andmeid, mida see seade jagab teistega.</string>
+    <string name="huhi_sync_devices_title">TEISED SEADMED AHELAS</string>
+    <string name="huhi_sync_loading_devices_title">SEADMETE LAADIMINE...</string>
+    <string name="huhi_sync_add_device_text">Lisa veel üks seade</string>
+    <string name="huhi_sync_remove_device_text">Eemalda see seade</string>
+    <string name="huhi_sync_code_words_title">Seo</string>
+    <string name="huhi_sync_add_laptop_text_title">Sisestage ajakohastamisahela kood</string>
+    <string name="huhi_sync_add_laptop_text_part_1">Arvutis minge „Huhi‘i seaded > Sünk“. Valige „Sisestage ajakohastamisahela kood“.</string>
+    <string name="huhi_sync_add_laptop_text_part_2">Sisestage ülesse salasõnad, sealhulgas tühikud.</string>
+    <string name="huhi_sync_delete_device">Oled seadme „<ph name=\"DEVICE_NAME\">%1$s</ph>“ kustamises kindel?</string>
+    <string name="huhi_sync_delete_sent">Kustutamistaotlus saadetud. Seade eemaldatakse kohe.</string>
+    <string name="huhi_sync_loading_data_title">Andmete laadimine...</string>
+    <string name="huhi_sync_time_out_message">Midagi läks valesti. Tundub, et päring aegus.</string>
+    <string name="huhi_sync_use_camera_text">Kasutan kaamerat...</string>
+    <string name="huhi_sync_confirm_code_words_text">Kinnita</string>
+    <string name="huhi_sync_word_count_text">Sõnade arv: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">Vale arv sõnu</string>
+    <string name="huhi_sync_qr_code">QR-kood</string>
+    <string name="huhi_sync_code_words">Salasõnad</string>
+    <string name="huhi_sync_copy_button_text">Kopeeri lõikelauale</string>
+    <string name="huhi_sync_copied_text">Kopeeritud lõikelauale</string>
+    <string name="huhi_sync_this_device_text">(see seade)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi on juba määratud
+tavaveebilehitsejaks.</string>
+    <string name="huhi_default_browser_go_to_settings">Oled juba määranud tavaveebilehitseja.
+Tavaveebilehitsejat saad muuta rakenduse seadetes.</string>
+    <string name="huhi_default_browser_notification_body">Säästa akut ja lae veebilehti kiiremini. Muuda Huhi oma vaikebrauseriks. Puuduta Huhi\'i menüüs käsklust \"Sea vaikebrauseriks\".</string>
+    <string name="huhi_set_default_browser">Määra tavaveebilehitsejaks</string>
+    <string name="huhi_set_default_browser_dialog_text">Vali loendist \"Huhi\" ja puuduta käsklust \"Alati\"</string>
+    <string name="huhi_default_browser_existing_notification_body">Määra Huhi oma tavaveebilehitsejaks
+Säästa akut ja lae lehti kiiremini</string>
+
+    <string name="huhi_ui_welcome_header_two">Valmistu kogema
+uut internetti.</string>
+    <string name="huhi_ui_welcome_desc_two">Saad nüüd eraelu austavate reklaamide
+vaatamise eest märke teenida.</string>
+    <string name="huhi_ui_welcome_button_text_two">LIITU PREEMIATEGA</string>
+    <string name="huhi_ui_welcome_footer_text_two">LISATEAVE</string>
+    <string name="huhi_ui_rewards_creating_text">Rahakoti loomine</string>
+    <string name="huhi_ui_your_wallet">Sinu rahakott</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0,0</ex></ph> dollarit</string>
+    <string name="huhi_rewards_local_panel_add_funds">Raha lisamine</string>
+    <string name="huhi_ui_settings">Seaded</string>
+    <string name="huhi_ui_rewards_summary">PREEMIATE ÜLEVAADE</string>
+    <string name="huhi_ui_site_banner_welcome">Täname läbi astumast!</string>
+    <string name="huhi_ui_rewards_banner_text1">Sellele lehele saab toetuseks jootraha saata. See on võimalus nende tänamiseks hea sisu loomise eest. Kinnitatud sisuloojatele makstakse jootraha iga kalendrikuu esimesel nädalal.</string>
+    <string name="huhi_ui_rewards_banner_text2">Soovi korral saad selle lehe pidevaks toetamiseks ajastada igakuise jootraha.</string>
+    <string name="huhi_ui_donation_amount">Jootraha summa</string>
+    <string name="huhi_ui_wallet_balance">rahakoti saldo:</string>
+    <string name="huhi_ui_make_monthly">Muuda igakuiseks</string>
+    <string name="huhi_ui_send_tip">saada jootraha</string>
+    <string name="huhi_ui_do_monthly">määra igakuine jootraha</string>
+    <string name="huhi_ui_not_enough_tokens">pole piisavalt märke</string>
+    <string name="huhi_ui_site_banner_notice_text">MÄRKUS! See looja pole veel registreerunud Huhi’i kasutajate toetuseid saama. Püüame toetust edastada, kuni nad oma kasutaja kinnitavad või kuni 90 päeva möödumiseni.</string>
+    <string name="huhi_ui_please">palun</string>
+    <string name="huhi_ui_add_funds">raha lisamine</string>
+    <string name="huhi_ui_thank_you">Aitäh!</string>
+    <string name="huhi_ui_error_init_wallet">Proovi hiljem uuesti.</string>
+    <string name="huhi_ui_month_jan">JAANUAR</string>
+    <string name="huhi_ui_month_feb">VEEBRUAR</string>
+    <string name="huhi_ui_month_mar">MÄRTS</string>
+    <string name="huhi_ui_month_apr">APRILL</string>
+    <string name="huhi_ui_month_may">MAI</string>
+    <string name="huhi_ui_month_jun">JUUNI</string>
+    <string name="huhi_ui_month_jul">JUULI</string>
+    <string name="huhi_ui_month_aug">AUGUST</string>
+    <string name="huhi_ui_month_sep">SEPTEMBER</string>
+    <string name="huhi_ui_month_oct">OKTOOBER</string>
+    <string name="huhi_ui_month_nov">NOVEMBER</string>
+    <string name="huhi_ui_month_dec">DETSEMBER</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>DETSEMBER</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">Tähelepanu</string>
+    <string name="huhi_ui_include_in_auto">Lisa automaatsele toetusele</string>
+    <string name="huhi_ui_donate_now">Saada jootraha...</string>
+    <string name="huhi_ui_no_activity">Sel kuul veel tegevusi
+pole...</string>
+    <string name="huhi_ui_token_grant_claimed">Vastu võetud märgid</string>
+    <string name="huhi_ui_earnings_ads">Reklaamidest saadav tulu</string>
+    <string name="huhi_ui_rewards_contribute">Automaatne toetus</string>
+    <string name="huhi_ui_rewards_contribute_description">Oled toetanud <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT-iga.</string>
+    <string name="huhi_ui_one_time_donation">Ühekordsed jootrahad</string>
+    <string name="huhi_ui_recurring_donation">Igakuised jootrahad</string>
+    <string name="huhi_ui_verified_publisher">Huhi’i kinnitatud sisulooja</string>
+    <string name="huhi_ui_not_verified_publisher">Pole veel kinnitatud</string>
+    <string name="huhi_ui_not_verified_publisher_description">See looja pole veel registreerunud Huhi’i kasutajatelt toetuseid saama.
+        Saadetud jootrahad jäävad nende konto kinnitamiseni sinu rahakotti.</string>
+    <string name="huhi_ui_on_youtube">YouTube’is</string>
+    <string name="huhi_ui_on_twitch">Twitch’is</string>
+    <string name="huhi_ui_new_grant">Saadaval on tasuta märk.</string>
+    <string name="huhi_ui_new_token_grant">Tasuta märk</string>
+    <string name="huhi_ui_claim">Võta vastu</string>
+    <string name="huhi_ui_reserved_amount_text">Oled eraldanud <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT-i loojatele, kes pole veel
+registreerunud toetuseid saama. Veebilehitseja jätkab toetuse edastamise püüdluseid
+konto kinnitamiseni või 90 päeva möödumiseni.</string>
+    <string name="huhi_ui_notification_desc_no_funds">Kavakohast kuumakser automaatse panustamise ja igakuiste nõuannete eest ei saanud teostada, kuna selleks polnud piisavalt raha. Proovime 30 päeva pärast uuesti.</string>
+    <string name="huhi_ui_notification_desc_tip_error">Jootraha töötlemisel esines probleem, proovi uuesti.</string>
+    <string name="huhi_ui_notification_desc_contr_error">Panuse töötlemisel ilmnes probleem.</string>
+    <string name="huhi_rewards_local_uh_oh">Oih!</string>
+    <string name="huhi_rewards_local_server_not_responding">Huhi’i preemiate server ei vasta. Parandame selle esimesel võimalusel.</string>
+    <string name="huhi_ui_grants">Toetused</string>
+    <string name="huhi_ui_expires_on">aegub <ph name=\"DATE\">%1$s<ex>14.04.2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">Pole piisavalt vahendeid</string>
+    <string name="huhi_ui_insufficient_funds_desc">Huhi’i preemiate konto ootab sissemakset.</string>
+    <string name="huhi_ui_backup_wallet_msg">Rahakoti varundamine</string>
+    <string name="huhi_ui_backup_wallet_desc">Varunda Huhi’i rahakott.</string>
+    <string name="huhi_ui_huhi_rewards">Huhi’i preemiad</string>
+    <string name="huhi_ui_welcome_back_message">Tere tulemast tagasi!</string>
+    <string name="huhi_ui_get_rewarded">Saa sirvimise eest preemiaid.</string>
+    <string name="huhi_ui_huhi_rewards_desc">Teeni, vaadates eraelu austavaid
+reklaame ning anna see edasi
+armastatud sisuloojate toetamiseks.</string>
+    <string name="huhi_welcome_page_rewards_title">LUBA HUHI’I PREEMIAD</string>
+    <string name="huhi_ui_first_tip_text">Teie esimene igakuine jootraha saadetakse ajal:</string>
+    <string name="huhi_ui_tip_text">Saatsite just jootraha kasutajale:</string>
+    <string name="huhi_ui_auto_tip_text">Saadate automaatselt jootraha kasutajale:</string>
+    <string name="huhi_ui_monthly_text">Igakuine</string>
+    <string name="bottom_toolbar_enable">Luba alumine tööriistariba</string>
+    <string name="bottom_toolbar_disable">Keela alumine tööriistariba</string>
+    <string name="search_or_url">Otsing või URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">Loo järjehoidja</string>
+    <string name="huhi_ui_donate_monthly">Anna sellel saidil igakuiselt jootraha</string>
+
+    <string name="huhi_rewards_not_available">Kahjuks paistab, et Huhi’i preemiad pole teie seadmes saadaval</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">Kõigi vahekaartide sulgemisel suletakse Huhi</string>
+    <string name="prefs_section_display">Ekraan</string>
+    <string name="prefs_section_controls">Juhtnupud</string>
+    <string name="prefs_appearance">Välimus</string>
+    <string name="hide_huhi_rewards_icon_title">Peida ikoon Huhi’i preemiad</string>
+    <string name="hide_huhi_rewards_icon_description">Peidab ikooni Huhi’i preemiad, kui Huhi’i preemiad pole lubatud</string>
+    <string name="show_ads_when_huhi_is_not_in_use">Näita kuulutusi, kui Huhi ei ole kasutusel.</string>
+    <string name="reset_huhi_rewards_option">Lähtesta Huhi’i preemiad</string>
+    <string name="reset_huhi_rewards_option_description">See kustutab teie Huhi’i rahakoti ja lähtestab kõik teie Huhi’i preemiate andmed</string>
+    <string name="reset_huhi_rewards_error_title">Lähtestustõrge</string>
+    <string name="reset_huhi_rewards_error_description">Huhi’i preemiate lähtestamisel ilmnes tõrge. Taaskäivitage Huhi ja proovige uuesti.</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">Avage sihtarvutis seadetes valik „Huhi’i ajakohastamine ja klõpsake nuppu „Mul on ajakohastamiskood”.\nSisestage allpool olevad sünkroonimisahela salasõnad.</string>
+
+    <string name="huhi_sync_official">Huhi’i ajakohastamine</string>
+    <string name="prefs_sync_official">Ajakohasta</string>
+
+    <string name="huhi_sync_code_warning">Käsitlege seda koodi nagu parooli. Kui keegi saab selle teada, saab ta lugeda ja muuta teie ajakohastatud andmeid.</string>
+
+    <string name="notification_category_group_huhi_ads">Huhi’i reklaamid</string>
+    <string name="huhi_ads_you_earned">Teenisite</string>
+
+    <string name="huhi_default_browser_title">Huhi on välkkiire</string>
+    <string name="huhi_default_browser_body">Määrake Huhi oma tavaveebilehitsejaks!</string>
+    <string name="huhi_make_default_text">Määra tavavalikuks</string>
+    <string name="huhi_ui_ads_earnings">teenitud reklaamidest</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">Jäta vahele</string>
+
+    <string name="search_engine_onboarding">Otsingumootori kasutuselevõtt</string>
+    <string name="troubleshooting_onboarding">Tõrkeotsingu kasutuselevõtt</string>
+
+    <string name="welcome_to_huhi_browser">Tere tulemast kasutama Huhi’i veebilehitsejat</string>
+    <string name="select_your_default_search_engine">Valige oma vaikeotsingumootor</string>
+
+    <string name="block">Blokeeri</string>
+    <string name="huhi_shields_onboarding_title">Huhi’i kaitsed</string>
+    <string name="huhi_shields_onboarding_text">eraellu tungivaid reklaame ja jälitajaid, et saaksite lehitseda ilma, et keegi teid veebis jälitaks.</string>
+
+    <string name="earn_tokens">Teeni märke</string>
+    <string name="huhi_rewards_onboarding_title">Huhi’i preemiad</string>
+    <string name="huhi_rewards_onboarding_text">eraelu austavate reklaamide vaatamise eest. Kasutage neid oma lemmiklehtede ja -loojate toetamiseks.</string>
+    <string name="huhi_rewards_onboarding_text2">eraelu austavate reklaamide vaatamise eest.</string>
+
+    <string name="terms_title">Huhi’i preemiate kasutamiseks nõustuge tingimustega</string>
+    <string name="terms_text">Nõustun Huhi’i preemiate</string>
+    <string name="terms_of_service">tingimustega</string>
+
+    <string name="agree">Nõustun</string>
+    <string name="join">Liitu</string>
+
+     <string name="start_browsing">Alusta lehitsemist</string>
+    <string name="i_didnt_see">Ma ei näinud reklaami</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi näitab teile teie esimest reklaami:</string>
+    <string name="huhi_ads_onboarding_text">Huhi’i preemiate reklaamide nägemiseks veenduge, et olete lubanud Huhi’il teile teavitusi näidata.</string>
+
+    <string name="this_is_your_first_ad">See on teie esimene Huhi’i reklaam. Puudutage lisateabe saamiseks.</string>
+
+    <string name="turn_on">Lülita sisse</string>
+
+    <string name="no_thanks">Ei, aitäh</string>
+    <string name="do_not_agree">Ei nõustu</string>
+
+    <string name="prefs_welcome_tour">Tervitusaken</string>
+    <string name="welcome_tour_dialog_text">Tervitusakna uuesti avamine ei mõjuta olemasolevaid seadeid.</string>
+    <string name="finish">Lõpeta</string>
+    
+    <string name="clear_download_title">Allalaadimiste ajalugu</string>
+
+    <string name="settings_exit">Seadetest väljumine</string>
+
+</resources>

@@ -1,0 +1,10 @@
+import("//huhi/components/common/typescript.gni")
+
+transpile_web_ui("transpile_settings") {  
+  entry_points = [
+    ["huhi_rewards_internals", rebase_path("//huhi/components/huhi_rewards/resources/internals/huhi_rewards_internals.tsx")]
+  ]
+
+  resource_name = "huhi_rewards_internals"
+  output_dir = "$root_gen_dir/android-huhi/web-ui-$resource_name"
+}

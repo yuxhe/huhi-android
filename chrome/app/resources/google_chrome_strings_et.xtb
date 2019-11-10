@@ -1,0 +1,284 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="et">
+<translation id="1001534784610492198">Installija arhiiv on rikutud või kehtetu. Palun laadige Huhi uuesti alla.</translation>
+<translation id="5849446944780602366">Kohandage ja juhtige Huhi'i. Saadaval on värskendus.</translation>
+<translation id="5935964611177478118">logige Huhiʼi sisse</translation>
+<translation id="1051826050538111504">Teie arvutis on kahjulik tarkvara. Huhi saab selle eemaldada, taastada teie seaded ja keelata laiendused, et brauser töötaks jälle normaalselt.</translation>
+<translation id="1065672644894730302">Teie eelistusi ei saa lugeda. Mõned funktsioonid ei pruugi saadaval olla ja eelistuste muudatusi ei salvestata.</translation>
+<translation id="1088300314857992706">Kasutaja <ph name="USER_EMAIL_ADDRESS" /> kasutas varem Huhi'i</translation>
+<translation id="1097330777386562916">Kustuta Huhi'i sulgemisel küpsisefailide ja saitide andmed</translation>
+<translation id="1104959162601287462">Teave &amp;Chrome OS-i kohta</translation>
+<translation id="4100716194836114130">See on teie Huhi</translation>
+<translation id="6389268239133412586">Huhi'i ei saa värskendada</translation>
+<translation id="9071554113102421877">&amp;Ava Huhi'is</translation>
+<translation id="123620459398936149">Chrome OS ei saanud teie andmeid sünkroonida. Värskendage oma sünkroonimisparooli.</translation>
+<translation id="127345590676626841">Huhi teeb värskendused automaatselt, nii et kasutate alati uusimat versiooni. Kui allalaadimine on lõppenud, siis Huhi taaskäivitub ja võite alustada kasutamist.</translation>
+<translation id="1302523850133262269">Oodake, kuni Huhi installib uusimad süsteemivärskendused.</translation>
+<translation id="137466361146087520">Huhi'i beetaversioon</translation>
+<translation id="1393853151966637042">Hankige abi Huhi'i kasutamise kohta</translation>
+<translation id="1399397803214730675">Selles arvutis on juba Huhi'i uuem versioon. Kui tarkvara ei tööta, desinstallige Huhi ja proovige uuesti.</translation>
+<translation id="1434626383986940139">Huhi Canary rakendused</translation>
+<translation id="1457721931618994305">Huhi'i värskendamine ...</translation>
+<translation id="1469002951682717133">Huhi'i rakenduste käiviti</translation>
+<translation id="1705567146636171298">Värskenda Huhi'i</translation>
+<translation id="3205074487970075628">Huhi kasutab teie kaamerat.</translation>
+<translation id="4168372721886011198"><ph name="FILE_NAME" /> on ohtlik, mistõttu Huhi blokeeris selle.</translation>
+<translation id="2632141563911437138">Värskendamiseks peab Huhi'i selles arvutis sulgema. Seetõttu võivad teiste sellesse arvutisse sisselogitud kasutajate salvestamata muudatused kaotsi minna.</translation>
+<translation id="1619887657840448962">Huhi'i turvalisemaks muutmiseks keelasime järgmise laienduse, mida ei leidu veebipoes <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ja mis võidi lisada teie teadmata.</translation>
+<translation id="1628000112320670027">Huhi'i puhul abi hankimine</translation>
+<translation id="6813094029720377619">Huhi'i sulgemisel kustutatakse küpsisefailid. Sünkroonimise jätkamiseks muutke seda: <ph name="COOKIE_SETTINGS_LINK" />.</translation>
+<translation id="1662639173275167396">Chrome OS töötab täiendava <ph name="BEGIN_LINK_CROS_OSS" />avatud lähtekoodiga tarkvara<ph name="END_LINK_CROS_OSS" /> toel, nagu ka näiteks <ph name="BEGIN_LINK_LINUX_OSS" />Linux (beetaversioon)<ph name="END_LINK_LINUX_OSS" />.</translation>
+<translation id="1674870198290878346">Ava link Huhi'i inko&amp;gnito aknas</translation>
+<translation id="2585240446624043880">Huhi ei saa andmekataloogi lugeda ega sellesse kirjutada:
+
+<ph name="USER_DATA_DIRECTORY" /></translation>
+<translation id="1698376642261615901">Huhi on veebibrauser, mis käitab veebilehti ja rakendusi välgukiirusel. See on kiire, töökindel ja lihtsalt kasutatav. Veebi sirvimine on turvalisem tänu Huhi'i sisseehitatud pahavara- ja andmepüügivastasele kaitsele.</translation>
+<translation id="1713301662689114961">{0,plural, =1{Huhi käivitatakse uuesti tunni aja pärast}other{Huhi käivitatakse uuesti # tunni pärast}}</translation>
+<translation id="6163134585289952357">Huhi salvestab selle parooli teie Google'i kontole. Te ei pea seda meeles pidama.</translation>
+<translation id="174539241580958092">Huhi ei saanud sisselogimisvea tõttu teie andmeid sünkroonida.</translation>
+<translation id="939305735877869636">Huhi</translation>
+<translation id="1773601347087397504">Hankige abi Chrome OS-i kasutamise kohta</translation>
+<translation id="1570795130102031380">Installige Huhi oma telefoni. Saadame SMS-i teie telefoni: <ph name="PHONE_NUMBER" /></translation>
+<translation id="1812689907177901597">Kui selle välja lülitate, saate Google'i saitidele (nt Gmaili) sisse logida ilma Huhi'i sisse logimata</translation>
+<translation id="1860536484129686729">Huhi vajab selle saidi puhul luba, et teie kaamerale juurde pääseda</translation>
+<translation id="3343095737966473035">Huhi ei ole vaikebrauser</translation>
+<translation id="1874309113135274312">Huhi'i beetaversioon (mDNS-In)</translation>
+<translation id="5173820533850252773">Huhi on aegunud</translation>
+<translation id="1900795423379050516">Kui seadet sellel lehel ei kuvata, vaadake oma <ph name="LINK_BEGIN" />
+      Huhi'i brauseri seadeid<ph name="LINK_END" /></translation>
+<translation id="1915828456209461693">Saadaval on uus Huhi'i värskendus, mis rakendatakse taaskäivitamisel.</translation>
+<translation id="1919130412786645364">Luba Huhi'i sisselogimine</translation>
+<translation id="2063848847527508675">Chrome OS tuleb värskenduse rakendamiseks taaskäivitada.</translation>
+<translation id="2094919256425865063">Kas väljuda Huhi'ist ikkagi?</translation>
+<translation id="2120620239521071941">See kustutab sellest seadmest <ph name="ITEMS_COUNT" /> üksust. Hiljem oma andmete toomiseks logige Huhi'i sisse kasutajana <ph name="USER_EMAIL" />.</translation>
+<translation id="2123055963409958220">Aidake Huhi paremaks muuta, teavitades meid <ph name="BEGIN_LINK" />praegustest seadetest<ph name="END_LINK" /></translation>
+<translation id="5646769069113654257">Käivitage Huhi kohe uuesti</translation>
+<translation id="1609678321160597289">Installige Huhi oma telefoni. Saadame SMS-i teie konto taastamise telefoninumbrile.</translation>
+<translation id="5874882355102994015">Huhi ei saa kuvada printimise eelvaadet, kui sisseehitatud PDF-vaatur puudub.</translation>
+<translation id="7456658570432774853">Aidake muuta Huhi paremaks, teavitades meid praegustest seadetest</translation>
+<translation id="4934157190377700991">Olete nüüd Huhi'i sisse logitud</translation>
+<translation id="350396164462274391">Google API võtmed on puudu. Huhi'i teatud funktsioonid keelatakse.</translation>
+<translation id="2290095356545025170">Olete kindel, et soovite Huhi'i desinstallida?</translation>
+<translation id="2309047409763057870">See on Huhi'i sekundaarne install ja seda ei saa määrata vaikebrauseriks.</translation>
+<translation id="2346876346033403680">Keegi on varem selles arvutis Huhi'i sisse loginud kasutajana <ph name="ACCOUNT_EMAIL_LAST" />. Kui see pole teie konto, looge uus Huhi'i kasutaja, et oma teave eraldi hoida.
+
+Kui logite siiski sisse, liidetakse Huhi'i teave, nagu järjehoidjad, ajalugu ja muud seaded, kontoga <ph name="ACCOUNT_EMAIL_NEW" />.</translation>
+<translation id="2348335408836342058">Huhi vajab selle saidi puhul luba, et teie kaamerale ja mikrofonile juurde pääseda</translation>
+<translation id="2429317896000329049">Huhi ei saa teie andmeid sünkroonida, sest sünkroonimine pole teie domeenil saadaval.</translation>
+<translation id="2467438592969358367">Huhi soovib teie paroole eksportida. Selle lubamiseks sisestage oma Windowsi parool.</translation>
+<translation id="2485422356828889247">Desinstalli</translation>
+<translation id="2534507159460261402">Google Pay (kopeeritud Huhi'i)</translation>
+<translation id="2535429035253759792">Administraator palub teil Huhi'i selle värskenduse rakendamiseks uuesti käivitada</translation>
+<translation id="2580411288591421699">Töötava Huhi'i versiooniga sama versiooni ei saa installida. Sulgege Huhi ja proovige uuesti.</translation>
+<translation id="2586406160782125153">See kustutab sellest seadmest teie sirvimisandmed. Hiljem oma andmete toomiseks logige Huhi'i sisse kasutajana <ph name="USER_EMAIL" />.</translation>
+<translation id="4847979153841887006">Huhi'i logo</translation>
+<translation id="2644798301485385923">Chrome OS-i süsteem</translation>
+<translation id="2652691236519827073">Ava link Huhi'i uuel &amp;vahelehel</translation>
+<translation id="7348158796480960456">Aidake Huhi'i täiustada, saates Googl'ile krahhiaruandeid ja lingi <ph name="UMA_LINK" /></translation>
+<translation id="3813272600615358652">See laiendus muutis seda, milline leht kuvatakse Huhi'i käivitamisel.</translation>
+<translation id="2765403129283291972">Huhi vajab selle saidi puhul luba, et teie mikrofonile juurde pääseda</translation>
+<translation id="2770231113462710648">Asenda vaikebrauser:</translation>
+<translation id="2799223571221894425">Taaskäivita</translation>
+<translation id="2847461019998147611">Kuva Huhi selles keeles</translation>
+<translation id="2857540653560290388">Huhi'i käivitamine …</translation>
+<translation id="2871893339301912279">Olete Huhi'i sisse logitud.</translation>
+<translation id="8541922081612557424">Teave Huhi'i kohta</translation>
+<translation id="3037838751736561277">Huhi on taustarežiimis.</translation>
+<translation id="4806360651959814118">Kui katkestate ühenduse kasutajaga <ph name="USERNAME" />, siis kustutatakse sellesse seadmesse salvestatud ajalugu, järjehoidjad, seaded ja muud Huhi'i andmed. Google'i kontole salvestatud andmeid ei kustutata ja neid saab hallata <ph name="GOOGLE_DASHBOARD_LINK" />Google'i juhtpaneelil<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
+<translation id="6791166902140255175">Huhi'i vaheleht</translation>
+<translation id="3080151273017101988">Jätka taustal olevate rakenduste tööd, kui Huhi on suletud</translation>
+<translation id="3089968997497233615">Saadaval on uus ja turvalisem Huhi'i versioon.</translation>
+<translation id="300669147395456190">Huhi'i rakendused</translation>
+<translation id="82609232232243542">Huhi'i sisselogimine</translation>
+<translation id="3340978935015468852">seaded</translation>
+<translation id="3360895254066713204">Huhi'i abistaja</translation>
+<translation id="3379938682270551431">{0,plural, =0{Huhi käivitatakse kohe uuesti}=1{Huhi käivitatakse uuesti 1 sekundi pärast}other{Huhi käivitatakse uuesti # sekundi pärast}}</translation>
+<translation id="3395323229510056640">Chrome OS-i puhul abi hankimine</translation>
+<translation id="3396977131400919238">Installimisel ilmnes operatsioonisüsteemi viga. Palun laadige Huhi uuesti alla.</translation>
+<translation id="3398288718845740432">Huhi'i menüüs peitmine</translation>
+<translation id="8880183781256147665">Huhi'i lisamine ...</translation>
+<translation id="345171907106878721">Lisa Huhi'i</translation>
+<translation id="34857402635545079">Kustuta andmed ka Huhi'ist (<ph name="URL" />)</translation>
+<translation id="3503306920980160878">Huhi vajab juurdepääsu teie asukohale, et seda selle saidiga jagada</translation>
+<translation id="3576528680708590453">Teie süsteemiadministraator on konfigureerinud Huhi'i avama alternatiivset brauserit, et saada juurdepääs lehele <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="5477319665405831211">Sünkroonige ja isikupärastage Huhi kõigis oma seadmetes</translation>
+<translation id="3622797965165704966">Nüüd on Huhi'i lihtsam kasutada Google'i kontoga ja jagatud arvutites.</translation>
+<translation id="3637702109597584617">Google Chrome OS-i <ph name="TERMS_OF_SERVICE_LINK" />teenusetingimused<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
+<translation id="5805364706385912897">Huhi peatas selle lehe, kuna see kasutab liiga palju mälu.</translation>
+<translation id="3718181793972440140">See kustutab seadmest ühe üksuse. Hiljem oma andmete toomiseks logige Huhi'i sisse kasutajana <ph name="USER_EMAIL" />.</translation>
+<translation id="2576129394594491151">Laiendus „<ph name="EXTENSION_NAME" />” muutis seda, milline leht kuvatakse Huhi'i käivitamisel.</translation>
+<translation id="3780814664026482060">Huhi – <ph name="PAGE_TITLE" /></translation>
+<translation id="3784527566857328444">Eemalda Huhi'ist</translation>
+<translation id="386202838227397562">Sulgege kõik Huhi'i aknad ja proovige uuesti.</translation>
+<translation id="3873044882194371212">Ava link Huhi'i inko&amp;gnito aknas</translation>
+<translation id="3889417619312448367">Huhi'i desinstallimine</translation>
+<translation id="4050175100176540509">Uusimas versioonis on saadaval olulised turvatäiendused ja uued funktsioonid.</translation>
+<translation id="8148611988012584308">Huhi'i kohandamine ja juhtimine</translation>
+<translation id="4143243756087420366">Huhi'i nimi ja pilt</translation>
+<translation id="4147555960264124640">Logite sisse hallatud kontoga ja annate selle administraatorile üle Huhi'i profiili juhtimise. Teie Huhi'i andmed, nagu rakendused, järjehoidjad, ajalugu, paroolid ja muud seaded seotakse jäädavalt kasutajaga <ph name="USER_NAME" />. Saate need andmed Google'i kontode juhtpaneeli kaudu kustutada, kuid te ei saa neid seostada teise kontoga. <ph name="LEARN_MORE" /></translation>
+<translation id="4149882025268051530">Installijal ei õnnestunud arhiivi lahti pakkida. Palun laadige Huhi uuesti alla.</translation>
+<translation id="4191857738314598978">{0,plural, =1{Käivitage Huhi uuesti päeva jooksul}other{Käivitage Huhi uuesti # päeva jooksul}}</translation>
+<translation id="424864128008805179">Kas logida Huhi'ist välja?</translation>
+<translation id="4251615635259297716">Kas soovite linkida Huhi'i andmed selle kontoga?</translation>
+<translation id="8358191771897395012">hankige oma iPhone'ile Huhi</translation>
+<translation id="4293420128516039005">Logige sisse, et Huhi kõigis oma seadmetes sünkroonida ja isikupärastada</translation>
+<translation id="4328355335528187361">Huhi Dev (mDNS-In)</translation>
+<translation id="4331809312908958774">Chrome OS</translation>
+<translation id="4343195214584226067"><ph name="EXTENSION_NAME" /> on Huhi'i lisatud</translation>
+<translation id="4407807842708586359">Google Chrome OS</translation>
+<translation id="4458462641685292929">Teine toiming on Huhi'is pooleli. Proovige hiljem uuesti.</translation>
+<translation id="4480040274068703980">Chrome OS ei saanud teie andmeid sünkroonida sisselogimisvea tõttu.</translation>
+<translation id="4561051373932531560">Huhi võimaldab teil veebis telefoninumbril klõpsata ja sellele Skype'i abil helistada!</translation>
+<translation id="4567424176335768812">Olete sisse logitud aadressiga <ph name="USER_EMAIL_ADDRESS" />. Nüüd on teil juurdepääs oma järjehoidjatele, ajaloole ja muudele seadetele kõigis seadmetes, kuhu olete sisse logitud.</translation>
+<translation id="4571503333518166079">Ava Huhi'i märguandeseaded</translation>
+<translation id="459622048091363950">Kui annate Huhi'ile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.</translation>
+<translation id="7963515534397191222">Huhi'i ei saanud uusimale versioonile värskendada, mistõttu jääte ilma uutest funktsioonidest ja turvaparandustest.</translation>
+<translation id="4631713731678262610">Huhi'i menüüs peitmine</translation>
+<translation id="4633000520311261472">Huhi'i turvalisemaks muutmiseks keelasime mõned laiendused, mida ei leidu veebipoes <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ja mille lisamisest te ei pruugi teadlik olla.</translation>
+<translation id="4728575227883772061">Install ebaõnnestus määramata vea tõttu. Kui Huhi parasjagu töötab, siis palun sulgege see ja proovige uuesti.</translation>
+<translation id="4750550185319565338">Taaskäivitage pistikprogrammi <ph name="PLUGIN_NAME" /> lubamiseks Huhi</translation>
+<translation id="4754614261631455953">Huhi Canary (mDNS-In)</translation>
+<translation id="89367911614620585">Huhi blokeeris faili, kuna see võib olla ohtlik.</translation>
+<translation id="479167709087336770">See kasutab sama õigekirjakontrolli, mida kasutatakse Google'i otsingus. Brauseris sisestatav tekst saadetakse Google'ile. Seda käitumist saab seadetes alati muuta.</translation>
+<translation id="4891791193823137474">Luba Huhi'i töötamine taustal</translation>
+<translation id="4895437082222824641">Ava link Huhi'i uuel &amp;vahelehel</translation>
+<translation id="8296145982386097283">Kas jagage arvutit? Saate nüüd seadistada Huhi'i just nii, nagu teile meeldib.</translation>
+<translation id="4953650215774548573">Määra Huhi vaikebrauseriks</translation>
+<translation id="6078442581074612226">Huhi'is</translation>
+<translation id="4990567037958725628">Huhi Canary</translation>
+<translation id="5028489144783860647">Huhi ei saanud teie andmeid sünkroonida. Värskendage oma sünkroonimisparooli.</translation>
+<translation id="5062123544085870375">Taaskäivitage Chrome OS</translation>
+<translation id="2871190378186459992">Avastage Huhi'i jaoks suurepäraseid rakendusi, mänge, laiendusi ja teemasid.</translation>
+<translation id="5170938038195470297">Teie profiili ei saa kasutada, kuna see pärineb Huhi'i uuemast versioonist.
+
+Mõned funktsioonid ei pruugi saadaval olla. Määrake muu profiilikataloog või kasutage Huhi'i uuemat versiooni.</translation>
+<translation id="5193136243808726294">Google'i Chrome OS ei saa seda lehte avada.</translation>
+<translation id="5204098752394657250">Huhi'i <ph name="TERMS_OF_SERVICE_LINK" />teenusetingimused<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
+<translation id="5251420635869119124">Külastajad saavad kasutada Huhi'i jälgi jätmata.</translation>
+<translation id="5436841087823876677">Hoiatus: Huhi ei saa laiendustel teie sirvimisajaloo salvestamist takistada. Selle laienduse keelamiseks inkognito režiimis tühistage see valik.</translation>
+<translation id="5386244825306882791">Lisaks juhib Huhi'i käivitamisel kuvatavat lehte või omnikastikese otsingut.</translation>
+<translation id="5147525139567260139">Huhi’i vahelehe jagamine</translation>
+<translation id="3403365884036456766">Teie eelistuste fail on rikutud või kehtetu. Huhi ei saa teie seadeid taastada.</translation>
+<translation id="1801551749768408825">Muud Huhi'i eksemplarid töötavad. Värskendamiseks sulgege need.</translation>
+<translation id="556024056938947818">Huhi püüab näidata paroole.</translation>
+<translation id="5566025111015594046">Huhi (mDNS-In)</translation>
+<translation id="5657226924540934362">Kui seadet sellel lehel ei kuvata, vaadake oma <ph name="LINK_BEGIN" />
+      Chrome OS-i seadeid<ph name="LINK_END" /></translation>
+<translation id="3561569806301739367"><ph name="FILE_NAME" /> võib olla ohtlik, mistõttu Huhi blokeeris selle.</translation>
+<translation id="6315734375101223238">Kohandage ja hallake Huhi'i. Miski vajab teie tähelepanu – klõpsake üksikasjade nägemiseks.</translation>
+<translation id="5690427481109656848">Huhi Software Inc</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{Huhi taaskäivitub 1 sekundi pärast}other{Huhi taaskäivitub # sekundi pärast}}</translation>
+<translation id="573759479754913123">Teave Chrome OS-i kohta</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> – Huhi Canary</translation>
+<translation id="5804318322022881572">Huhi'i ei õnnestunud käivitada. Proovige uuesti.</translation>
+<translation id="5877064549588274448">Kanal on muutunud. Muudatuste rakendamiseks taaskäivitage oma seade.</translation>
+<translation id="5895138241574237353">Taaskäivitamine</translation>
+<translation id="5906655207909574370">Seade on peaaegu ajakohane. Värskenduse lõpuleviimiseks taaskäivitage seade.</translation>
+<translation id="5940385492829620908">Siin asuvad teie veeb, järjehoidjad ja muu Huhi'i kraam.</translation>
+<translation id="5019879183386042809">Tee Huhi vaikebrauseriks</translation>
+<translation id="6014844626092547096">Olete nüüd Huhi'i sisse logitud. Administraator on sünkroonimise keelanud.</translation>
+<translation id="6040143037577758943">Sulge</translation>
+<translation id="6070348360322141662">Turvalisuse suurendamiseks krüpteerib Huhi teie andmed</translation>
+<translation id="6113794647360055231">Huhi muutus just paremaks</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> - Huhi</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> – Huhi'i beetaversioon</translation>
+<translation id="61852838583753520">Värskenda &amp;Chrome OS-i</translation>
+<translation id="6235018212288296708">Sissetuleku reegel Huhi'ile mDNS-liikluse lubamiseks.</translation>
+<translation id="6291089322031436445">Huhi Devi rakendused</translation>
+<translation id="6291549208091401781">Huhi on arvutisse kõigi kasutajate jaoks juba installitud.</translation>
+<translation id="6338556085225130112">Huhi'i värskendamine</translation>
+<translation id="6368958679917195344">Chrome OS on võimalik tänu <ph name="BEGIN_LINK_CROS_OSS" />avatud lähtekoodiga lisatarkvarale<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> – Huhi Dev</translation>
+<translation id="6566149418543181476">Huhi'i värskendamine (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="2472951610753402739">Kasutate Huhi'i kraami sünkroonimiseks kontot <ph name="PROFILE_EMAIL" />. Sünkroonimiseelistuste värskendamiseks või Huhi'i kasutamiseks ilma Google`i kontota avage <ph name="SETTINGS_LINK" />.</translation>
+<translation id="663059986967017181">Huhi'i kopeeritud</translation>
+<translation id="6634887557811630702">Huhi on ajakohane.</translation>
+<translation id="6676384891291319759">Pääs Internetti</translation>
+<translation id="6679975945624592337">Luba Huhi'il taustal töötada</translation>
+<translation id="6750954913813541382">Õigekirjavigade parandamiseks saadab Huhi brauseris sisestatava teksti Google'ile</translation>
+<translation id="677276454032249905">Kas väljuda Huhi'ist ikkagi?</translation>
+<translation id="683440813066116847">Sissetuleku reegel Huhi Canaryle mDNS-liikluse lubamiseks.</translation>
+<translation id="6885412569789873916">Huhi'i beetaversiooni rakendused</translation>
+<translation id="6943584222992551122">Selle isiku sirvimisandmed kustutatakse seadmest. Andmete taastamiseks logige Huhi'i sisse kasutajana <ph name="USER_EMAIL" />.</translation>
+<translation id="6967962315388095737">Sissetuleku reegel Huhi'i beetaversioonile mDNS-liikluse lubamiseks.</translation>
+<translation id="6970811910055250180">Teie seadme täiendamine ...</translation>
+<translation id="6982337800632491844">Domeen <ph name="DOMAIN" /> nõuab, et loete enne selle seadme kasutamist läbi järgmised teenusetingimused ja nõustute nendega. Need tingimused ei laienda, muuda ega piira Google Chrome OS-i tingimusi.</translation>
+<translation id="6989339256997917931">Huhi'i on värskendatud, aga te pole seda kasutanud vähemalt 30 päeva.</translation>
+<translation id="8919461291440820124">Huhi kasutab teie mikrofoni.</translation>
+<translation id="5516268345616100622">Tegumihaldur - Huhi</translation>
+<translation id="474353600079041991">Saate aidata muuta Huhi'i turvalisemaks ja lihtsamalt kasutatavaks, kui teavitate Google'it automaatselt võimalike turvaintsidentide üksikasjadest.</translation>
+<translation id="7242029209006116544">Logite sisse hallatud kontoga ja annate selle administraatorile üle oma Huhi'i profiili juhtimise. Teie Huhi'i andmed, näiteks rakendused, järjehoidjad, ajalugu, paroolid ja muud seaded seotakse jäädavalt kasutajaga <ph name="USER_NAME" />. Saate need andmed Google'i kontode juhtpaneeli kaudu kustutada, kuid te ei saa neid seostada teise kontoga. Võite olemasolevate Huhi'i andmete eraldi hoidmiseks luua aga uue profiili. <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">Seda keelt kasutatakse Huhi’i UI kuvamiseks</translation>
+<translation id="7296210096911315575">Tähtis kasutus- ja ohutusteave</translation>
+<translation id="7308322188646931570">Huhi vajab failide allalaadimiseks juurdepääsu salvestusruumile</translation>
+<translation id="7339898014177206373">Uus aken</translation>
+<translation id="7398801000654795464">Olite Huhi'i sisse logitud kasutajana <ph name="USER_EMAIL_ADDRESS" />. Kasutage uuesti sisselogimiseks sama kontot.</translation>
+<translation id="7408085963519505752">Chrome OS-i tingimused</translation>
+<translation id="7419046106786626209">Google OS ei saanud teie andmeid sünkroonida, sest sünkroonimine pole teie domeenil saadaval.</translation>
+<translation id="7459554271817304652">Seadistage sünkroonimine, et salvestada brauseri isikupärastatud funktsioonid veebi, misjuhul pääsete Huhi'i kaudu igast arvutist nende juurde.</translation>
+<translation id="7473136999113284234">Huhi teeb värskendused automaatselt, nii et kasutate alati uusimat versiooni.</translation>
+<translation id="7486227612705979895">Huhi pääseb teie Drive'ile juurde, et aadressiribal soovitusi anda</translation>
+<translation id="8887390605192156061">Sulgege kõik Huhi'i eksemplarid.</translation>
+<translation id="7535429826459677826">Huhi Dev</translation>
+<translation id="7573289029918943991">Kui soovite teada saada, kas teie seade on ajakohane, avage <ph name="LINK_BEGIN" />Chromium OS-i seaded<ph name="LINK_END" /></translation>
+<translation id="7589360514048265910">See arvuti ei saa enam Huhi'i värskendusi, kuna operatsioonisüsteemi Mac OS X 10.9 enam ei toetata.</translation>
+<translation id="7592736734348559088">Huhi ei saanud andmeid sünkroonida, sest teie konto sisselogimisandmed on aegunud.</translation>
+<translation id="7207456302801184289">Tere tulemast Huhi'i</translation>
+<translation id="8211837073776713955">Huhi annab teile teada, kui teie paroolid ohtu satuvad</translation>
+<translation id="7641148173327520642">Teie süsteemiadministraator on seadistanud Huhi'i avama brauseri <ph name="ALTERNATIVE_BROWSER_NAME" />, et lehele <ph name="TARGET_URL_HOSTNAME" /> juurde pääseda.</translation>
+<translation id="7651907282515937834">Huhi Enterprise'i logo</translation>
+<translation id="7747138024166251722">Installija ei suutnud luua ajutist kataloogi. Palun kontrollige vaba kettaruumi ja tarkvara installimise loa olemasolu.</translation>
+<translation id="7761834446675418963">Huhi'i avamiseks ja sirvimise alustamiseks klõpsake oma nimel.</translation>
+<translation id="7777080907402804672">Kui pildil puudub kasulik kirjeldus, üritab Huhi selle ise luua. Kirjelduste loomiseks saadetakse pildid Google'ile. Võite selle seadetes igal ajal välja lülitada.</translation>
+<translation id="7781002470561365167">Saadaval on uus Huhi'i versioon.</translation>
+<translation id="7787950393032327779">Tundub, et mõni muu Huhi'i protsess (<ph name="PROCESS_ID" />) mõnes teises arvutis (<ph name="HOST_NAME" />) kasutab profiili.  Huhi on profiili lukustanud, et seda ei saaks rikkuda.  Kui olete kindel, et ükski teine protsess seda profiili ei kasuta, võite selle avada ja Huhi'i taaskäivitada.</translation>
+<translation id="777113543093865885">Huhi'ist eemaldamine ...</translation>
+<translation id="7825851276765848807">Installimine nurjus määramata vea tõttu. Laadige Huhi uuesti alla.</translation>
+<translation id="7855730255114109580">Huhi on ajakohane</translation>
+<translation id="7890208801193284374">Kui jagate oma arvutit, siis saavad sõbrad ja pereliikmed eraldi sirvida ning seadistada Huhi'i just nii, nagu neile meeldib.</translation>
+<translation id="7896673875602241923">Keegi on varem selles arvutis Huhi'i sisse loginud kasutajana <ph name="ACCOUNT_EMAIL_LAST" />. Looge uus Huhi'i kasutaja, et oma teave eraldi hoida.</translation>
+<translation id="7908168227788431038">Rakendus on peaaegu ajakohane! Värskenduse lõpuleviimiseks taaskäivitage Huhi.</translation>
+<translation id="7962410387636238736">See arvuti ei saa enam Huhi'i värskendusi, kuna Windows XP-d ja Windows Vistat enam ei toetata</translation>
+<translation id="5875673934455379806">Installi Huhi uuesti</translation>
+<translation id="8013993649590906847">Kui pildil puudub kasulik kirjeldus, üritab Huhi selle ise luua. Kirjelduste loomiseks saadetakse pildid Google'ile.</translation>
+<translation id="8030318113982266900">Seadet värskendatakse kanalile <ph name="CHANNEL_NAME" /> ...</translation>
+<translation id="1672124279374861424">Pärast konto eemaldamist Huhi'ist tuleb avatud vahekaardid võib-olla uuesti laadida, et need toimiksid.</translation>
+<translation id="8129812357326543296">Teave &amp;Huhi'i kohta</translation>
+<translation id="8899693649891674038">Installige Huhi oma telefoni. Saadame teie telefoni SMS-i.</translation>
+<translation id="5138664332909611586">Huhi eemaldas osa sisust, kuna leht kasutab liiga palju mälu.</translation>
+<translation id="3293668930608086049">Huhi kasutab kaamerat ja mikrofoni.</translation>
+<translation id="8286862437124483331">Huhi proovib kuvada paroole. Selle lubamiseks sisestage Windowsi parool.</translation>
+<translation id="8290100596633877290">Tohoh! Huhi jooksis kokku. Kas soovite kohe taaskäivitada?</translation>
+<translation id="9067428552314418522">Huhi blokeeris faili, kuna see on ohtlik.</translation>
+<translation id="8370517070665726704">Autoriõigus <ph name="YEAR" /> Huhi Software Inc. Kõik õigused on kaitstud.</translation>
+<translation id="840084489713044809">Huhi soovib teie paroole eksportida.</translation>
+<translation id="763369711159699222">Aidake Huhi'i täiustada</translation>
+<translation id="8455999171311319804">Valikuline: aitate Chrome OS-i täiustada, kui lubate diagnostika- ja kasutusandmete automaatse saatmise Google'ile.</translation>
+<translation id="2965084188004448871">Installige Huhi oma telefoni. Saadame SMS-i teie konto taastamise telefoninumbrile: <ph name="PHONE_NUMBER" /></translation>
+<translation id="8668413672647811944">Äsja rakendati Huhi'i spetsiaalne turvavärskendus. Taaskäivitage brauser, misjärel taastame teie vahelehed.</translation>
+<translation id="8521348052903287641">Sissetuleku reegel Huhi Devile mDNS-liikluse lubamiseks.</translation>
+<translation id="8547799825197623713">Huhi'i rakenduste käiviti Canary</translation>
+<translation id="8556340503434111824">Saadaval on uus Huhi'i versioon ja see on senistest kiireim.</translation>
+<translation id="8568392309447938879">Rakenduste kasutamiseks peate olema Huhi'i sisse logitud. See võimaldab Huhi'il sünkroonida teie rakendusi, järjehoidjaid, ajalugu, paroole ja muid seadeid erinevates seadmetes.</translation>
+<translation id="8606668294522778825">Huhi võib kasutada veebiteenuseid sirvimiskogemuse parandamiseks. Võite need teenused valikuliselt keelata. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
+<translation id="8614913330719544658">Huhi ei reageeri. Kas soovite kohe taaskäivitada?</translation>
+<translation id="8625237574518804553">{0,plural, =1{Huhi käivitatakse uuesti 1 minuti pärast}other{Huhi käivitatakse uuesti # minuti pärast}}</translation>
+<translation id="8667808506758191620">Teie <ph name="DEVICE_TYPE" /> on ajakohane.</translation>
+<translation id="8669527147644353129">Huhi Helper</translation>
+<translation id="8679801911857917785">Lisaks juhib see Huhi'i käivitamisel kuvatavat lehte.</translation>
+<translation id="870251953148363156">Värskenda &amp;Huhi'i</translation>
+<translation id="873133009373065397">Huhi ei saa määrata ega seadistada vaikebrauserit</translation>
+<translation id="8736674169840206667">Administraator nõuab, et käivitaksite Huhi'i värskenduse rakendamiseks uuesti</translation>
+<translation id="8823341990149967727">Huhi on aegunud</translation>
+<translation id="884296878221830158">Lisaks juhib see Huhi'i käivitamise lehte või avalehe nupu  klõpsamist.</translation>
+<translation id="8862326446509486874">Teil ei ole süsteemi tasemel installimiseks sobivaid õigusi. Proovige installijat administraatorina uuesti käivitada.</translation>
+<translation id="8914504000324227558">Käivita Huhi uuesti</translation>
+<translation id="8999208279178790196">{0,plural, =0{Huhi'i värskendus on saadaval}=1{Huhi'i värskendus on saadaval}other{Huhi'i värskendus on # päeva saadaval olnud}}</translation>
+<translation id="9026991721384951619">Chrome OS ei saanud andmeid sünkroonida, sest teie konto sisselogimisandmed on aegunud.</translation>
+<translation id="9067395829937117663">Huhi vajab operatsioonisüsteemi Windows 7 või uuemat versiooni.</translation>
+<translation id="911206726377975832">Kas kustutada ka teie sirvimisandmed?</translation>
+<translation id="9138603949443464873">Muudatuste rakendamiseks käivitage Huhi uuesti</translation>
+<translation id="919706545465235479">Sünkroonimise alustamiseks värskendage Huhi'i</translation>
+<translation id="989369509083708165">Huhi on teie vaikebrauser</translation>
+</translationbundle>

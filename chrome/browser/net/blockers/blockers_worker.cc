@@ -1,0 +1,714 @@
+/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
+
+#include "blockers_worker.h"
+#include <fstream>
+#include <sstream>
+#include "base/threading/thread_restrictions.h"
+#include "../../../../base/android/apk_assets.h"
+#include "../../../../content/public/common/resource_type.h"
+#include "../../../../base/files/file_util.h"
+#include "../../../../base/path_service.h"
+#include "../../../../base/json/json_reader.h"
+#include "../../../../base/values.h"
+#include "../../../../third_party/leveldatabase/src/include/leveldb/db.h"
+#include "../../../../third_party/re2/src/re2/re2.h"
+#include "../../../../url/gurl.h"
+#include "huhi/vendor/adblock_rust_ffi/src/wrapper.hpp"
+#include "huhi/components/huhi_shields/common/huhi_shield_constants.h"
+#include "base/strings/pattern.h"
+#include "net/base/registry_controlled_domains/registry_controlled_domain.h"
+
+#define ADBLOCK_DATA_FILE                   "ABPFilterParserDataDownloaded.dat"
+#define ADBLOCK_REGIONAL_DATA_FILE          "ABPRegionalDataDownloaded.dat"
+#define HTTPSE_DATA_FILE_NEW                "httpse.leveldbDownloaded.zip"
+#define HTTPSE_URLS_REDIRECTS_COUNT_QUEUE   1
+#define HTTPSE_URL_MAX_REDIRECTS_COUNT      5
+#define HTTPSE_VERSION                      "6.0"
+
+namespace net {
+namespace blockers {
+
+    namespace {
+
+        std::string ResourceTypeToString(content::ResourceType resource_type) {
+          std::string filter_option = "";
+          switch(resource_type) {
+            // top level page
+            case content::ResourceType::kMainFrame:
+              filter_option = "document";
+              break;
+            // frame or iframe
+            case content::ResourceType::kSubFrame:
+              filter_option = "sub_frame";
+              break;
+            // a CSS stylesheet
+            case content::ResourceType::kStylesheet:
+              filter_option = "stylesheet";
+              break;
+            // an external script
+            case content::ResourceType::kScript:
+              filter_option = "script";
+              break;
+            // an image (jpg/gif/png/etc)
+            case content::ResourceType::kImage:
+              filter_option = "image";
+              break;
+            // a font
+            case content::ResourceType::kFontResource:
+              filter_option = "font";
+              break;
+            // an "other" subresource.
+            case content::ResourceType::kSubResource:
+              filter_option = "other";
+              break;
+            // an object (or embed) tag for a plugin.
+            case content::ResourceType::kObject:
+              filter_option = "object";
+              break;
+            // a media resource.
+            case content::ResourceType::kMedia:
+              filter_option = "media";
+              break;
+            // a XMLHttpRequest
+            case content::ResourceType::kXhr:
+              filter_option = "xmlhttprequest";
+              break;
+            // a ping request for <a ping>/sendBeacon.
+            case content::ResourceType::kPing:
+              filter_option = "ping";
+              break;
+            // the main resource of a dedicated
+            case content::ResourceType::kWorker:
+            // the main resource of a shared worker.
+            case content::ResourceType::kSharedWorker:
+            // an explicitly requested prefetch
+            case content::ResourceType::kPrefetch:
+            // a favicon
+            case content::ResourceType::kFavicon:
+            // the main resource of a service worker.
+            case content::ResourceType::kServiceWorker:
+            // a report of Content Security Policy
+            case content::ResourceType::kCspReport:
+            // a resource that a plugin requested.
+            case content::ResourceType::kPluginResource:
+            case content::ResourceType::kMaxValue:
+            default:
+              break;
+          }
+          return filter_option;
+        }
+
+        }  // namespace
+
+    static std::vector<std::string> split(const std::string &s, char delim) {
+        std::stringstream ss(s);
+        std::string item;
+        std::vector<std::string> result;
+        while (getline(ss, item, delim)) {
+            result.push_back(item);
+        }
+
+        return result;
+    }
+
+    // returns parts in reverse order, makes list of lookup domains like com.foo.*
+    static std::vector<std::string> expandDomainForLookup(const std::string &domain)
+    {
+        std::vector<std::string> resultDomains;
+        std::vector<std::string> domainParts = split(domain, '.');
+        if (domainParts.empty()) {
+            return resultDomains;
+        }
+
+        for (size_t i = 0; i < domainParts.size() - 1; i++) {  // i < size()-1 is correct: don't want 'com.*' added to resultDomains
+            std::string slice = "";
+            std::string dot = "";
+            for (int j = domainParts.size() - 1; j >= (int)i; j--) {
+                slice += dot + domainParts[j];
+                dot = ".";
+            }
+            if (0 != i) {
+              // We don't want * on the top URL
+                resultDomains.push_back(slice + ".*");
+            } else {
+                resultDomains.push_back(slice);
+            }
+        }
+
+        return resultDomains;
+    }
+
+    static std::string leveldbGet(leveldb::DB* db, const std::string &key)
+    {
+        if (!db) {
+            return "";
+        }
+
+        std::string value;
+        leveldb::Status s = db->Get(leveldb::ReadOptions(), key, &value);
+        return s.ok() ? value : "";
+    }
+
+
+    BlockersWorker::BlockersWorker() :
+        level_db_(nullptr),
+        adblock_parser_(nullptr),
+        adblock_initialized_(false),
+        adblock_regional_initialized_(false) {
+    }
+
+    BlockersWorker::~BlockersWorker() {
+        if (nullptr != adblock_parser_) {
+            delete adblock_parser_;
+        }
+        for (size_t i = 0; i < adblock_regional_parsers_.size(); i++) {
+            delete adblock_regional_parsers_[i];
+        }
+        adblock_regional_parsers_.clear();
+        if (nullptr != level_db_) {
+            delete level_db_;
+        }
+    }
+
+    bool BlockersWorker::InitAdBlock() {
+        base::internal::AssertBlockingAllowed();
+        std::lock_guard<std::mutex> guard(adblock_init_mutex_);
+
+        if (adblock_parser_) {
+            return true;
+        }
+
+        std::vector<char> adblock_buffer;
+        if (!GetData("", ADBLOCK_DATA_FILE, adblock_buffer)) {
+            return false;
+        }
+
+        adblock_parser_ = new adblock::Engine();
+        adblock_parser_->addTag(huhi_shields::kFacebookEmbeds);
+        adblock_parser_->addTag(huhi_shields::kTwitterEmbeds);
+
+        if (!adblock_parser_->deserialize((char*)&adblock_buffer.front(), adblock_buffer.size())) {
+            delete adblock_parser_;
+            adblock_parser_ = nullptr;
+            LOG(ERROR) << "adblock deserialize failed";
+
+            return false;
+        }
+
+        set_adblock_initialized();
+        return true;
+    }
+
+    bool BlockersWorker::InitAdBlockRegional() {
+        base::internal::AssertBlockingAllowed();
+        std::lock_guard<std::mutex> guard(adblock_regional_init_mutex_);
+
+        if (0 != adblock_regional_parsers_.size()) {
+            return true;
+        }
+
+        std::vector<char> db_file_name;
+        if (!GetData("", ADBLOCK_REGIONAL_DATA_FILE, db_file_name, true)) {
+            return false;
+        }
+        std::vector<std::vector<char>> adblock_regional_buffer;
+        std::vector<std::string> files = split((char*)&db_file_name.front(), ';');
+        for (size_t i = 0; i < files.size(); i++) {
+            adblock_regional_buffer.push_back(std::vector<char>());
+            if (!GetBufferData("", files[i].c_str(), adblock_regional_buffer[adblock_regional_buffer.size() - 1])) {
+                adblock_regional_buffer.erase(adblock_regional_buffer.begin() + adblock_regional_buffer.size() - 1);
+                continue;
+            }
+
+            adblock::Engine* parser = new adblock::Engine();
+            parser->addTag(huhi_shields::kFacebookEmbeds);
+            parser->addTag(huhi_shields::kTwitterEmbeds);
+            if (!parser) {
+                adblock_regional_buffer.erase(adblock_regional_buffer.begin() + adblock_regional_buffer.size() - 1);
+                continue;
+            }
+            if (!parser->deserialize((char*)&adblock_regional_buffer[adblock_regional_buffer.size() - 1].front(),
+                    adblock_regional_buffer[adblock_regional_buffer.size() - 1].size())) {
+                delete parser;
+                adblock_regional_buffer.erase(adblock_regional_buffer.begin() + adblock_regional_buffer.size() - 1);
+                LOG(ERROR) << "adblock_regional deserialize failed";
+                continue;
+            }
+            adblock_regional_parsers_.push_back(parser);
+        }
+
+        set_adblock_regional_initialized();
+        return true;
+    }
+
+    bool BlockersWorker::InitHTTPSE() {
+        base::internal::AssertBlockingAllowed();
+        std::lock_guard<std::mutex> guard(httpse_init_mutex_);
+
+        if (level_db_) {
+            return true;
+        }
+
+        // Init level database
+        std::vector<char> db_file_name;
+        if (!GetData(HTTPSE_VERSION, HTTPSE_DATA_FILE_NEW, db_file_name, true)) {
+            return false;
+        }
+
+        std::string dbFileName((char*)&db_file_name.front());
+        if (dbFileName.find(HTTPSE_VERSION) != 0) {
+            LOG(ERROR) << "HTTPSE_VERSION doesn't match for file " << dbFileName;
+            // Don't read data from file of other version
+            return false;
+        }
+        base::FilePath app_data_path;
+        base::PathService::Get(base::DIR_ANDROID_APP_DATA, &app_data_path);
+        base::FilePath dbFilePath = app_data_path.Append(dbFileName);
+
+        leveldb::Options options;
+        leveldb::Status status = leveldb::DB::Open(options, dbFilePath.value().c_str(), &level_db_);
+        if (!status.ok() || !level_db_) {
+            if (level_db_) {
+                delete level_db_;
+                level_db_ = nullptr;
+            }
+
+            LOG(ERROR) << "level db open error " << dbFilePath.value().c_str();
+
+            return false;
+        }
+
+        return true;
+    }
+
+    bool BlockersWorker::GetData(const std::string& version, const std::string& fileName, std::vector<char>& buffer, bool only_file_name) {
+        base::FilePath app_data_path;
+        base::PathService::Get(base::DIR_ANDROID_APP_DATA, &app_data_path);
+
+        base::FilePath dataFilePathDownloaded = app_data_path.Append(fileName);
+        int64_t size = 0;
+        if (!base::PathExists(dataFilePathDownloaded)
+            || !base::GetFileSize(dataFilePathDownloaded, &size)
+            || 0 == size) {
+            return false;
+        }
+        std::vector<char> data(size + 1);
+        if (size != base::ReadFile(dataFilePathDownloaded, (char*)&data.front(), size)) {
+            LOG(ERROR) << "BlockersWorker::GetData: cannot read data from file " << fileName;
+
+            return false;
+        }
+        data[size] = '\0';
+        if (only_file_name) {
+            buffer.resize(size + 1);
+            ::memcpy(&buffer.front(), &data.front(), size + 1);
+
+            return true;
+        }
+
+        return GetBufferData(version, &data.front(), buffer);
+    }
+
+    bool BlockersWorker::GetBufferData(const std::string& version, const std::string& fileName, std::vector<char>& buffer) {
+        if (version.length() && fileName.find(version) != 0) {
+            LOG(ERROR) << "BlockersWorker::GetBufferData: incorrect version for " << fileName;
+            // Don't read data from file of other version
+            return false;
+        }
+
+        base::FilePath app_data_path;
+        base::PathService::Get(base::DIR_ANDROID_APP_DATA, &app_data_path);
+
+        base::FilePath dataFilePath = app_data_path.Append(fileName);
+        int64_t size = 0;
+        if (!base::PathExists(dataFilePath)
+            || !base::GetFileSize(dataFilePath, &size)
+            || 0 == size) {
+            LOG(ERROR) << "BlockersWorker::GetBufferData: the dat file is corrupted " << fileName;
+
+            return false;
+        }
+
+        buffer.resize(size);
+        if (size != base::ReadFile(dataFilePath, (char*)&buffer.front(), size)) {
+            LOG(ERROR) << "BlockersWorker::GetData: cannot read dat file " << fileName;
+
+            return false;
+        }
+
+        return true;
+    }
+
+    bool BlockersWorker::shouldAdBlockUrl(const std::string& tab_url, const std::string& url,
+                                          unsigned int resource_type, bool isAdBlockRegionalEnabled) {
+        if (!isAdBlockerInitialized()) {
+          return false;
+        }
+
+        // Skip check for sync requests
+        if (tab_url == "file:///android_asset/") {
+          return false;
+        }
+
+        std::string host = GURL(url).host();
+        std::string tab_host = GURL(tab_url).host();
+        bool is_third_party = !net::registry_controlled_domains::SameDomainOrHost(GURL(url),
+            url::Origin::CreateFromNormalizedTuple("https", tab_host.c_str(), 80),
+            net::registry_controlled_domains::INCLUDE_PRIVATE_REGISTRIES);
+        std::string string_resource_type = ResourceTypeToString((content::ResourceType)resource_type);
+        bool cancel;
+        bool saved_from_exception;
+        std::string redirect;
+        if (adblock_parser_->matches(url, host, tab_host, is_third_party, string_resource_type,
+                &cancel, &saved_from_exception, &redirect)) {
+            return true;
+        }
+        if (saved_from_exception) return false;
+
+        // Check regional ad block
+        if (!isAdBlockRegionalEnabled || !isAdBlockerRegionalInitialized()) {
+            return false;
+        }
+        for (size_t i = 0; i < adblock_regional_parsers_.size(); i++) {
+            if (adblock_regional_parsers_[i]->matches(url, host, tab_host, is_third_party, string_resource_type,
+                    &cancel, &saved_from_exception, &redirect)) {
+                return true;
+            }
+            if (saved_from_exception) return false;
+        }
+        //
+
+        return false;
+    }
+
+    std::string BlockersWorker::getHTTPSURLFromCacheOnly(const GURL* url, const uint64_t &request_identifier) {
+        if (nullptr == url) {
+            return "";
+        }
+        if (url->scheme() == "https") {
+            return url->spec();
+        }
+        if (!shouldHTTPSERedirect(request_identifier)) {
+            return url->spec();
+        }
+        std::string value;
+        if (GetRecentlyUsedCacheValue(url->spec(), value)) {
+            addHTTPSEUrlToRedirectList(request_identifier);
+            return value;
+        }
+
+        return url->spec();
+    }
+
+    std::string BlockersWorker::getHTTPSURL(const GURL* url, const uint64_t &request_identifier) {
+        base::internal::AssertBlockingAllowed();
+
+        if (nullptr == url) {
+            return "";
+        }
+        if (url->scheme() == "https"
+          || !InitHTTPSE()) {
+            return url->spec();
+        }
+        if (!shouldHTTPSERedirect(request_identifier)) {
+            return url->spec();
+        }
+        std::string value;
+        if (GetRecentlyUsedCacheValue(url->spec(), value)) {
+            addHTTPSEUrlToRedirectList(request_identifier);
+            return value;
+        }
+
+        const std::vector<std::string> domains = expandDomainForLookup(url->host());
+        for (auto domain : domains) {
+            std::string value = leveldbGet(level_db_, domain);
+            if (!value.empty()) {
+                std::string newURL = applyHTTPSRule(url->spec(), value);
+                if (0 != newURL.length()) {
+                    SetRecentlyUsedCacheValue(url->spec(), newURL);
+                    addHTTPSEUrlToRedirectList(request_identifier);
+                    return newURL;
+                }
+            }
+        }
+
+        SetRecentlyUsedCacheValue(url->spec(), "");
+        return url->spec();
+    }
+
+    bool BlockersWorker::shouldHTTPSERedirect(const uint64_t &request_identifier) {
+        std::lock_guard<std::mutex> guard(httpse_get_urls_redirects_count_mutex_);
+        for (size_t i = 0; i < httpse_urls_redirects_count_.size(); i++) {
+            if (request_identifier == httpse_urls_redirects_count_[i].request_identifier_
+              && httpse_urls_redirects_count_[i].redirects_ >= HTTPSE_URL_MAX_REDIRECTS_COUNT - 1) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+    void BlockersWorker::addHTTPSEUrlToRedirectList(const uint64_t &request_identifier) {
+        // Adding redirects count for the current request
+        std::lock_guard<std::mutex> guard(httpse_get_urls_redirects_count_mutex_);
+        bool hostFound = false;
+        for (size_t i = 0; i < httpse_urls_redirects_count_.size(); i++) {
+            if (request_identifier == httpse_urls_redirects_count_[i].request_identifier_) {
+                // Found the host, just increment the redirects_count
+                httpse_urls_redirects_count_[i].redirects_++;
+                hostFound = true;
+                break;
+            }
+        }
+        if (!hostFound) {
+            // The host is new, adding it to the redirects list
+            if (httpse_urls_redirects_count_.size() >= HTTPSE_URLS_REDIRECTS_COUNT_QUEUE) {
+                // The queue is full, erase the first element
+                httpse_urls_redirects_count_.erase(httpse_urls_redirects_count_.begin());
+            }
+            httpse_urls_redirects_count_.push_back(HTTPSE_REDIRECTS_COUNT_ST(request_identifier, 1));
+        }
+    }
+
+    std::string BlockersWorker::applyHTTPSRule(const std::string& originalUrl, const std::string& rule) {
+        base::Optional<base::Value> json_object = base::JSONReader::Read(rule);
+        if (!json_object) {
+            LOG(ERROR) << "applyHTTPSRule: incorrect json rule";
+
+            return "";
+        }
+
+        const base::ListValue* topValues = nullptr;
+        json_object->GetAsList(&topValues);
+        if (nullptr == topValues) {
+            return "";
+        }
+
+        for (size_t i = 0; i < topValues->GetSize(); ++i) {
+            const base::Value* childTopValue = nullptr;
+            if (!topValues->Get(i, &childTopValue)) {
+                continue;
+            }
+            const base::DictionaryValue* childTopDictionary = nullptr;
+            childTopValue->GetAsDictionary(&childTopDictionary);
+            if (nullptr == childTopDictionary) {
+                continue;
+            }
+
+            const base::Value* exclusion = nullptr;
+            if (childTopDictionary->Get("e", &exclusion)) {
+                const base::ListValue* eValues = nullptr;
+                exclusion->GetAsList(&eValues);
+                if (nullptr != eValues) {
+                    for (size_t j = 0; j < eValues->GetSize(); ++j) {
+                        const base::Value* pValue = nullptr;
+                        if (!eValues->Get(j, &pValue)) {
+                            continue;
+                        }
+                        const base::DictionaryValue* pDictionary = nullptr;
+                        pValue->GetAsDictionary(&pDictionary);
+                        if (nullptr == pDictionary) {
+                            continue;
+                        }
+                        const base::Value* patternValue = nullptr;
+                        if (!pDictionary->Get("p", &patternValue)) {
+                            continue;
+                        }
+                        std::string pattern;
+                        if (!patternValue->GetAsString(&pattern)) {
+                            continue;
+                        }
+                        pattern = correcttoRuleToRE2Engine(pattern);
+                        if (RE2::FullMatch(originalUrl, pattern)) {
+                            return "";
+                        }
+                    }
+                }
+            }
+
+            const base::Value* rules = nullptr;
+            if (!childTopDictionary->Get("r", &rules)) {
+                return "";
+            }
+            const base::ListValue* rValues = nullptr;
+            rules->GetAsList(&rValues);
+            if (nullptr == rValues) {
+                return "";
+            }
+
+            for (size_t j = 0; j < rValues->GetSize(); ++j) {
+                const base::Value* pValue = nullptr;
+                if (!rValues->Get(j, &pValue)) {
+                    continue;
+                }
+                const base::DictionaryValue* pDictionary = nullptr;
+                pValue->GetAsDictionary(&pDictionary);
+                if (nullptr == pDictionary) {
+                    continue;
+                }
+                const base::Value* patternValue = nullptr;
+                if (pDictionary->Get("d", &patternValue)) {
+                    std::string newUrl(originalUrl);
+
+                    return newUrl.insert(4, "s");
+                }
+
+                const base::Value* from_value = nullptr;
+                const base::Value* to_value = nullptr;
+                if (!pDictionary->Get("f", &from_value)
+                      || !pDictionary->Get("t", &to_value)) {
+                    continue;
+                }
+                std::string from, to;
+                if (!from_value->GetAsString(&from)
+                      || !to_value->GetAsString(&to)) {
+                    continue;
+                }
+
+                to = correcttoRuleToRE2Engine(to);
+                std::string newUrl(originalUrl);
+                RE2 regExp(from);
+
+                if (RE2::Replace(&newUrl, regExp, to) && newUrl != originalUrl) {
+                    return newUrl;
+                }
+            }
+        }
+
+        return "";
+  }
+
+    std::string BlockersWorker::correcttoRuleToRE2Engine(const std::string& to) {
+        std::string correctedto(to);
+        size_t pos = to.find("$");
+        while (std::string::npos != pos) {
+          correctedto[pos] = '\\';
+          pos = correctedto.find("$");
+        }
+
+        return correctedto;
+    }
+
+    bool BlockersWorker::isAdBlockerInitialized() {
+      std::lock_guard<std::mutex> guard(adblock_initialized_mutex_);
+      return adblock_initialized_;
+    }
+
+    bool BlockersWorker::isAdBlockerRegionalInitialized() {
+      std::lock_guard<std::mutex> guard(adblock_regional_initialized_mutex_);
+      return adblock_regional_initialized_;
+    }
+
+    void BlockersWorker::set_adblock_initialized() {
+      std::lock_guard<std::mutex> guard(adblock_initialized_mutex_);
+      adblock_initialized_ = true;
+    }
+
+    void BlockersWorker::set_adblock_regional_initialized() {
+      std::lock_guard<std::mutex> guard(adblock_regional_initialized_mutex_);
+      adblock_regional_initialized_ = true;
+    }
+
+    bool BlockersWorker::GetRecentlyUsedCacheValue(const std::string& key, std::string& value) {
+      std::lock_guard<std::mutex> guard(httpse_recently_used_cache_mutex_);
+      if (recently_used_cache_.data.count(key) > 0) {
+        value = recently_used_cache_.data[key];
+        return true;
+      }
+      return false;
+    }
+
+    void BlockersWorker::SetRecentlyUsedCacheValue(const std::string& key, const std::string& value) {
+      std::lock_guard<std::mutex> guard(httpse_recently_used_cache_mutex_);
+      recently_used_cache_.data[key] = value;
+    }
+
+    // Taken from huhi-core.
+    // We will need to sync changes if any happens in future.
+    bool BlockersWorker::ShouldSetReferrer(bool allow_referrers, bool shields_up,
+        const GURL& original_referrer, const GURL& tab_origin,
+        const GURL& target_url, const GURL& new_referrer_url,
+        network::mojom::ReferrerPolicy policy, content::Referrer *output_referrer) {
+      return false;
+      /*if (!output_referrer ||
+          allow_referrers ||
+          !shields_up ||
+          original_referrer.is_empty() ||
+          // Same TLD+1 whouldn't set the referrer
+          SameDomainOrHost(target_url, original_referrer,
+              registry_controlled_domains::INCLUDE_PRIVATE_REGISTRIES) ||
+          // Whitelisted referrers shoud never set the referrer
+          BlockersWorker::IsWhitelistedReferrer(tab_origin, target_url.GetOrigin())) {
+        return false;
+      }
+      *output_referrer = content::Referrer::SanitizeForRequest(target_url,
+          content::Referrer(new_referrer_url, policy));
+      return true;*/
+    }
+
+    // Modification from huhi-core. Have to avoid URLPattern as it is part of extensions, that are not supposed to be built on Android.
+    // We will need to sync changes if any happens in future.
+    bool BlockersWorker::IsWhitelistedReferrer(const GURL& firstPartyOrigin,
+        const GURL& subresourceUrl) {
+      // Note that there's already an exception for TLD+1, so don't add those here.
+      // Check with the security team before adding exceptions.
+      if (!firstPartyOrigin.is_valid() || !subresourceUrl.is_valid()) {
+        return false;
+      }
+
+      // https://github.com/huhisoft/huhi-browser/issues/5861
+      // The below patterns are done to only allow the specific request
+      // pattern, of reddit -> redditmedia -> embedly -> imgur.
+      std::string redditPtrn = "https://www.reddit.com/*";
+      std::vector<std::string> reddit_embed_patterns({
+        redditPtrn,
+        "https://www.redditmedia.com/*",
+        "https://cdn.embedly.com/*",
+        "https://imgur.com/*"
+      });
+
+      if (base::MatchPattern(firstPartyOrigin.spec(), redditPtrn)) {
+        bool is_reddit_embed = std::any_of(
+          reddit_embed_patterns.begin(),
+          reddit_embed_patterns.end(),
+          [&subresourceUrl](const std::string& pattern){
+            return base::MatchPattern(subresourceUrl.spec(), pattern);
+          });
+        if (is_reddit_embed) {
+          return true;
+        }
+      }
+
+      std::map<GURL, std::vector<std::string> > whitelist_patterns_map = {{
+          GURL("https://www.facebook.com/"), {
+            "https://*.fbcdn.net/*"
+          }
+        }
+      };
+      std::map<GURL, std::vector<std::string> >::iterator i =
+          whitelist_patterns_map.find(firstPartyOrigin);
+      if (i != whitelist_patterns_map.end()) {
+        std::vector<std::string> &exceptions = i->second;
+        bool any_match = std::any_of(exceptions.begin(), exceptions.end(),
+            [&subresourceUrl](const std::string& pattern) {
+              return base::MatchPattern(subresourceUrl.spec(), pattern);
+            });
+        if (any_match) {
+          return true;
+        }
+      }
+
+      // It's preferred to use specific_patterns below when possible
+      std::vector<std::string> whitelist_patterns({
+        "*://use.typekit.net/*",
+        "*://cloud.typography.com/*"
+      });
+      return std::any_of(whitelist_patterns.begin(), whitelist_patterns.end(),
+        [&subresourceUrl](const std::string& pattern){
+          return base::MatchPattern(subresourceUrl.spec(), pattern);
+        });
+    }
+}  // namespace blockers
+}  // namespace net

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grit-part>
+  <include name="IDR_HUHI_REWARDS_FAVICON" file="../huhi_rewards_ui/resources/img/favicon.ico" type="BINDATA" />
+  <include name="IDR_HUHI_REWARDS_PAGE_HTML" file="../huhi_rewards_ui/resources/huhi_rewards.html" type="BINDATA" />
+  <include name="IDR_HUHI_REWARDS_INTERNALS_HTML" file="../../huhi/components/huhi_rewards/resources/internals/huhi_rewards_internals.html" type="BINDATA" />
+</grit-part>

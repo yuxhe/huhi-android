@@ -1,0 +1,16 @@
+# Resource ids starting at 31000 are reserved for projects built on Chromium.
+{
+  "SRCDIR": "../..",
+  "<(ROOT_GEN_DIR)/android-huhi/web-ui-huhi_rewards_settings/huhi_rewards_settings.grd": {
+    "includes": [32000],
+  },
+  "<(ROOT_GEN_DIR)/android-huhi/web-ui-huhi_rewards_panel/huhi_rewards_panel.grd": {
+    "includes": [32100],
+  },
+  "<(ROOT_GEN_DIR)/android-huhi/web-ui-huhi_rewards_donate/huhi_rewards_donate.grd": {
+    "includes": [32200],
+  },
+  "<(ROOT_GEN_DIR)/android-huhi/web-ui-huhi_rewards_internals/huhi_rewards_internals.grd": {
+    "includes": [32300],
+  }
+}

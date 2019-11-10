@@ -1,0 +1,77 @@
+<resources>
+
+    <string name="huhi_settings_title">Huhi webskjoldsindstillinger for</string>
+    <string name="huhi_shields_down">Ned</string>
+    <string name="huhi_shields_up">Op</string>
+    <string name="huhi_shields_ads_trackers">Reklamer og Sporere er blokeret</string>
+    <string name="huhi_shields_https_upgrades">HTTPS Opgraderinger</string>
+    <string name="huhi_shields_scripts_blocked">Scripts er blokeret</string>
+    <string name="huhi_shields_ads_tracking_switch">Blokér Reklamer og sporing</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS Everywhere</string>
+    <string name="huhi_shields_blocks_scripts_switch">Blokér Scripts</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">Aktivér/Desaktivér Huhi Skjolde</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">Bloker 3. parts cookies</string>
+
+    <string name="httpse_summary">Åbner understøttede sider ved at bruge HTTPS i stedet for HTTP når det er muligt</string>
+    <string name="tracking_protection_title">Sporingsbeskyttelse</string>
+    <string name="tracking_protection_summary">Forhindrer indlæsning af ressourcer, der sporer dig</string>
+    <string name="ad_block_title">Reklameblokering</string>
+    <string name="ad_block_summary">Forhindrer indlæsning af reklamer</string>
+
+    <string name="fingerprinting_protection_title">Fingeraftryksbeskyttelse</string>
+    <string name="fingerprinting_protection_summary">Forhindrer browseren i at anvende fingeraftryk</string>
+    <string name="huhi_shields_fingerprints_blocked">Fingeraftryksmetoder er blokeret</string>
+    <string name="huhi_shields_block_fingerprints_switch">Fingeraftryksbeskyttelse</string>
+
+    <string name="ad_block_regional_title">Regional reklameblokering</string>
+    <string name="ad_block_regional_summary">Forhindrer indlæsning af regionale reklamer</string>
+
+    <string name="ad_block_regional_summary_no_list">Ingen yderligere lister er tilgængelig for dit lokalitet</string>
+
+    <string name="menu_exit">Afslut</string>
+
+    <string name="sync_settings_add_device_name_title">Tilføj enhedens navn</string>
+    <string name="sync_settings_add_device_name_label">Indtast et valgfrit navn til denne enhed</string>
+    <string name="sync_example_device_name">Android enhed</string>
+    <string name="enter_code_words_sync">Indtast kodeord</string>
+    <string name="sync_device">Synkroniser enhed</string>
+    <string name="sync_device_failure">Synkronisering kunne ikke opsættes</string>
+
+    <string name="huhi_stats_text_trackers">Sporere er
+blokeret</string>
+    <string name="huhi_stats_text_ads">Reklamer er
+blokeret</string>
+    <string name="huhi_stats_text_https">HTTPS
+Opgraderinger</string>
+    <string name="huhi_stats_text_time">Anslået tids-
+besparelse</string>
+
+    <string name="send_metrics_title">Send målinger</string>
+
+    <string name="desktop_mode_title">Skrivebordstilstand</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Foretræk skrivebordsversion</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Foretræk mobilversion</string>
+    <string name="website_settings_category_desktop_view_enabled">Aktivér skrivebordsvisning for nye faner</string>
+    <string name="website_settings_category_desktop_view_disabled">Brug mobilversioner til nye faner (anbefalet)</string>
+
+    <string name="huhi_shields_first_group_title">Blokeringsmonitor</string>
+    <string name="huhi_shields_second_group_title">Individuel styring</string>
+    <string name="huhi_shields">Skjolde</string>
+    <string name="huhi_shields_ads_and_trackers">Reklamer og sporere</string>
+    <string name="huhi_shields_fingerprint_methods">Fingeraftryksmetoder</string>
+    <string name="huhi_shields_block_phishing_switch">Bloker phishing</string>
+
+    <string name="play_video_in_background_title">Baggrundsafspilning af video</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">Aktiveret</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">Deaktiveret</string>
+    <string name="website_settings_category_play_video_in_background_enabled">Eksperimentel. Gør det muligt at afspille lyd fra video i baggrunden, når fanen ikke er aktiv eller enhedens skærm er slukket. Prøv at skifte til skrivebordstilstand, hvis denne funktion ikke virker.</string>
+    <string name="settings_require_relaunch_notice">Dine ændringer træder i kraft næste gang du genstarter Huhi</string>
+    <string name="settings_require_relaunch_now">GENSTART NU</string>
+    <string name="settings_require_relaunch_later">SENERE</string>
+
+    <string name="play_yt_video_in_browser_title">Videoafspilning i Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Aktiveret</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Deaktiveret</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Hvis aktiveret, afspilles videoer i Huhi i stedet for tilsvarende app</string>
+
+    </resources>

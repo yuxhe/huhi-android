@@ -1,0 +1,318 @@
+<resources>
+
+    <string name="huhi_settings_title">การตั้งค่าเกราะป้องกัน Huhi สำหรับ</string>
+    <string name="huhi_shields_down">ลง</string>
+    <string name="huhi_shields_up">ขึ้น</string>
+    <string name="huhi_shields_ads_trackers">ป้องกันโฆษณาและการติดตามข้อมูลแล้ว</string>
+    <string name="huhi_shields_https_upgrades">อัพเกรด HTTPS</string>
+    <string name="huhi_shields_scripts_blocked">ป้องกันสคริปแล้ว</string>
+    <string name="huhi_shields_ads_tracking_switch">ป้องกันโฆษณาและการติดตามข้อมูล</string>
+    <string name="huhi_shields_https_everywhere_switch">HTTPS ทุกแห่ง</string>
+    <string name="huhi_shields_blocks_scripts_switch">ป้องกันสคริป</string>
+    <string name="accessibility_toolbar_btn_huhi_shields">เปิดใช้งาน/ปิดเกราะป้องกัน Huhi</string>
+    <string name="accessibility_toolbar_btn_huhi_rewards">จัดการรางวัล Huhi</string>
+    <string name="huhi_shields_block_3rd_party_cookies_switch">ปิดกั้นคุกกี้จากบุคคลภายนอก</string>
+
+    <string name="httpse_summary">เปิดเว็บที่รองรับโดยใช้ HTTPS แทน HTTP หากเป็นไปได้</string>
+    <string name="ad_block_title">บล็อกโฆษณา</string>
+    <string name="ad_block_summary">ป้องกันการโหลดโฆษณา</string>
+
+    <string name="fingerprinting_protection_title">การป้องกันการพิมพ์ลายนิ้วมือ</string>
+    <string name="fingerprinting_protection_summary">ป้องกันมิให้เบราเซอร์พิมพ์ลายนิ้วมือ</string>
+    <string name="huhi_shields_fingerprints_blocked">วิธีการพิมพ์ลายนิ้วมือที่ถูกบล็อก</string>
+    <string name="huhi_shields_block_fingerprints_switch">การป้องกันการพิมพ์ลายนิ้วมือ</string>
+
+    <string name="ad_block_regional_title">การบล็อกโฆษณาในภูมิภาค</string>
+    <string name="ad_block_regional_summary">ป้องกันมิให้โหลดโฆษณาในภูมิภาค</string>
+
+    <string name="ad_block_regional_summary_no_list">ไม่มีรายการเพิ่มเติมสำหรับสถานที่ของคุณ</string>
+
+    <string name="menu_exit">ทางออก</string>
+
+    <string name="huhi_sync">การซิงก์ Huhi (เบต้า)</string>
+    <string name="sync_settings_add_device_name_title">เพิ่มชื่ออุปกรณ์</string>
+    <string name="sync_settings_add_device_name_label">ป้อนชื่อเพิ่มเติมสำหรับอุปกรณ์นี้</string>
+    <string name="sync_example_device_name">อุปกรณ์ Android</string>
+    <string name="enter_code_words_sync">ป้อนคำรหัส</string>
+    <string name="sync_device">ซิงค์อุปกรณ์</string>
+    <string name="sync_device_failure">ไม่สามารถตั้งค่าการซิงค์ได้</string>
+    <string name="sync_requires_correct_time">นาฬิกาบนคอมพิวเตอร์ของคุณอาจตั้งเวลาไว้ไม่ถูกต้องหรือตั้งเขตเวลาไว้ไม่ถูกต้อง โปรดตรวจสอบการตั้งค่านาฬิกาของคุณ</string>
+
+    <string name="huhi_stats_text_ads">โฆษณาและตัวติดตาม
+บล็อกแล้ว</string>
+    <string name="huhi_stats_text_https">อัพเกรด
+HTTPS</string>
+    <string name="huhi_stats_text_time">บันทึกเวลา
+EST แล้ว</string>
+
+    <string name="send_metrics_title">ส่งตัววัด</string>
+
+    <string name="desktop_mode_title">โหมดเดสก์ท็อป</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">ต้องการใช้งานเว็บไซต์เวอร์ชันเดสก์ท็อปมากกว่า</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">ต้องการใช้งานเว็บไซต์เวอร์ชันมือถือมากกว่า</string>
+    <string name="website_settings_category_desktop_view_enabled">เปิดใช้มุมมองเดสก์ท็อปสำหรับแท็บใหม่</string>
+    <string name="website_settings_category_desktop_view_disabled">ใช้เว็บไซต์เวอร์ชันมือถือสำหรับแท็บใหม่ (แนะนำ)</string>
+
+    <string name="huhi_shields_first_group_title">การบล็อกหน้าจอ</string>
+    <string name="huhi_shields_second_group_title">ระบบควบคุมส่วนตัว</string>
+    <string name="huhi_shields">เกราะป้องกัน</string>
+    <string name="huhi_shields_ads_and_trackers">โฆษณาและระบบติดตาม</string>
+    <string name="huhi_shields_fingerprint_methods">วิธีใช้ลายนิ้วมือ</string>
+    <string name="huhi_shields_block_phishing_switch">บล็อกฟิชชิ่ง</string>
+
+    <string name="play_video_in_background_title">การเล่นวิดีโอพื้นหลัง</string>
+    <string name="website_settings_category_play_video_in_background_enabled_summary">เปิดใช้แล้ว</string>
+    <string name="website_settings_category_play_video_in_background_disabled_summary">ปิดใช้แล้ว</string>
+    <string name="website_settings_category_play_video_in_background_enabled">การทดลอง เปิดใช้ฟีเจอร์เล่นเสียงจากวิดีโอในเบื้องหลังเมื่อแท็บไม่ได้ทำงานหรือเมื่อปิดหน้าจออุปกรณ์ ลองเปลี่ยนเป็นโหมดเดสก์ท็อปหากฟีเจอร์นี้ยังไม่ทำงาน</string>
+    <string name="settings_require_relaunch_notice">การเปลี่ยนแปลงจะมีผลในครั้งถัดไปที่คุณเปิด Huhi ใหม่</string>
+    <string name="settings_require_relaunch_now">เปิดใหม่ทันที</string>
+    <string name="settings_require_relaunch_later">ภายหลัง</string>
+
+    <string name="play_yt_video_in_browser_title">การเล่นวิดีโอใน Huhi</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">เปิดใช้งาน</string>
+    <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">ปิดใช้งาน</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">หากเปิดใช้งาน วิดีโอจะถูกเล่นใน Huhi แทนแอปที่เกี่ยวข้อง</string>
+
+    <string name="close_tabs_on_exit_title">ปิดแท็บเมื่อออก</string>
+    <string name="close_tabs_on_exit_summary">อย่าเก็บแท็บไว้ข้ามเซสชันการเรียกดู</string>
+
+    <string name="open_pages_in_custom_tabs_title">เปิดแท็บในแท็บแบบกำหนดเอง</string>
+    <string name="open_pages_in_custom_tabs_summary">ข้อเสนอให้เปิดแท็บในแท็บแบบกำหนดเอง</string>
+
+    <string name="ddg_offer_title">สงสัยเรื่องการค้นหาส่วนตัวด้วย DuckDuckGo ใช่หรือไม่</string>
+    <string name="ddg_offer_text">ด้วยการค้นหาส่วนตัว Huhi จะใช้ DuckDuckGo เพื่อตอบการค้นหาในขณะที่คุณอยู่ในแท็บส่วนตัวนี้ DuckDuckGo คือเครื่องมือค้นหาที่ไม่ติดตามประวัติการใช้งาน จึงทำให้คุณค้นหาได้อย่างเป็นส่วนตัว</string>
+    <string name="ddg_offer_positive">ไม่ใช่</string>
+    <string name="ddg_offer_negative">ใช่</string>
+    <string name="ddg_offer_link">เรียนรู้เกี่ยวกับการค้นหาส่วนตัวด้วย DuckDuckGo</string>
+    <string name="prefs_standard_search_engine">แท็บมาตรฐาน</string>
+    <string name="prefs_private_search_engine">แท็บส่วนตัว</string>
+
+    <string name="huhi_open_in_private_tab">เปิดแท็บส่วนตัว</string>
+    <string name="huhi_close_all_private_tabs">ปิดแท็บส่วนตัว</string>
+    <string name="huhi_new_private_tab">แท็บส่วนตัวใหม่</string>
+    <string name="huhi_new_tab_private_header">นี่คือแท็บส่วนตัว</string>
+    <string name="huhi_new_tab_private_message">แม้ว่าเว็บไซต์ที่คุณเข้าชมในแท็บส่วนตัวจะไม่บันทึกลงในเครื่อง แต่วิธีนี้ไม่ทำให้คุณไม่มีตัวตนหรือหายไปจากผู้ให้บริการอินเทอร์เน็ต, นายจ้าง หรือเว็บไซต์ที่คุณเข้าชม</string>
+    <string name="update_notification_title">อัปเดตของ Huhi</string>
+    <string name="update_notification_text">เบราว์เซอร์ Huhi รุ่นใหม่เร็วขึ้น 22%</string>
+    <string name="prefs_sync">Sync (เบต้า)</string>
+    <string name="huhi_ads_existing_user_offer_title">Huhi Ads อยู่ที่นี่!</string>
+    <string name="huhi_ads_new_user_offer_title">เปิดใช้งาน Huhi Rewards</string>
+    <string name="huhi_ads_offer_text">รับ Basic Attention Token สำหรับการชม โฆษณาที่รักษาความเป็นส่วนตัวใน Huhi Rewards</string>
+    <string name="huhi_ads_offer_positive">ฉันเข้าร่วมด้วย!</string>
+    <string name="huhi_sync_description_page_1_part_1">Huhi Sync ให้คุณซิงค์ข้อมูลบุ๊กมาร์กระหว่าง Huhi Browser บนอุปกรณ์ต่างๆ ของคุณได้อย่างเป็นส่วนตัว</string>
+    <string name="huhi_sync_description_page_1_part_2">เพียงสแกนรหัสจากกลุ่มการซิงค์ที่คุณสร้างไว้บนอีกอุปกรณ์หนึ่ง หรือเริ่มกลุ่มการซิงค์ใหม่</string>
+    <string name="huhi_sync_scan_chain_code">สแกนหรือป้อนรหัสการซิงค์</string>
+    <string name="huhi_sync_start_new_chain">เริ่มกลุ่มการซิงค์ใหม่</string>
+    <string name="huhi_sync_qrcode_message_v2">หากต้องการใช้อุปกรณ์ที่ซิงค์อยู่ในปัจจุบัน ให้เปิด การตั้งค่า Huhi แล้วนำทางไปยัง การตั้งค่า > ซิงค์ เลือก \"เพิ่มอุปกรณ์\" แล้วสแกนรหัส QR ที่แสดงอยู่บนหน้าจอ</string>
+    <string name="huhi_sync_codewords_message">หากต้องการใช้อุปกรณ์ที่ซิงค์อยู่ในปัจจุบัน ให้เปิด การตั้งค่า Huhi แล้วนำทางไปยัง การตั้งค่า > ซิงค์ เลือก \"เพิ่มอุปกรณ์\" จากนั้นเลือก \"แสดงข้อความรหัสแทน\"</string>
+    <string name="huhi_sync_btn_mobile">เพิ่มอุปกรณ์เคลื่อนที่</string>
+    <string name="huhi_sync_btn_laptop">เพิ่มคอมพิวเตอร์</string>
+    <string name="huhi_sync_scan_sync_code">สแกนรหัสการซิงค์นี้</string>
+    <string name="huhi_sync_add_mobile_device_text_part_1">หากต้องการใช้โทรศัพท์หรือแท็บเล็ตเครื่องที่สอง ให้นำทางไปยัง การตั้งค่า Huhi > ซิงค์ > สแกน</string>
+    <string name="huhi_sync_add_mobile_device_text_part_2">เข้าไปที่การซิงก์ Huhi ในแผงการตั้งค่าบนอุปกรณ์เคลื่อนที่ของคุณ คลิกปุ่ม \"สแกนรหัสซิงก์\" แล้วใช้กล้องสแกนคิวอาร์โค้ดด้านล่าง</string>
+    <string name="huhi_sync_btn_done">เสร็จสิ้น</string>
+    <string name="huhi_sync_tabs_text">แท็บ</string>
+    <string name="huhi_sync_history_text">ประวัติ</string>
+    <string name="huhi_sync_autofill_passwords_text">ป้อนอัตโนมัติ/รหัสผ่าน</string>
+    <string name="huhi_sync_payment_settings_text">การตั้งค่า Huhi Payment</string>
+    <string name="huhi_sync_settings_title">ซิงค์บนอุปกรณ์นี้</string>
+    <string name="huhi_sync_settings_description">การเปลี่ยนแปลงการตั้งค่าจะมีผลเฉพาะกับข้อมูลที่อุปกรณ์นี้แชร์กับอุปกรณ์อื่นๆ</string>
+    <string name="huhi_sync_devices_title">อุปกรณ์อื่นๆ ในกลุ่ม</string>
+    <string name="huhi_sync_loading_devices_title">กำลังโหลดอุปกรณ์...</string>
+    <string name="huhi_sync_add_device_text">เพิ่มอีกอุปกรณ์</string>
+    <string name="huhi_sync_remove_device_text">ลบอุปกรณ์นี้</string>
+    <string name="huhi_sync_code_words_title">จับคู่</string>
+    <string name="huhi_sync_add_laptop_text_title">ป้อนรหัสกลุ่มการซิงค์</string>
+    <string name="huhi_sync_add_laptop_text_part_1">บนคอมพิวเตอร์ของคุณ ให้นำทางไปยัง การตั้งค่า Huhi > ซิงค์ เลือก \"ป้อนรหัสกลุ่มการซิงค์\"</string>
+    <string name="huhi_sync_add_laptop_text_part_2">ป้อนข้อความรหัสที่กล่าวถึงข้างต้น รวมช่องว่าง</string>
+    <string name="huhi_sync_delete_device">คุณแน่ใจหรือไม่ว่าต้องการลบอุปกรณ์ \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'</string>
+    <string name="huhi_sync_delete_sent">ส่งคำขอลบแล้ว อุปกรณ์จะถูกลบในไม่ช้า</string>
+    <string name="huhi_sync_loading_data_title">กำลังโหลดข้อมูล...</string>
+    <string name="huhi_sync_time_out_message">มีบางอย่างผิดปกติ ดูเหมือนคำขอของคุณจะหมดเวลา</string>
+    <string name="huhi_sync_use_camera_text">ฉันจะใช้กล้องของฉัน...</string>
+    <string name="huhi_sync_confirm_code_words_text">ยืนยัน</string>
+    <string name="huhi_sync_word_count_text">จำนวนคำ: <ph name=\"WORD_COUNT\">%1$d</ph></string>
+    <string name="huhi_sync_word_count_error">จำนวนคำไม่ถูกต้อง</string>
+    <string name="huhi_sync_qr_code">รหัส QR</string>
+    <string name="huhi_sync_code_words">ข้อความรหัส</string>
+    <string name="huhi_sync_copy_button_text">คัดลอกไปยังคลิปบอร์ด</string>
+    <string name="huhi_sync_copied_text">คัดลอกไปยังคลิปบอร์ดแล้ว</string>
+    <string name="huhi_sync_this_device_text">(อุปกรณ์นี้)</string>
+
+    <string name="huhi_already_set_as_default_browser">Huhi ถูกตั้งเป็น
+เบราว์เซอร์เริ่มต้นของคุณแล้ว</string>
+    <string name="huhi_default_browser_go_to_settings">คุณได้ตั้งค่าเบราว์เซอร์เริ่มต้นไว้เรียบร้อยแล้ว
+คุณสามารถเปลี่ยนเบราเซอร์เริ่มต้นได้ในการตั้งค่าแอพของคุณ</string>
+    <string name="huhi_default_browser_notification_body">ประหยัดแบตเตอรี่และโหลดหน้าเว็บเร็วขึ้น ตั้ง Huhi เป็นเบราว์เซอร์เริ่มต้น แตะ \"ตั้งเป็นเบราว์เซอร์เริ่มต้น\" จากเมนู Huhi</string>
+    <string name="huhi_set_default_browser">ตั้งค่าเป็นเบราว์เซอร์เริ่มต้น</string>
+    <string name="huhi_set_default_browser_dialog_text">เลือก Huhi จากรายการและแตะ \"ทุกครั้ง\"</string>
+    <string name="huhi_default_browser_existing_notification_body">ตั้งค่า Huhi เป็นเว็บเบราว์เซอร์เริ่มต้น
+ประหยัดแบตเตอรี่ โหลดหน้าเว็บได้เร็วขึ้น</string>
+
+    <string name="huhi_ui_welcome_header_two">เตรียมตัวพบกับ
+อินเตอร์เน็ตรูปแบบใหม่</string>
+    <string name="huhi_ui_welcome_desc_two">ตอนนี้คุณสามารถได้รับโทเค็นสำหรับ
+การดูโฆษณาที่ไม่รบกวนความเป็นส่วนตัวได้แล้ว</string>
+    <string name="huhi_ui_welcome_button_text_two">ร่วมรับรางวัล</string>
+    <string name="huhi_ui_welcome_footer_text_two">เรียนรู้เพิ่มเติม</string>
+    <string name="huhi_ui_rewards_creating_text">การสร้างกระเป๋าเงิน</string>
+    <string name="huhi_ui_your_wallet">กระเป๋าเงินของคุณ</string>
+    <string name="huhi_ui_bat_text">BAT</string>
+    <string name="huhi_ui_usd"><ph name=\"VALUE\">%1$s<ex>0.0</ex></ph> USD</string>
+    <string name="huhi_rewards_local_panel_add_funds">เติมเงิน</string>
+    <string name="huhi_ui_settings">การตั้งค่า</string>
+    <string name="huhi_ui_rewards_summary">สรุปรางวัล</string>
+    <string name="huhi_ui_site_banner_welcome">ขอบคุณที่แวะมา</string>
+    <string name="huhi_ui_rewards_banner_text1">คุณสามารถสนับสนุนเว็บไซต์นี้ด้วยการส่งทิป ซึ่งเป็นวิธีในการขอบคุณพวกเขาที่ทำเนื้อหาดีๆ ออกมา ครีเอเตอร์เนื้อหาที่ยืนยันตัวตนแล้วจะได้รับค่าทิปของพวกเขาในช่วงสัปดาห์แรกของแต่ละเดือนตามปฏิทิน</string>
+    <string name="huhi_ui_rewards_banner_text2">หากว่าคุณชอบ คุณสามารถกำหนดทิปรายเดือนเพื่อสนับสนุนเว็บไซต์นี้อย่างต่อเนื่องได้</string>
+    <string name="huhi_ui_donation_amount">จำนวนทิป</string>
+    <string name="huhi_ui_wallet_balance">ยอดคงเหลือกระเป๋าเงิน:</string>
+    <string name="huhi_ui_make_monthly">ทำให้เป็นรายเดือน</string>
+    <string name="huhi_ui_send_tip">ส่งทิปของฉัน</string>
+    <string name="huhi_ui_do_monthly">กำหนดทิปรายเดือน</string>
+    <string name="huhi_ui_not_enough_tokens">มีโทเค็นไม่เพียงพอ</string>
+    <string name="huhi_ui_site_banner_notice_text">หมายเหตุ: ครีเอเตอร์รายนี้ยังไม่ได้ลงทะเบียนเพื่อรับเงินสนับสนุนจากผู้ใช้ Huhi เราจะพยายามส่งเงินสนับสนุนให้พวกเขาจนกว่าจะยืนยันตัวตนหรือจนกว่าจะผ่านไป 90 วัน</string>
+    <string name="huhi_ui_please">ได้โปรด</string>
+    <string name="huhi_ui_add_funds">เติมเงิน</string>
+    <string name="huhi_ui_thank_you">ขอบคุณ</string>
+    <string name="huhi_ui_error_init_wallet">กรุณาลองใหม่ภายหลัง</string>
+    <string name="huhi_ui_month_jan">มกราคม</string>
+    <string name="huhi_ui_month_feb">กุมภาพันธ์</string>
+    <string name="huhi_ui_month_mar">มีนาคม</string>
+    <string name="huhi_ui_month_apr">เมษายน</string>
+    <string name="huhi_ui_month_may">พฤษภาคม</string>
+    <string name="huhi_ui_month_jun">มิถุนายน</string>
+    <string name="huhi_ui_month_jul">กรกฎาคม</string>
+    <string name="huhi_ui_month_aug">สิงหาคม</string>
+    <string name="huhi_ui_month_sep">กันยายน</string>
+    <string name="huhi_ui_month_oct">ตุลาคม</string>
+    <string name="huhi_ui_month_nov">พฤศจิกายน</string>
+    <string name="huhi_ui_month_dec">ธันวาคม</string>
+    <string name="huhi_ui_month_year"><ph name=\"MONTH\">%1$s<ex>ธันวาคม</ex></ph> <ph name=\"YEAR\">%2$s<ex>2018</ex></ph></string>
+    <string name="huhi_ui_rewards_contribute_attention">ประกาศ</string>
+    <string name="huhi_ui_include_in_auto">มีระบบสนับสนุนอัตโนมัติ</string>
+    <string name="huhi_ui_donate_now">ส่งทิป...</string>
+    <string name="huhi_ui_no_activity">ยังไม่มีกิจกรรมเลย
+ในเดือนนี้...</string>
+    <string name="huhi_ui_token_grant_claimed">รับเงินสนับสนุนเป็นโทเค็นแล้ว</string>
+    <string name="huhi_ui_earnings_ads">สร้างรายได้จากโฆษณา</string>
+    <string name="huhi_ui_rewards_contribute">ระบบสนับสนุนอัตโนมัติ</string>
+    <string name="huhi_ui_rewards_contribute_description">คุณได้สนับสนุน <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph>BAT</string>
+    <string name="huhi_ui_one_time_donation">ทิปครั้งเดียว</string>
+    <string name="huhi_ui_recurring_donation">ทิปรายเดือน</string>
+    <string name="huhi_ui_verified_publisher">ผู้เผยแพร่ที่ยืนยันตัวตนกับ Huhi แล้ว</string>
+    <string name="huhi_ui_not_verified_publisher">ยังไม่ได้ยืนยันตัวตน</string>
+    <string name="huhi_ui_not_verified_publisher_description">ครีเอเตอร์รายนี้ยังไม่ได้ลงทะเบียนเพื่อรับเงินสนับสนุนจากผู้ใช้ Huhi
+        ทิปที่คุณส่งจะยังคงอยู่ในกระเป๋าเงินของคุณจนกว่าพวกเขาจะยืนยันตัวตน</string>
+    <string name="huhi_ui_on_youtube">บน Youtube</string>
+    <string name="huhi_ui_on_twitch">บน Twitch</string>
+    <string name="huhi_ui_new_grant">เงินรางวัลโทเค็นฟรีพร้อมแล้ว</string>
+    <string name="huhi_ui_new_token_grant">เงินรางวัลโทเค็นฟรี</string>
+    <string name="huhi_ui_claim">รับ</string>
+    <string name="huhi_ui_reserved_amount_text">คุณได้มอบ <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph>BAT ให้กับครีเอเตอร์ที่ยังไม่ได้
+ลงทะเบียนเพื่อรับเงินสนับสนุน เบราว์เซอร์ของคุณจะพยายามมอบเงินสนับสนุนให้
+จนกว่าพวกเขาจะยืนยันตัวตน หรือจนกว่าจะผ่านไป 90 วัน</string>
+    <string name="huhi_ui_notification_desc_no_funds">ไม่สามารถดำเนินการชำระเงินรายเดือนตามกำหนดการสนับสนุนอัตโนมัติและให้ทิปรายเดือนได้เนื่องจากยอดเงินมีไม่เพียงพอ เราจะลองอีกครั้งในอีก 30 วัน</string>
+    <string name="huhi_ui_notification_desc_tip_error">มีปัญหาเกิดขึ้นในการประมวลผลทิปของคุณ กรุณาลองอีกครั้ง</string>
+    <string name="huhi_ui_notification_desc_contr_error">มีปัญหาเกิดขึ้นในการประมวลผลการสนับสนุนของคุณ</string>
+    <string name="huhi_rewards_local_uh_oh">แย่แล้ว</string>
+    <string name="huhi_rewards_local_server_not_responding">เซิร์ฟเวอร์ของ Huhi Rewards ไม่ตอบสนอง เราจะรีบแก้ไขให้เร็วที่สุดเท่าที่จะเป็นไปได้</string>
+    <string name="huhi_ui_grants">เงินรางวัล</string>
+    <string name="huhi_ui_expires_on">หมดอายุวันที่ <ph name=\"DATE\">%1$s<ex>4/14/2019</ex></ph></string>
+    <string name="huhi_ui_insufficient_funds_msg">เงินไม่เพียงพอ</string>
+    <string name="huhi_ui_insufficient_funds_desc">บัญชี Huhi Rewards ของคุณกำลังรอการฝากอยู่</string>
+    <string name="huhi_ui_backup_wallet_msg">กระเป๋าเงินสำรอง</string>
+    <string name="huhi_ui_backup_wallet_desc">กรุณาสำรองกระเป๋าเงิน Huhi ของคุณ</string>
+    <string name="huhi_ui_huhi_rewards">Huhi Rewards</string>
+    <string name="huhi_ui_welcome_back_message">ขอต้อนรับกลับมา</string>
+    <string name="huhi_ui_get_rewarded">รับรางวัลสำหรับการท่องเว็บ</string>
+    <string name="huhi_ui_huhi_rewards_desc">สร้างรายได้จากการดูโฆษณาที่ไม่กระทบ
+กับความเป็นส่วนตัว และจ่ายเงินเพื่อสนับสนุน
+ครีเอเตอร์เนื้อหาที่คุณชื่นชอบ</string>
+    <string name="huhi_welcome_page_rewards_title">เปิดใช้งาน HUHI REWARDS</string>
+    <string name="huhi_ui_first_tip_text">ระบบจะส่งทิปรายเดือนครั้งแรกของคุณใน:</string>
+    <string name="huhi_ui_tip_text">คุณเพิ่งให้ทิปกับ:</string>
+    <string name="huhi_ui_auto_tip_text">คุณกำลังให้ทิปโดยอัตโนมัติกับ:</string>
+    <string name="huhi_ui_monthly_text">รายเดือน</string>
+    <string name="bottom_toolbar_enable">เปิดแถบเครื่องมือด้านล่าง</string>
+    <string name="bottom_toolbar_disable">ปิดแถบเครื่องมือด้านล่าง</string>
+    <string name="search_or_url">ค้นหาหรือ URL</string>
+    <string name="accessibility_toolbar_btn_bookmark">สร้างบุ๊กมาร์ก</string>
+    <string name="huhi_ui_donate_monthly">ให้ทิปเว็บไซต์นี้เป็นรายเดือน</string>
+
+    <string name="huhi_rewards_not_available">ขออภัย ดูเหมือนว่า Huhi Rewards จะไม่สามารถใช้งานบนอุปกรณ์ของคุณได้</string>
+
+    <string name="prefs_closing_all_tabs_closes_huhi_title">การปิดแท็บทั้งหมดปิด Huhi</string>
+    <string name="prefs_section_display">แสดง</string>
+    <string name="prefs_section_controls">ควบคุม</string>
+    <string name="prefs_appearance">ลักษณะ</string>
+    <string name="hide_huhi_rewards_icon_title">ซ่อนไอคอน Huhi Rewards</string>
+    <string name="hide_huhi_rewards_icon_description">ซ่อนไอคอน Huhi Rewards เมื่อไม่ได้เปิดใช้งาน Huhi Rewards</string>
+    <string name="show_ads_when_huhi_is_not_in_use">แสดงโฆษณาเมื่อไม่ได้ใช้ Huhi </string>
+    <string name="reset_huhi_rewards_option">รีเซ็ต Huhi Rewards</string>
+    <string name="reset_huhi_rewards_option_description">คำสั่งนี้จะลบกระเป๋าเงิน Huhi ของคุณและรีเซ็ตข้อมูล Huhi Rewards ของคุณทั้งหมด</string>
+    <string name="reset_huhi_rewards_error_title">ข้อผิดพลาดในการรีเซ็ต</string>
+    <string name="reset_huhi_rewards_error_description">เกิดข้อผิดพลาดขณะรีเซ็ต Huhi Rewards กรุณาปิดแล้วเปิด Huhi ใหม่และลองอีกครั้ง</string>
+
+    <string name="huhi_sync_add_laptop_text_part_2_new">ในคอมพิวเตอร์เป้าหมายของคุณ เข้าไปที่ Huhi Sync ในการตั้งค่าและคลิกปุ่ม \"ฉันมีรหัสซิงค์\"\nป้อนคำของรหัสลูกโซ่ซิงค์ที่แสดงด้านล่าง</string>
+
+    <string name="huhi_sync_official">ซิงก์ Huhi</string>
+    <string name="prefs_sync_official">ซิงก์</string>
+
+    <string name="huhi_sync_code_warning">ดูแลรหัสนี้ให้เสมือนเป็นรหัสผ่าน หากใครสักคนได้รหัสนี้ไป เขาจะสามารถอ่านและแก้ไขข้อมูลที่ซิงค์ของคุณได้</string>
+
+    <string name="notification_category_group_huhi_ads">Huhi Ads</string>
+    <string name="huhi_ads_you_earned">คุณได้รับ</string>
+
+    <string name="huhi_default_browser_title">Huhi รวดเร็วสุด ๆ </string>
+    <string name="huhi_default_browser_body">ทำให้ Huhi เป็นเบราว์เซอร์ตั้งต้นของคุณ!</string>
+    <string name="huhi_make_default_text">ทำให้เป็นค่าเริ่มต้น</string>
+    <string name="huhi_ui_ads_earnings">ได้รายได้จากโฆษณาแล้ว</string>
+    <!-- Onboarding strings -->
+
+    <string name="skip">ข้าม</string>
+
+    <string name="search_engine_onboarding">สร้างความคุ้นเคยเครื่องมือค้นหา</string>
+    <string name="troubleshooting_onboarding">การแก้ปัญหาการสร้างความคุ้นเคย</string>
+
+    <string name="welcome_to_huhi_browser">ขอต้อนรับสู่ Huhi Browser</string>
+    <string name="select_your_default_search_engine">เลือกเครื่องมือค้นหาหลัก</string>
+
+    <string name="block">บล็อค</string>
+    <string name="huhi_shields_onboarding_title">Huhi Shields</string>
+    <string name="huhi_shields_onboarding_text">โฆษณาแบบบุกรุกความเป็นส่วนตัวและเครื่องติดตามเพื่อที่คุณสามารถค้นหาโดยไม่ถูกติดตามในเว็บ</string>
+
+    <string name="earn_tokens">รับเหรียญตรา</string>
+    <string name="huhi_rewards_onboarding_title">Huhi Rewards</string>
+    <string name="huhi_rewards_onboarding_text">สำหรับการชมโฆษณาที่เคารพความเป็นส่วนตัว ใช้มันในการสนับสนุนเว็บและผู้สร้างที่คุณชื่นชอบ</string>
+    <string name="huhi_rewards_onboarding_text2">เพื่อการชมโฆษณาที่เคารพความเป็นส่วนตัว</string>
+
+    <string name="terms_title">ยอมรับข้อตกลงเพื่อใช้ Huhi Rewards</string>
+    <string name="terms_text">ฉันยอมรับ Huhi Rewards</string>
+    <string name="terms_of_service">เงื่อนไขการให้บริการ</string>
+
+    <string name="agree">ตกลง</string>
+    <string name="join">เข้าร่วม</string>
+
+     <string name="start_browsing">เริ่มทำการค้นหา</string>
+    <string name="i_didnt_see">ฉันไม่เห็นโฆษณา</string>
+
+    <string name="huhi_ads_onboarding_title">Huhi จะแสดงโฆษณาตัวแรกของคุณใน</string>
+    <string name="huhi_ads_onboarding_text">เพื่อดูโฆษณาจาก Huhi Rewards โปรดแน่ใจว่า Huhi ได้รับการอนุญาตให้แสดงการแจ้งเตือน</string>
+
+    <string name="this_is_your_first_ad">นี่เป็นโฆษณา Huhi ตัวแรกของคุณ แตะเพื่อเรียนรู้เพิ่มเติม</string>
+
+    <string name="turn_on">เปิด</string>
+
+    <string name="no_thanks">ไม่ ขอบคุณ</string>
+    <string name="do_not_agree">ไม่เห็นด้วย</string>
+
+    <string name="prefs_welcome_tour">ทัวร์ต้อนรับ</string>
+    <string name="welcome_tour_dialog_text">การเปิดใช้งาน Welcome Tour อีกครั้งจะไม่ส่งผลกระทบต่อการตั้งค่าที่มีอยู่</string>
+    <string name="finish">เสร็จสิ้น</string>
+    
+    <string name="clear_download_title">ดาวน์โหลดประวัติ</string>
+
+    <string name="settings_exit">ออกจากการตั้งค่า</string>
+
+</resources>
