@@ -1,3 +1,6 @@
+avcodec_receive_frame目前看到最正确用法
+https://github.com/huhisoft/huhi-android/blob/1c00f05a2ab19f0d6acf42331931de61555a93e8/media/ffmpeg/ffmpeg_decoding_loop.cc
+
 # Huhi Android Browser
 
 ## Building the Browser
